@@ -1,0 +1,339 @@
+{
+  "setName": "Structure Deck: Order of the Spellcasters",
+  "pool": {
+    "Common": [
+      {
+        "id": 9156135,
+        "name": "Apprentice Magician",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9156135.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17896384,
+        "name": "Arcane Barrier",
+        "type": "Spell Card",
+        "desc": "Each time a face-up Spellcaster monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). You can send this card and 1 face-up Spellcaster monster you control to the GY; draw 1 card for each Spell Counter that was on this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17896384.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73853830,
+        "name": "Crusader of Endymion",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● Once per turn: You can target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on it, and if you do, this card gains 600 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73853830.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40737112,
+        "name": "Dark Magician of Chaos",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card was Normal or Special Summoned this turn: You can target 1 Spell in your GY; add it to your hand. You can only use this effect of \"Dark Magician of Chaos\" once per turn. If this card destroys an opponent's monster by battle, after damage calculation: Banish that opponent's monster. If this face-up card would leave the field, banish it instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40737112.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2525268,
+        "name": "Defender, the Magical Knight",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Once per turn, if a Spellcaster monster(s) on the field would be destroyed, you can remove 1 Spell Counter from your field for each of those monsters instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2525268.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76137614,
+        "name": "Disenchanter",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76137614.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94145022,
+        "name": "Droll & Lock Bird",
+        "type": "Effect Monster",
+        "desc": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94145022.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40732515,
+        "name": "Endymion, the Master Magician",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or GY) by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. If Summoned this way: Target 1 Spell in your GY; add that target to your hand. Once per turn: You can discard 1 Spell, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40732515.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65342096,
+        "name": "Endymion's Lab",
+        "type": "Spell Card",
+        "desc": "This card's name becomes \"Magical Citadel of Endymion\" while in the Spell & Trap Zone. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, after damage calculation, if your Spellcaster monster is destroyed by battle: You can remove 6 Spell Counters from your field; Special Summon 1 Level 7 or higher Spellcaster monster from your hand or Deck. You can only activate 1 \"Endymion's Lab\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65342096.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94937430,
+        "name": "Extra Buck",
+        "type": "Trap Card",
+        "desc": "Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the GY; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94937430.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86937530,
+        "name": "Fairy Tail - Luna",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 Spellcaster monster with 1850 ATK from your Deck to your hand. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster's name from their Deck or Extra Deck to the GY to negate this effect, otherwise return both this card and that monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86937530.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18446701,
+        "name": "Gagagashield",
+        "type": "Trap Card",
+        "desc": "Target 1 Spellcaster monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18446701.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86541496,
+        "name": "Left Arm Offering",
+        "type": "Spell Card",
+        "desc": "If you have 2 or more other cards in your hand: Banish your entire hand; add 1 Spell from your Deck to your hand. You cannot Set Spells/Traps during the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86541496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10239627,
+        "name": "Magical Abductor",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10239627.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91819979,
+        "name": "Magical Blast",
+        "type": "Spell Card",
+        "desc": "Inflict 200 damage to your opponent for each Spellcaster monster you control. During your Draw Phase, if this card is in your GY, before you draw: You can give up your normal draw this turn, and if you do, add this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91819979.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39910367,
+        "name": "Magical Citadel of Endymion",
+        "type": "Spell Card",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from a card you control, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39910367.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28553439,
+        "name": "Magical Dimension",
+        "type": "Spell Card",
+        "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28553439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6061630,
+        "name": "Magical Exemplar",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster monster from your hand or GY whose Level is equal to the number of Spell Counters you removed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6061630.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43930492,
+        "name": "Magical Something",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card's Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43930492.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30608985,
+        "name": "Magical Undertaker",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30608985.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31560081,
+        "name": "Magician of Faith",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50755,
+        "name": "Magician's Circle",
+        "type": "Trap Card",
+        "desc": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66104644,
+        "name": "Magister of Endymion",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 face-up monster from your Extra Deck that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\n[ Monster Effect ] \nYou can only Special Summon \"Magister(s) of Endymion\" once per turn. When this card declares an attack: You can place 1 Spell Counter on it. Once per opponent's turn (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 monster from your Deck that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66104644.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55424270,
+        "name": "Mythical Beast Cerberus",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 500 ATK for each Spell Counter on it. At the end of the Battle Phase, if this card battled, remove all Spell Counters on it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55424270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54965929,
+        "name": "Mythical Beast Medusa",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, during the Battle Phase (Quick Effect): You can remove 2 Spell Counters from your field, then target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54965929.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24429467,
+        "name": "Mythical Bestiamorph",
+        "type": "Trap Card",
+        "desc": "Each time an opponent's monster effect is activated, place 1 Spell Counter on this card when that effect resolves. You can send this card with 6 or more Spell Counters to the GY; add 1 Spell from your Deck to your hand. You can only use this effect of \"Mythical Bestiamorph\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24429467.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34029630,
+        "name": "Pitch-Black Power Stone",
+        "type": "Trap Card",
+        "desc": "Activate this card by placing 3 Spell Counters on it. Once per turn, during your turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; remove 1 Spell Counter from this card, and if you do, place 1 Spell Counter on that target. When the last Spell Counter(s) is removed from this card, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34029630.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35261759,
+        "name": "Pot of Desires",
+        "type": "Spell Card",
+        "desc": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92559258,
+        "name": "Servant of Endymion",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your Deck with 1000 or more ATK that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\n[ Monster Effect ] \nYou can only Special Summon \"Servant(s) of Endymion\" once per turn. This card with a Spell Counter can attack directly. Once per opponent's turn (Quick Effect): You can discard 1 card; place 1 Spell Counter on each card you control that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92559258.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75014062,
+        "name": "Spell Power Grasp",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75014062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14824019,
+        "name": "Spellbook Magician of Prophecy",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14824019.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25123082,
+        "name": "Spellbook of Power",
+        "type": "Spell Card",
+        "desc": "Target 1 Spellcaster monster you control; this turn, it gains 1000 ATK. And if it does, each time it destroys an opponent's monster by battle this turn: You can add 1 \"Spellbook\" Spell from your Deck to your hand. You can only activate 1 \"Spellbook of Power\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25123082.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89739383,
+        "name": "Spellbook of Secrets",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Spellbook\" card from your Deck to your hand, except \"Spellbook of Secrets\". You can only activate 1 \"Spellbook of Secrets\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89739383.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88616795,
+        "name": "Spellbook of Wisdom",
+        "type": "Spell Card",
+        "desc": "Target 1 Spellcaster monster on the field, then activate 1 of these effects;\n● That face-up monster is unaffected by other Spell effects this turn.\n● That face-up monster is unaffected by Trap effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88616795.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 423585,
+        "name": "Summoner Monk",
+        "type": "Effect Monster",
+        "desc": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/423585.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 91336701,
+        "name": "Day-Breaker the Shining Magical Warrior",
+        "type": "Link Monster",
+        "desc": "2 Spellcaster monsters\r\nIf this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only activate each of the following effects of \"Day-Breaker the Shining Magical Warrior\" once per turn.\r\n● If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.\r\n● You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91336701.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 3611830,
+        "name": "Endymion, the Mighty Master of Magic",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nYou can remove 6 Spell Counters from your field; Special Summon this card from the Pendulum Zone, then count the number of cards you control that can have a Spell Counter, destroy up to that many cards on the field, and if you do, place Spell Counters on this card equal to the number of cards destroyed. You can only use this effect of \"Endymion, the Mighty Master of Magic\" once per turn.\n\n[ Monster Effect ] \nOnce per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had. While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3611830.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 24721709,
+        "name": "Dwimmered Path",
+        "type": "Spell Card",
+        "desc": "Target 1 Spellcaster Effect Monster in your GY; add it to your hand. You can only activate 1 \"Dwimmered Path\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24721709.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39000945,
+        "name": "Reflection of Endymion",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\n[ Monster Effect ] \nYou can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39000945.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 38943357,
+        "name": "Spell Power Mastery",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Endymion\" card from your Deck to your hand, then you can count the number of \"Spell Power Mastery\" and \"Spell Power Grasp\" you control and/or have in your GY, and place that many Spell Counters among card(s) you control that you can place a Spell Counter on. You can only activate 1 \"Spell Power Mastery\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38943357.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

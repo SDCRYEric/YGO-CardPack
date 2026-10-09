@@ -1,0 +1,323 @@
+{
+  "setName": "Realm of the Sea Emperor Structure Deck",
+  "pool": {
+    "Common": [
+      {
+        "id": 295517,
+        "name": "A Legendary Ocean",
+        "type": "Spell Card",
+        "desc": "(This card's name is always treated as \"Umi\".)\r\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/295517.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18318842,
+        "name": "Abyss Soldier",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 WATER monster to the Graveyard to target 1 card on the field; return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18318842.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7935043,
+        "name": "Aegis of the Ocean Dragon Lord",
+        "type": "Trap Card",
+        "desc": "Until the End Phase, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7935043.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7653207,
+        "name": "Aqua Jet",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7653207.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20470500,
+        "name": "Armed Sea Hunter",
+        "type": "Effect Monster",
+        "desc": "After damage calculation, if this card battles an Effect Monster: Negate the effects of that monster (including in the Graveyard). You must control another face-up WATER monster to activate and to resolve this effect. If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20470500.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8078366,
+        "name": "Atlantean Attack Squad",
+        "type": "Effect Monster",
+        "desc": "This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8078366.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37104630,
+        "name": "Atlantean Heavy Infantry",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 4 or lower Sea Serpent-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 face-up card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37104630.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 706925,
+        "name": "Atlantean Marksman",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 4 or lower \"Atlantean\" Sea Serpent-Type monster from your Deck, except \"Atlantean Marksman\". When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 Set card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/706925.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26976414,
+        "name": "Atlantean Pikeman",
+        "type": "Normal Monster",
+        "desc": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26976414.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51562916,
+        "name": "Big Wave Small Wave",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up WATER monsters you control, then you can Special Summon WATER monsters from your hand, up to the number of monsters destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51562916.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65496056,
+        "name": "Codarus",
+        "type": "Effect Monster",
+        "desc": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65496056.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17559367,
+        "name": "Deep Diver",
+        "type": "Effect Monster",
+        "desc": "At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17559367.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78868119,
+        "name": "Deep Sea Diva",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78868119.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43889633,
+        "name": "Forgotten Temple of the Deep",
+        "type": "Trap Card",
+        "desc": "While this card is on the field, this card's name becomes \"Umi\". Once per turn: You can target 1 Level 4 or lower Fish, Sea Serpent or Aqua-Type monster you control; banish that target. During your End Phase: Special Summon the monster(s) banished by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43889633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93830681,
+        "name": "Friller Rabca",
+        "type": "Effect Monster",
+        "desc": "When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of \"Friller Rabca\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93830681.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85742772,
+        "name": "Gravity Bind",
+        "type": "Trap Card",
+        "desc": "Level 4 or higher monsters cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85742772.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95231062,
+        "name": "Lost Blue Breaker",
+        "type": "Effect Monster",
+        "desc": "If there is another face-up Fish, Sea Serpent, or Aqua monster on the field: You can Tribute this card, then target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95231062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4252828,
+        "name": "Mermaid Archer",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up Level 3 or lower monster you control; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) While equipped with a monster by this effect, this card gains 800 ATK. If this card would be destroyed, you can destroy the monster equipped to it with this effect, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4252828.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22123627,
+        "name": "Moray of Greed",
+        "type": "Spell Card",
+        "desc": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22123627.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57839750,
+        "name": "Mother Grizzly",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57839750.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81306586,
+        "name": "Nightmare Penguin",
+        "type": "Effect Monster",
+        "desc": "All face-up WATER monsters you control gain 200 ATK. When this card is flipped face-up: Target 1 card your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81306586.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93920745,
+        "name": "Penguin Soldier",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93920745.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25642998,
+        "name": "Poseidon Wave",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict 800 damage to your opponent for each Fish, Sea Serpent, or Aqua-Type monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25642998.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30276969,
+        "name": "Reese the Ice Mistress",
+        "type": "Tuner Monster",
+        "desc": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30276969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96947648,
+        "name": "Salvage",
+        "type": "Spell Card",
+        "desc": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96947648.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27655513,
+        "name": "Skreech",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27655513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91133740,
+        "name": "Snowman Eater",
+        "type": "Effect Monster",
+        "desc": "If this card is flipped face-up: Target 1 face-up monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91133740.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42463414,
+        "name": "Spined Gillman",
+        "type": "Effect Monster",
+        "desc": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42463414.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6540606,
+        "name": "Spiritual Water Art - Aoi",
+        "type": "Trap Card",
+        "desc": "Tribute 1 WATER monster; look at your opponent's hand, then send 1 card from their hand to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6540606.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33057951,
+        "name": "Surface",
+        "type": "Spell Card",
+        "desc": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33057951.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18605135,
+        "name": "Tornado Wall",
+        "type": "Trap Card",
+        "desc": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when \"Umi\" leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18605135.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43797906,
+        "name": "Warrior of Atlantis",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the Graveyard; add 1 \"A Legendary Ocean\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43797906.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49669730,
+        "name": "Water Hazard",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can Special Summon 1 Level 4 or lower WATER monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49669730.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 74311226,
+        "name": "Atlantean Dragoons",
+        "type": "Effect Monster",
+        "desc": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74311226.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 73199638,
+        "name": "Call of the Atlanteans",
+        "type": "Spell Card",
+        "desc": "Target 3 Level 3 or lower Sea Serpent-Type monsters in your Graveyard; Special Summon all 3 of them. You cannot Special Summon any other monsters during the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73199638.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 47826112,
+        "name": "Poseidra, the Atlantean Dragon",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47826112.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

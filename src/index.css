@@ -1,0 +1,1211 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #1b1b3a, #080812);
+  color: white;
+  font-family: system-ui, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  gap: 24px;
+}
+
+button {
+  padding: 12px 28px;
+  border: none;
+  border-radius: 999px;
+  background: #d4af37;
+  color: #111;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.card {
+  width: 180px;
+  height: 260px;
+  perspective: 1000px;
+  cursor: pointer;
+  animation: pop-in 0.4s both;
+}
+
+/* 卡包选择器样式 */
+.pack-selector {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.filters input, .filters select {
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background: #1a1a2e;
+  color: white;
+  font-size: 14px;
+}
+
+.pack-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+
+.pack-card {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+  transition: transform 0.2s, border-color 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.pack-card:hover {
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.pack-card img {
+  width: 100%;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 8px;
+}
+
+.pack-card h3 {
+  font-size: 14px;
+  margin: 4px 0;
+  color: #eee;
+}
+
+.pack-card p {
+  font-size: 12px;
+  color: #888;
+  margin: 0;
+}
+
+/* ========== 卡包选择器 - 数量提示 ========== */
+.result-count {
+  text-align: center;
+  color: #888;
+  font-size: 13px;
+  margin: 0;
+}
+
+.pack-cover-placeholder,
+.pack-cover-large.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0b0b1a;
+  color: #666;
+  font-size: 12px;
+  border: 1px dashed #444;
+}
+
+.pack-cover-placeholder {
+  width: 100%;
+  height: 120px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+/* ========== 卡包详情页 ========== */
+.pack-detail {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.back-btn {
+  align-self: flex-start;
+  background: transparent;
+  color: #d4af37;
+  border: 1px solid #d4af37;
+  padding: 8px 20px;
+  font-size: 14px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+.pack-header {
+  display: flex;
+  gap: 24px;
+  background: #1a1a2e;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid #333;
+  flex-wrap: wrap;
+}
+
+.pack-cover-large {
+  width: 200px;
+  height: 280px;
+  object-fit: contain;
+  background: #0b0b1a;
+  border-radius: 10px;
+  padding: 10px;
+  flex-shrink: 0;
+}
+
+.pack-cover-large.placeholder {
+  color: #555;
+}
+
+.pack-info {
+  flex: 1;
+  min-width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.pack-info h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #d4af37;
+}
+
+.pack-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: #ccc;
+  font-size: 14px;
+}
+
+.pack-meta .label {
+  color: #888;
+  display: inline-block;
+  min-width: 90px;
+}
+
+.pack-meta .highlight {
+  color: #d4af37;
+  font-weight: 700;
+}
+
+.open-pack-btn {
+  align-self: flex-start;
+  margin-top: 12px;
+}
+
+.pack-cards-section h2 {
+  font-size: 18px;
+  color: #eee;
+  margin: 0 0 16px 0;
+  border-left: 3px solid #d4af37;
+  padding-left: 12px;
+}
+
+.hint {
+  color: #888;
+  font-size: 14px;
+}
+
+.error-msg {
+  color: #ff8a8a;
+  padding: 16px;
+  background: #2a1a1a;
+  border-radius: 8px;
+  border: 1px solid #4a2a2a;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.mini-card {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.mini-card:hover {
+  transform: translateY(-3px);
+  border-color: #d4af37;
+}
+
+.mini-card img {
+  width: 100%;
+  display: block;
+}
+
+.mini-card-info {
+  padding: 6px 8px;
+}
+
+.mini-card-name {
+  font-size: 12px;
+  color: #eee;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mini-card-rarity {
+  font-size: 10px;
+  color: #d4af37;
+  margin-top: 2px;
+}
+
+/* ========== 抽卡页操作按钮 ========== */
+.actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
+  transform-style: preserve-3d;
+}
+
+.card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-back,
+.card-front {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-back {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  display: grid;
+  place-items: center;
+  color: #d4af37;
+  font-size: 28px;
+  font-weight: 900;
+  border: 2px solid #d4af37;
+}
+
+.card-front {
+  transform: rotateY(180deg);
+  background: #111;
+}
+
+.card-front img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rarity {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 6px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+/* ========== 无数据卡包的视觉标记 ========== */
+.pack-card.no-data {
+  opacity: 0.45;
+  cursor: not-allowed;
+  filter: grayscale(0.6);
+}
+
+.pack-card.no-data:hover {
+  transform: none;
+  border-color: #333;
+}
+
+.no-data-badge {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 2px 10px;
+  background: #3a1f1f;
+  color: #ff8a8a;
+  border: 1px solid #5a2a2a;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* ========== 顶部导航按钮 ========== */
+.top-nav {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 8px;
+}
+
+.nav-btn {
+  background: transparent;
+  color: #d4af37;
+  border: 1px solid #d4af37;
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.nav-btn:hover {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+/* ========== 历史记录页 ========== */
+.history-page {
+  width: 100%;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.history-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.history-header h2 {
+  margin: 0;
+  flex: 1;
+  font-size: 20px;
+  color: #eee;
+}
+
+.clear-btn {
+  background: transparent;
+  color: #ff8a8a;
+  border: 1px solid #5a2a2a;
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.clear-btn:hover {
+  background: rgba(255, 138, 138, 0.1);
+}
+
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.history-item {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.history-item:hover {
+  border-color: #444;
+}
+
+.history-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 18px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.history-item-header:hover {
+  background: rgba(212, 175, 55, 0.05);
+}
+
+.history-item-title {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.history-item-title h3 {
+  margin: 0;
+  font-size: 15px;
+  color: #d4af37;
+}
+
+.history-time {
+  font-size: 12px;
+  color: #888;
+}
+
+.history-item-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.card-count {
+  font-size: 13px;
+  color: #aaa;
+}
+
+.delete-btn {
+  background: transparent;
+  color: #888;
+  border: none;
+  font-size: 20px;
+  line-height: 1;
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.delete-btn:hover {
+  color: #ff8a8a;
+  background: rgba(255, 138, 138, 0.1);
+}
+
+.expand-icon {
+  color: #888;
+  font-size: 12px;
+}
+
+.history-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 10px;
+  padding: 12px 18px 18px;
+  border-top: 1px solid #2a2a3e;
+}
+
+.history-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.history-card img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #333;
+}
+
+.history-card-name {
+  margin-top: 4px;
+  font-size: 11px;
+  color: #ddd;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.history-card-rarity {
+  font-size: 10px;
+  color: #d4af37;
+}
+
+/* ========== 卡图放大预览 ========== */
+.preview-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+  animation: preview-fade 0.2s ease;
+}
+
+@keyframes preview-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.preview-content {
+  position: relative;
+  display: flex;
+  gap: 24px;
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 16px;
+  padding: 24px;
+  max-width: 900px;
+  max-height: 90vh;
+  overflow-y: auto;
+  animation: preview-scale 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+}
+
+@keyframes preview-scale {
+  from { transform: scale(0.92); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.preview-image {
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  flex-shrink: 0;
+  border: 1px solid #333;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+}
+
+.preview-info {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 240px;
+  max-width: 400px;
+}
+
+.preview-info h3 {
+  margin: 0;
+  color: #d4af37;
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+.preview-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.preview-rarity {
+  background: rgba(212, 175, 55, 0.15);
+  color: #d4af37;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.preview-type {
+  background: rgba(120, 120, 220, 0.15);
+  color: #a0a0ff;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+
+.preview-desc {
+  color: #bbb;
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0;
+  white-space: pre-wrap;
+  overflow-y: auto;
+  max-height: 240px;
+  padding-right: 4px;
+}
+
+.preview-actions {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.preview-download {
+  width: 100%;
+  padding: 12px;
+  font-size: 14px;
+}
+
+.preview-download:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.preview-open-original {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  color: #d4af37;
+  border: 1px solid #d4af37;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 13px;
+  transition: background 0.2s;
+}
+
+.preview-open-original:hover {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+.preview-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 32px;
+  height: 32px;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  transition: background 0.2s;
+  z-index: 10;
+}
+
+.preview-close:hover {
+  background: rgba(255, 80, 80, 0.7);
+}
+
+/* 小屏适配：图和信息上下排列 */
+@media (max-width: 640px) {
+  .preview-content {
+    flex-direction: column;
+    align-items: center;
+    max-width: 95vw;
+    padding: 20px;
+  }
+  
+  .preview-image {
+    width: 220px;
+  }
+  
+  .preview-info {
+    max-width: 100%;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .preview-desc {
+    max-height: 160px;
+  }
+}
+
+/* 已翻开的卡片给个提示 */
+.card.flipped {
+  cursor: zoom-in;
+}
+
+.mini-card,
+.history-card {
+  cursor: zoom-in;
+}
+
+/* ========== 通用页面头 ========== */
+.page-header {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.page-header h2 {
+  margin: 0;
+  flex: 1;
+  font-size: 20px;
+  color: #eee;
+  min-width: 150px;
+}
+
+.primary-btn {
+  background: #d4af37;
+  color: #111;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  background: #e5c04a;
+}
+
+.danger-btn {
+  background: transparent;
+  color: #ff8a8a;
+  border: 1px solid #5a2a2a;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.danger-btn:hover {
+  background: rgba(255, 138, 138, 0.1);
+}
+
+.danger-btn-outline {
+  background: transparent;
+  color: #ff8a8a;
+  border: 1px solid #5a2a2a;
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+/* ========== 卡库 ========== */
+.collection-page,
+.deck-list-page,
+.deck-builder {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.collection-stats {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 12px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 100px;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: #888;
+}
+
+.stat-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: #d4af37;
+}
+
+.card-image-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 59 / 86;
+  background: #0b0b1a;
+  color: #444;
+  font-size: 28px;
+  font-weight: 900;
+  border-bottom: 1px solid #333;
+}
+
+.mini-card {
+  position: relative;
+}
+
+.card-count-badge {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: #d4af37;
+  color: #111;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* ========== 卡组列表 ========== */
+.deck-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+
+.deck-card {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.deck-card:hover {
+  border-color: #d4af37;
+  transform: translateY(-2px);
+}
+
+.deck-card-info {
+  cursor: pointer;
+}
+
+.deck-card-info h3 {
+  margin: 0 0 8px;
+  color: #d4af37;
+  font-size: 16px;
+}
+
+.deck-size {
+  margin: 0;
+  color: #ccc;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.deck-status {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.deck-status.valid {
+  background: rgba(80, 200, 120, 0.15);
+  color: #7fdc9b;
+}
+
+.deck-status.invalid {
+  background: rgba(255, 138, 138, 0.15);
+  color: #ff8a8a;
+}
+
+.deck-time {
+  font-size: 11px;
+  color: #666;
+  margin: 6px 0 0;
+}
+
+.deck-card-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: auto;
+}
+
+.deck-card-actions button {
+  flex: 1;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  background: transparent;
+  border: 1px solid #444;
+  color: #ccc;
+  cursor: pointer;
+}
+
+.deck-card-actions button:hover {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: #d4af37;
+  color: #d4af37;
+}
+
+.deck-card-actions .danger-btn:hover {
+  background: rgba(255, 138, 138, 0.1);
+  border-color: #ff8a8a;
+  color: #ff8a8a;
+}
+
+/* ========== 卡组编辑器 ========== */
+.editable-title {
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.editable-title:hover {
+  color: #d4af37;
+}
+
+.deck-builder-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+}
+
+.deck-builder-panel {
+  background: #1a1a2e;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 70vh;
+}
+
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #2a2a3e;
+}
+
+.panel-header h3 {
+  margin: 0;
+  font-size: 15px;
+  color: #eee;
+}
+
+.panel-count {
+  font-size: 13px;
+  color: #888;
+}
+
+.panel-count.valid {
+  color: #7fdc9b;
+  font-weight: 700;
+}
+
+.filters.compact {
+  gap: 8px;
+}
+
+.filters.compact input,
+.filters.compact select {
+  padding: 6px 12px;
+  font-size: 13px;
+}
+
+.deck-card-list {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-right: 4px;
+}
+
+.deck-card-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.deck-card-item:hover {
+  background: rgba(212, 175, 55, 0.06);
+  border-color: #3a3a4e;
+}
+
+.deck-card-item.in-deck:hover {
+  background: rgba(255, 138, 138, 0.06);
+  border-color: #5a2a2a;
+}
+
+.deck-card-item.maxed {
+  opacity: 0.5;
+}
+
+.deck-card-item img {
+  width: 40px;
+  height: 58px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.deck-card-item-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.deck-card-item-name {
+  font-size: 13px;
+  color: #eee;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.deck-card-item-meta {
+  font-size: 11px;
+  color: #888;
+  margin-top: 2px;
+}
+
+.info-btn {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid #555;
+  color: #888;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+
+.info-btn:hover {
+  border-color: #d4af37;
+  color: #d4af37;
+}
+
+.deck-summary {
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.deck-summary .warning {
+  margin: 0;
+  color: #ffb86b;
+  font-size: 13px;
+}
+
+.deck-summary .success {
+  margin: 0;
+  color: #7fdc9b;
+  font-size: 13px;
+}
+
+/* ========== Toast 提示 ========== */
+.toast {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(30, 30, 50, 0.95);
+  border: 1px solid #d4af37;
+  color: #d4af37;
+  padding: 12px 24px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 700;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.5);
+  animation: toast-in 0.25s ease;
+  z-index: 500;
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translate(-50%, 20px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+/* 小屏适配 */
+@media (max-width: 720px) {
+  .deck-builder-body {
+    grid-template-columns: 1fr;
+  }
+  
+  .deck-builder-panel {
+    max-height: 50vh;
+  }
+}
+
+/* ========== 虚拟盒状态栏 ========== */
+.box-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 20px;
+  background: rgba(212, 175, 55, 0.08);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 999px;
+  color: #d4af37;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.box-status-dot {
+  color: #666;
+}
+
+.box-empty {
+  color: #ff8a8a;
+  margin-left: 8px;
+}
+
+/* 十连抽时卡片更紧凑 */
+.card-grid.compact .card {
+  width: 120px;
+  height: 175px;
+}
+
+.card-grid.compact .card-back {
+  font-size: 20px;
+}
+
+/* 抽干时按钮禁用 */
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

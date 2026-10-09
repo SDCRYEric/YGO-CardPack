@@ -1,0 +1,15 @@
+{
+  "setName": "Shonen Jump Championship 2004 Prize Card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 69015963,
+        "name": "Cyber-Stein",
+        "type": "Effect Monster",
+        "desc": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69015963.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

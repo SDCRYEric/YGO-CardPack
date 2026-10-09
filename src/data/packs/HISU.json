@@ -1,0 +1,489 @@
+{
+  "setName": "Hidden Summoners",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 82832464,
+        "name": "Awakening of Nephthys",
+        "type": "Trap Card",
+        "desc": "All \"Nephthys\" monsters you control gain 300 ATK. If this face-up card in the Spell & Trap Zone is destroyed by card effect and sent to the GY: You can Special Summon 1 \"Nephthys\" monster from your hand, Deck, or GY, but destroy it during the End Phase. You can only use this effect of \"Awakening of Nephthys\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82832464.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25397880,
+        "name": "Chronicler of Nephthys",
+        "type": "Effect Monster",
+        "desc": "You can target 1 \"Nephthys\" card in your GY, except \"Chronicler of Nephthys\"; destroy 1 card in your hand, and if you do, add that target to your hand. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can add 1 \"Nephthys\" card from your GY to your hand, except \"Chronicler of Nephthys\". You can only use each effect of \"Chronicler of Nephthys\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25397880.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 59388357,
+        "name": "Circle of the Fire Kings",
+        "type": "Spell Card",
+        "desc": "Target 1 FIRE monster you control and 1 FIRE monster in your GY; destroy that monster you control, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Circle of the Fire Kings\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59388357.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 32441317,
+        "name": "De-Synchro",
+        "type": "Spell Card",
+        "desc": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32441317.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51782995,
+        "name": "Defender of Nephthys",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can destroy 1 card in your hand, and if you do, Special Summon 1 Level 4 or lower \"Nephthys\" monster from your hand, except \"Defender of Nephthys\". During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can destroy 1 \"Nephthys\" monster in your Deck, except \"Defender of Nephthys\". You can only use each effect of \"Defender of Nephthys\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51782995.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17236839,
+        "name": "Flash Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. Destroy it during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17236839.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 48206762,
+        "name": "Fulfillment of the Contract",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48206762.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22829942,
+        "name": "Fusion Recycling Plant",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can discard 1 card; add 1 \"Polymerization\" from your Deck or GY to your hand. Once per turn, during the End Phase: You can target 1 monster in your GY that was used as a Fusion Material for a Fusion Summon this turn; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22829942.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53334471,
+        "name": "Gozen Match",
+        "type": "Trap Card",
+        "desc": "Each player can only control 1 Attribute of monster. Send all other face-up monsters they control to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53334471.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 98446407,
+        "name": "Hand of Nephthys",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card and 1 other monster; Special Summon 1 \"Sacred Phoenix of Nephthys\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98446407.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 50847759,
+        "name": "Last Hope of Nephthys",
+        "type": "Spell Card",
+        "desc": "Target 1 other \"Nephthys\" card you control and 1 card your opponent controls; destroy them. You can only activate 1 \"Last Hope of Nephthys\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50847759.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 95492061,
+        "name": "Manju of the Ten Thousand Hands",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95492061.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 52904476,
+        "name": "Matriarch of Nephthys",
+        "type": "Effect Monster",
+        "desc": "You can target 1 Level 4 or lower \"Nephthys\" monster in your GY, except \"Matriarch of Nephthys\"; destroy 1 card in your hand, and if you do, Special Summon the targeted monster in Defense Position, but negate its effects. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can Special Summon this card from the GY. You can only use each effect of \"Matriarch of Nephthys\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52904476.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39753577,
+        "name": "Mayakashi Metamorphosis",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 of your \"Mayakashi\" monsters that is banished or in your GY; Special Summon it. Your opponent cannot target it with card effects this turn. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except \"Mayakashi\" monsters. You can only activate 1 \"Mayakashi Metamorphosis\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39753577.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36107810,
+        "name": "Night's End Sorcerer",
+        "type": "Tuner Monster",
+        "desc": "When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36107810.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22993208,
+        "name": "Onslaught of the Fire Kings",
+        "type": "Spell Card",
+        "desc": "If your opponent controls a monster and you control no monsters: Special Summon 1 FIRE Beast, Beast-Warrior, or Winged Beast monster from your Deck. Its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Onslaught of the Fire Kings\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22993208.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63356631,
+        "name": "Phoenix Wing Wind Blast",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43886072,
+        "name": "Prank-Kids Bow-Wow-Bark",
+        "type": "Link Monster",
+        "desc": "2 \"Prank-Kids\" monsters\r\nA \"Prank-Kids\" monster this card points to gains 1000 ATK. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand, also \"Prank-Kids\" monsters you control cannot be destroyed by your opponent's card effects this turn. You can only use this effect of \"Prank-Kids Bow-Wow-Bark\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43886072.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55725117,
+        "name": "Prank-Kids Dropsies",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can gain 1000 LP, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Dropsies\". You can only use this effect of \"Prank-Kids Dropsies\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55725117.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81119816,
+        "name": "Prank-Kids Fansies",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can send 1 \"Prank-Kids\" card from your Deck to the GY, except \"Prank-Kids Fansies\", then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Fansies\". You can only use this effect of \"Prank-Kids Fansies\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81119816.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18236002,
+        "name": "Prank-Kids Lampsies",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can inflict 500 damage to your opponent, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Lampsies\". You can only use this effect of \"Prank-Kids Lampsies\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18236002.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79059098,
+        "name": "Prank-Kids Pandemonium",
+        "type": "Spell Card",
+        "desc": "During the Main Phase: Fusion Summon 1 \"Prank-Kids\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. For the rest of this turn after this card resolves, you cannot Normal or Special Summon monsters, except \"Prank-Kids\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79059098.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15447747,
+        "name": "Prank-Kids Plan",
+        "type": "Trap Card",
+        "desc": "During the Main Phase: You can activate this effect; immediately after this effect resolves, Link Summon 1 \"Prank-Kids\" Link Monster using \"Prank-Kids\" monsters you control as material. When an opponent's monster declares an attack: You can banish this card from your GY; shuffle any number of \"Prank-Kids\" cards from your GY into the Deck, and if you do, that attacking monster loses 100 ATK for each card shuffled, until the end of this turn. You can only use each effect of \"Prank-Kids Plan\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15447747.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43664494,
+        "name": "Prank-Kids Pranks",
+        "type": "Spell Card",
+        "desc": "You can discard 1 \"Prank-Kids\" card; Special Summon 1 \"Prank-Kids Token\" (Pyro/FIRE/Level 1/ATK 0/DEF 0), but it cannot be Tributed. During your End Phase: You can target 3 \"Prank-Kids\" cards in your GY, except \"Prank-Kids Pranks\"; shuffle all 3 into the Deck, then draw 1 card. You can only use each effect of \"Prank-Kids Pranks\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43664494.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18514525,
+        "name": "Prank-Kids Rocket Ride",
+        "type": "Fusion Monster",
+        "desc": "2 \"Prank-Kids\" monsters\r\nIf this card is Fusion Summoned: You can have this card lose 1000 ATK this turn, also it can attack directly this turn. You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them, but they cannot attack this turn. You can only use each effect of \"Prank-Kids Rocket Ride\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18514525.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44509529,
+        "name": "Prank-Kids Weather Washer",
+        "type": "Fusion Monster",
+        "desc": "2 \"Prank-Kids\" monsters\r\nIf your \"Prank-Kids\" monster attacks, your opponent cannot activate cards or effects until the end of the Damage Step. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them. They cannot be destroyed by battle this turn. You can only use this effect of \"Prank-Kids Weather Washer\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44509529.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96729612,
+        "name": "Preparation of Rites",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96729612.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 74694807,
+        "name": "Re-Fusion",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 800 LP, then target 1 Fusion Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74694807.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 23459650,
+        "name": "Rebirth of Nephthys",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any \"Nephthys\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Tributed \"Devotee of Nephthys\" or \"Cerulean Sacred Phoenix of Nephthys\", you can destroy 1 card on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23459650.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65450690,
+        "name": "Ritual Foregone",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; Special Summon 1 Ritual Monster from your hand, but it cannot attack, also destroy it during the End Phase. You can only activate 1 \"Ritual Foregone\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65450690.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90846359,
+        "name": "Rivalry of Warlords",
+        "type": "Trap Card",
+        "desc": "Each player can only control 1 Type of monster. Send all other face-up monsters they control to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90846359.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 61441708,
+        "name": "Sacred Phoenix of Nephthys",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your next Standby Phase after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35818851,
+        "name": "Shiranui Samurai",
+        "type": "Effect Monster",
+        "desc": "(Quick Effect): You can banish 1 Zombie monster from your GY; this card gains 600 ATK, and if it does, banish any monster that battled this card, after damage calculation. These effects last until the end of this turn. If this card is banished: You can target 1 \"Shiranui\" monster in your GY, except \"Shiranui Samurai\"; add it to your hand. You can only use each effect of \"Shiranui Samurai\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35818851.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36630403,
+        "name": "Shiranui Spectralsword",
+        "type": "Tuner Monster",
+        "desc": "If this card is in your GY, except the turn this card was sent to the GY: You can target 1 non-Tuner Zombie monster in your GY; banish both it and this card, and if you do, Special Summon 1 Zombie Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of \"Shiranui Spectralsword\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36630403.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 99423156,
+        "name": "Shiranui Spiritmaster",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Shiranui\" monster from your hand or GY, except \"Shiranui Spiritmaster\", but banish it when it leaves the field. If this card is banished: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Shiranui Spiritmaster\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99423156.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55863245,
+        "name": "Tatsunoko",
+        "type": "Synchro Tuner Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55863245.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 31786629,
+        "name": "Thunder Dragon",
+        "type": "Effect Monster",
+        "desc": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31786629.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 5325155,
+        "name": "Tsukahagi, the Poisonous Mayakashi",
+        "type": "Tuner Monster",
+        "desc": "You can only control 1 \"Tsukahagi, the Poisonous Mayakashi\". If a \"Mayakashi\" monster(s) in your possession, except \"Tsukahagi, the Poisonous Mayakashi\", is destroyed by battle or an opponent's card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5325155.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 76647978,
+        "name": "Ultra Polymerization",
+        "type": "Spell Card",
+        "desc": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your GY, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your GY, but change their ATK/DEF to 0, also they have their effects negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76647978.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77714963,
+        "name": "Yasha, the Skeletal Mayakashi",
+        "type": "Effect Monster",
+        "desc": "You can discard 1 other \"Mayakashi\" monster; Special Summon this card from your hand. You can only use this effect of \"Yasha, the Skeletal Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77714963.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 24175232,
+        "name": "Cerulean Sacred Phoenix of Nephthys",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Rebirth of Nephthys\". You can only use each of the following effects of \"Cerulean Sacred Phoenix of Nephthys\" once per turn.\r\n● During your Main Phase: You can destroy \"Nephthys\" cards in your hand and/or face-up field, then destroy an equal number of monsters your opponent controls.\r\n● During your next Standby Phase after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card from the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24175232.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 42542842,
+        "name": "Dakki, the Graceful Mayakashi",
+        "type": "Tuner Monster",
+        "desc": "You can only control 1 \"Dakki, the Graceful Mayakashi\". When a \"Mayakashi\" monster(s) is Special Summoned to your field from the Extra Deck, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42542842.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 88176533,
+        "name": "Devotee of Nephthys",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Rebirth of Nephthys\". You can only use each of the following effects of \"Devotee of Nephthys\" once per turn.\r\n● If this card is Ritual Summoned: You can activate this effect; Special Summon 1 \"Nephthys\" monster from your Deck, also during the End Phase of this turn, destroy this card.\r\n● If this card is in the GY: You can destroy 1 \"Nephthys\" card in your hand, and if you do, Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88176533.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 98999181,
+        "name": "Disciple of Nephthys",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can destroy 1 card in your hand, and if you do, add 1 \"Nephthys\" monster from your Deck to your hand, except \"Disciple of Nephthys\". During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can add 1 \"Nephthys\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Disciple of Nephthys\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98999181.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 39475024,
+        "name": "Gashadokuro, the Skeletal Mayakashi",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters / You can only control 1 \"Gashadokuro, the Skeletal Mayakashi\". You can only use each of these effects of \"Gashadokuro, the Skeletal Mayakashi\" once per turn.\r\n● If a Link Monster in your possession is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n● If this card is Special Summoned from the GY: You can activate this effect; this turn, this face-up card is unaffected by other cards' effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39475024.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75500286,
+        "name": "Gold Sarcophagus",
+        "type": "Spell Card",
+        "desc": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 41729254,
+        "name": "Hajun, the Winged Mayakashi",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Mayakashi\" monster from your Deck, except \"Hajun, the Winged Mayakashi\". You can only use this effect of \"Hajun, the Winged Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41729254.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 2364438,
+        "name": "Mayakashi Return",
+        "type": "Spell Card",
+        "desc": "Take 1 \"Mayakashi\" card from your Deck, except \"Mayakashi Return\", and either add it to your hand or send it to the GY. You can only activate 1 \"Mayakashi Return\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2364438.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 87054946,
+        "name": "Nephthys, the Sacred Flame",
+        "type": "Link Monster",
+        "desc": "2+ monsters, including a Ritual Monster\r\nWhile this card is in the Extra Monster Zone, monsters your opponent controls cannot target \"Nephthys\" monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.\r\n● 1+: Cannot be destroyed by battle.\r\n● 2+: Cannot be destroyed by card effects, also it gains 1200 ATK.\r\n● 3: Neither player can target this card with card effects, also it gains another 1200 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87054946.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 50669347,
+        "name": "Nephthys, the Sacred Preserver",
+        "type": "Link Monster",
+        "desc": "2 \"Nephthys\" monsters\r\nYou can only use the following effect of \"Nephthys, the Sacred Preserver\" once per turn. During your Main Phase, if this card was Link Summoned: You can activate 1 of these effects;\r\n● Add 1 Level 8 Winged Beast monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.\r\n● Destroy 1 \"Nephthys\" monster this card points to, and Special Summon 1 \"Nephthys\" monster with a different original name from your GY, but negate its effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50669347.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 30607616,
+        "name": "Oboro-Guruma, the Wheeled Mayakashi",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters / You can only control 1 \"Oboro-Guruma, the Wheeled Mayakashi\". You can only use each of these effects of \"Oboro-Guruma, the Wheeled Mayakashi\" once per turn.\r\n● If a Synchro Monster in your possession whose original Level is 5 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n● If this card is Special Summoned from the GY: You can activate this effect; this turn, your monsters cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30607616.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 81997228,
+        "name": "Prank-Kids Battle Butler",
+        "type": "Fusion Monster",
+        "desc": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\r\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81997228.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 17382973,
+        "name": "Prank-Kids Dodo-Doodle-Doo",
+        "type": "Link Monster",
+        "desc": "2 \"Prank-Kids\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17382973.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 16269385,
+        "name": "Prank-Kids Place",
+        "type": "Spell Card",
+        "desc": "When this card is activated: You can add 1 \"Prank-Kids\" monster from your Deck to your hand. Once per turn, if you Fusion Summon a \"Prank-Kids\" Fusion Monster (except during the Damage Step): You can have all monsters you control gain 500 ATK (even if this card leaves the field). Once per turn, if you Link Summon a \"Prank-Kids\" Link Monster (except during the Damage Step): You can have all monsters your opponent controls lose 500 ATK (even if this card leaves the field). You can only activate 1 \"Prank-Kids Place\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16269385.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 70875686,
+        "name": "Prank-Kids Rip-Roarin-Roaster",
+        "type": "Link Monster",
+        "desc": "2+ \"Prank-Kids\" monsters\r\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of \"Prank-Kids Rip-Roarin-Roaster\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70875686.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 78936551,
+        "name": "Shafu, the Wheeled Mayakashi",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can target 1 \"Mayakashi\" monster in your GY, except \"Shafu, the Wheeled Mayakashi\"; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Shafu, the Wheeled Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78936551.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 4103668,
+        "name": "Tengu, the Winged Mayakashi",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters / You can only control 1 \"Tengu, the Winged Mayakashi\". You can only use each of these effects of \"Tengu, the Winged Mayakashi\" once per turn.\r\n● If a Synchro Monster in your possession whose original Level is 9 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n● If this card is Special Summoned from the GY: You can destroy 1 Spell/Trap your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4103668.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 77092311,
+        "name": "Tsuchigumo, the Poisonous Mayakashi",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters / You can only control 1 \"Tsuchigumo, the Poisonous Mayakashi\". You can only use each of these effects of \"Tsuchigumo, the Poisonous Mayakashi\" once per turn.\r\n● If a Synchro Monster in your possession whose original Level is 7 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n● If this card is Special Summoned from the GY: You can have each player send the top 3 cards from their Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77092311.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 3486020,
+        "name": "Yoko, the Graceful Mayakashi",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters / You can only control 1 \"Yoko, the Graceful Mayakashi\". You can only use each of these effects of \"Yoko, the Graceful Mayakashi\" once per turn.\r\n● If a Synchro Monster in your possession whose original Level is 11 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\r\n● If this card is Special Summoned from the GY: You can destroy 1 monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3486020.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66870733,
+        "name": "Yuki-Onna, the Ice Mayakashi",
+        "type": "Link Monster",
+        "desc": "2 \"Mayakashi\" monsters\r\nYou can only control 1 \"Yuki-Onna, the Ice Mayakashi\". While this card points to a Synchro Monster(s), your opponent's monsters cannot target this card for attacks. If a Synchro Monster(s) in your possession is destroyed by battle or an opponent's card effect while this card is on the field: You can target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn. You can only use this effect of \"Yuki-Onna, the Ice Mayakashi\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66870733.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

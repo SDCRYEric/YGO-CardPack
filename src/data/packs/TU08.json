@@ -1,0 +1,183 @@
+{
+  "setName": "Turbo Pack: Booster Eight",
+  "pool": {
+    "Rare": [
+      {
+        "id": 64428736,
+        "name": "Alligator's Sword",
+        "type": "Normal Monster",
+        "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64428736.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 3366982,
+        "name": "Alligator's Sword Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3366982.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53334471,
+        "name": "Gozen Match",
+        "type": "Trap Card",
+        "desc": "Each player can only control 1 Attribute of monster. Send all other face-up monsters they control to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53334471.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 45871897,
+        "name": "Lost Guardian",
+        "type": "Effect Monster",
+        "desc": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45871897.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 36045450,
+        "name": "Magicians Unite",
+        "type": "Spell Card",
+        "desc": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36045450.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 31785398,
+        "name": "Ready for Intercepting",
+        "type": "Trap Card",
+        "desc": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31785398.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 85166216,
+        "name": "Elephant Statue of Blessing",
+        "type": "Effect Monster",
+        "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: You gain 2000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85166216.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12160911,
+        "name": "Elephant Statue of Disaster",
+        "type": "Effect Monster",
+        "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Inflict 2000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12160911.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23297235,
+        "name": "Flamvell Firedog",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23297235.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67688478,
+        "name": "Gemini Imps",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67688478.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50755,
+        "name": "Magician's Circle",
+        "type": "Trap Card",
+        "desc": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28121403,
+        "name": "Really Eternal Rest",
+        "type": "Trap Card",
+        "desc": "Destroy all monsters equipped with an Equip Card(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28121403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20781762,
+        "name": "Rock Bombardment",
+        "type": "Trap Card",
+        "desc": "Send 1 Rock monster from your Deck to the GY; inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20781762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68400115,
+        "name": "The Emperor's Holiday",
+        "type": "Trap Card",
+        "desc": "Negate all Equip Card effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68400115.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95714077,
+        "name": "Wind-Up Factory",
+        "type": "Spell Card",
+        "desc": "Once per turn, if an effect of a \"Wind-Up\" monster is activated (except during the Damage Step): You can add 1 Level 4 or lower \"Wind-Up\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95714077.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 41172955,
+        "name": "Green Gadget",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Red Gadget\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41172955.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 46656406,
+        "name": "Mirror of Oaths",
+        "type": "Trap Card",
+        "desc": "When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46656406.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 86445415,
+        "name": "Red Gadget",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Yellow Gadget\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86445415.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 70368879,
+        "name": "Upstart Goblin",
+        "type": "Spell Card",
+        "desc": "Draw 1 card, then your opponent gains 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70368879.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 82732705,
+        "name": "Skill Drain",
+        "type": "Trap Card",
+        "desc": "Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82732705.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 71564252,
+        "name": "Thunder King Rai-Oh",
+        "type": "Effect Monster",
+        "desc": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71564252.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ]
+  }
+}

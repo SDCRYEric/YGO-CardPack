@@ -1,0 +1,1427 @@
+{
+  "setName": "Hidden Arsenal: Chapter 1",
+  "pool": {
+    "Common": [
+      {
+        "id": 40155554,
+        "name": "Ally Mind",
+        "type": "Normal Tuner Monster",
+        "desc": "A high-performance unit developed to enhance the Artificial Intelligence program of the Allies of Justice. Loaded with elements collected from a meteor found in the Worm Nebula, it allows for highly tuned processing. But its full capacity is not yet determined.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40155554.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26593852,
+        "name": "Ally of Justice Catastor",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26593852.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89386122,
+        "name": "Ally of Justice Clausolas",
+        "type": "Normal Monster",
+        "desc": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89386122.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8822710,
+        "name": "Ally of Justice Cosmic Gateway",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8822710.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8233522,
+        "name": "Ally of Justice Cycle Reader",
+        "type": "Tuner Monster",
+        "desc": "During either player's turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent's Graveyard; banish those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8233522.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45033006,
+        "name": "Ally of Justice Enemy Catcher",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45033006.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69461394,
+        "name": "Ally of Justice Field Marshal",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2 or more non-Tuner monsters\nThis card cannot be Special Summoned except by Synchro Summon. When this card attacks a face-down Defense Position monster, destroys it by battle, and sends it to the Graveyard, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69461394.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25771826,
+        "name": "Ally of Justice Garadholg",
+        "type": "Effect Monster",
+        "desc": "If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25771826.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76650663,
+        "name": "Ally of Justice Nullfier",
+        "type": "Effect Monster",
+        "desc": "Any LIGHT monster that has battled this card has its effects negated (starting after damage calculation).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76650663.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45450218,
+        "name": "Ally of Justice Omni-Weapon",
+        "type": "Effect Monster",
+        "desc": "When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45450218.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72845813,
+        "name": "Ally of Justice Quarantine",
+        "type": "Effect Monster",
+        "desc": "Neither player can Special Summon LIGHT monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72845813.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55982698,
+        "name": "Ally of Justice Reverse Break",
+        "type": "Effect Monster",
+        "desc": "If a face-up LIGHT monster is on the field, destroy this card. If this card attacks a face-down Defense Position monster, destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55982698.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52265835,
+        "name": "Ally of Justice Rudra",
+        "type": "Effect Monster",
+        "desc": "If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52265835.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3648368,
+        "name": "Ally of Justice Searcher",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can discard 1 card to select 1 face-down Defense Position monster your opponent controls and change it to face-up Attack Position. Flip Effects are not activated at this time.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3648368.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71438011,
+        "name": "Ally of Justice Thunder Armor",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. During the battle between an attacking \"Ally of Justice\" monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71438011.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82377606,
+        "name": "Ally of Justice Unlimiter",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card to select 1 face-up \"Ally of Justice\" monster you control. Double its original ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82377606.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26304459,
+        "name": "Ancient Flamvell Deity",
+        "type": "Synchro Monster",
+        "desc": "1 FIRE Tuner + 1 or more non-Tuner Pyro-Type monsters\nWhen this card is Synchro Summoned, remove from play cards from your opponent's Graveyard up to the number of cards in their hand. This card gains 200 ATK for each card removed from play by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26304459.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15471265,
+        "name": "Berserker Crush",
+        "type": "Spell Card",
+        "desc": "Banish 1 monster from your GY, then target 1 \"Winged Kuriboh\" you control; that target's ATK/DEF become equal to the ATK/DEF of the monster that was banished, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15471265.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96565487,
+        "name": "Blizzard Warrior",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return that card to either the top or the bottom of their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96565487.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60161788,
+        "name": "Blizzed, Defender of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78193831,
+        "name": "Buster Blader",
+        "type": "Effect Monster",
+        "desc": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78193831.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37806313,
+        "name": "Caravan of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 2 \"Ice Barrier\" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37806313.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23950192,
+        "name": "Cryomancer of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23950192.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41090784,
+        "name": "Dai-sojo of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned, it is changed to Defense Position. Face-up \"Ice Barrier\" monsters you control cannot be destroyed by Spell or Trap Card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41090784.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59546528,
+        "name": "Dance Princess of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59546528.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82498947,
+        "name": "Defender of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82498947.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89086566,
+        "name": "Detonate",
+        "type": "Spell Card",
+        "desc": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of cards destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89086566.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90311614,
+        "name": "Dewdark of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "If the only face-up monsters you control are Level 2 or lower, this card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90311614.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88361177,
+        "name": "Dragunity Angusticlavii",
+        "type": "Effect Monster",
+        "desc": "While this card is equipped with a Dragon-Type \"Dragunity\" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this monster, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88361177.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54455664,
+        "name": "Dragunity Brandistock",
+        "type": "Tuner Monster",
+        "desc": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54455664.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99594764,
+        "name": "Dragunity Corsesca",
+        "type": "Tuner Monster",
+        "desc": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99594764.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13361027,
+        "name": "Dragunity Darkspear",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can Tribute 1 Dragon-Type \"Dragunity\" monster to select 1 Level 4 or lower Winged Beast-Type monster in your Graveyard, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13361027.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80549379,
+        "name": "Dragunity Javelin",
+        "type": "Tuner Monster",
+        "desc": "If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type \"Dragunity\" monster you control, instead of sending it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80549379.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34116027,
+        "name": "Dragunity Knight - Gae Dearg",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nOnce per turn: You can add 1 Level 4 or lower Dragon or Winged Beast monster from your Deck to your hand, then discard 1 Dragon or Winged Beast monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34116027.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80159717,
+        "name": "Dragunity Knight - Trident",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards from there to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80159717.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54578613,
+        "name": "Dragunity Legionnaire",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. You can send 1 \"Dragunity\" card from your Spell & Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54578613.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81661951,
+        "name": "Dragunity Militum",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81661951.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25988873,
+        "name": "Dragunity Partisan",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster is treated as a Tuner monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25988873.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52977572,
+        "name": "Dragunity Pilum",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster can attack your opponent directly. When you do, Battle Damage inflicted to your opponent (by the equipped monster) is halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52977572.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18060565,
+        "name": "Dragunity Primus Pilus",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18060565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81962318,
+        "name": "Dragunity Tribus",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81962318.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89943724,
+        "name": "Elemental HERO Neos",
+        "type": "Normal Monster",
+        "desc": "''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89943724.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25366484,
+        "name": "Elemental HERO Shining Flare Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25366484.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40044919,
+        "name": "Elemental HERO Stratos",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\r\n● Destroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\r\n● Add 1 \"HERO\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40044919.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52875873,
+        "name": "Evolution Burst",
+        "type": "Spell Card",
+        "desc": "If you control \"Cyber Dragon\": Target 1 card your opponent controls; destroy that target. \"Cyber Dragon\" cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52875873.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12235475,
+        "name": "Fabled Ashenveil",
+        "type": "Effect Monster",
+        "desc": "Once per battle, if this card battles, during damage calculation (Quick Effect): You can send 1 card from your hand to the GY; this card gains 600 ATK during that damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12235475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53199020,
+        "name": "Fabled Dianaira",
+        "type": "Effect Monster",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Fabled\" monster. Once per turn, the first opponent's Normal Spell Card effect to resolve becomes \"Your opponent discards 1 card\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53199020.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86840720,
+        "name": "Fabled Dyf",
+        "type": "Effect Monster",
+        "desc": "When a \"Fabled\" monster(s) is sent from the hand to your GY (except during the Damage Step): You can Tribute this card, then target 1 of those monsters; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86840720.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60434101,
+        "name": "Fabled Gallabas",
+        "type": "Effect Monster",
+        "desc": "You can discard 1 card to the GY, then target 1 monster your opponent controls with DEF less than or equal to this card's ATK; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60434101.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19439119,
+        "name": "Fabled Krus",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the GY: Target 1 other Level 4 or lower \"Fabled\" monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19439119.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97439806,
+        "name": "Fabled Kushano",
+        "type": "Tuner Monster",
+        "desc": "If this card is in your GY: You can discard 1 \"Fabled\" monster to the GY, except \"Fabled Kushano\"; add this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97439806.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39477584,
+        "name": "Fabled Leviathan",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhen this card on the field is destroyed and sent to the GY: You can target up to 3 \"Fabled\" monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39477584.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97651498,
+        "name": "Fabled Lurrie",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the GY: Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97651498.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8316661,
+        "name": "Fabled Miztoji",
+        "type": "Tuner Monster",
+        "desc": "You can send this card from your hand to the GY, then target 1 non-Tuner \"Fabled\" monster you control; that monster is treated as a Tuner while face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8316661.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49633574,
+        "name": "Fabled Oltro",
+        "type": "Tuner Monster",
+        "desc": "Once per turn: You can send 1 card from your hand to the GY; Special Summon 1 Level 3 \"Fabled\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49633574.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72328962,
+        "name": "Fabled Soulkius",
+        "type": "Effect Monster",
+        "desc": "If this card is in your GY: You can send 2 cards from your hand to the GY, except \"Fabled Soulkius\"; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72328962.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46833854,
+        "name": "Fabled Topi",
+        "type": "Effect Monster",
+        "desc": "If your opponent has 2 or more cards in their hand than you do: You can reveal 1 \"Fabled\" monster in your hand and Tribute this face-up card, then target 2 Spell/Trap Cards your opponent controls; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46833854.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73040500,
+        "name": "Fabled Urustos",
+        "type": "Effect Monster",
+        "desc": "While you have 2 or less cards in your hand, all face-up \"Fabled\" monsters you control gain 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73040500.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54048462,
+        "name": "Fabled Valkyrus",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can discard 1 Fiend monster; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54048462.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13761956,
+        "name": "Flamvell Baby",
+        "type": "Tuner Monster",
+        "desc": "During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13761956.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68226653,
+        "name": "Flamvell Dragnov",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 \"Flamvell Dragnov\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68226653.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77372241,
+        "name": "Flamvell Grunika",
+        "type": "Effect Monster",
+        "desc": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77372241.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21615956,
+        "name": "Flamvell Guard",
+        "type": "Normal Tuner Monster",
+        "desc": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95621257,
+        "name": "Flamvell Magician",
+        "type": "Tuner Monster",
+        "desc": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95621257.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53714009,
+        "name": "Flamvell Uruquizas",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53714009.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53921056,
+        "name": "General Gantala of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your End Phase, you can select 1 \"Ice Barrier\" monster in your Graveyard, except \"General Gantala of the Ice Barrier\", and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53921056.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9056100,
+        "name": "General Grunard of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase, you can Normal Summon 1 \"Ice Barrier\" monster in addition to your Normal Summon or Set. This effect can only be used once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9056100.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81275309,
+        "name": "General Raiho of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81275309.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56704140,
+        "name": "Geomancer of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56704140.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7391448,
+        "name": "Goyo Guardian",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7391448.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91932350,
+        "name": "Harpie Lady 1",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27927359,
+        "name": "Harpie Lady 2",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nNegate the effects of Flip monsters this card destroys by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27927359.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54415063,
+        "name": "Harpie Lady 3",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAn opponent's monster that battles this card cannot declare an attack during your opponent's next 2 turns.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54415063.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40640057,
+        "name": "Kuriboh",
+        "type": "Effect Monster",
+        "desc": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40640057.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84206435,
+        "name": "Medallion of the Ice Barrier",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84206435.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88494899,
+        "name": "Medium of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls 4 or more cards than you do, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88494899.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14983497,
+        "name": "Mist Valley Baby Roc",
+        "type": "Tuner Monster",
+        "desc": "When this card is sent directly from the hand to the Graveyard, you can Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14983497.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41978142,
+        "name": "Mist Valley Executor",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners' hands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41978142.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82199284,
+        "name": "Mist Valley Falcon",
+        "type": "Effect Monster",
+        "desc": "This card cannot declare an attack unless you return 1 card you control to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82199284.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95443805,
+        "name": "Mist Valley Shaman",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95443805.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22837504,
+        "name": "Mist Valley Soldier",
+        "type": "Tuner Monster",
+        "desc": "While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22837504.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89310929,
+        "name": "Mist Valley Thunder Lord",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner \"Mist Valley\" monsters\nOnce per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89310929.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69448290,
+        "name": "Mist Valley Thunderbird",
+        "type": "Effect Monster",
+        "desc": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69448290.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99150062,
+        "name": "Naturia Antjaw",
+        "type": "Effect Monster",
+        "desc": "When your opponent Special Summons a monster(s), you can Special Summon 1 Level 3 or lower \"Naturia\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99150062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27762803,
+        "name": "Naturia Beetle",
+        "type": "Effect Monster",
+        "desc": "Switch the original ATK and DEF of this card each time a Spell Card is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27762803.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42110434,
+        "name": "Naturia Butterfly",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, when your opponent's monster declares an attack, you can send the top card of your Deck to the Graveyard and negate that attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42110434.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33866130,
+        "name": "Naturia Cliff",
+        "type": "Effect Monster",
+        "desc": "When this card is sent from the field to the Graveyard, you can Special Summon 1 Level 4 or lower \"Naturia\" monster from your Deck in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33866130.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98437424,
+        "name": "Naturia Cosmobeet",
+        "type": "Tuner Monster",
+        "desc": "When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98437424.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70083723,
+        "name": "Naturia Dragonfly",
+        "type": "Effect Monster",
+        "desc": "This card cannot be destroyed by battle with a monster that has 2000 or more ATK. This card gains 200 ATK for each \"Naturia\" monster in your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70083723.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99916754,
+        "name": "Naturia Exterio",
+        "type": "Fusion Monster",
+        "desc": "\"Naturia Beast\" + \"Naturia Barkion\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While this card is face-up on the field, you can negate the activation of a Spell/Trap Card, and destroy it, by removing from play 1 card from your Graveyard, then sending the top card of your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99916754.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11390349,
+        "name": "Naturia Fruitfly",
+        "type": "Effect Monster",
+        "desc": "All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up \"Naturia\" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11390349.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80555116,
+        "name": "Naturia Guardian",
+        "type": "Effect Monster",
+        "desc": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80555116.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84905691,
+        "name": "Naturia Horneedle",
+        "type": "Effect Monster",
+        "desc": "When your opponent Special Summons a monster, you can Tribute 1 face-up \"Naturia\" monster you control, except this card, to destroy the Special Summoned monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84905691.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47795344,
+        "name": "Naturia Hydrangea",
+        "type": "Effect Monster",
+        "desc": "If the effect of a \"Naturia\" monster you control was activated during this turn, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47795344.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19605133,
+        "name": "Naturia Ladybug",
+        "type": "Effect Monster",
+        "desc": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19605133.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43932460,
+        "name": "Naturia Landoise",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters\nWhile this card is face-up on the field, you can send 1 Spell Card from your hand to the Graveyard to negate the activation of an Effect Monster's effect and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43932460.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16527176,
+        "name": "Naturia Leodrake",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16527176.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51254980,
+        "name": "Naturia Mantis",
+        "type": "Effect Monster",
+        "desc": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51254980.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7304544,
+        "name": "Naturia Pineapple",
+        "type": "Effect Monster",
+        "desc": "All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up \"Naturia Pineapple\", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7304544.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96653775,
+        "name": "Naturia Pumpkin",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 \"Naturia\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96653775.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87649699,
+        "name": "Naturia Ragweed",
+        "type": "Effect Monster",
+        "desc": "When your opponent draws a card(s), except during the Draw Phase, you can send this face-up card you control to the Graveyard to draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87649699.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54161401,
+        "name": "Naturia Rock",
+        "type": "Effect Monster",
+        "desc": "When a Trap Card is activated, you can send the top card of your Deck to the Graveyard to Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54161401.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61049315,
+        "name": "Naturia Rosewhip",
+        "type": "Tuner Monster",
+        "desc": "Your opponent can only activate 1 Spell/Trap Card per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61049315.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25654671,
+        "name": "Naturia Spiderfang",
+        "type": "Effect Monster",
+        "desc": "This card cannot declare an attack unless your opponent activated a Spell, Trap, Spell/Trap effect, or Monster effect this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25654671.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25866285,
+        "name": "Naturia Stinkbug",
+        "type": "Tuner Monster",
+        "desc": "When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25866285.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55099248,
+        "name": "Naturia Strawberry",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; this card gains 100 ATK x the Level of that monster, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55099248.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7478431,
+        "name": "Naturia Sunflower",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7478431.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70261145,
+        "name": "Naturia Tulip",
+        "type": "Tuner Monster",
+        "desc": "While you control this face-up card, each time your opponent activates a Spell or Trap Card, all face-up \"Naturia\" monsters you control gain 500 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70261145.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16940215,
+        "name": "Naturia Vein",
+        "type": "Tuner Monster",
+        "desc": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16940215.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24644634,
+        "name": "Naturia White Oak",
+        "type": "Effect Monster",
+        "desc": "When this card is targeted by an opponent's card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower \"Naturia\" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24644634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65156847,
+        "name": "Neo Flamvell Garuda",
+        "type": "Effect Monster",
+        "desc": "During your End Phase, if you control another face-up \"Flamvell\" monster, select 1 card in your opponent's Graveyard and remove it from play.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65156847.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2377034,
+        "name": "Neo Flamvell Hedgehog",
+        "type": "Tuner Monster",
+        "desc": "If this card is destroyed by battle, select 1 card in your opponent's Graveyard and remove it from play. If this card on the field is destroyed by a card effect, select 1 FIRE monster with 200 or less DEF in your Graveyard, except \"Neo Flamvell Hedgehog\", and add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2377034.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66378485,
+        "name": "Neo Flamvell Origin",
+        "type": "Tuner Monster",
+        "desc": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66378485.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91554542,
+        "name": "Neo Flamvell Sabre",
+        "type": "Effect Monster",
+        "desc": "While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91554542.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39761138,
+        "name": "Neo Flamvell Shaman",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle while you have 3 or more \"Flamvell\" monsters in your Graveyard, select 1 card in your opponent's Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39761138.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20700531,
+        "name": "Pilgrim of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "This card cannot be destroyed by battle with a monster with 1900 or more ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20700531.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74677422,
+        "name": "Red-Eyes Black Dragon",
+        "type": "Normal Monster",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74677422.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88264978,
+        "name": "Red-Eyes Darkness Metal Dragon",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon \"Red-Eyes Darkness Metal Dragon\" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except \"Red-Eyes Darkness Metal Dragon\". You can only use this effect of \"Red-Eyes Darkness Metal Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88264978.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66661678,
+        "name": "Royal Knight of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned, Special Summon 1 \"Ice Coffin Token\" (Aqua-Type/WATER/Level 1/ATK 1000/DEF 0) in Attack Position to your opponent's side of the field. This Token cannot be Tributed for a Tribute Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66661678.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44877690,
+        "name": "Sacred Spirit of the Ice Barrier",
+        "type": "Spirit Monster",
+        "desc": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card's effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44877690.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64926005,
+        "name": "Samurai of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64926005.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27527047,
+        "name": "Secret Guards of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Face-up \"Ice Barrier\" monsters you control cannot be targeted by effects of your opponent's Effect Monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27527047.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38528901,
+        "name": "Shock Troops of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card to select 1 face-up WATER monster on the field, destroy it, and add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38528901.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82732705,
+        "name": "Skill Drain",
+        "type": "Trap Card",
+        "desc": "Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82732705.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73061465,
+        "name": "Spellbreaker of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard. If you do, Spell Cards cannot be activated until the End Phase of your next turn, as long as this card remains face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73061465.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50032342,
+        "name": "Strategist of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50032342.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94145683,
+        "name": "Swallow's Nest",
+        "type": "Spell Card",
+        "desc": "Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94145683.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56399890,
+        "name": "The Fabled Catsith",
+        "type": "Tuner Monster",
+        "desc": "If this card is discarded to the GY: Target 1 face-up card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56399890.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82888408,
+        "name": "The Fabled Cerburrel",
+        "type": "Tuner Monster",
+        "desc": "If this card is discarded to the GY: Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82888408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29905795,
+        "name": "The Fabled Chawa",
+        "type": "Tuner Monster",
+        "desc": "During your Main Phase: You can activate this effect; discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29905795.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18282103,
+        "name": "The Fabled Ganashia",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the GY: Special Summon it. If Summoned this way, it gains 200 ATK, but banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18282103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26704411,
+        "name": "The Fabled Kokkator",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can discard 1 \"Fabled\" monster; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26704411.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89194103,
+        "name": "The Fabled Kudabbi",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nThis card gains the following effect based on the number of cards in your hand.\r\n● 0: Cannot be destroyed by battle or card effects.\r\n● 3+: Once per turn, during the End Phase: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89194103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55277252,
+        "name": "The Fabled Nozoochee",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand. When this card is Special Summoned this way: You can Special Summon 1 Level 2 or lower \"Fabled\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55277252.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90616316,
+        "name": "The Fabled Peggulsus",
+        "type": "Tuner Monster",
+        "desc": "When this card is discarded to the GY: You can Special Summon it in face-down Defense Position. When this card is flipped face-up: You can reveal 1 \"Fabled\" monster in your hand; send 1 \"Fabled\" monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90616316.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44155002,
+        "name": "The Fabled Unicore",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhile you and your opponent have the same number of cards in hand, negate all cards and effects activated by your opponent, and if you do, destroy those cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44155002.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12607053,
+        "name": "Waboku",
+        "type": "Trap Card",
+        "desc": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12607053.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18482591,
+        "name": "Warlock of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "While you control another face-up \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18482591.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57116033,
+        "name": "Winged Kuriboh",
+        "type": "Effect Monster",
+        "desc": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57116033.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52098461,
+        "name": "Wrath of Neos",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up \"Elemental HERO Neos\" you control. Return it to the Deck and destroy all cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52098461.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Duel Terminal Ultra Parallel Rare": [
+      {
+        "id": 9888196,
+        "name": "Ally of Justice Decisive Armor",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2 or more non-Tuner monsters \n Once per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects:\n● Select 1 Set card your opponent controls, and destroy it.\n● Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.\n● Send all cards in your hand to the Graveyard to look at your opponent's hand and send all LIGHT monsters in their hand to the Graveyard. Then, inflict damage to your opponent equal to the total ATK of the opponent's monsters sent to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9888196.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 81480460,
+        "name": "Barrel Dragon",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81480460.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 14087893,
+        "name": "Book of Moon",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 50321796,
+        "name": "Brionac, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50321796.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 85087012,
+        "name": "Card Trooper",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85087012.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 46986421,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986421.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 98502113,
+        "name": "Dark Paladin",
+        "type": "Fusion Monster",
+        "desc": "\"Dark Magician\" + \"Buster Blader\"\r\nMust be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98502113.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 70583986,
+        "name": "Dewloren, Tiger King of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70583986.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 28183605,
+        "name": "Dragunity Dux",
+        "type": "Effect Monster",
+        "desc": "Gains 200 ATK for each \"Dragunity\" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28183605.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 25682811,
+        "name": "Dragunity Knight - Barcha",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is Synchro Summoned, you can select any number of Dragon-Type \"Dragunity\" monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each \"Dragunity\" card equipped to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25682811.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 900787,
+        "name": "Dragunity Knight - Gae Bulg",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters \n If this card attacks or is attacked, during the Damage Step you can remove from play 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/900787.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 59755122,
+        "name": "Dragunity Phalanx",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, while this card is equipped to a monster: You can Special Summon this equipped card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59755122.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 35809262,
+        "name": "Elemental HERO Flame Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35809262.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 24040093,
+        "name": "Fabled Grimro",
+        "type": "Effect Monster",
+        "desc": "If you control a \"Fabled\" monster: You can send this card from your hand to the GY; add 1 \"Fabled\" monster from your Deck to your hand, except \"Fabled Grimro\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24040093.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 47395382,
+        "name": "Fabled Ragin",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can draw until you have 2 cards in your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47395382.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 65749035,
+        "name": "Gungnir, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn: You can discard up to 2 cards to the Graveyard to target the same number of cards your opponent controls; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65749035.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 102380,
+        "name": "Lava Golem",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/102380.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 29587993,
+        "name": "Mist Valley Apex Avian",
+        "type": "Effect Monster",
+        "desc": "Once per chain, when a card or effect is activated (Quick Effect): You can target 1 \"Mist Valley\" card you control; return that target to the hand, and if you do, negate the activation, and if you do that, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29587993.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 27315304,
+        "name": "Mist Wurm",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 20174189,
+        "name": "Naturia Bamboo Shoot",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned by Tributing a \"Naturia\" monster, while this card remains face-up on the field, your opponent cannot activate Spell or Trap Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20174189.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 2956282,
+        "name": "Naturia Barkion",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters \nDuring either player's turn, when a Trap Card is activated: You can banish 2 cards from your Graveyard; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2956282.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 33198837,
+        "name": "Naturia Beast",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1+ non-Tuner EARTH monsters \r\nWhen a Spell Card is activated (Quick Effect): You can send the top 2 cards of your Deck to the GY; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33198837.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 60668166,
+        "name": "Naturia Cherries",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent from the field to the Graveyard by your opponent's card (including by battle, card effect, or by being destroyed), you can Special Summon up to 2 \"Naturia Cherries\" from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60668166.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 16226786,
+        "name": "Night Assailant",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16226786.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      },
+      {
+        "id": 52687916,
+        "name": "Trishula, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+        "rarity": "Duel Terminal Ultra Parallel Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 75220074,
+        "name": "Armed Dragon, the Armored Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except \"Armed Dragon, the Armored Dragon\", but it cannot attack directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75220074.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 29071332,
+        "name": "Armory Arm",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29071332.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 33467872,
+        "name": "Deep Sea Repetiteur",
+        "type": "Synchro Tuner Monster",
+        "desc": "\"Deep Sea Diva\" + 1+ non-Tuner monsters\r\nOnce per turn (Quick Effect): You can discard 1 Level 4 or lower WATER monster; this card gains 800 ATK until the end of this turn. If this Synchro Summoned card is sent to your GY: You can target 1 Level 5 or higher WATER monster in your GY, except \"Deep Sea Repetiteur\"; Special Summon it in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only use this effect of \"Deep Sea Repetiteur\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33467872.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 69975751,
+        "name": "Dragunity Guisarme",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower WIND Dragon or Winged Beast monster in your GY; Special Summon it, but negate its effects. If this card is currently equipped to a monster: You can Special Summon this equipped card. You can only use each effect of \"Dragunity Guisarme\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69975751.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 50091196,
+        "name": "Formula Synchron",
+        "type": "Synchro Tuner Monster",
+        "desc": "1 Tuner + 1 non-Tuner monster\nWhen this card is Synchro Summoned: You can draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50091196.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 19153590,
+        "name": "Pile Armed Dragon",
+        "type": "Effect Monster",
+        "desc": "You can send 1 other WIND Dragon monster or 1 other Level 7 or higher Dragon monster from your hand to the GY; Special Summon this card from your hand. You can send 1 \"Armed Dragon\" monster from your hand or Deck to the GY, except \"Pile Armed Dragon\", then target 1 face-up monster you control; that targeted monster gains ATK equal to the Level of the monster sent to the GY x 300, until the end of this turn, also you can only attack with 1 monster this turn. You can only use each effect of \"Pile Armed Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19153590.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 2403771,
+        "name": "Power Tool Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can reveal 3 Equip Spell Cards from your Deck, then your opponent randomly adds 1 of them to your hand, and you shuffle the rest back into your Deck. If this card would be destroyed while equipped with an Equip Spell Card(s), you can send 1 of those cards to the Graveyard instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2403771.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! R Volume 4 promotional card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 56784842,
+        "name": "Angel O7",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned, it gains the following effect: ● The effects of Effect Monsters cannot be activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56784842.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

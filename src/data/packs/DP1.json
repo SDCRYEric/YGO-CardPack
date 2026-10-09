@@ -1,0 +1,253 @@
+{
+  "setName": "Duelist Pack: Jaden Yuki",
+  "pool": {
+    "Common": [
+      {
+        "id": 21597117,
+        "name": "A Hero Emerges",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21597117.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61968753,
+        "name": "Bubble Shuffle",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up Attack Position \"Elemental HERO Bubbleman\" you control and 1 face-up Attack Position monster your opponent controls; change both those targets to Defense Position, then Tribute that \"Elemental HERO Bubbleman\", then Special Summon 1 \"Elemental HERO\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61968753.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33875961,
+        "name": "Dark Catapulter",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33875961.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43250041,
+        "name": "Draining Shield",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate that attack, and if you do, gain LP equal to that target's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43250041.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21844576,
+        "name": "Elemental HERO Avian",
+        "type": "Normal Monster",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21844576.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79979666,
+        "name": "Elemental HERO Bubbleman",
+        "type": "Effect Monster",
+        "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79979666.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58932616,
+        "name": "Elemental HERO Burstinatrix",
+        "type": "Normal Monster",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58932616.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84327329,
+        "name": "Elemental HERO Clayman",
+        "type": "Normal Monster",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84327329.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20721929,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721929.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19394153,
+        "name": "Feather Shot",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up \"Elemental HERO Avian\" you control; during this turn, that target can attack a number of times equal to the number of monsters you control when this card resolves, but cannot attack directly, and other monsters you control cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19394153.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26902560,
+        "name": "Fusion Sage",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Polymerization\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26902560.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22020907,
+        "name": "Hero Signal",
+        "type": "Trap Card",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22020907.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27847700,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27847700.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97362768,
+        "name": "Spark Blaster",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Elemental HERO Sparkman\". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97362768.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95281259,
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95281259.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25573054,
+        "name": "Transcendent Wings",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up or face-down \"Winged Kuriboh\" you control and 2 cards from your hand to the GY; Special Summon 1 \"Winged Kuriboh LV10\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25573054.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6480253,
+        "name": "Wroughtweiler",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Target 1 \"Elemental HERO\" card and 1 \"Polymerization\" in your Graveyard; add both those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6480253.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 53586134,
+        "name": "Bubble Blaster",
+        "type": "Spell Card",
+        "desc": "You can only equip this card to \"Elemental Hero Bubbleman\". Increase the ATK of the equipped monster by 800 points. If the equipped monster would be destroyed as a result of battle, destroy this card instead, and make the Battle Damage to the controller of the equipped monster 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53586134.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27191436,
+        "name": "Burst Return",
+        "type": "Spell Card",
+        "desc": "If you control a face-up \"Elemental HERO Burstinatrix\": Return all face-up \"Elemental HERO\" monsters on the field to the hand, except \"Elemental HERO Burstinatrix\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27191436.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22479888,
+        "name": "Clay Charge",
+        "type": "Trap Card",
+        "desc": "When an \"Elemental HERO Clayman\" you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that \"Elemental HERO Clayman\", and inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22479888.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35809262,
+        "name": "Elemental HERO Flame Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35809262.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 80075749,
+        "name": "Bubble Illusion",
+        "type": "Spell Card",
+        "desc": "You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80075749.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 81197327,
+        "name": "Elemental HERO Steam Healer",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the ATK of that destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81197327.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 47737087,
+        "name": "Elemental HERO Rampart Blaster",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\r\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47737087.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 61204971,
+        "name": "Elemental HERO Thunder Giant",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61204971.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 71060915,
+        "name": "Feather Wind",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card is activated while you control a face-up \"Elemental HERO Avian\": Negate the activation and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71060915.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 14315573,
+        "name": "Negate Attack",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14315573.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 63035430,
+        "name": "Skyscraper",
+        "type": "Spell Card",
+        "desc": "If an \"Elemental HERO\" monster attacks a monster that has a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63035430.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 57116034,
+        "name": "Winged Kuriboh",
+        "type": "Effect Monster",
+        "desc": "If this card on the field is destroyed and sent to the Graveyard: For the rest of this turn, you take no battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57116034.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 98585345,
+        "name": "Winged Kuriboh LV10",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98585345.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

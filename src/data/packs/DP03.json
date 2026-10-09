@@ -1,0 +1,253 @@
+{
+  "setName": "Duelist Pack: Jaden Yuki 2",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 48976825,
+        "name": "Burial from a Different Dimension",
+        "type": "Spell Card",
+        "desc": "Target up to 3 banished monsters; return them to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48976825.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 85087012,
+        "name": "Card Trooper",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85087012.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 42682609,
+        "name": "Chrysalis Dolphin",
+        "type": "Effect Monster",
+        "desc": "By Tributing this card while \"Neo Space\" is on the field, Special Summon 1 \"Neo-Spacian Aqua Dolphin\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42682609.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14772491,
+        "name": "Common Soul",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up monster on the field. Special Summon 1 \"Neo-Spacian\" monster from your hand to the same side of the field as the selected monster. The selected monster gains ATK equal to the ATK of the monster that was Special Summoned by this effect. When this card is removed from the field, return the Special Summoned monster to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14772491.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16616620,
+        "name": "Contact",
+        "type": "Spell Card",
+        "desc": "Send all \"Chrysalis\" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16616620.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29612557,
+        "name": "Cyclone Boomerang",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Elemental HERO Wildheart\". It gains 500 ATK. When the equipped monster is destroyed by a card effect and sent to the Graveyard: Destroy all Spell and Trap Cards on the field, then inflict 100 damage to your opponent for each Spell/Trap Card destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29612557.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 213326,
+        "name": "E - Emergency Call",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/213326.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89943724,
+        "name": "Elemental HERO Neos",
+        "type": "Normal Monster",
+        "desc": "''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89943724.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55615891,
+        "name": "Elemental HERO Wild Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Wildheart\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55615891.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86188410,
+        "name": "Elemental HERO Wildheart",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86188410.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78387742,
+        "name": "Fake Hero",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78387742.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74825788,
+        "name": "H - Heated Heart",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74825788.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44676200,
+        "name": "Hero Barrier",
+        "type": "Trap Card",
+        "desc": "Negate 1 attack from an opponent's monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44676200.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 191749,
+        "name": "Hero Flash!!",
+        "type": "Spell Card",
+        "desc": "Banish \"H - Heated Heart\", \"E - Emergency Call\", \"R - Righteous Justice\" and \"O - Oversoul\" from your Graveyard; Special Summon 1 \"Elemental HERO\" Normal Monster from your Deck. All \"Elemental HERO\" Normal Monsters you currently control can attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/191749.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32679370,
+        "name": "Hero Kid",
+        "type": "Effect Monster",
+        "desc": "When this card is Special Summoned: You can Special Summon any number of \"Hero Kid\"(s) from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32679370.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55985014,
+        "name": "Miracle Kids",
+        "type": "Trap Card",
+        "desc": "Target 1 monster your opponent controls; that target loses 400 ATK for each \"Hero Kid\" in your Graveyard, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55985014.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42015635,
+        "name": "Neo Space",
+        "type": "Spell Card",
+        "desc": "\"Elemental HERO Neos\" and all Fusion Monsters that specifically list \"Elemental HERO Neos\" as a Fusion Material gain 500 ATK. Fusion Monsters that specifically list \"Elemental HERO Neos\" as a Fusion Material do not have to activate their effects during the End Phase that shuffle them into the Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42015635.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63703130,
+        "name": "O - Oversoul",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63703130.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37318031,
+        "name": "R - Righteous Justice",
+        "type": "Spell Card",
+        "desc": "Destroy Spell/Trap Cards equal to the number of \"Elemental HERO\" cards you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37318031.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 84361420,
+        "name": "Edge Hammer",
+        "type": "Trap Card",
+        "desc": "Tribute 1 \"Elemental HERO Bladedge\" to target 1 monster your opponent controls; destroy that target and inflict damage to your opponent equal to that target's original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84361420.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 28677304,
+        "name": "Elemental HERO Dark Neos",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Dark Panther\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If this card is not already targeting a monster with its effect: You can target 1 face-up Effect Monster on the field; while you control this face-up card, that target's effect on the field is negated. During the End Phase: Shuffle this card into the Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28677304.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 10759529,
+        "name": "Kid Guard",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Tribute 1 \"Hero Kid\"; negate the attack, then add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10759529.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 11471117,
+        "name": "Light Laser",
+        "type": "Spell Card",
+        "desc": "Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11471117.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 55171412,
+        "name": "Elemental HERO Aqua Neos",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Aqua Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can discard 1 card; destroy 1 random card in your opponent's hand. During the End Phase: Shuffle this card into the Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55171412.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 59793705,
+        "name": "Elemental HERO Bladedge",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 81566151,
+        "name": "Elemental HERO Flare Neos",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each Spell/Trap Card on the field. During the End Phase: Shuffle this card into the Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81566151.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 10526791,
+        "name": "Elemental HERO Wildedge",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack every monster your opponent controls (one attack on each monster per Battle Phase).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10526791.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17955766,
+        "name": "Neo-Spacian Aqua Dolphin",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17955766.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 43237273,
+        "name": "Neo-Spacian Dark Panther",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43237273.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 89621922,
+        "name": "Neo-Spacian Flare Scarab",
+        "type": "Effect Monster",
+        "desc": "Gains 400 ATK for each Spell/Trap your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89621922.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

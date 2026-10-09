@@ -1,0 +1,15 @@
+{
+  "setName": "GX Next Generation",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 73891874,
+        "name": "White-Horned Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73891874.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

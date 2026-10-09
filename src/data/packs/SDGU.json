@@ -1,0 +1,323 @@
+{
+  "setName": "Gates of the Underworld Structure Deck",
+  "pool": {
+    "Common": [
+      {
+        "id": 1475311,
+        "name": "Allure of Darkness",
+        "type": "Spell Card",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19665973,
+        "name": "Battle Fader",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, then end the Battle Phase. If Summoned this way, banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19665973.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33731070,
+        "name": "Beiige, Vanguard of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33731070.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33655493,
+        "name": "Belial - Marquis of Darkness",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33655493.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79126789,
+        "name": "Broww, Huntsman of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79126789.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6214884,
+        "name": "Brron, Mad King of Dark World",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: You can discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6214884.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72892473,
+        "name": "Card Destruction",
+        "type": "Spell Card",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4694209,
+        "name": "Card Guard",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4694209.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77538567,
+        "name": "Dark Bribe",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77538567.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65824822,
+        "name": "Dark Deal",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Normal Spell Card: Pay 1000 Life Points; the effect of that Normal Spell Card becomes \"Your opponent discards 1 random card\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65824822.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 674561,
+        "name": "Dark Eruption",
+        "type": "Spell Card",
+        "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/674561.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69402394,
+        "name": "Dark Scheme",
+        "type": "Trap Card",
+        "desc": "Your opponent can discard 1 card to negate this card's effect, otherwise both players discard 2 cards, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69402394.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74117290,
+        "name": "Dark World Dealings",
+        "type": "Spell Card",
+        "desc": "Each player draws 1 card, then each player discards 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93554166,
+        "name": "Dark World Lightning",
+        "type": "Spell Card",
+        "desc": "Target 1 Set card on the field; destroy that target, then discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93554166.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35027493,
+        "name": "Deck Devastation Virus",
+        "type": "Trap Card",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54974237,
+        "name": "Eradicator Epidemic Virus",
+        "type": "Trap Card",
+        "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54974237.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31550470,
+        "name": "Escape from the Dark Dimension",
+        "type": "Trap Card",
+        "desc": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy that target, and if you do, banish it. When that target is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31550470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93431518,
+        "name": "Gateway to Dark World",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Dark World\" monster in your Graveyard; Special Summon that target. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93431518.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18590133,
+        "name": "Goblin King",
+        "type": "Effect Monster",
+        "desc": "While you control another Fiend-Type monster, this card cannot be attacked. The ATK and DEF of this card are each equal to the number of Fiend-Type monsters on the field (excluding this card) x 1000.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18590133.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78004197,
+        "name": "Goldd, Wu-Lord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78004197.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48343627,
+        "name": "Grave Squirmer",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48343627.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51232472,
+        "name": "Gren, Tactician of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51232472.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25847467,
+        "name": "Kahkki, Guerilla of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25847467.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15800838,
+        "name": "Mind Crush",
+        "type": "Trap Card",
+        "desc": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15800838.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4335645,
+        "name": "Newdoria",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4335645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99458769,
+        "name": "Reign-Beaux, Overlord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60606759,
+        "name": "Renge, Gatekeeper of Dark World",
+        "type": "Normal Monster",
+        "desc": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60606759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26202165,
+        "name": "Sangan",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26202165.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5498296,
+        "name": "Scarr, Scout of Dark World",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower \"Dark World\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5498296.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32619583,
+        "name": "Sillva, Warlord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32619583.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29826127,
+        "name": "The Forces of Darkness",
+        "type": "Trap Card",
+        "desc": "Target 2 \"Dark World\" monsters in your Graveyard; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29826127.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33017655,
+        "name": "The Gates of Dark World",
+        "type": "Spell Card",
+        "desc": "All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33017655.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46652477,
+        "name": "The Transmigration Prophecy",
+        "type": "Trap Card",
+        "desc": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46652477.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98777036,
+        "name": "Tragoedia",
+        "type": "Effect Monster",
+        "desc": "When you take battle damage: You can Special Summon this card from your hand. Gains 600 ATK/DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the GY, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your GY; this card's Level becomes the same as that target's, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98777036.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7459013,
+        "name": "Zure, Knight of Dark World",
+        "type": "Normal Monster",
+        "desc": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7459013.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 7623640,
+        "name": "Ceruli, Guru of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent's side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7623640.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 60228941,
+        "name": "Snoww, Unlight of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target 1 monster in your opponent's Graveyard; add 1 \"Dark World\" card from your Deck to your hand, then Special Summon that target (if any) in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60228941.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 34230233,
+        "name": "Grapha, Dragon Lord of Dark World",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your Graveyard) by returning 1 \"Dark World\" monster you control to the hand, except \"Grapha, Dragon Lord of Dark World\". If this card is discarded to the Graveyard by a card effect: Target 1 card your opponent controls; destroy that target, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, look at 1 random card in your opponent's hand, then, if it was a monster, you can Special Summon it to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34230233.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

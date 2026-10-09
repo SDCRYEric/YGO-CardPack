@@ -1,0 +1,355 @@
+{
+  "setName": "Starter Deck: Yu-Gi-Oh! 5D's",
+  "pool": {
+    "Common": [
+      {
+        "id": 26976414,
+        "name": "Atlantean Pikeman",
+        "type": "Normal Monster",
+        "desc": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26976414.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48305365,
+        "name": "Axe Raider",
+        "type": "Normal Monster",
+        "desc": "An axe-wielding monster of tremendous strength and agility.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48305365.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36280194,
+        "name": "Backup Soldier",
+        "type": "Trap Card",
+        "desc": "While there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36280194.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35539880,
+        "name": "Birthright",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13179332,
+        "name": "Charcoal Inpachi",
+        "type": "Normal Monster",
+        "desc": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13179332.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26376390,
+        "name": "Copycat",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26376390.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11321183,
+        "name": "Dark Blade",
+        "type": "Normal Monster",
+        "desc": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11321183.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49010598,
+        "name": "Divine Wrath",
+        "type": "Trap Card",
+        "desc": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49010598.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43422537,
+        "name": "Double Summon",
+        "type": "Spell Card",
+        "desc": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43422537.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74131780,
+        "name": "Exiled Force",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card to target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74131780.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62154416,
+        "name": "Frequency Magician",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62154416.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63977008,
+        "name": "Junk Synchron",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63977008.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36750412,
+        "name": "Magna Drago",
+        "type": "Tuner Monster",
+        "desc": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36750412.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2460565,
+        "name": "Marauding Captain",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2460565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34815282,
+        "name": "Miniaturize",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34815282.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74848038,
+        "name": "Monster Reincarnation",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83011277,
+        "name": "Mystic Tomato",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83011277.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60606759,
+        "name": "Renge, Gatekeeper of Dark World",
+        "type": "Normal Monster",
+        "desc": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60606759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70046172,
+        "name": "Rush Recklessly",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56120475,
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56120475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98427577,
+        "name": "Scrap-Iron Scarecrow",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98427577.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3819470,
+        "name": "Seven Tools of the Bandit",
+        "type": "Trap Card",
+        "desc": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3819470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97169186,
+        "name": "Smashing Ground",
+        "type": "Spell Card",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36472900,
+        "name": "Sonic Chick",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36472900.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9365703,
+        "name": "Speed Warrior",
+        "type": "Effect Monster",
+        "desc": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9365703.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18807109,
+        "name": "Spellbinding Circle",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18807109.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32626733,
+        "name": "Spiral Serpent",
+        "type": "Normal Monster",
+        "desc": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32626733.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78794994,
+        "name": "Symbols of Duty",
+        "type": "Spell Card",
+        "desc": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78794994.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35537860,
+        "name": "Synchro Blast Wave",
+        "type": "Spell Card",
+        "desc": "If you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35537860.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98143165,
+        "name": "Synchro Boost",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK, and its Level is increased by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98143165.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61032879,
+        "name": "Synchronized Realm",
+        "type": "Spell Card",
+        "desc": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61032879.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95281259,
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95281259.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36361633,
+        "name": "Threatening Roar",
+        "type": "Trap Card",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36361633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4206964,
+        "name": "Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74093656,
+        "name": "Tune Warrior",
+        "type": "Normal Tuner Monster",
+        "desc": "The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74093656.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60806437,
+        "name": "UFO Turtle",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60806437.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 487395,
+        "name": "Water Spirit",
+        "type": "Normal Tuner Monster",
+        "desc": "This ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/487395.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35322812,
+        "name": "Woodborg Inpachi",
+        "type": "Normal Monster",
+        "desc": "The new form of the enigmatic Inpachi, remodeled by cutting-edge Dark World technology. Maneuverability has been sacrificed for strong armor, which is considered more important.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35322812.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 23693634,
+        "name": "Colossal Fighter",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for every Warrior-Type monster in any Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can target 1 Warrior-Type monster in either Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23693634.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 97204936,
+        "name": "Gaia Knight, the Force of Earth",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97204936.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 60800381,
+        "name": "Junk Warrior",
+        "type": "Synchro Monster",
+        "desc": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60800381.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

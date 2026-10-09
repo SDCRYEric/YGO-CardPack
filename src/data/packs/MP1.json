@@ -1,0 +1,131 @@
+{
+  "setName": "McDonald's Promotional Cards",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 38999506,
+        "name": "Cosmo Queen",
+        "type": "Normal Monster",
+        "desc": "Queen of the galaxies and mistress of the stars.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38999506.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 32012841,
+        "name": "Millennium Shield",
+        "type": "Normal Monster",
+        "desc": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32012841.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 45895206,
+        "name": "Dark-Piercing Light",
+        "type": "Spell Card",
+        "desc": "Flip all face-down monsters on your opponent's side of the field face-up.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45895206.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67959180,
+        "name": "Goddess of Whim",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card's ATK during this turn. If you call it wrong, halve its ATK during this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67959180.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44073668,
+        "name": "Takriminos",
+        "type": "Normal Monster",
+        "desc": "A member of a race of sea serpents that freely travels through the sea.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44073668.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 68401546,
+        "name": "Fairy's Gift",
+        "type": "Normal Monster",
+        "desc": "This flying monster is known for delivering happiness to all.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68401546.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5628232,
+        "name": "Flying Penguin",
+        "type": "Normal Monster",
+        "desc": "A very rare penguin that takes to the air with ears shaped like wings.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5628232.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7562372,
+        "name": "Megasonic Eye",
+        "type": "Normal Monster",
+        "desc": "Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7562372.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68638985,
+        "name": "Slime Toad",
+        "type": "Normal Monster",
+        "desc": "A slime with the head of a frog, it attacks by croaking terribly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68638985.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71068263,
+        "name": "Stuffed Animal",
+        "type": "Normal Monster",
+        "desc": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71068263.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33734439,
+        "name": "Three-Legged Zombies",
+        "type": "Normal Monster",
+        "desc": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33734439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72929454,
+        "name": "Turtle Bird",
+        "type": "Normal Monster",
+        "desc": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72929454.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48649353,
+        "name": "Ushi Oni",
+        "type": "Normal Monster",
+        "desc": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48649353.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70345785,
+        "name": "Yamadron",
+        "type": "Normal Monster",
+        "desc": "This monster has three fire-breathing heads and can form a sea of blazing flames.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70345785.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71280811,
+        "name": "Yaranzo",
+        "type": "Normal Monster",
+        "desc": "A treasure box containing a monster that attacks any unwary bandit.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71280811.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

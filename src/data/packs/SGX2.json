@@ -1,0 +1,887 @@
+{
+  "setName": "Speed Duel GX: Midterm Paradox",
+  "pool": {
+    "Common": [
+      {
+        "id": 8949584,
+        "name": "A Hero Lives",
+        "type": "Spell Card",
+        "desc": "If you control no face-up monsters: Pay half your LP; Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8949584.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 295517,
+        "name": "A Legendary Ocean",
+        "type": "Spell Card",
+        "desc": "(This card's name is always treated as \"Umi\".)\r\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/295517.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98927491,
+        "name": "Ambulance Rescueroid",
+        "type": "Fusion Monster",
+        "desc": "\"Rescueroid\" + \"Ambulanceroid\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98927491.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36378213,
+        "name": "Ambulanceroid",
+        "type": "Effect Monster",
+        "desc": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36378213.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302043,
+        "name": "Behold, Gate Guardian!",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Shuffle your entire hand into the Deck, then add 1 Level 11 monster from your Deck to your hand, and if you do, you can Special Summon up to 2 Level 7 monsters with different Attributes from your Deck and/or GY, but their ATK/DEF become 0, also their effects are negated. While you control \"Gate Guardian\", it gains the following effect.\r\n● Once while face-up on the field, when this card is targeted for an attack: You can change the attacking monster's ATK to 0, until the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302043.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302044,
+        "name": "Believe in your Bro",
+        "type": "Skill Card",
+        "desc": "Once per turn, you can activate 1 of these Skills based on the face-up monster(s) you control:\r\n● \"Elemental HERO\": Discard 1 Trap, then add 1 Level 6 or lower Machine \"roid\" monster from your GY to your hand, then you can destroy 1 monster your opponent controls whose ATK is less than or equal to the added card's.\r\n● Machine \"roid\": Discard 1 Spell, then Special Summon 1 Level 6 or lower Machine \"roid\" or \"Elemental HERO\" monster from your Deck in Defense Position, but negate its effects.\r\n ● Both: Discard 1 card, then Fusion Summon 1 Fusion Monster using only \"roid\" and \"Elemental HERO\" monsters you control.\r\nEach of these Skills can only be used once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302044.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302045,
+        "name": "Beware the Brothers Paradox!",
+        "type": "Skill Card",
+        "desc": "Apply the following Skills:\r\n● You can Normal Summon Level 7 monsters for 1 less Tribute.\r\n● You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.\r\n● Your opponent takes no effect damage.\r\n● You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302045.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79402185,
+        "name": "Bonding - D2O",
+        "type": "Spell Card",
+        "desc": "Tribute 2 \"Duoterion\" and 1 \"Oxygeddon\" in your hand and/or field; Special Summon 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your hand, Deck, or GY. (This is treated as a Special Summon with the effect of \"Bonding - H2O\".) If \"Water Dragon\" or \"Water Dragon Cluster\" is sent from the field to your GY while this card is in your GY: Add this card to your hand. You can only use this effect of \"Bonding - D2O\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79402185.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6890729,
+        "name": "Bonding - DHO",
+        "type": "Trap Card",
+        "desc": "Shuffle 1 \"Duoterion\", 1 \"Hydrogeddon\", and 1 \"Oxygeddon\" from your hand and/or GY into the Deck; Special Summon 1 \"Water Dragon Cluster\" from your hand or GY. You can banish this card from your GY; add 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your Deck or GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6890729.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45898858,
+        "name": "Bonding - H2O",
+        "type": "Spell Card",
+        "desc": "Tribute 2 \"Hydrogeddon\" and 1 \"Oxygeddon\"; Special Summon 1 \"Water Dragon\" from your hand, Deck, or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45898858.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15981690,
+        "name": "Carboneddon",
+        "type": "Effect Monster",
+        "desc": "If this card battles a FIRE monster, during damage calculation: This card gains 1000 ATK during damage calculation only. You can banish this card from your Graveyard; Special Summon, from your hand or Deck, 1 Level 7 or lower Dragon-Type Normal Monster in face-up Defense Position. You can only use this effect of \"Carboneddon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15981690.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302046,
+        "name": "Chemistry in Motion",
+        "type": "Skill Card",
+        "desc": "Once per turn, you can place 1 counter on this card, then apply the appropriate effect depending on the number of counters on this card.\r\n1: Discard 1 Dinosaur monster, then add 1 Dinosaur monster with a different Attribute from your Deck to your hand.\r\n2: Normal Summon 1 WIND or WATER Dinosaur monster from your hand.\r\n3: The names of all WATER Dinosaur monsters you currently control become \"Hydrogeddon\" (until the end of this turn), then add 1 \"Bonding - H2O\" from your Deck or GY to your hand.\r\n4: Remove all counters from this card, then change the Attributes/Types of all face-up monsters your opponent currently controls to FIRE/Pyro, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302046.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302047,
+        "name": "Chillin' Outback",
+        "type": "Skill Card",
+        "desc": "Once per turn, you can change 1 face-up \"Koala\" or \"Kangaroo\" monster's battle position. \"Koala\" and \"Kangaroo\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302047.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93889755,
+        "name": "Crass Clown",
+        "type": "Effect Monster",
+        "desc": "When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93889755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58851034,
+        "name": "Cursed Seal of the Forbidden Spell",
+        "type": "Trap Card",
+        "desc": "When a Spell Card is activated: Discard 1 Spell; negate the activation, and if you do, destroy it, and if you do that, your opponent cannot activate Spell Cards with that name for the rest of this Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58851034.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45945685,
+        "name": "Cycroid",
+        "type": "Normal Monster",
+        "desc": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45945685.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33875961,
+        "name": "Dark Catapulter",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33875961.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69579761,
+        "name": "Des Koala",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69579761.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9637706,
+        "name": "Des Wombat",
+        "type": "Effect Monster",
+        "desc": "Any damage to you from a card effect becomes 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9637706.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42149850,
+        "name": "Disposable Learner Device",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 200 ATK for each monster in your GY. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Disposable Learner Device\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42149850.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93332803,
+        "name": "Dogoran, the Mad Flame Kaiju",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; destroy all monsters your opponent controls. This card cannot attack the turn this effect is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93332803.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43422537,
+        "name": "Double Summon",
+        "type": "Spell Card",
+        "desc": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43422537.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13215230,
+        "name": "Dream Clown",
+        "type": "Effect Monster",
+        "desc": "When this card is changed from Attack Position to face-up Defense Position, select 1 monster your opponent controls and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13215230.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71218746,
+        "name": "Drillroid",
+        "type": "Effect Monster",
+        "desc": "Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71218746.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43017476,
+        "name": "Duoterion",
+        "type": "Effect Monster",
+        "desc": "You can discard this card; add 1 \"Bonding\" Spell/Trap from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 \"Hydrogeddon\", \"Oxygeddon\", or \"Duoterion\" in your GY; Special Summon it. You can only use each effect of \"Duoterion\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43017476.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21844576,
+        "name": "Elemental HERO Avian",
+        "type": "Normal Monster",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21844576.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59793705,
+        "name": "Elemental HERO Bladedge",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63060238,
+        "name": "Elemental HERO Blazeman",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"Polymerization\" from your Deck to your hand. During your Main Phase: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except Fusion Monsters, also send 1 \"Elemental HERO\" monster from your Deck to the GY, except \"Elemental HERO Blazeman\", and if you do, this card's Attribute and ATK/DEF become the same as the monster sent to the GY, until the end of this turn. You can only use 1 \"Elemental HERO Blazeman\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63060238.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79979666,
+        "name": "Elemental HERO Bubbleman",
+        "type": "Effect Monster",
+        "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79979666.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58932615,
+        "name": "Elemental HERO Burstinatrix",
+        "type": "Normal Monster",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58932615.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84327329,
+        "name": "Elemental HERO Clayman",
+        "type": "Normal Monster",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84327329.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29343734,
+        "name": "Elemental HERO Electrum",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29343734.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14225239,
+        "name": "Elemental HERO Mariner",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While you have any face-down card(s) in your Spell & Trap Card Zones, this card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14225239.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81003500,
+        "name": "Elemental HERO Necroid Shaman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Wildheart\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 monster your opponent controls; destroy that target, then Special Summon 1 monster from your opponent's Graveyard to their side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81003500.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1945387,
+        "name": "Elemental HERO Nova Master",
+        "type": "Fusion Monster",
+        "desc": "1 \"Elemental HERO\" monster + 1 FIRE monster\r\nMust be Fusion Summoned. If this card destroys an opponent's monster by battle: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1945387.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20721928,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83121692,
+        "name": "Elemental HERO Tempest",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Sparkman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83121692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55615891,
+        "name": "Elemental HERO Wild Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Wildheart\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55615891.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86188410,
+        "name": "Elemental HERO Wildheart",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86188410.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302048,
+        "name": "Elements of Thunder, Water, and Wind",
+        "type": "Skill Card",
+        "desc": "Activate this Skill while your LP are 1000 or less. You can Normal Summon \"Suijin\", \"Kazejin\", or \"Sanga of the Thunder\" without Tributing this turn, OR, if you control \"Suijin\", \"Kazejin\", and \"Sanga of the Thunder\", you can apply this Skill instead.\r\n● Send as many cards on the field as possible to the GY, then Special Summon 1 \"Gate Guardian\" from your Deck, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302048.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70628672,
+        "name": "Emergeroid Call",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"roid\" Fusion Monster: Negate the activation, then send all cards with the same name as that card from the activating player's Deck and Extra Deck to the GY. You can banish this card from the GY, then target 1 \"roid\" monster in your GY; add it to your hand. You can only use this effect of \"Emergeroid Call\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70628672.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 984114,
+        "name": "Expressroid",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can target 2 \"roid\" monsters in your GY, except \"Expressroid\"; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/984114.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97687912,
+        "name": "Fairy Meteor Crush",
+        "type": "Spell Card",
+        "desc": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97687912.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55428811,
+        "name": "Fifth Hope",
+        "type": "Spell Card",
+        "desc": "Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55428811.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55589254,
+        "name": "Frost and Flame Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55589254.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25833572,
+        "name": "Gate Guardian",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25833572.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53493204,
+        "name": "Goddess with the Third Eye",
+        "type": "Effect Monster",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53493204.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18325492,
+        "name": "Gyroid",
+        "type": "Effect Monster",
+        "desc": "Once per turn, this card cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18325492.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74825788,
+        "name": "H - Heated Heart",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74825788.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19024706,
+        "name": "Hero Counterattack",
+        "type": "Trap Card",
+        "desc": "When an \"Elemental HERO\" monster you control is destroyed by battle: Your opponent chooses and reveals 1 random card from your hand, then, if it is an \"Elemental HERO\" monster, you destroy 1 monster your opponent controls and Special Summon the chosen monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19024706.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26647858,
+        "name": "Hero Ring",
+        "type": "Trap Card",
+        "desc": "Target 1 Warrior-Type monster with 1500 or less ATK; equip this card to that target. Monsters your opponent controls with 1900 or more ATK cannot attack that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26647858.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22020907,
+        "name": "Hero Signal",
+        "type": "Trap Card",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22020907.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302049,
+        "name": "HERO World",
+        "type": "Skill Card",
+        "desc": "Once per turn, if you control a \"HERO\" Normal Monster or \"HERO\" Fusion Monster, you can discard 1 card to activate 1 of these Skills based on the Attribute(s) of that monster:\r\n● EARTH: Destroy 1 EARTH monster you control and 1 face-up monster your opponent controls.\r\n● WIND: Destroy 1 face-up Spell/Trap on the field.\r\n● FIRE: Return all face-up non-FIRE Special Summoned monsters on the field to the hand.\r\n● WATER: Draw 1 card, also until the end of the next turn, you can activate 1 Normal Trap Card from your hand.\r\n● LIGHT: Change the battle position of 1 face-up monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302049.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302050,
+        "name": "HEROES UNITE - FUSION!!",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If Summoning an \"Elemental HERO\" Fusion Monster this way that requires 3 or more materials, and you control 2 \"Elemental HERO\" monsters that are mentioned on it as materials, you can also use monsters in your Deck as Fusion Material. This Skill can only be used once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302050.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22587018,
+        "name": "Hydrogeddon",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 \"Hydrogeddon\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22587018.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62397231,
+        "name": "Hyozanryu",
+        "type": "Normal Monster",
+        "desc": "A dragon created from a massive diamond that sparkles with blinding light.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62397231.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94773007,
+        "name": "Jirai Gumo",
+        "type": "Effect Monster",
+        "desc": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94773007.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55256016,
+        "name": "Judgment of Anubis",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55256016.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71106375,
+        "name": "Jurrac Iguanon",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71106375.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23927545,
+        "name": "Jurrac Protops",
+        "type": "Effect Monster",
+        "desc": "This card gains 100 ATK for each monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23927545.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17444133,
+        "name": "Kaiser Sea Horse",
+        "type": "Effect Monster",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62340868,
+        "name": "Kazejin",
+        "type": "Effect Monster",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62340868.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66526672,
+        "name": "Labyrinth of Nightmare",
+        "type": "Trap Card",
+        "desc": "Once per turn, during each player's End Phase: Change the battle positions of all face-up monsters the turn player controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66526672.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67284908,
+        "name": "Labyrinth Wall",
+        "type": "Normal Monster",
+        "desc": "These walls form a labyrinth with no exit for enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67284908.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34959756,
+        "name": "Living Fossil",
+        "type": "Spell Card",
+        "desc": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon it and equip it with this card, but banish it when it leaves the field (even if this card has left the field). When this card leaves the field, banish the equipped monster. The equipped monster loses 1000 ATK/DEF, also its effects are negated. You can only activate 1 \"Living Fossil\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34959756.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61465001,
+        "name": "Loud Cloud the Storm Serpent",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE and 1 WIND monster from your GY. You can only use each of the following effects of \"Loud Cloud the Storm Serpent\" once per turn.\r\n● You can banish 1 FIRE monster from your GY, then target 1 monster your opponent controls; destroy that monster, and if you do, this card gains ATK equal to the destroyed monster's original ATK.\r\n● You can banish 1 WIND monster from your GY, then target 1 card in your opponent's Spell & Trap Zone; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61465001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22512237,
+        "name": "Mechanical Hound",
+        "type": "Effect Monster",
+        "desc": "While you have no cards in your hand, your opponent cannot activate Spell Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22512237.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71340250,
+        "name": "Mixeroid",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 Machine monster; Special Summon 1 non-WIND \"roid\" monster from your Deck. You can pay half your LP and banish any number of Machine monsters from your GY, including this card; Special Summon from your Extra Deck, 1 \"roid\" Fusion Monster with the same Level as the number of those banished monsters, ignoring its Summoning conditions, but destroy it during the End Phase. You can only use each effect of \"Mixeroid\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71340250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58071123,
+        "name": "Oxygeddon",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58071123.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74270067,
+        "name": "Pikeru's Circle of Enchantment",
+        "type": "Trap Card",
+        "desc": "Damage to you from card effects becomes 0 until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74270067.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24094653,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302051,
+        "name": "Power Bond (Skill Card)",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If you do, it gains ATK equal to its original ATK until the end of this turn, but it cannot attack your opponent directly this turn. During the End Phase of this turn, you take damage equal to the amount of ATK gained at the time of the Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302051.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37318031,
+        "name": "R - Righteous Justice",
+        "type": "Spell Card",
+        "desc": "Destroy Spell/Trap Cards equal to the number of \"Elemental HERO\" cards you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37318031.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24311595,
+        "name": "Rescueroid",
+        "type": "Effect Monster",
+        "desc": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24311595.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34016756,
+        "name": "Riryoku",
+        "type": "Spell Card",
+        "desc": "Target 2 face-up monsters on the field; halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster. These effects last until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34016756.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42647539,
+        "name": "Ryu-Kishin Clown",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42647539.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80831721,
+        "name": "Sabatiel - The Philosopher's Stone",
+        "type": "Spell Card",
+        "desc": "If you have a \"Winged Kuriboh\" monster in your GY: Pay half your LP; add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand. If this card is in your GY: You can banish 3 copies of \"Sabatiel - The Philosopher's Stone\" from your GY, then target 1 monster on the field; it gains ATK equal to the ATK of the monster on the field with the highest ATK (your choice, if tied), until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80831721.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25955164,
+        "name": "Sanga of the Thunder",
+        "type": "Effect Monster",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25955164.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10352095,
+        "name": "Scroll of Bewitchment",
+        "type": "Spell Card",
+        "desc": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10352095.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87685879,
+        "name": "Sea Koala",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87685879.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30778711,
+        "name": "Shadow Ghoul",
+        "type": "Effect Monster",
+        "desc": "This card gains 100 ATK for each monster in your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30778711.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30683373,
+        "name": "Shield Crush",
+        "type": "Spell Card",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30683373.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47596607,
+        "name": "Skyscraper 2 - Hero City",
+        "type": "Spell Card",
+        "desc": "Once per turn, during your Main Phase, if you control this card: You can target 1 \"Elemental HERO\" monster in your Graveyard that was destroyed by battle; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302052,
+        "name": "Small Roid Big City",
+        "type": "Skill Card",
+        "desc": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, add 1 \"roid\" card from your Deck to your hand. Once per turn, when an attack is declared involving an opponent's monster and a \"roid\" monster you control: You can send 1 \"roid\" monster from your Deck to the GY; switch the original ATK and DEF of your battling monster during the damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302052.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68005187,
+        "name": "Soul Exchange",
+        "type": "Spell Card",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98049038,
+        "name": "Stealthroid",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98049038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5368615,
+        "name": "Steam Gyroid",
+        "type": "Fusion Monster",
+        "desc": "\"Gyroid\" + \"Steamroid\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5368615.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44729197,
+        "name": "Steamroid",
+        "type": "Effect Monster",
+        "desc": "If this card attacks an opponent's monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44729197.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31812496,
+        "name": "Stone Statue of the Aztecs",
+        "type": "Effect Monster",
+        "desc": "Double any Battle Damage your opponent takes when they attack this monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31812496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99861526,
+        "name": "Submarineroid",
+        "type": "Effect Monster",
+        "desc": "This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99861526.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98434877,
+        "name": "Suijin",
+        "type": "Effect Monster",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98434877.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3897065,
+        "name": "Super Vehicroid - Stealth Union",
+        "type": "Fusion Monster",
+        "desc": "\"Truckroid\" + \"Expressroid\" + \"Drillroid\" + \"Stealthroid\"\nOnce per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3897065.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36256625,
+        "name": "Super Vehicroid Jumbo Drill",
+        "type": "Fusion Monster",
+        "desc": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36256625.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97705809,
+        "name": "Supercharge",
+        "type": "Trap Card",
+        "desc": "When your opponent declares an attack while the only monsters you control are Machine-Type \"roid\" monster(s): Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97705809.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302054,
+        "name": "The Roids are Alright",
+        "type": "Skill Card",
+        "desc": "\"Vehicroid Connection Zone\" can be used to Fusion Summon any \"roid\" monsters from your Extra Deck. All \"roid\" monsters whose original Level is 6 or lower can be Normal Summoned/Set without Tributing. If a non-Fusion \"roid\" Machine monster you control whose original Level is 6 or lower attacks an opponent's monster, it gains ATK equal to its own Level x 100 during the Damage Step only. If you control a non-Machine monster, flip this card over.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302054.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2903036,
+        "name": "Tribute Doll",
+        "type": "Spell Card",
+        "desc": "Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned/Set. It cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2903036.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61538782,
+        "name": "Truckroid",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61538782.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7602840,
+        "name": "UFOroid",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Machine-Type monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7602840.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32752319,
+        "name": "UFOroid Fighter",
+        "type": "Fusion Monster",
+        "desc": "\"UFOroid\" + 1 Warrior-Type monster\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32752319.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300302055,
+        "name": "Under Pressure",
+        "type": "Skill Card",
+        "desc": "Activate this Skill while you control \"Hyozanryu\". Once per turn, you can reveal the top 4 cards of your Deck, then if any of the following monsters are revealed, apply the appropriate Skills, in sequence. Then place the revealed cards on the bottom of your Deck in any order.\r\n● \"Carboneddon\": 1 \"Hyozanryu\" you control gains 1000 ATK until the end of this turn.\r\n● \"Hydrogeddon\": 1 \"Hyozanryu\" you control is unaffected by your opponent's monster effects, until the end of this turn.\r\n● \"Oxygeddon\": Destroy 1 face-up monster your opponent controls, then inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300302055.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92084010,
+        "name": "Unshaven Angler",
+        "type": "Effect Monster",
+        "desc": "When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92084010.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23299957,
+        "name": "Vehicroid Connection Zone",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Vehicroid\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, and if you do, it cannot be destroyed by card effects, and its effects cannot be negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23299957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85066822,
+        "name": "Water Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Bonding - H2O\". The ATK of FIRE monsters and Pyro monsters on the field becomes 0. When this card is destroyed and sent to the GY: You can target 2 \"Hydrogeddon\" and 1 \"Oxygeddon\" in your GY; Special Summon them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85066822.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6022371,
+        "name": "Water Dragon Cluster",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Bonding\" Spell/Trap. If this card is Special Summoned: You can activate this effect; Effect Monsters your opponent currently controls cannot activate their effects for the rest of this turn, also change their ATK to 0 until the end of this turn. (Quick Effect): You can Tribute this card; Special Summon 2 \"Water Dragon\" from your hand and/or Deck in Defense Position, ignoring their Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6022371.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10035717,
+        "name": "Weapon Change",
+        "type": "Spell Card",
+        "desc": "Once during each of your Standby Phases: You can pay 700 Life Points, then target 1 Warrior or Machine-Type monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10035717.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15090429,
+        "name": "Whirlwind Prodigy",
+        "type": "Effect Monster",
+        "desc": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15090429.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81383947,
+        "name": "White Magician Pikeru",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81383947.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57116033,
+        "name": "Winged Kuriboh",
+        "type": "Effect Monster",
+        "desc": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57116033.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50684552,
+        "name": "Wonder Garage",
+        "type": "Trap Card",
+        "desc": "When this face-down card is destroyed and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Machine-Type \"roid\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50684552.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

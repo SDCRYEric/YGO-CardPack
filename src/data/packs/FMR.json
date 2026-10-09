@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! Forbidden Memories promotional cards",
+  "pool": {
+    "Prismatic Secret Rare": [
+      {
+        "id": 52040216,
+        "name": "Harpie's Pet Dragon",
+        "type": "Effect Monster",
+        "desc": "Gains 300 ATK/DEF for each \"Harpie Lady\" on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52040216.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 68540058,
+        "name": "Metalmorph",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68540058.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 64335804,
+        "name": "Red-Eyes Black Metal Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64335804.jpg",
+        "rarity": "Prismatic Secret Rare"
+      }
+    ]
+  }
+}

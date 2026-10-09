@@ -1,0 +1,55 @@
+{
+  "setName": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards",
+  "pool": {
+    "Prismatic Secret Rare": [
+      {
+        "id": 41356845,
+        "name": "Acid Trap Hole",
+        "type": "Trap Card",
+        "desc": "Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41356845.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 18144506,
+        "name": "Harpie's Feather Duster",
+        "type": "Spell Card",
+        "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18144506.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 32268901,
+        "name": "Salamandra",
+        "type": "Spell Card",
+        "desc": "Equip only to a FIRE monster. It gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32268901.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 6740720,
+        "name": "Seiyaryu",
+        "type": "Normal Monster",
+        "desc": "A mystical dragon that burns away the unworthy with its mystic flames.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6740720.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 8131171,
+        "name": "Sinister Serpent",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, if this card is in your GY: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your GY during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8131171.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 75347539,
+        "name": "Valkyrion the Magna Warrior",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" from your hand and/or field. You can Tribute this card, then target 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" in your Graveyard; Special Summon them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75347539.jpg",
+        "rarity": "Prismatic Secret Rare"
+      }
+    ]
+  }
+}

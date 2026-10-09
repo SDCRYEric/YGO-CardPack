@@ -1,0 +1,15 @@
+{
+  "setName": "EFootball collaboration cards",
+  "pool": {
+    "Normal Parallel Rare": [
+      {
+        "id": 85138716,
+        "name": "Rescue Rabbit",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the Deck. You can banish this face-up card you control; Special Summon 2 Level 4 or lower Normal Monsters with the same name from your Deck, but destroy them during the End Phase. You can only use this effect of \"Rescue Rabbit\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85138716.jpg",
+        "rarity": "Normal Parallel Rare"
+      }
+    ]
+  }
+}

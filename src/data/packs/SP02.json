@@ -1,0 +1,15 @@
+{
+  "setName": "Cyberdark Impact Sneak Peek Participation Card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 62271284,
+        "name": "Justi-Break",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent declares an attack against a face-up Normal Monster you control. Destroy all monsters on the field, except face-up Attack Position Normal Monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62271284.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

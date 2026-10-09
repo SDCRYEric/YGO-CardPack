@@ -1,0 +1,493 @@
+{
+  "setName": "The Lost Millennium",
+  "pool": {
+    "Rare": [
+      {
+        "id": 10509340,
+        "name": "Ancient Gear Beast",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10509340.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 18654201,
+        "name": "Criosphinx",
+        "type": "Effect Monster",
+        "desc": "When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18654201.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 48092532,
+        "name": "D.D. Survivor",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48092532.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 99414168,
+        "name": "Elemental Mistress Doriado",
+        "type": "Ritual Effect Monster",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Doriado's Blessing\". The Attribute of this card is also treated as WIND, WATER, FIRE, and EARTH while it is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99414168.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 40937767,
+        "name": "Grave Ohja",
+        "type": "Effect Monster",
+        "desc": "While there is a face-down Defense Position monster(s) on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40937767.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 22020907,
+        "name": "Hero Signal",
+        "type": "Trap Card",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22020907.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 21908319,
+        "name": "Kozaky's Self-Destruct Button",
+        "type": "Trap Card",
+        "desc": "Inflict 1000 damage to the player who destroyed this Set card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21908319.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 96458440,
+        "name": "Legendary Black Belt",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". When the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96458440.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 75487237,
+        "name": "Mid Shield Gardna",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. Negate the activation of any Spell Card that targets this 1 face-down monster. At that time, flip this card into face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75487237.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 82482194,
+        "name": "Millennium Scorpion",
+        "type": "Effect Monster",
+        "desc": "Each time this card destroys 1 monster on your opponent's side of the field by battle and sends it to the Graveyard, this card gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82482194.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 23842445,
+        "name": "Nitro Unit",
+        "type": "Spell Card",
+        "desc": "Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23842445.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 56058888,
+        "name": "Royal Surrender",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent activates a Continuous Trap Card. Negate the activation and the effect of the card and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56058888.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 10069180,
+        "name": "Spell-Stopping Statute",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10069180.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 83675475,
+        "name": "Token Feastevil",
+        "type": "Trap Card",
+        "desc": "When a Token(s) is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, inflict 300 damage to your opponent for each Token destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83675475.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 83104731,
+        "name": "Ancient Gear Golem",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83104731.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 35809262,
+        "name": "Elemental HERO Flame Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35809262.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 61204971,
+        "name": "Elemental HERO Thunder Giant",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61204971.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 62420419,
+        "name": "Reshef the Dark Being",
+        "type": "Ritual Effect Monster",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Final Ritual of the Ancients\". Once per turn, by discarding 1 Spell Card from your hand, take control of 1 monster on your opponent's side of the field until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62420419.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 56094445,
+        "name": "Ancient Gear Soldier",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56094445.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37970940,
+        "name": "Aussa the Earth Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37970940.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61181383,
+        "name": "Battery Charger",
+        "type": "Spell Card",
+        "desc": "Pay 500 Life Points. Special Summon 1 \"Batteryman\" monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61181383.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63142001,
+        "name": "Batteryman AA",
+        "type": "Effect Monster",
+        "desc": "If all \"Batteryman AA\"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all \"Batteryman AA\"(s) you control are in Defense Position, this card gains 1000 DEF for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63142001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9637706,
+        "name": "Des Wombat",
+        "type": "Effect Monster",
+        "desc": "Any damage to you from a card effect becomes 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9637706.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23965037,
+        "name": "Doriado's Blessing",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Elemental Mistress Doriado\". You must also Tribute monsters whose total Levels equal 3 or more from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23965037.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34187685,
+        "name": "Double Attack",
+        "type": "Spell Card",
+        "desc": "Discard 1 Monster Card from your hand to the Graveyard. Select 1 monster on your side of the field with a lower Level than the discarded monster. The selected monster can attack twice this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34187685.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13532663,
+        "name": "Dummy Golem",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13532663.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21844577,
+        "name": "Elemental HERO Avian",
+        "type": "Normal Monster",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21844577.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58932616,
+        "name": "Elemental HERO Burstinatrix",
+        "type": "Normal Monster",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58932616.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84327329,
+        "name": "Elemental HERO Clayman",
+        "type": "Normal Monster",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84327329.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20721928,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74364659,
+        "name": "Eria the Water Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 face-up WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74364659.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60369732,
+        "name": "Final Ritual of the Ancients",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Reshef the Dark Being\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60369732.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98792570,
+        "name": "Gift of the Martyr",
+        "type": "Spell Card",
+        "desc": "Send 1 monster on your side of the field to the Graveyard. Select 1 monster on your side of the field. The selected monster gains ATK equal to the ATK of the sent monster until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98792570.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57270476,
+        "name": "Grave Lure",
+        "type": "Trap Card",
+        "desc": "Turn the top card of your opponent's Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57270476.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75209824,
+        "name": "Guardian Statue",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, return 1 monster on your opponent's side of the field to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75209824.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 759393,
+        "name": "Hiita the Fire Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96631852,
+        "name": "Impenetrable Formation",
+        "type": "Spell Card",
+        "desc": "Select 1 monster on your side of the field to activate this card. While you have 2 or more monsters on your side of the field, and all monsters on your side of the field are in Defense Position, the selected monster gains 700 DEF. When the selected monster is removed from the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96631852.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97570038,
+        "name": "Kaminote Blow",
+        "type": "Spell Card",
+        "desc": "Activate only if there is at least 1 face-up \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\" on your side of the field. Destroy the monster(s) that battle with these monsters on your side of the field this turn, at the end of each Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97570038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36021814,
+        "name": "King of the Skull Servants",
+        "type": "Effect Monster",
+        "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36021814.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84397023,
+        "name": "Level Conversion Lab",
+        "type": "Trap Card",
+        "desc": "Select 1 monster in your hand and show it to your opponent, then roll a six-sided die. If the result is 1, send the selected monster to the Graveyard. If the result is 2-6, the Level of the selected monster becomes equal to the result until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84397023.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82452993,
+        "name": "Lone Wolf",
+        "type": "Trap Card",
+        "desc": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82452993.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45871897,
+        "name": "Lost Guardian",
+        "type": "Effect Monster",
+        "desc": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45871897.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2694423,
+        "name": "Medusa Worm",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, destroy 1 monster on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2694423.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76321376,
+        "name": "Mine Golem",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76321376.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85519211,
+        "name": "Minefield Eruption",
+        "type": "Trap Card",
+        "desc": "Inflict 1000 damage to your opponent for each face-up \"Mine Golem\" on your side of the field. After that, destroy all face-up \"Mine Golem\"(s) on your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85519211.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58392024,
+        "name": "Mispolymerization",
+        "type": "Trap Card",
+        "desc": "Activate only when a Fusion Monster is Special Summoned. Return all face-up Fusion Monsters to their respective Extra Decks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58392024.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45159319,
+        "name": "Moai Interceptor Cannons",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45159319.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3810071,
+        "name": "Monk Fighter",
+        "type": "Effect Monster",
+        "desc": "Battle Damage to this card's controller from a battle involving this card becomes 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3810071.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58015506,
+        "name": "Pikeru's Second Sight",
+        "type": "Trap Card",
+        "desc": "Until your opponent's second End Phase, your opponent shows you all cards that they draw before adding them to their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58015506.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20781762,
+        "name": "Rock Bombardment",
+        "type": "Trap Card",
+        "desc": "Send 1 Rock monster from your Deck to the GY; inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20781762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59237154,
+        "name": "Shifting Shadows",
+        "type": "Spell Card",
+        "desc": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59237154.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1571945,
+        "name": "White Ninja",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1571945.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37744402,
+        "name": "Wynn the Wind Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37744402.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 87910978,
+        "name": "Brain Control",
+        "type": "Spell Card",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87910978.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42664989,
+        "name": "Card of Sanctity",
+        "type": "Spell Card",
+        "desc": "Banish all other cards you control and in your hand (min. 1 from each); draw until you have 2 cards in your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42664989.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 82260502,
+        "name": "Hieracosphinx",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82260502.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 49814180,
+        "name": "Master Monk",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Monk Fighter\". This card can attack twice during the same turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49814180.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 71544954,
+        "name": "Megarock Dragon",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71544954.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 19877898,
+        "name": "Ultimate Insect LV7",
+        "type": "Effect Monster",
+        "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19877898.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 57116034,
+        "name": "Winged Kuriboh",
+        "type": "Effect Monster",
+        "desc": "If this card on the field is destroyed and sent to the Graveyard: For the rest of this turn, you take no battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57116034.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

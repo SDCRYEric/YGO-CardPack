@@ -1,0 +1,15 @@
+{
+  "setName": "Hobby League 3 participation card A",
+  "pool": {
+    "Ultra Parallel Rare": [
+      {
+        "id": 97017120,
+        "name": "Giant Rat",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97017120.jpg",
+        "rarity": "Ultra Parallel Rare"
+      }
+    ]
+  }
+}

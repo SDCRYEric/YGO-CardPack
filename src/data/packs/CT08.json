@@ -1,0 +1,81 @@
+{
+  "setName": "Collectible Tins 2011 Wave 1",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 59509952,
+        "name": "Archlord Kristya",
+        "type": "Effect Monster",
+        "desc": "If you have exactly 4 Fairy monsters in your GY, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy monster in your GY; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the GY, place it on top of the Deck, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59509952.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 78651105,
+        "name": "Beast King Barbaros",
+        "type": "Effect Monster",
+        "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78651105.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 11366199,
+        "name": "Dark Simorgh",
+        "type": "Effect Monster",
+        "desc": "While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11366199.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16304628,
+        "name": "Elemental HERO Gaia",
+        "type": "Fusion Monster",
+        "desc": "1 \"Elemental HERO\" monster + 1 EARTH monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16304628.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 12510878,
+        "name": "Neo-Parshath, the Sky Paladin",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your LP is higher than your opponent's, this card gains ATK/DEF equal to the difference in LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12510878.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 98645731,
+        "name": "Pot of Duality",
+        "type": "Spell Card",
+        "desc": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98645731.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 13521194,
+        "name": "Stygian Street Patrol",
+        "type": "Effect Monster",
+        "desc": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13521194.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 69610924,
+        "name": "Number 17: Leviathan Dragon",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69610924.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 68597372,
+        "name": "Wind-Up Zenmaister",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\r\nThis card gains 300 ATK for each Xyz Material attached to this card. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster you control; change that face-up monster to face-down Defense Position, and if you do, during the End Phase of this turn, change it to face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68597372.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

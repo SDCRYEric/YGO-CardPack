@@ -1,0 +1,23 @@
+{
+  "setName": "Yu-Gi-Oh! World Championship 2017 prize cards",
+  "pool": {
+    "Extra Secret": [
+      {
+        "id": 662857,
+        "name": "Iron Knight of Revolution",
+        "type": "Link Monster",
+        "desc": "3+ Machine Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/662857.jpg",
+        "rarity": "Extra Secret"
+      },
+      {
+        "id": 662853,
+        "name": "Sanctity of Dragon",
+        "type": "Link Monster",
+        "desc": "3+ Dragon Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/662853.jpg",
+        "rarity": "Extra Secret"
+      }
+    ]
+  }
+}

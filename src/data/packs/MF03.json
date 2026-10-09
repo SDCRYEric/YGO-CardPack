@@ -1,0 +1,95 @@
+{
+  "setName": "Mattel Action Figure promotional cards: Series 3",
+  "pool": {
+    "Normal Parallel Rare": [
+      {
+        "id": 83104731,
+        "name": "Ancient Gear Golem",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83104731.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 50916353,
+        "name": "Chthonian Soldier",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by an opponent's attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50916353.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 21844576,
+        "name": "Elemental HERO Avian",
+        "type": "Normal Monster",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21844576.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 59793705,
+        "name": "Elemental HERO Bladedge",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 79979666,
+        "name": "Elemental HERO Bubbleman",
+        "type": "Effect Monster",
+        "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79979666.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 58932615,
+        "name": "Elemental HERO Burstinatrix",
+        "type": "Normal Monster",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58932615.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 84327329,
+        "name": "Elemental HERO Clayman",
+        "type": "Normal Monster",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84327329.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 35809262,
+        "name": "Elemental HERO Flame Wingman",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35809262.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 20721928,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721928.jpg",
+        "rarity": "Normal Parallel Rare"
+      },
+      {
+        "id": 98585345,
+        "name": "Winged Kuriboh LV10",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98585345.jpg",
+        "rarity": "Normal Parallel Rare"
+      }
+    ]
+  }
+}

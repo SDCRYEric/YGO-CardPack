@@ -1,0 +1,15 @@
+{
+  "setName": "Crocs collaboration card",
+  "pool": {
+    "Normal Parallel Rare": [
+      {
+        "id": 77699839,
+        "name": "Crocodile",
+        "type": "Normal Monster",
+        "desc": "''Thirteen stripes on its belly. Thirteen holes on its feet. Wherever people express themselves without hesitation, the crocodile is said to appear with a quiet grin.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77699839.jpg",
+        "rarity": "Normal Parallel Rare"
+      }
+    ]
+  }
+}

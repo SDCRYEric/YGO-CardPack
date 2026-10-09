@@ -1,0 +1,355 @@
+{
+  "setName": "Starter Deck: Link Strike",
+  "pool": {
+    "Common": [
+      {
+        "id": 19665973,
+        "name": "Battle Fader",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, then end the Battle Phase. If Summoned this way, banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19665973.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78651105,
+        "name": "Beast King Barbaros",
+        "type": "Effect Monster",
+        "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78651105.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36211150,
+        "name": "Bitron",
+        "type": "Normal Monster",
+        "desc": "A new species found in electronic space. There's not much information on it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36211150.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14087893,
+        "name": "Book of Moon",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44947065,
+        "name": "Burden of the Mighty",
+        "type": "Spell Card",
+        "desc": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44947065.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97077563,
+        "name": "Call of the Haunted",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45812361,
+        "name": "Cardcar D",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45812361.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "type": "Trap Card",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70095155,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095155.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61583217,
+        "name": "Cynet Universe",
+        "type": "Spell Card",
+        "desc": "All Link Monsters you control gain 300 ATK. Once per turn: You can target 1 monster in the GY; shuffle it into the Deck. If this card on the field is destroyed by a card effect: Send all monsters in the Extra Monster Zones to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61583217.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77538567,
+        "name": "Dark Bribe",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77538567.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62706865,
+        "name": "Draconnet",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 2 or lower Normal Monster from your hand or Deck in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62706865.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97268402,
+        "name": "Effect Veiler",
+        "type": "Tuner Monster",
+        "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97268402.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8814959,
+        "name": "Evilswarm Mandragora",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8814959.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63749102,
+        "name": "Exarion Universe",
+        "type": "Effect Monster",
+        "desc": "During your Battle Step, if this card attacks a Defense Position monster: You can make this card lose exactly 400 ATK, and if it does, it will inflict piercing battle damage. These effects last until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63749102.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50078509,
+        "name": "Fiendish Chain",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27243130,
+        "name": "Forbidden Lance",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27243130.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11066358,
+        "name": "Galaxy Serpent",
+        "type": "Normal Tuner Monster",
+        "desc": "Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11066358.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98954106,
+        "name": "Jar of Avarice",
+        "type": "Trap Card",
+        "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98954106.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16404809,
+        "name": "Kuribandit",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2460565,
+        "name": "Marauding Captain",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2460565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31305911,
+        "name": "Marshmallon",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31305911.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44095762,
+        "name": "Mirror Force",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74848038,
+        "name": "Monster Reincarnation",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18108166,
+        "name": "Mystery Shell Dragon",
+        "type": "Normal Monster",
+        "desc": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18108166.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65367484,
+        "name": "Photon Thrasher",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98645731,
+        "name": "Pot of Duality",
+        "type": "Spell Card",
+        "desc": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98645731.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83555666,
+        "name": "Ring of Destruction",
+        "type": "Trap Card",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83555666.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21502796,
+        "name": "Ryko, Lightsworn Hunter",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Apply these effects (simultaneously).\r\n● You can destroy 1 card on the field.\r\n● Send the top 3 cards of your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21502796.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26202165,
+        "name": "Sangan",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26202165.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17626381,
+        "name": "Supply Squad",
+        "type": "Spell Card",
+        "desc": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17626381.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18964575,
+        "name": "Swift Scarecrow",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18964575.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56747793,
+        "name": "United We Stand",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56747793.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 1861630,
+        "name": "Decode Talker",
+        "type": "Link Monster",
+        "desc": "2+ Effect Monsters\r\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1861630.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 35595518,
+        "name": "Linkslayer",
+        "type": "Effect Monster",
+        "desc": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can discard up to 2 cards, then target that many Spells/Traps on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35595518.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 34472920,
+        "name": "Honeybot",
+        "type": "Link Monster",
+        "desc": "2 Cyberse monsters\r\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34472920.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 98978921,
+        "name": "Link Spider",
+        "type": "Link Monster",
+        "desc": "1 Normal Monster\r\nOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98978921.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 9190563,
+        "name": "RAM Clouder",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 monster, then target 1 Cyberse monster in your GY; Special Summon it. You can only use this effect of \"RAM Clouder\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9190563.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

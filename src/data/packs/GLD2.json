@@ -1,0 +1,409 @@
+{
+  "setName": "Gold Series 2009",
+  "pool": {
+    "Common": [
+      {
+        "id": 20374520,
+        "name": "Begone, Knave!",
+        "type": "Trap Card",
+        "desc": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20374520.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "type": "Trap Card",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21007444,
+        "name": "Double-Edged Sword Technique",
+        "type": "Trap Card",
+        "desc": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters' ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21007444.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69884162,
+        "name": "Elemental HERO Neos Alius",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69884162.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26725158,
+        "name": "Exile of the Wicked",
+        "type": "Spell Card",
+        "desc": "Destroy all Fiend monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26725158.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42703248,
+        "name": "Giant Trunade",
+        "type": "Spell Card",
+        "desc": "Return all Spell and Trap Cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60229110,
+        "name": "Granmarg the Rock Monarch",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60229110.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62543393,
+        "name": "Lekunga",
+        "type": "Effect Monster",
+        "desc": "You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62543393.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40320754,
+        "name": "Lord Poison",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except \"Lord Poison\"; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40320754.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4929256,
+        "name": "Mobius the Frost Monarch",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71181155,
+        "name": "Phantom Beast Cross-Wing",
+        "type": "Effect Monster",
+        "desc": "While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71181155.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70969517,
+        "name": "Phantom Beast Rock-Lizard",
+        "type": "Effect Monster",
+        "desc": "If you're Tributing a \"Phantom Beast\" monster or \"Gazelle the King of Mythical Beasts\", this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to the Graveyard by an opponent's card effect, inflict 2000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70969517.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34961968,
+        "name": "Phantom Beast Thunder-Pegasus",
+        "type": "Effect Monster",
+        "desc": "When your opponent's monster declares an attack, you can remove from play this card from your Graveyard to make the Battle Damage taken by 1 \"Gazelle the King of Mythical Beasts\" or \"Phantom Beast\" monster 0. When this happens, that monster is not destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34961968.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7576264,
+        "name": "Phantom Beast Wild-Horn",
+        "type": "Effect Monster",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7576264.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46874015,
+        "name": "Return of the Six Samurai",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Six Samurai\" monster in your GY; Special Summon that target. Destroy it during the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46874015.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39180960,
+        "name": "Rigorous Reaver",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39180960.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11102908,
+        "name": "Shien's Castle of Mist",
+        "type": "Spell Card",
+        "desc": "When a \"Six Samurai\" monster is attacked, the attacking monster loses 500 ATK during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11102908.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72345736,
+        "name": "Six Samurai United",
+        "type": "Spell Card",
+        "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card (max. 2). You can send this card to the GY; draw 1 card for each Bushido Counter on this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72345736.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63035430,
+        "name": "Skyscraper",
+        "type": "Spell Card",
+        "desc": "If an \"Elemental HERO\" monster attacks a monster that has a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63035430.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84290642,
+        "name": "Snipe Hunter",
+        "type": "Effect Monster",
+        "desc": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84290642.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27782503,
+        "name": "The Six Samurai - Irou",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27782503.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90397998,
+        "name": "The Six Samurai - Kamon",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90397998.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31904181,
+        "name": "The Six Samurai - Nisashi",
+        "type": "Effect Monster",
+        "desc": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack twice during each Battle Phase. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31904181.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64398890,
+        "name": "The Six Samurai - Yaichi",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 Set Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64398890.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69025477,
+        "name": "The Six Samurai - Yariza",
+        "type": "Effect Monster",
+        "desc": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69025477.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95519486,
+        "name": "The Six Samurai - Zanji",
+        "type": "Effect Monster",
+        "desc": "At the end of the Damage Step, if this card attacked: Destroy the monster this card attacked. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95519486.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26205777,
+        "name": "Thestalos the Firestorm Monarch",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned: Discard 1 random card from your opponent's hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26205777.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12538374,
+        "name": "Treeborn Frog",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Standby Phase, if this card is in your Graveyard and you do not control \"Treeborn Frog\": You can Special Summon this card. You must control no Spell/Trap Cards to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12538374.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33365932,
+        "name": "Volcanic Shell",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33365932.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90873992,
+        "name": "Warrior Elimination",
+        "type": "Spell Card",
+        "desc": "Destroy all Warrior monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90873992.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18430390,
+        "name": "Winged Rhynos",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18430390.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51945556,
+        "name": "Zaborg the Thunder Monarch",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51945556.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Gold Rare": [
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 9748752,
+        "name": "Caius the Shadow Monarch",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9748752.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 65192027,
+        "name": "Dark Armed Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65192027.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 81059524,
+        "name": "Des Volstgalph",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81059524.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 80908502,
+        "name": "Elemental HERO Captain Gold",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the Graveyard; add 1 \"Skyscraper\" from your Deck to your hand. If \"Skyscraper\" is not face-up on the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80908502.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 77565204,
+        "name": "Future Fusion",
+        "type": "Spell Card",
+        "desc": "During your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the GY. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77565204.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 75500286,
+        "name": "Gold Sarcophagus",
+        "type": "Spell Card",
+        "desc": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 37520316,
+        "name": "Mind Control",
+        "type": "Spell Card",
+        "desc": "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37520316.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 4906301,
+        "name": "Necro Gardna",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4906301.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 63356631,
+        "name": "Phoenix Wing Wind Blast",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 12298909,
+        "name": "Prime Material Dragon",
+        "type": "Effect Monster",
+        "desc": "Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12298909.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 73125233,
+        "name": "Raiza the Storm Monarch",
+        "type": "Effect Monster",
+        "desc": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73125233.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 54040221,
+        "name": "Royal Firestorm Guards",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Target 4 Pyro-Type monsters in your Graveyard; shuffle all 4 into the Deck, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54040221.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 26202165,
+        "name": "Sangan",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26202165.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 41420027,
+        "name": "Solemn Judgment",
+        "type": "Trap Card",
+        "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41420027.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 92373006,
+        "name": "Test Tiger",
+        "type": "Effect Monster",
+        "desc": "If you control a face-up \"Gladiator Beast\" monster, you can Special Summon this card (from your hand). You can Tribute this card to target 1 face-up \"Gladiator Beast\" monster you control; shuffle that target into the Deck, then Special Summon 1 \"Gladiator Beast\" from your Deck, and treat it as if it was Special Summoned by the effect of a \"Gladiator Beast\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92373006.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 90434926,
+        "name": "Veil of Darkness",
+        "type": "Spell Card",
+        "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90434926.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 76459806,
+        "name": "Volcanic Rocket",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76459806.jpg",
+        "rarity": "Gold Rare"
+      }
+    ]
+  }
+}

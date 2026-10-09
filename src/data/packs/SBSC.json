@@ -1,0 +1,411 @@
+{
+  "setName": "Speed Duel: Scars of Battle",
+  "pool": {
+    "Common": [
+      {
+        "id": 86198326,
+        "name": "7 Completed",
+        "type": "Spell Card",
+        "desc": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86198326.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32207100,
+        "name": "A Major Upset",
+        "type": "Trap Card",
+        "desc": "Tribute 1 face-up Attack Position Level 2 or lower monster you control; return all Level 7 or higher Special Summoned monsters to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32207100.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36629203,
+        "name": "Ally of Justice Core Destroyer",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36629203.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26302522,
+        "name": "Blast Sphere",
+        "type": "Effect Monster",
+        "desc": "If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase: Destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26302522.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35282433,
+        "name": "Blue-Eyed Silver Zombie",
+        "type": "Normal Monster",
+        "desc": "The beams from the eyes of this creature are said to turn enemies into zombies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35282433.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8715625,
+        "name": "Bokoichi the Freightening Car",
+        "type": "Normal Monster",
+        "desc": "A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8715625.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63851864,
+        "name": "Break! Draw!",
+        "type": "Spell Card",
+        "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63851864.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10375182,
+        "name": "Command Knight",
+        "type": "Effect Monster",
+        "desc": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10375182.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48588176,
+        "name": "Danipon",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1000 or less DEF from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48588176.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58818411,
+        "name": "Empress Mantis",
+        "type": "Normal Monster",
+        "desc": "Queen of an army of giant mantises whose command moves legions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58818411.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95051344,
+        "name": "Eternal Rest",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters equipped with Equip Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95051344.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6178850,
+        "name": "Fighting Spirit",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6178850.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53581214,
+        "name": "Fire Reaper",
+        "type": "Normal Monster",
+        "desc": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53581214.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62337487,
+        "name": "Fortress Whale",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62337487.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77454922,
+        "name": "Fortress Whale's Oath",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Fortress Whale\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77454922.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19737320,
+        "name": "Gatekeeper",
+        "type": "Normal Monster",
+        "desc": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19737320.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32022366,
+        "name": "Gravity Axe - Grarl",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32022366.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25171661,
+        "name": "Infernity Dwarf",
+        "type": "Effect Monster",
+        "desc": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25171661.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3492538,
+        "name": "Insect Armor with Laser Cannon",
+        "type": "Spell Card",
+        "desc": "Equip only to an Insect monster. It gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3492538.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73431236,
+        "name": "Iron Blacksmith Kotetsu",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Add 1 Equip Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73431236.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62701967,
+        "name": "Jurrac Tyrannus",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 Dinosaur monster; this card gains 500 ATK. If this card destroys an opponent's monster by battle and sends it to the GY: This card gains 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62701967.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51934376,
+        "name": "Kabazauls",
+        "type": "Normal Monster",
+        "desc": "A huge monster in the shape of a hippopotamus. The sneezing from his gigantic body is so fierce that people mistake it for a hurricane.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51934376.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87322378,
+        "name": "Launcher Spider",
+        "type": "Normal Monster",
+        "desc": "A mechanical spider with rocket launchers capable of random fire.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87322378.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25769732,
+        "name": "Machine Conversion Factory",
+        "type": "Spell Card",
+        "desc": "Equip only to a Machine monster. It gains 300 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25769732.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7802006,
+        "name": "Magical Plant Mandragola",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7802006.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25727454,
+        "name": "Master Craftsman Gamil",
+        "type": "Effect Monster",
+        "desc": "During the Damage Step, when a face-up monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 300 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25727454.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24433920,
+        "name": "Pendulum Machine",
+        "type": "Normal Monster",
+        "desc": "A horrible torture machine with a large pendulum blade.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24433920.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75417459,
+        "name": "Release Restraint",
+        "type": "Spell Card",
+        "desc": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75417459.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26533075,
+        "name": "Security Orb",
+        "type": "Trap Card",
+        "desc": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26533075.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27655513,
+        "name": "Skreech",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27655513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3797883,
+        "name": "Slot Machine",
+        "type": "Normal Monster",
+        "desc": "The machine's ability is said to vary according to its slot results.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3797883.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75014062,
+        "name": "Spell Power Grasp",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75014062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18807109,
+        "name": "Spellbinding Circle",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18807109.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73680966,
+        "name": "The Beginning of the End",
+        "type": "Spell Card",
+        "desc": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73680966.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 300103003,
+        "name": "Bandit",
+        "type": "Skill Card",
+        "desc": "If your LP are 1500 or less, activate this Skill. Take control of 1 Set card in your opponent's Spell & Trap Zone. This Skill can only be used once per Duel. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300103003.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81480460,
+        "name": "Barrel Dragon",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81480460.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 82099401,
+        "name": "Crystal Seer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82099401.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 45462639,
+        "name": "Dark Red Enchanter",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45462639.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 87621407,
+        "name": "Dekoichi the Battlechanted Locomotive",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card, then draw 1 additional card for each face-up \"Bokoichi the Freightening Car\" you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87621407.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 300103004,
+        "name": "Servants of the Fallen King",
+        "type": "Skill Card",
+        "desc": "Once per turn, you can send 1 Level 3 or lower Zombie Normal Monster from your Deck to the GY. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300103004.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 300103002,
+        "name": "Spell Proof Armor",
+        "type": "Skill Card",
+        "desc": "[Activate this Skill during your Main Phase.] \r\n\r\nAll Machine monsters you control are unaffected by your opponent's Spell effects. You can Normal Summon Machine Normal Monsters with 1 less Tribute. If a non-Machine monster is in your GY, flip this Skill over. This Skill can only be used once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300103002.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55013285,
+        "name": "Troop Dragon",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55013285.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 2204140,
+        "name": "Book of Life",
+        "type": "Spell Card",
+        "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2204140.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 300103005,
+        "name": "Double Evolution Pill (Skill Card)",
+        "type": "Skill Card",
+        "desc": "At the start of your Draw Phase, instead of drawing a card, you can pay 1500 LP to activate this Skill. Banish 1 Dinosaur monster and 1 non-Dinosaur monster from your hand and/or GY; Special Summon 1 Level 7 or higher Dinosaur monster from your hand or Deck, ignoring its Summoning conditions. This Skill can only be used once per Duel. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300103005.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 57046845,
+        "name": "Gearfried the Swordmaster",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 300103001,
+        "name": "Heavy Metal Raiders (Skill Card)",
+        "type": "Skill Card",
+        "desc": "The first time each DARK Machine monster you control would be destroyed by battle each turn, it is not destroyed, and if you took battle damage from the battle, it gains that much ATK after damage calculation, and keeps that ATK gain as long as this card is on the field. Once per turn, if a monster you control that was originally a DARK Machine destroys a card(s) on the field by battle or card effect: You can Special Summon 1 DARK Machine monster from your hand. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300103001.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 28933734,
+        "name": "Mask of Darkness",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28933734.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 68540058,
+        "name": "Metalmorph",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68540058.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 89882100,
+        "name": "Night Beam",
+        "type": "Spell Card",
+        "desc": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89882100.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 53839837,
+        "name": "Vampire Lord",
+        "type": "Effect Monster",
+        "desc": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53839837.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

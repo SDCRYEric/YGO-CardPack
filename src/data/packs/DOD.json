@@ -1,0 +1,33 @@
+{
+  "setName": "Yu-Gi-Oh! The Dawn of Destiny promotional cards",
+  "pool": {
+    "Prismatic Secret Rare": [
+      {
+        "id": 92377303,
+        "name": "Dark Sage",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92377303.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 77754944,
+        "name": "Widespread Ruin",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77754944.jpg",
+        "rarity": "Prismatic Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 48642904,
+        "name": "Mesmeric Control",
+        "type": "Spell Card",
+        "desc": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48642904.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

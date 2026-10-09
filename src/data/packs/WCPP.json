@@ -1,0 +1,167 @@
+{
+  "setName": "World Championship 2010 Card Pack",
+  "pool": {
+    "Rare": [
+      {
+        "id": 64428736,
+        "name": "Alligator's Sword",
+        "type": "Normal Monster",
+        "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64428736.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 3366982,
+        "name": "Alligator's Sword Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3366982.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 50933533,
+        "name": "Ancient Gear Gadjiltron Dragon",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n● Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50933533.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 29436665,
+        "name": "Dark Eradicator Warlock",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29436665.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 97973387,
+        "name": "Droll Bird",
+        "type": "Normal Monster",
+        "desc": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97973387.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 55737443,
+        "name": "Exxod, Master of The Guard",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"sphinx\" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55737443.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 69933858,
+        "name": "Gilford the Legend",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69933858.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 55691901,
+        "name": "Great Bill",
+        "type": "Normal Monster",
+        "desc": "Nothing escapes from this beast's massive mouth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55691901.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 19847532,
+        "name": "Infernal Flame Emperor",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19847532.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 1929294,
+        "name": "Key Mace",
+        "type": "Normal Monster",
+        "desc": "Enemies' hearts will melt at the sight of this small fairy's cuteness.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1929294.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 20541432,
+        "name": "Key Mace #2",
+        "type": "Normal Monster",
+        "desc": "This fiend brings out the worst in everyone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20541432.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 84133008,
+        "name": "Monster Eye",
+        "type": "Effect Monster",
+        "desc": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84133008.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 58074572,
+        "name": "Mooyan Curry",
+        "type": "Spell Card",
+        "desc": "Choose 1 player; that player gains 200 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58074572.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 56713552,
+        "name": "Obese Marmot of Nefariousness",
+        "type": "Normal Monster",
+        "desc": "An ill-mannered field varmint that will sink its teeth into anything.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56713552.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 10485110,
+        "name": "Ocean Dragon Lord - Neo-Daedalus",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10485110.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 96561011,
+        "name": "Red-Eyes Darkness Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes B. Dragon\" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96561011.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 14989021,
+        "name": "Simorgh, Bird of Divinity",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14989021.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 85520851,
+        "name": "Super Conductor Tyranno",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn this effect is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85520851.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 22056710,
+        "name": "Vampire Genesis",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Vampire Lord\" you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22056710.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 92391084,
+        "name": "Wilmee",
+        "type": "Normal Monster",
+        "desc": "A rabid rabbit that shears through opposition with its sharp skewers.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92391084.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

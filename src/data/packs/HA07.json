@@ -1,0 +1,569 @@
+{
+  "setName": "Hidden Arsenal 7: Knight of Stars",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 42969214,
+        "name": "Aye-Iron",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can have this card gain 400 ATK. This card cannot attack the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42969214.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16796157,
+        "name": "Beast-Warrior Puma",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; add 1 \"D.D. Esper Star Sparrow\" from your Deck or Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16796157.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43513897,
+        "name": "Constellar Acubens",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: All \"Constellar\" monsters you currently control gain 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43513897.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15871676,
+        "name": "Constellar Aldebaran",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 \"Constellar\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15871676.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41269771,
+        "name": "Constellar Algiedi",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 \"Constellar\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41269771.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16906241,
+        "name": "Constellar Alrescha",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Constellar\" monster from your hand in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16906241.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42391240,
+        "name": "Constellar Antares",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can target 1 \"Constellar\" monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42391240.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17129783,
+        "name": "Constellar Leonis",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase, you can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17129783.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63545861,
+        "name": "Constellar Meteor",
+        "type": "Trap Card",
+        "desc": "During the turn this card is activated, if an opponent's monster battles a \"Constellar\" monster, and the opponent's monster is not destroyed, shuffle it into the Deck at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63545861.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 78364470,
+        "name": "Constellar Pollux",
+        "type": "Effect Monster",
+        "desc": "During the turn this card was Normal Summoned, you can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78364470.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 70624184,
+        "name": "Constellar Rasalhague",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon 1 \"Constellar\" monster from your hand or Graveyard in face-up Defense Position, except \"Constellar Rasalhague\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70624184.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 78486968,
+        "name": "Constellar Sheratan",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78486968.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44635489,
+        "name": "Constellar Siat",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can target 1 \"Constellar\" monster you control or in your Graveyard; this card's Level becomes the current Level of that monster. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a \"Constellar\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44635489.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90156158,
+        "name": "Constellar Star Cradle",
+        "type": "Spell Card",
+        "desc": "Target 2 \"Constellar\" monsters in your Graveyard; add those targets to your hand. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90156158.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40143123,
+        "name": "Constellar Virgo",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 5 \"Constellar\" monster from your hand in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40143123.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15574615,
+        "name": "D.D. Jet Iron",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\", and \"Ironhammer the Giant\" from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\" and \"Ironhammer the Giant\" in your Graveyard; Special Summon those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15574615.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 8414337,
+        "name": "Dust Storm of Gusto",
+        "type": "Trap Card",
+        "desc": "Your opponent cannot activate cards or effects when \"Gusto\" monsters you control declare their attacks this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8414337.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42679662,
+        "name": "Evilswarm Azzathoth",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42679662.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79785958,
+        "name": "Evilswarm Castor",
+        "type": "Effect Monster",
+        "desc": "During the turn this card was Normal Summoned, you can Normal Summon 1 \"lswarm\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79785958.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77841719,
+        "name": "Evilswarm Coppelia",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77841719.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 31456110,
+        "name": "Evilswarm Golem",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 Level 5 or higher non-DARK monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31456110.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77542832,
+        "name": "Evilswarm Heliotrope",
+        "type": "Normal Monster",
+        "desc": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77542832.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35209994,
+        "name": "Evilswarm Hraesvelg",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 face-up card your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35209994.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40921545,
+        "name": "Evilswarm Ketos",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40921545.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 8814959,
+        "name": "Evilswarm Mandragora",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8814959.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 359563,
+        "name": "Evilswarm Nightmare",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 DARK monsters\r\nWhen your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; change that Special Summoned monster(s) to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/359563.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 72429240,
+        "name": "Evilswarm O'lantern",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72429240.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 5284653,
+        "name": "Evilswarm Obliviwisp",
+        "type": "Effect Monster",
+        "desc": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5284653.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4058065,
+        "name": "Evilswarm Salamandra",
+        "type": "Effect Monster",
+        "desc": "Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until the end of your opponent's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4058065.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3536537,
+        "name": "Evilswarm Zahak",
+        "type": "Effect Monster",
+        "desc": "If this face-up card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Target 1 Special Summoned Level 5 or higher monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3536537.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 72029628,
+        "name": "Fragment Fusion",
+        "type": "Trap Card",
+        "desc": "Banish from your Graveyard the Fusion Material Monsters that are listed on a \"Gem-Knight\" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72029628.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 45458027,
+        "name": "Gearspring Spirit",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45458027.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81846636,
+        "name": "Gem-Knight Lazuli",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81846636.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43114901,
+        "name": "Gem-Knight Sardonyx",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 \"Gem-Knight\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43114901.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3113836,
+        "name": "Gem-Knight Seraphinite",
+        "type": "Fusion Monster",
+        "desc": "1 \"Gem-Knight\" monster + 1 LIGHT monster\r\nMust first be Fusion Summoned with the above Fusion Materials. During your Main Phase, you can Normal Summon/Set 1 monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3113836.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 8692301,
+        "name": "Gem-Knight Zirconia",
+        "type": "Fusion Monster",
+        "desc": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8692301.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16693254,
+        "name": "Gishki Avance",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16693254.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17241370,
+        "name": "Gishki Natalia",
+        "type": "Spirit Monster",
+        "desc": "Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 \"Gishki\" monster in your Graveyard; return that target to the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17241370.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 9236985,
+        "name": "Gishki Photomirror",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9236985.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 30334522,
+        "name": "Gishki Psychelone",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30334522.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42082363,
+        "name": "Gusto Griffin",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the hand to your Graveyard: You can Special Summon 1 \"Gusto\" monster from your Deck. You can only use the effect of \"Gusto Griffin\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42082363.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90934570,
+        "name": "Infestation Terminus",
+        "type": "Trap Card",
+        "desc": "Target 1 \"lswarm\" monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90934570.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79185500,
+        "name": "Ironhammer the Giant",
+        "type": "Effect Monster",
+        "desc": "If you control \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\" and \"Phoenix Beast Gairuda\", you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot change its battle position. Once per turn: You can target 1 monster you control; it can attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79185500.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89609515,
+        "name": "Laval Phlogis",
+        "type": "Effect Monster",
+        "desc": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89609515.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43791861,
+        "name": "Phoenix Beast Gairuda",
+        "type": "Effect Monster",
+        "desc": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43791861.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18063928,
+        "name": "Tin Goldfish",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18063928.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 47579719,
+        "name": "Constellar Hyades",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 LIGHT monsters\nOnce per turn: You can detach 1 Xyz Material from this card; change all monsters your opponent controls to face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47579719.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 70908596,
+        "name": "Constellar Kaus",
+        "type": "Effect Monster",
+        "desc": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70908596.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 73964868,
+        "name": "Constellar Pleiades",
+        "type": "XYZ Monster",
+        "desc": "2 Level 5 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73964868.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 2091298,
+        "name": "Constellar Praesepe",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 \"Constellar\" monsters\nOnce per turn, during the Damage Step of either player's turn, when a \"Constellar\" monster you control is attacking or being attacked: You can detach 1 Xyz Material from this card; that monster gains 1000 ATK, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2091298.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 38495396,
+        "name": "Constellar Ptolemy M7",
+        "type": "XYZ Monster",
+        "desc": "2 Level 6 monsters\nYou can also Xyz Summon this card by using a \"Constellar\" Xyz Monster you control as the Xyz Material, other than \"Constellar Ptolemy M7\". (Xyz Materials attached to that monster also become Xyz Materials on this card.) If Summoned this way, the following effect cannot be activated this turn. Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster on the field or in either player's Graveyard; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38495396.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 35631584,
+        "name": "Constellar Star Chart",
+        "type": "Spell Card",
+        "desc": "Once per turn, when a \"Constellar\" Xyz Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35631584.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14759024,
+        "name": "Constellar Zubeneschamali",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14759024.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80208158,
+        "name": "D.D. Esper Star Sparrow",
+        "type": "Effect Monster",
+        "desc": "There can only be 1 \"D.D. Esper Star Sparrow\" on the field. Your opponent cannot target other monsters you control with effects or for attacks. When an opponent's monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Defense Position. If Summoned this way, banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80208158.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 581014,
+        "name": "Daigusto Emeral",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects.\n● Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card.\n● Target 1 non-Effect Monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/581014.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 71203602,
+        "name": "Evigishki Levianima",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a \"Gishki\" monster, look at 1 random card in your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71203602.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 36757171,
+        "name": "Evilswarm Bahamut",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 \"lswarm\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; discard 1 \"lswarm\" monster, and if you do, take control of that opponent's monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36757171.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 91279700,
+        "name": "Evilswarm Ophion",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 \"lswarm\" monsters\nWhile this card has Xyz Material, Level 5 or higher monsters cannot be Special Summoned. Once per turn: You can detach 1 Xyz Material from this card; add 1 \"Infestation\" Spell/Trap Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91279700.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 38273745,
+        "name": "Evilswarm Ouroboros",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects. Each effect can only be used once while this card is face-up on the field.\n● Target 1 card your opponent controls; return that target to the hand.\n● Send 1 random card from your opponent's hand to the Graveyard.\n● Target 1 card in your opponent's Graveyard; banish that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38273745.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 65884091,
+        "name": "Evilswarm Thanatos",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 DARK monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card; this face-up card is unaffected by other monster effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65884091.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 78663366,
+        "name": "Evilswarm Thunderbird",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use this effect of \"Evilswarm Thunderbird\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78663366.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 39512984,
+        "name": "Gem-Knight Master Diamond",
+        "type": "Fusion Monster",
+        "desc": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39512984.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66729231,
+        "name": "Gishki Zielgigas",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a \"Gishki\" monster, shuffle 1 card from the field into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66729231.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 35419032,
+        "name": "Infestation Infection",
+        "type": "Trap Card",
+        "desc": "Once per turn: You can shuffle 1 \"lswarm\" monster from your hand or face-up from your side of the field into the Main Deck; add 1 \"lswarm\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35419032.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 27541267,
+        "name": "Infestation Pandemic",
+        "type": "Spell Card",
+        "desc": "All face-up \"lswarm\" monsters you currently control are unaffected by other Spell/Trap effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27541267.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 64662453,
+        "name": "Iron Call",
+        "type": "Spell Card",
+        "desc": "If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64662453.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 34086406,
+        "name": "Lavalval Chain",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n● Send 1 card from your Deck to the Graveyard.\n● Choose 1 monster from your Deck and place it on top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34086406.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 72142276,
+        "name": "Molten Conduction Field",
+        "type": "Spell Card",
+        "desc": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72142276.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 4335427,
+        "name": "Sophia, Goddess of Rebirth",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. When this card is Special Summoned: Banish all other cards from both players' hands, fields, and Graveyards. Cards and effects cannot be activated in response to this effect's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4335427.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66506689,
+        "name": "Tin Archduke",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66506689.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

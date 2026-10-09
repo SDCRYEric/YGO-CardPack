@@ -1,0 +1,355 @@
+{
+  "setName": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+  "pool": {
+    "Common": [
+      {
+        "id": 31036355,
+        "name": "Creature Swap",
+        "type": "Spell Card",
+        "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31036355.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48766543,
+        "name": "Cyber-Tech Alligator",
+        "type": "Normal Monster",
+        "desc": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48766543.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32441317,
+        "name": "De-Synchro",
+        "type": "Spell Card",
+        "desc": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32441317.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69579761,
+        "name": "Des Koala",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69579761.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53046408,
+        "name": "Emergency Provisions",
+        "type": "Spell Card",
+        "desc": "Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53046408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42703248,
+        "name": "Giant Trunade",
+        "type": "Spell Card",
+        "desc": "Return all Spell and Trap Cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78658564,
+        "name": "Goblin Attack Force",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78658564.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39674352,
+        "name": "Gogiga Gagagigo",
+        "type": "Normal Monster",
+        "desc": "His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39674352.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13504844,
+        "name": "Gottoms' Emergency Call",
+        "type": "Trap Card",
+        "desc": "If a face-up \"X-Saber\" monster is on the field: Target 2 \"X-Saber\" monsters in any Graveyard; Special Summon both to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13504844.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63977008,
+        "name": "Junk Synchron",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63977008.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60800381,
+        "name": "Junk Warrior",
+        "type": "Synchro Monster",
+        "desc": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60800381.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27551,
+        "name": "Limit Reverse",
+        "type": "Trap Card",
+        "desc": "Target 1 monster with 1000 or less ATK in your Graveyard; Special Summon it in Attack Position. If the target is changed to Defense Position, destroy it and this card. When this card leaves the field, destroy the target. When the target is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27551.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59344077,
+        "name": "Magic Drain",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59344077.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36750412,
+        "name": "Magna Drago",
+        "type": "Tuner Monster",
+        "desc": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36750412.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34815282,
+        "name": "Miniaturize",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34815282.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19523799,
+        "name": "Ookazi",
+        "type": "Spell Card",
+        "desc": "Inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19523799.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93920745,
+        "name": "Penguin Soldier",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93920745.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50621530,
+        "name": "Powered Tuner",
+        "type": "Effect Monster",
+        "desc": "This card gains 500 ATK for each face-up Tuner monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50621530.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86016245,
+        "name": "Pride of the Weak",
+        "type": "Spell Card",
+        "desc": "When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86016245.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23571046,
+        "name": "Quillbolt Hedgehog",
+        "type": "Effect Monster",
+        "desc": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23571046.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4178474,
+        "name": "Raigeki Break",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 card on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4178474.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70046172,
+        "name": "Rush Recklessly",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49645921,
+        "name": "Saber Beetle",
+        "type": "Effect Monster",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49645921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37265642,
+        "name": "Sabersaurus",
+        "type": "Normal Monster",
+        "desc": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37265642.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16222645,
+        "name": "Sasuke Samurai",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16222645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98427577,
+        "name": "Scrap-Iron Scarecrow",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98427577.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60694662,
+        "name": "Skelengel",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60694662.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36472900,
+        "name": "Sonic Chick",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36472900.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9365703,
+        "name": "Speed Warrior",
+        "type": "Effect Monster",
+        "desc": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9365703.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98143165,
+        "name": "Synchro Boost",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK, and its Level is increased by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98143165.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93346024,
+        "name": "The Dragon Dwelling in the Cave",
+        "type": "Normal Monster",
+        "desc": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93346024.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95281259,
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95281259.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79759861,
+        "name": "Tribute to the Doomed",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62991886,
+        "name": "Unstable Evolution",
+        "type": "Spell Card",
+        "desc": "While your LP is lower than your opponent's, the equipped monster's original ATK becomes 2400. While your LP is higher, the equipped monster's original ATK becomes 1000.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62991886.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77754944,
+        "name": "Widespread Ruin",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77754944.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90508760,
+        "name": "X-Saber Airbellum",
+        "type": "Tuner Monster",
+        "desc": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90508760.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23115241,
+        "name": "X-Saber Anu Piranha",
+        "type": "Normal Monster",
+        "desc": "A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23115241.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50604950,
+        "name": "X-Saber Galahad",
+        "type": "Effect Monster",
+        "desc": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another \"Saber\" monster to negate the attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50604950.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 71971554,
+        "name": "Road Synchron",
+        "type": "Tuner Monster",
+        "desc": "When using this card as Synchro Material for the Synchro Summon of a monster other than \"Road Warrior\", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71971554.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80108118,
+        "name": "X-Saber Urbellum",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80108118.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 2322421,
+        "name": "Road Warrior",
+        "type": "Synchro Monster",
+        "desc": "\"Road Synchron\" + 2 or more non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 2 or lower Warrior or Machine-Type monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2322421.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards",
+  "pool": {
+    "Prismatic Secret Rare": [
+      {
+        "id": 74677422,
+        "name": "Red-Eyes Black Dragon",
+        "type": "Normal Monster",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74677422.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 22537443,
+        "name": "Sebek's Blessing",
+        "type": "Spell Card",
+        "desc": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22537443.jpg",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "id": 61405855,
+        "name": "Sword of Dragon's Soul",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61405855.jpg",
+        "rarity": "Prismatic Secret Rare"
+      }
+    ]
+  }
+}

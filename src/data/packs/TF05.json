@@ -1,0 +1,23 @@
+{
+  "setName": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 45037489,
+        "name": "Chevalier de Fleur",
+        "type": "Synchro Monster",
+        "desc": "\"Fleur Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45037489.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 19642774,
+        "name": "Fleur Synchron",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19642774.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

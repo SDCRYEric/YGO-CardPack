@@ -1,0 +1,229 @@
+{
+  "setName": "Astral Pack Eight",
+  "pool": {
+    "Common": [
+      {
+        "id": 50323155,
+        "name": "Black Horn of Heaven",
+        "type": "Trap Card",
+        "desc": "When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50323155.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19163116,
+        "name": "Gem-Knight Obsidian",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19163116.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45452224,
+        "name": "Kinka-byo",
+        "type": "Spirit Monster",
+        "desc": "Cannot be Special Summoned. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your GY; Special Summon that target, but banish it when this card leaves the field. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45452224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63995093,
+        "name": "Machine Duplication",
+        "type": "Spell Card",
+        "desc": "Target 1 Machine monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that face-up monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63995093.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50608164,
+        "name": "Masked HERO Koga",
+        "type": "Fusion Monster",
+        "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50608164.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67300516,
+        "name": "Red-Eyes Wyvern",
+        "type": "Effect Monster",
+        "desc": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67300516.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38296564,
+        "name": "Safe Zone",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be destroyed by battle or your opponent's card effects, your opponent cannot target it with card effects, also it cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38296564.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16589042,
+        "name": "Swift Gaia the Fierce Knight",
+        "type": "Effect Monster",
+        "desc": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16589042.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43586926,
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19814508,
+        "name": "U.A. Stadium",
+        "type": "Spell Card",
+        "desc": "If a \"U.A.\" monster is Normal Summoned to your side of the field: You can add 1 \"U.A.\" monster from your Deck to your hand. Once per turn, if a \"U.A.\" monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19814508.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25704359,
+        "name": "Unpossessed",
+        "type": "Trap Card",
+        "desc": "\"Charmer\" monsters you control cannot be destroyed by battle. If a \"Familiar-Possessed\" monster you control attacks an opponent's monster, it gains 800 ATK during damage calculation only. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 Spellcaster-Type monster with 1500 DEF from your Deck, whose Attribute is different from at least 1 of those destroyed monsters' original Attributes on the field, in Attack Position or face-down Defense Position. You can only use this effect of \"Unpossessed\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25704359.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 77498348,
+        "name": "Black Luster Soldier - Envoy of the Evening Twilight",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your GY, while you have an equal number of each in your GY. While face-up on the field, this card is also LIGHT-Attribute. When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.\n● LIGHT: Target 1 monster on the field; banish it.\n● DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77498348.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35480699,
+        "name": "Book of Eclipse",
+        "type": "Spell Card",
+        "desc": "Change all face-up monsters on the field to face-down Defense Position. During the End Phase of this turn, change as many face-down Defense Position monsters your opponent controls as possible to face-up Defense Position, then your opponent draws cards equal to the number of monsters changed face-up by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35480699.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20758643,
+        "name": "Graff, Malebranche of the Burning Abyss",
+        "type": "Effect Monster",
+        "desc": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Graff, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n● If this card is sent to the Graveyard: You can Special Summon 1 \"Burning Abyss\" monster from your Deck, except \"Graff, Malebranche of the Burning Abyss\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20758643.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96802306,
+        "name": "Igknight Gallant",
+        "type": "Pendulum Normal Monster",
+        "desc": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''A leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96802306.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 50407691,
+        "name": "Igknight Margrave",
+        "type": "Pendulum Normal Monster",
+        "desc": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50407691.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 1845204,
+        "name": "Instant Fusion",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Instant Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1845204.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67237709,
+        "name": "Kozmotown",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can target 1 of your banished \"Kozmo\" monsters; return it to the hand, and if you do, lose LP equal to its original Level x 100. Once per turn: You can reveal any number of \"Kozmo\" monsters in your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck. If this card in the Field Zone is destroyed by a card effect: You can add 1 \"Kozmo\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67237709.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 24348804,
+        "name": "Lose 1 Turn",
+        "type": "Trap Card",
+        "desc": "Activate this card only if you currently control no Special Summoned monsters. While a monster is face-up on the field, negate its effects during the turn that monster was Special Summoned. If an Effect Monster(s) is Special Summoned in Attack Position: Change it to Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24348804.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88123329,
+        "name": "Spiritual Beast Rampengu",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can banish 1 \"Ritual Beast\" monster from your Extra Deck and send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88123329.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16392422,
+        "name": "Toon Masked Sorcerer",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16392422.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 50078509,
+        "name": "Fiendish Chain",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 52687916,
+        "name": "Trishula, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 71407486,
+        "name": "Fireyarou",
+        "type": "Normal Monster",
+        "desc": "A malevolent creature wrapped in flames that attacks enemies with intense fire.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71407486.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 62403074,
+        "name": "Rhaimundos of the Red Sword",
+        "type": "Normal Monster",
+        "desc": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62403074.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 35752363,
+        "name": "Vermillion Sparrow",
+        "type": "Fusion Monster",
+        "desc": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35752363.jpg",
+        "rarity": "Short Print"
+      }
+    ]
+  }
+}

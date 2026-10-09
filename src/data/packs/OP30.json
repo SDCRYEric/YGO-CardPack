@@ -1,0 +1,227 @@
+{
+  "setName": "OTS Tournament Pack 30",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 66540884,
+        "name": "Archfiend Heiress",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the GY by card effect, or by being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use this effect of \"Archfiend Heiress\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66540884.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 23829452,
+        "name": "Artmage Power Patron",
+        "type": "Effect Monster",
+        "desc": "You cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use each of the following effects of \"Artmage Power Patron\" once per turn. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Artmage\" Fusion Monster or 1 \"Nerva the Power Patron of Creation\" from your Extra Deck, using this card you control and monsters from your hand or field. If this card is sent from the hand or field to the GY: You can add 1 \"Artmage\" Spell/Trap from your Deck to your hand, with a different name from the cards in your GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23829452.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 92221402,
+        "name": "Chaotic Elements",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 5 or higher monster (LIGHT or DARK, Pyro or Aqua) from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a monster (LIGHT or DARK, Pyro or Aqua): You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Chaotic Elements\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92221402.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 47736165,
+        "name": "Crystron Eleskeletus",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nAll monsters your opponent controls lose 500 ATK/DEF. You can only use each of the following effects of \"Crystron Eleskeletus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Crystron\" card from your GY or banishment to your hand. If this Synchro Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Crystron\" monster from your GY or banishment.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47736165.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25865565,
+        "name": "Crystron Sulfador",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand or GY: You can target 1 \"Crystron\" card you control; destroy it, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send up to 2 \"Crystron\" cards with different names from your Deck to the GY, except \"Crystron Sulfador\". You can only use each effect of \"Crystron Sulfador\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25865565.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40703223,
+        "name": "Kuriboh Token",
+        "type": "Token",
+        "desc": "This card can be used as a \"Kuriboh Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40703223.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 58205203,
+        "name": "Mariamne Paradox, the True Dracophoenix Knight",
+        "type": "Effect Monster",
+        "desc": "To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58205203.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15123983,
+        "name": "THE Star Ham",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"THE Star Ham\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15123983.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 49451215,
+        "name": "Ukanomitsune-no-Onari",
+        "type": "Link Monster",
+        "desc": "2 LIGHT monsters, including a Beast monster\r\nYour opponent cannot target cards in the Field Zones with card effects. You can only use each of the following effects of \"Ukanomitsune-no-Onari\" once per turn. If this card is Link Summoned: You can target 1 Quick-Play Spell in your GY; Set it. If this card is destroyed: For each card in a Field Zone, you can apply 1 of these effects. (If both, apply them in sequence.)\r\n● Destroy 1 card your opponent controls.\r\n● Inflict 1500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49451215.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35550352,
+        "name": "Vanquish Soul, Start!",
+        "type": "Spell Card",
+        "desc": "You can target 1 \"Vanquish Soul\" monster you control; add 1 \"Vanquish Soul\" monster with a different Attribute from your Deck to your hand. If a \"Vanquish Soul\" monster(s) you control would be destroyed by battle or card effect, you can reveal 1 \"Vanquish Soul\" monster in your hand instead. During your End Phase, if you control 2 or more \"Vanquish Soul\" monsters: You can Set 1 \"Vanquish Soul\" Trap from your Deck. You can only use each effect of \"Vanquish Soul, Start!\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35550352.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 76407432,
+        "name": "Assault Counter",
+        "type": "Trap Card",
+        "desc": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76407432.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80280737,
+        "name": "Assault Mode Activate",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80280737.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66947414,
+        "name": "Boss Rush",
+        "type": "Spell Card",
+        "desc": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66947414.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78474168,
+        "name": "Breakthrough Skill",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78474168.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87890143,
+        "name": "Generation Force",
+        "type": "Spell Card",
+        "desc": "If you control an Xyz Monster: Add 1 \"Xyz\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87890143.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20899496,
+        "name": "Ice Dragon's Prison",
+        "type": "Trap Card",
+        "desc": "Target 1 monster in your opponent's GY; Special Summon it to your field, but its effects are negated, then, you can banish 1 monster from both players' fields that have the same Type as each other. You can only activate 1 \"Ice Dragon's Prison\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20899496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94940436,
+        "name": "Magnet Circle LV2",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94940436.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16693934,
+        "name": "Quadogmatika Beast",
+        "type": "Trap Card",
+        "desc": "Target 1 monster in your GY or banishment; send to the GY, 1 monster from your Extra Deck or 1 \"Dogmatika\" monster from your Deck, with ATK higher than or equal to that target, and if you do, Special Summon that target. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16693934.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40838625,
+        "name": "Quaking Mirror Force",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40838625.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64612053,
+        "name": "Rescue-ACE Fire Attacker",
+        "type": "Effect Monster",
+        "desc": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Attacker\" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent's hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64612053.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67750322,
+        "name": "Skull Meister",
+        "type": "Effect Monster",
+        "desc": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67750322.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43898403,
+        "name": "Twin Twisters",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10642488,
+        "name": "Vic Viper T301",
+        "type": "Effect Monster",
+        "desc": "When an attack is declared involving your face-up monster and an opponent's monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Vic Viper T301\" once per turn. Other LIGHT Machine monsters you control gain 1200 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10642488.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 34876719,
+        "name": "N.As.H. Knight",
+        "type": "XYZ Monster",
+        "desc": "2 Level 5 monsters\r\nCannot be destroyed by battle while a \"Number\" monster is on the field. During the Main Phase (Quick Effect): You can detach 2 materials from this card; attach 1 \"Number\" Xyz Monster from your Extra Deck to this card as material that has a number between \"101\" and \"107\" in its name, then you can attach 1 other face-up monster on the field to this card as material. You can only use this effect of \"N.As.H. Knight\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34876719.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 68464358,
+        "name": "Rokket Tracer",
+        "type": "Tuner Monster",
+        "desc": "(Quick Effect): You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Rokket\" monster from your Deck, except \"Rokket Tracer\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Rokket Tracer\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68464358.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 93039339,
+        "name": "Super Starslayer TY-PHON - Sky Crisis",
+        "type": "XYZ Monster",
+        "desc": "2 Level 12 monsters\r\nDuring the turn, or turn after, your opponent Special Summoned 2 or more monsters from the Extra Deck, you can also Xyz Summon this card by using 1 monster you control with the highest ATK (your choice, if tied). (Transfer its materials to this card.) If you do, you cannot Normal or Special Summon monsters for the rest of this turn. While this Xyz Summoned monster is on the field, neither player can activate the effects of monsters with 3000 or more ATK. Once per turn: You can detach 1 material from this card; return 1 monster from the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93039339.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ]
+  }
+}

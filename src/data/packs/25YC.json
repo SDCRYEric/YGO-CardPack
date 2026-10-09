@@ -1,0 +1,115 @@
+{
+  "setName": "Yu-Gi-Oh! Championship Series 2025 prize cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 10949074,
+        "name": "Anotherverse Stratios",
+        "type": "Normal Monster",
+        "desc": "''This war god from the otherworld has trod countless battlefields beneath his armored feet. If you want his glory, come and get it!''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10949074.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 85087012,
+        "name": "Card Trooper",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85087012.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 2009101,
+        "name": "Blackwing - Gale the Whirlwind",
+        "type": "Tuner Monster",
+        "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK and DEF become half its current ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2009101.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 94886282,
+        "name": "Charge of the Light Brigade",
+        "type": "Spell Card",
+        "desc": "Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94886282.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 79559912,
+        "name": "D/D/D Wave High King Caesar",
+        "type": "XYZ Monster",
+        "desc": "2 Level 6 Fiend monsters\r\nWhen a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card, then you can make 1 other \"D/D\" monster you control and this card gain 1800 ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Dark Contract\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79559912.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 83531441,
+        "name": "Dante, Traveler of the Burning Abyss",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\r\nOnce per turn: You can detach 1 material from this card and choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; until the end of this turn, this card gains 500 ATK for each card sent to the GY this way. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is sent to the GY: You can target 1 \"Burning Abyss\" card in your GY, except this card; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83531441.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 26082117,
+        "name": "Gagaga Magician",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 \"Gagaga Magician\". This card cannot be used as a Synchro Material Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26082117.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 35261759,
+        "name": "Pot of Desires",
+        "type": "Spell Card",
+        "desc": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 44394295,
+        "name": "Shaddoll Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 \"Shaddoll Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44394295.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 11738489,
+        "name": "The Arrival Cyberse @Ignister",
+        "type": "Link Monster",
+        "desc": "3+ monsters with different Attributes\r\nYou can only control 1 \"The Arrival Cyberse @Ignister\". The original ATK of this card becomes 1000 x the number of Link Materials used for its Link Summon. Unaffected by other cards' effects. Once per turn: You can target 1 other monster on the field; destroy it, and if you do, Special Summon 1 \"@Ignister Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0) to your zone this card points to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11738489.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 97268402,
+        "name": "Effect Veiler",
+        "type": "Tuner Monster",
+        "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97268402.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

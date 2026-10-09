@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny Limited Collector's Edition",
+  "pool": {
+    "Prismatic Secret Rare": [
+      {
+        "id": 46986415,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986415.jpg",
+        "rarity": "Prismatic Secret Rare"
+      }
+    ]
+  }
+}

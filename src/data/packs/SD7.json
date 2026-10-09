@@ -1,0 +1,265 @@
+{
+  "setName": "Structure Deck: Invincible Fortress",
+  "pool": {
+    "Common": [
+      {
+        "id": 87910978,
+        "name": "Brain Control",
+        "type": "Spell Card",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87910978.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28120197,
+        "name": "Canyon",
+        "type": "Spell Card",
+        "desc": "If a Rock-Type monster in Defense Position is attacked, double any Battle Damage to the controller of the attacking monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28120197.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "type": "Trap Card",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18654201,
+        "name": "Criosphinx",
+        "type": "Effect Monster",
+        "desc": "When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18654201.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97342942,
+        "name": "Ectoplasmer",
+        "type": "Spell Card",
+        "desc": "Once per turn, during each player's End Phase: The turn player must Tribute 1 face-up monster, and if they do, inflict damage to their opponent equal to half the original ATK of the Tributed monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97342942.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97017120,
+        "name": "Giant Rat",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97017120.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47606319,
+        "name": "Gigantes",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47606319.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52323207,
+        "name": "Golem Sentry",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52323207.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92736188,
+        "name": "Great Spirit",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Main Phase, you can flip this card into face-down Defense Position. When this card is Flip Summoned, you can switch the original ATK and DEF of 1 face-up EARTH monster on the field until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92736188.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40659562,
+        "name": "Guardian Sphinx",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40659562.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75209824,
+        "name": "Guardian Statue",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, return 1 monster on your opponent's side of the field to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75209824.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26412047,
+        "name": "Hammer Shot",
+        "type": "Spell Card",
+        "desc": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26412047.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82260502,
+        "name": "Hieracosphinx",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82260502.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59344077,
+        "name": "Magic Drain",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59344077.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85852291,
+        "name": "Magical Mallet",
+        "type": "Spell Card",
+        "desc": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85852291.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40695128,
+        "name": "Maharaghi",
+        "type": "Spirit Monster",
+        "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card is Normal Summoned or flipped face-up, look at 1 card on the top of your Deck during your next Draw Phase (before you draw), and return the card to the top or the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40695128.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2694423,
+        "name": "Medusa Worm",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, destroy 1 monster on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2694423.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71544954,
+        "name": "Megarock Dragon",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71544954.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45159319,
+        "name": "Moai Interceptor Cannons",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45159319.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39537362,
+        "name": "Ordeal of a Traveler",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39537362.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70828912,
+        "name": "Premature Burial",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70828912.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37576645,
+        "name": "Reckless Greed",
+        "type": "Trap Card",
+        "desc": "Draw 2 cards and skip your next 2 Draw Phases.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37576645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88279736,
+        "name": "Robbin' Goblin",
+        "type": "Trap Card",
+        "desc": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88279736.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73648243,
+        "name": "Sand Moth",
+        "type": "Effect Monster",
+        "desc": "When this face-down Defense Position card is destroyed and sent to the Graveyard, except by battle, switch the original ATK and DEF of this card and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73648243.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52097679,
+        "name": "Shield & Sword",
+        "type": "Spell Card",
+        "desc": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52097679.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59237154,
+        "name": "Shifting Shadows",
+        "type": "Spell Card",
+        "desc": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59237154.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31812496,
+        "name": "Stone Statue of the Aztecs",
+        "type": "Effect Monster",
+        "desc": "Double any Battle Damage your opponent takes when they attack this monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31812496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72302403,
+        "name": "Swords of Revealing Light",
+        "type": "Spell Card",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80604091,
+        "name": "Ultimate Offering",
+        "type": "Trap Card",
+        "desc": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80604091.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12607053,
+        "name": "Waboku",
+        "type": "Trap Card",
+        "desc": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12607053.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 55737443,
+        "name": "Exxod, Master of The Guard",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"sphinx\" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55737443.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! GX Volume 4 promotional card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 40854197,
+        "name": "Elemental HERO Absolute Zero",
+        "type": "Fusion Monster",
+        "desc": "1 \"HERO\" monster + 1 WATER monster\r\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40854197.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

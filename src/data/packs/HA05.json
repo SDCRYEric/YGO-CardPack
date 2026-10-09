@@ -1,0 +1,489 @@
+{
+  "setName": "Hidden Arsenal 5: Steelswarm Invasion",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 46337945,
+        "name": "Aquamirror Meditation",
+        "type": "Trap Card",
+        "desc": "Reveal 1 Ritual Spell Card in your hand to target 2 \"Gishki\" monsters in your Graveyard; return them to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46337945.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 82422049,
+        "name": "Blessings for Gusto",
+        "type": "Trap Card",
+        "desc": "Target 2 \"Gusto\" monsters in your Graveyard, plus a third \"Gusto\" monster in your Graveyard; shuffle both of the first 2 targets into your Deck, then Special Summon the third target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82422049.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 19932396,
+        "name": "First Step Towards Infestation",
+        "type": "Spell Card",
+        "desc": "Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19932396.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41777,
+        "name": "Gem-Enhancement",
+        "type": "Trap Card",
+        "desc": "Tribute 1 \"Gem-Knight\" monster, then target 1 \"Gem-Knight\" monster in your Graveyard; Special Summon that target from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41777.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 1264319,
+        "name": "Gem-Knight Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is in your Graveyard: You can banish 1 \"Gem-Knight\" monster from your Graveyard; add this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1264319.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 91731841,
+        "name": "Gem-Knight Garnet",
+        "type": "Normal Monster",
+        "desc": "The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91731841.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27126980,
+        "name": "Gem-Knight Sapphire",
+        "type": "Normal Monster",
+        "desc": "His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27126980.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54620698,
+        "name": "Gem-Knight Tourmaline",
+        "type": "Normal Monster",
+        "desc": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54620698.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53408006,
+        "name": "Gem-Merchant",
+        "type": "Effect Monster",
+        "desc": "During the Damage Step, in either player's turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53408006.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67111213,
+        "name": "Gishki Abyss",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can add 1 \"Gishki\" monster with 1000 or less DEF from your Deck to your hand, except \"Gishki Abyss\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67111213.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 46159582,
+        "name": "Gishki Aquamirror",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also Tribute monsters from the field or your hand whose total Levels equal the Level of the Ritual Monster you Ritual Summon. You can shuffle this card from the Graveyard into the Deck to target 1 \"Gishki\" Ritual Monster in your Graveyard; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46159582.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 92784374,
+        "name": "Gishki Ariel",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can add 1 \"Gishki\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92784374.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39905966,
+        "name": "Gishki Marker",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can target 1 \"Gishki\" Ritual Monster or \"Gishki\" Ritual Spell Card in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39905966.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29888389,
+        "name": "Gishki Shadow",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 \"Gishki\" Ritual Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29888389.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93506862,
+        "name": "Gishki Vanity",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can discard this card; this turn, your opponent cannot activate Spells, Traps, Spell/Trap effects, or Monster Card effects when a \"Gishki\" monster is Ritual Summoned, or when a \"Gishki\" Ritual Spell Card is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93506862.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 91662792,
+        "name": "Gusto Egul",
+        "type": "Tuner Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner \"Gusto\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91662792.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65277087,
+        "name": "Gusto Gulldo",
+        "type": "Tuner Monster",
+        "desc": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower \"Gusto\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65277087.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 28066831,
+        "name": "Gusto Thunbolt",
+        "type": "Effect Monster",
+        "desc": "At the end of the Battle Phase, if this card is in the Graveyard because it was destroyed by battle and sent to the Graveyard this turn: You can banish 1 \"Gusto\" monster from your Graveyard; Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28066831.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18816758,
+        "name": "Infestation Wave",
+        "type": "Trap Card",
+        "desc": "Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand to target 1 card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18816758.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51554871,
+        "name": "Kayenn, the Master Magma Blacksmith",
+        "type": "Effect Monster",
+        "desc": "You can banish this card from your Graveyard; all face-up \"Laval\" monsters you currently control gain 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51554871.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88958576,
+        "name": "Laval Burner",
+        "type": "Effect Monster",
+        "desc": "If you have 3 or more \"Laval\" monsters with different names in your Graveyard, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88958576.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15169262,
+        "name": "Laval Forest Sprite",
+        "type": "Tuner Monster",
+        "desc": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15169262.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89893715,
+        "name": "Laval Miller",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89893715.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 52786469,
+        "name": "Laval Warrior",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to the original ATK of the destroyed monster. You must have 4 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52786469.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37436476,
+        "name": "Molten Whirlwind Wall",
+        "type": "Trap Card",
+        "desc": "All face-up \"Laval\" monsters you control gain 100 ATK for each \"Laval\" monster in your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37436476.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89770167,
+        "name": "Prominence, Molten Swordsman",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during either player's turn: You can banish 1 \"Laval\" monster from your Graveyard; this card gains 300 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89770167.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 47658964,
+        "name": "Searing Fire Wall",
+        "type": "Spell Card",
+        "desc": "Banish any number of \"Laval\" monsters from your Graveyard; Special Summon an equal number of \"Laval Tokens\" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47658964.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26381750,
+        "name": "Soaring Eagle Above the Searing Land",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent to the Graveyard for a Synchro Summon: You can Special Summon this card. You must have 3 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect. If this card is Special Summoned with this effect, banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26381750.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53116300,
+        "name": "Steelswarm Caller",
+        "type": "Effect Monster",
+        "desc": "When a \"Steelswarm\" monster is Tribute Summoned face-up by Tributing this card: You can Special Summon 1 Level 4 or lower \"Steelswarm\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53116300.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54338958,
+        "name": "Steelswarm Cell",
+        "type": "Effect Monster",
+        "desc": "If you control no monsters, you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a \"Steelswarm\" monster, and cannot be used as a Synchro Material Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54338958.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26722601,
+        "name": "Steelswarm Gatekeeper",
+        "type": "Effect Monster",
+        "desc": "If a \"Steelswarm\" monster is Tribute Summoned face-up while this card is face-up on the field, you can Normal Summon or Set 1 monster in addition to your Normal Summon or Set that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26722601.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22009013,
+        "name": "Steelswarm Moth",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22009013.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90727556,
+        "name": "Steelswarm Scout",
+        "type": "Effect Monster",
+        "desc": "At the start of your Main Phase 1, if you control no Spell/Trap Cards: You can Special Summon this card from your Graveyard. You cannot Special Summon another monster(s) the turn you activate this effect. While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a \"Steelswarm\" monster, and cannot be used as a Synchro Material Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90727556.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 13220032,
+        "name": "Vylon Charger",
+        "type": "Effect Monster",
+        "desc": "All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13220032.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41431329,
+        "name": "Vylon Cube",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41431329.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 74657662,
+        "name": "Vylon Material",
+        "type": "Spell Card",
+        "desc": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74657662.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40619741,
+        "name": "Vylon Soldier",
+        "type": "Effect Monster",
+        "desc": "When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets' battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40619741.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 87836938,
+        "name": "Vylon Vanguard",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by a card effect and sent to the Graveyard: You can draw 1 card for each Equip Card that was equipped to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87836938.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54455435,
+        "name": "Winda, Priestess of Gusto",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54455435.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27944249,
+        "name": "Windaar, Sage of Gusto",
+        "type": "Effect Monster",
+        "desc": "When this card destroys a monster by battle and sends it to the Graveyard: You can target 1 Level 3 or lower \"Gusto\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27944249.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 91449144,
+        "name": "Caam, Serenity of Gusto",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91449144.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 83544697,
+        "name": "Contact with Gusto",
+        "type": "Spell Card",
+        "desc": "Target 2 \"Gusto\" monsters in your Graveyard and 1 card your opponent controls; shuffle both targets in your Graveyard into the Deck, then destroy the opponent's target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83544697.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 10755984,
+        "name": "Daigusto Eguls",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters\nOnce per turn, during your End Phase: You can banish 1 WIND monster from your Graveyard to target 1 face-down card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10755984.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 84766279,
+        "name": "Daigusto Gulldos",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters\nOnce per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck to target 1 face-up monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84766279.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 11877465,
+        "name": "Evigishki Mind Augus",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11877465.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 57272170,
+        "name": "Evigishki Soul Ogre",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can discard 1 \"Gishki\" monster to target 1 face-up card your opponent controls; shuffle that target into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57272170.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 27004302,
+        "name": "Gem-Armadillo",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Gem-Knight\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27004302.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 90019393,
+        "name": "Gem-Knight Alexandrite",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon 1 \"Gem-Knight\" Normal Monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90019393.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 13108445,
+        "name": "Gem-Knight Aquamarine",
+        "type": "Fusion Monster",
+        "desc": "\"Gem-Knight Sapphire\" + 1 \"Gem-Knight\" monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. When this card is sent from the field to the Graveyard: Target 1 card your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13108445.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 76614340,
+        "name": "Gem-Knight Ruby",
+        "type": "Fusion Monster",
+        "desc": "\"Gem-Knight Garnet\" + 1 \"Gem-Knight\" monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up \"Gem-\" monster; this card gains ATK equal to the Tributed monster's ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76614340.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 49597193,
+        "name": "Gem-Knight Topaz",
+        "type": "Fusion Monster",
+        "desc": "\"Gem-Knight Tourmaline\" + 1 \"Gem-Knight\" monster\r\nMust first be Fusion Summoned with the above Fusion Material Monsters. This card can attack twice during each Battle Phase. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49597193.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66399675,
+        "name": "Gishki Chain",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66399675.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14047624,
+        "name": "Laval Judgment Lord",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can banish 1 \"Laval\" monster from your Graveyard; inflict 1000 damage to your opponent. \"Laval Judgment Lord\" cannot declare an attack the turn this effect is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14047624.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 12986807,
+        "name": "Laval the Greater",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner FIRE monsters\nWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 \"Laval\" monster from your Graveyard instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12986807.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75991898,
+        "name": "Lavalval Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner FIRE monsters\n You can shuffle 2 \"Laval\" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75991898.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 84488827,
+        "name": "Steelswarm Caucastag",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned by Tributing 2 \"Steelswarm\" monsters: Activate 1 of these effects.\n● Destroy all monsters on the field, except this card.\n● Destroy all Spell and Trap Cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84488827.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 58494728,
+        "name": "Steelswarm Girastag",
+        "type": "Effect Monster",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Steelswarm\" monster. When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster(s): You can target 1 card your opponent controls; send that target to the Graveyard and gain 1000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58494728.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 85505315,
+        "name": "Steelswarm Mantis",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target 1 \"Steelswarm\" monster in your Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85505315.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75779210,
+        "name": "Vylon Epsilon",
+        "type": "Synchro Monster",
+        "desc": "1 LIGHT Tuner + 1 or more non-Tuner monsters\nEquip Cards equipped to this card cannot be targeted by cards or effects. Once per turn: You can send 1 Equip Card equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75779210.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 48370501,
+        "name": "Vylon Sigma",
+        "type": "Synchro Monster",
+        "desc": "1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters\nWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48370501.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

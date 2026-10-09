@@ -1,0 +1,173 @@
+{
+  "setName": "Champion Pack: Game Six",
+  "pool": {
+    "Common": [
+      {
+        "id": 303660,
+        "name": "Amplifier",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Jinzo\". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/303660.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63142001,
+        "name": "Batteryman AA",
+        "type": "Effect Monster",
+        "desc": "If all \"Batteryman AA\"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all \"Batteryman AA\"(s) you control are in Defense Position, this card gains 1000 DEF for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63142001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60682203,
+        "name": "Cold Wave",
+        "type": "Spell Card",
+        "desc": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60682203.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67095270,
+        "name": "Dimension Wall",
+        "type": "Trap Card",
+        "desc": "Activate only when an opponent's monster declares an attack. Instead of you, your opponent takes the Battle Damage you would have taken from this battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67095270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81210420,
+        "name": "Magical Hats",
+        "type": "Trap Card",
+        "desc": "During your opponent's Battle Phase: Choose 2 Spell/Trap Cards from your Deck and 1 monster in your Main Monster Zone. Special Summon them as Normal Monsters (ATK 0/DEF 0) in face-down Defense Position, Set the chosen monster if it is face-up, and shuffle them on the field. The 2 cards chosen from your Deck are destroyed at the end of the Battle Phase, and cannot remain on the field except during this Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81210420.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69303178,
+        "name": "Majestic Mech - Ohka",
+        "type": "Effect Monster",
+        "desc": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69303178.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85448931,
+        "name": "Sentinel of the Seas",
+        "type": "Normal Monster",
+        "desc": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85448931.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77527210,
+        "name": "Soul of Purity and Light",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77527210.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51838385,
+        "name": "Theban Nightmare",
+        "type": "Effect Monster",
+        "desc": "Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51838385.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 39507162,
+        "name": "Blade Knight",
+        "type": "Effect Monster",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39507162.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 78637313,
+        "name": "Call of Darkness",
+        "type": "Trap Card",
+        "desc": "All monsters restored with \"Monster Reborn\" are sent to the Graveyard. \"Monster Reborn\" also cannot be played as long as this card remains on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78637313.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 40044918,
+        "name": "Elemental HERO Stratos",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\r\n● Destroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\r\n● Add 1 \"HERO\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40044918.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80887952,
+        "name": "Helios Duo Megistus",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card by Tributing 1 \"Helios - The Primordial Sun\". This card's ATK and DEF are equal to the number of removed from play monsters x 200. If this card is destroyed by battle and sent to the Graveyard, Special Summon it during the End Phase, and it gains 300 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80887952.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 83746708,
+        "name": "Mage Power",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 20529766,
+        "name": "Super-Electromagnetic Voltech Dragon",
+        "type": "Effect Monster",
+        "desc": "If you Tribute Summon this card by Tributing 1 of the following monsters, it gains the appropriate effect:\n● Batteryman D: Negate the effect of a Spell or Trap Card that targets this 1 card.\n● Batteryman C: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.\n● Batteryman AA: This card gains 1000 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20529766.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 69537999,
+        "name": "Blaze Accelerator",
+        "type": "Spell Card",
+        "desc": "You can target 1 monster your opponent controls; send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard, and if you do, destroy that target. You cannot declare an attack during the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69537999.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80744121,
+        "name": "Destiny HERO - Fear Monger",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 \"Destiny HERO\" monster in your Graveyard, except a \"Destiny HERO - Fear Monger\"; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80744121.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 45141844,
+        "name": "Old Vindictive Magician",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45141844.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63356631,
+        "name": "Phoenix Wing Wind Blast",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 39180960,
+        "name": "Rigorous Reaver",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39180960.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

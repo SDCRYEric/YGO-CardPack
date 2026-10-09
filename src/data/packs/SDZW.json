@@ -1,0 +1,305 @@
+{
+  "setName": "Zombie World Structure Deck",
+  "pool": {
+    "Common": [
+      {
+        "id": 2204140,
+        "name": "Book of Life",
+        "type": "Spell Card",
+        "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2204140.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4861205,
+        "name": "Call of the Mummy",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4861205.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72892473,
+        "name": "Card Destruction",
+        "type": "Spell Card",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57953380,
+        "name": "Card of Safe Return",
+        "type": "Spell Card",
+        "desc": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57953380.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60682203,
+        "name": "Cold Wave",
+        "type": "Spell Card",
+        "desc": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60682203.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31036355,
+        "name": "Creature Swap",
+        "type": "Spell Card",
+        "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31036355.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2326738,
+        "name": "Des Lacooda",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2326738.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7153114,
+        "name": "Field Barrier",
+        "type": "Spell Card",
+        "desc": "Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7153114.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77936940,
+        "name": "Gernia",
+        "type": "Effect Monster",
+        "desc": "During your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77936940.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21887179,
+        "name": "Getsu Fuhma",
+        "type": "Effect Monster",
+        "desc": "If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21887179.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30459350,
+        "name": "Imperial Iron Wall",
+        "type": "Trap Card",
+        "desc": "Neither player can banish cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30459350.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96008713,
+        "name": "Magical Arm Shield",
+        "type": "Trap Card",
+        "desc": "When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96008713.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98494543,
+        "name": "Magical Stone Excavation",
+        "type": "Spell Card",
+        "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31571902,
+        "name": "Malevolent Mech - Goku En",
+        "type": "Effect Monster",
+        "desc": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Send it to the GY, then take damage equal to its original ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31571902.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87514539,
+        "name": "Marionette Mite",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87514539.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24530661,
+        "name": "Master Kyonshee",
+        "type": "Normal Monster",
+        "desc": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24530661.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68670547,
+        "name": "Paladin of the Cursed Dragon",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68670547.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19153634,
+        "name": "Patrician of Darkness",
+        "type": "Effect Monster",
+        "desc": "You choose the attack targets for your opponent's attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19153634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55696885,
+        "name": "Plague Wolf",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55696885.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67169062,
+        "name": "Pot of Avarice",
+        "type": "Spell Card",
+        "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67169062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77044671,
+        "name": "Pyramid Turtle",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77044671.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70821187,
+        "name": "Regenerating Mummy",
+        "type": "Effect Monster",
+        "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70821187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37534148,
+        "name": "Ribbon of Rebirth",
+        "type": "Spell Card",
+        "desc": "During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37534148.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16509093,
+        "name": "Royal Keeper",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16509093.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57281778,
+        "name": "Ryu Kokki",
+        "type": "Effect Monster",
+        "desc": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57281778.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55713623,
+        "name": "Shrink",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55713623.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81510157,
+        "name": "Soul Taker",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81510157.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93260132,
+        "name": "Spell Shattering Arrow",
+        "type": "Spell Card",
+        "desc": "Destroy as many face-up Spells your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93260132.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23205979,
+        "name": "Spirit Reaper",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23205979.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3149764,
+        "name": "Tutan Mask",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3149764.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12607053,
+        "name": "Waboku",
+        "type": "Trap Card",
+        "desc": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12607053.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17259470,
+        "name": "Zombie Master",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17259470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4064256,
+        "name": "Zombie World",
+        "type": "Spell Card",
+        "desc": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4064256.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 5186893,
+        "name": "Red-Eyes Zombie Dragon",
+        "type": "Effect Monster",
+        "desc": "You can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5186893.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

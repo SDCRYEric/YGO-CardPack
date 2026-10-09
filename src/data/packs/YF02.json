@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! 5D's Volume 2 promotional card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 37474917,
+        "name": "Catapult Warrior",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can Tribute 1 \"Junk\" monster; inflict damage to your opponent equal to the original ATK of the Tributed monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37474917.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

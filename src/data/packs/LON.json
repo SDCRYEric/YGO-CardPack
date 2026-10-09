@@ -1,0 +1,857 @@
+{
+  "setName": "Labyrinth of Nightmare",
+  "pool": {
+    "Common": [
+      {
+        "id": 91869203,
+        "name": "Amazoness Archer",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 2 monsters; inflict 1200 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91869203.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40916023,
+        "name": "Aqua Spirit",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40916023.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7165085,
+        "name": "Bait Doll",
+        "type": "Spell Card",
+        "desc": "Target 1 Set card in the Spell & Trap Card Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7165085.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58696829,
+        "name": "Bio-Mage",
+        "type": "Normal Monster",
+        "desc": "A mysterious priest created as a result of the latest advances in biotechnology.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58696829.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32015116,
+        "name": "Blind Destruction",
+        "type": "Trap Card",
+        "desc": "Once per turn, during your Standby Phase: Roll a six-sided die. If the result is 1-5, destroy all monsters on the field with the same Level as the number rolled. If it is 6, destroy all Level 6 and higher monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32015116.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98456117,
+        "name": "Boneheimer",
+        "type": "Normal Monster",
+        "desc": "This monster wanders the seas, sucking dry any creatures it may encounter.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98456117.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28358902,
+        "name": "Crimson Sentry",
+        "type": "Effect Monster",
+        "desc": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28358902.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85802526,
+        "name": "Cure Mermaid",
+        "type": "Effect Monster",
+        "desc": "As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85802526.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5494820,
+        "name": "Cyclon Laser",
+        "type": "Spell Card",
+        "desc": "You can only equip this card to \"Gradius\". Increase the ATK of \"Gradius\" by 300 points. When the equipped \"Gradius\" attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5494820.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90925163,
+        "name": "Dancing Fairy",
+        "type": "Effect Monster",
+        "desc": "As long as this card remains in face-up Defense Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90925163.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69122763,
+        "name": "Deal of Phantom",
+        "type": "Trap Card",
+        "desc": "Select 1 face-up monster on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monsters is applied when this card is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69122763.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32437102,
+        "name": "Dragonic Attack",
+        "type": "Spell Card",
+        "desc": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32437102.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8687195,
+        "name": "Dreamsprite",
+        "type": "Effect Monster",
+        "desc": "When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8687195.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69954399,
+        "name": "Ekibyo Drakmord",
+        "type": "Spell Card",
+        "desc": "The equipped monster cannot attack. Destroy the equipped monster at the end of its controller's 2nd turn after this card is activated. At that time, this card is returned to the owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69954399.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58818411,
+        "name": "Empress Mantis",
+        "type": "Normal Monster",
+        "desc": "Queen of an army of giant mantises whose command moves legions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58818411.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22419772,
+        "name": "Fairy Guardian",
+        "type": "Effect Monster",
+        "desc": "Tribute this face-up card to return 1 Spell Card sent to your Graveyard by your opponent's card effect during this turn to the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22419772.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27132350,
+        "name": "Fire Sorcerer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27132350.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12883044,
+        "name": "Flame Dancer",
+        "type": "Normal Monster",
+        "desc": "This monster moves while swinging its burning rope.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12883044.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31987274,
+        "name": "Flying Fish",
+        "type": "Normal Monster",
+        "desc": "Three wishes are granted to those fortunate enough to see this monster in flight.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31987274.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86281779,
+        "name": "Gadget Soldier",
+        "type": "Normal Monster",
+        "desc": "A rust-free machine warrior born to battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86281779.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12800777,
+        "name": "Garuda the Wind Spirit",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. During your opponent's End Phase, you can select 1 face-up monster your opponent controls, and change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12800777.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13676474,
+        "name": "Grand Tiki Elder",
+        "type": "Normal Monster",
+        "desc": "A masked monster that wields the most deadly of curses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13676474.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33737664,
+        "name": "Graverobber's Retribution",
+        "type": "Trap Card",
+        "desc": "During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33737664.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5434080,
+        "name": "Headless Knight",
+        "type": "Normal Monster",
+        "desc": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5434080.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21297224,
+        "name": "Hysteric Fairy",
+        "type": "Effect Monster",
+        "desc": "Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21297224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90147755,
+        "name": "Lady Assailant of Flames",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90147755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38480590,
+        "name": "Lady Panther",
+        "type": "Effect Monster",
+        "desc": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38480590.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55226821,
+        "name": "Lightning Blade",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55226821.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27671321,
+        "name": "Lightning Conger",
+        "type": "Normal Monster",
+        "desc": "This massive eel generates huge charges of electricity and unleashes them as thunderbolts.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27671321.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71466592,
+        "name": "Maryokutai",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71466592.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86569121,
+        "name": "Melchid the Four-Face Beast",
+        "type": "Normal Monster",
+        "desc": "This monster has four different masks for four different attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86569121.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6343408,
+        "name": "Miracle Dig",
+        "type": "Spell Card",
+        "desc": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6343408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19230407,
+        "name": "Offerings to the Doomed",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19230407.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10352095,
+        "name": "Scroll of Bewitchment",
+        "type": "Spell Card",
+        "desc": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10352095.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87303357,
+        "name": "Shining Abyss",
+        "type": "Normal Monster",
+        "desc": "This monster employs the powers of both Light and Darkness.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87303357.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6733059,
+        "name": "Skull Lair",
+        "type": "Trap Card",
+        "desc": "Remove from play any number of Monster Cards in your Graveyard to destroy 1 face-up monster on the field whose Level is equal to the number of the cards you removed from play.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6733059.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77527210,
+        "name": "Soul of Purity and Light",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77527210.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52121290,
+        "name": "Spherous Lady",
+        "type": "Normal Monster",
+        "desc": "Many have been deceived by the beauty of this vampire.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52121290.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69832741,
+        "name": "Spirit Elimination",
+        "type": "Spell Card",
+        "desc": "When monsters in the Graveyard are removed from play, remove monsters on your side of the field from play as substitutes. This card remains active until the end of the turn that it is activated. The substitutes remain removed from play.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69832741.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13522325,
+        "name": "Spirit of Flames",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your Graveyard. This card gains 300 ATK during your Battle Phase only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13522325.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21175632,
+        "name": "St. Joan",
+        "type": "Fusion Monster",
+        "desc": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21175632.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14644902,
+        "name": "Summoner of Illusions",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14644902.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3573512,
+        "name": "Swordsman of Landstar",
+        "type": "Normal Monster",
+        "desc": "An amateur with a sword, this fairy warrior relies on its mysterious powers.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3573512.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30606547,
+        "name": "The Dark Door",
+        "type": "Spell Card",
+        "desc": "Only 1 monster can attack during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30606547.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66989694,
+        "name": "The Earl of Demise",
+        "type": "Normal Monster",
+        "desc": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66989694.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68400115,
+        "name": "The Emperor's Holiday",
+        "type": "Trap Card",
+        "desc": "Negate all Equip Card effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68400115.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84080938,
+        "name": "The Forgiving Maiden",
+        "type": "Effect Monster",
+        "desc": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84080938.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68049471,
+        "name": "The Gross Ghost of Fled Dreams",
+        "type": "Normal Monster",
+        "desc": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68049471.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32541773,
+        "name": "The Portrait's Secret",
+        "type": "Normal Monster",
+        "desc": "A portrait cursed by the artist, it is said to bring ill fortune to anyone who owns it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32541773.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76305638,
+        "name": "The Rock Spirit",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 EARTH monster in your Graveyard. Increase the ATK of this monster by 300 points during your opponent's Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76305638.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65475294,
+        "name": "The Unfriendly Amazon",
+        "type": "Effect Monster",
+        "desc": "Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65475294.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73216412,
+        "name": "Worm Drake",
+        "type": "Normal Monster",
+        "desc": "Once this monster wraps itself around a victim, there is no escape.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73216412.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88472456,
+        "name": "Zombyra the Dark",
+        "type": "Effect Monster",
+        "desc": "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88472456.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 67371383,
+        "name": "Amphibian Beast",
+        "type": "Normal Monster",
+        "desc": "On land or in the sea, the speed of this monster is unmatchable.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67371383.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 57579381,
+        "name": "Darklord Marie",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57579381.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 5616412,
+        "name": "Destruction Punch",
+        "type": "Trap Card",
+        "desc": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5616412.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 45894482,
+        "name": "Gilasaurus",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45894482.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 94163677,
+        "name": "Infinite Cards",
+        "type": "Spell Card",
+        "desc": "There is no limit to the number of cards in players' hands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94163677.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 21770260,
+        "name": "Jam Breeding Machine",
+        "type": "Spell Card",
+        "desc": "During each of your Standby Phases: Special Summon 1 \"Slime Token\" (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) in Attack Position. You cannot Summon any monsters, except \"Slime Tokens\" (but you can Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21770260.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 41855169,
+        "name": "Jowgen the Spiritualist",
+        "type": "Effect Monster",
+        "desc": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41855169.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 82432018,
+        "name": "Mask of Brutality",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 1000 ATK and loses 1000 DEF. During each of your Standby Phases, pay 1000 LP or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82432018.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 12953226,
+        "name": "Nuvia the Wicked",
+        "type": "Effect Monster",
+        "desc": "If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponents side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12953226.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 19827717,
+        "name": "Return of the Doomed",
+        "type": "Spell Card",
+        "desc": "Discard 1 Monster Card from your hand to the Graveyard. Return 1 of your monsters destroyed and sent to your Graveyard as a result of battle during this turn to your hand at the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19827717.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 94772232,
+        "name": "Spirit Message \"A\"",
+        "type": "Spell Card",
+        "desc": "This card can only be placed on the field by the effect of \"Destiny Board\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94772232.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 31893528,
+        "name": "Spirit Message \"I\"",
+        "type": "Spell Card",
+        "desc": "This card can only be placed on the field by the effect of \"Destiny Board\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31893528.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 30170981,
+        "name": "Spirit Message \"L\"",
+        "type": "Spell Card",
+        "desc": "This card can only be placed on the field by the effect of \"Destiny Board\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30170981.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 67287533,
+        "name": "Spirit Message \"N\"",
+        "type": "Spell Card",
+        "desc": "This card can only be placed on the field by the effect of \"Destiny Board\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67287533.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53530069,
+        "name": "Spirit of the Breeze",
+        "type": "Effect Monster",
+        "desc": "As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53530069.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 15866454,
+        "name": "Spiritualism",
+        "type": "Spell Card",
+        "desc": "Return 1 Spell/Trap Card your opponent controls to the hand. This card's activation and effect cannot be negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15866454.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 71283180,
+        "name": "Tornado Bird",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71283180.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 40133511,
+        "name": "Bazoo the Soul-Eater",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40133511.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93599951,
+        "name": "Dark Spirit of the Silent",
+        "type": "Trap Card",
+        "desc": "Activate only when an opponent's monster declares an attack. Negate that attack, and select another face-up monster your opponent controls. That monster attacks instead. (If it is in face-up Defense Position, change it to Attack Position.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93599951.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 95286165,
+        "name": "De-Fusion",
+        "type": "Spell Card",
+        "desc": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95286165.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64752646,
+        "name": "Fire Princess",
+        "type": "Effect Monster",
+        "desc": "Each time you gain Life Points, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64752646.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 83968380,
+        "name": "Jar of Greed",
+        "type": "Trap Card",
+        "desc": "Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83968380.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88240808,
+        "name": "Kycoo the Ghost Destroyer",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88240808.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20765952,
+        "name": "Mask of Dispel",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up Spell Card on the field. The controller of the Spell Card takes 500 points of damage during each of your Standby Phases. When the selected card is removed from the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20765952.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56948373,
+        "name": "Mask of the Accursed",
+        "type": "Spell Card",
+        "desc": "The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56948373.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 31709826,
+        "name": "Revival Jam",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31709826.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 70344351,
+        "name": "Riryoku Field",
+        "type": "Trap Card",
+        "desc": "When a Spell Card that targets exactly 1 monster on the field (and no other cards) is activated: Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70344351.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 57953380,
+        "name": "Card of Safe Return",
+        "type": "Spell Card",
+        "desc": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57953380.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 31829185,
+        "name": "Dark Necrofear",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31829185.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 94212438,
+        "name": "Destiny Board",
+        "type": "Trap Card",
+        "desc": "When this card and all 4 \"Spirit Message\" cards with different names are placed on your field, you win the Duel. Once per turn, during your opponent's End Phase: Place 1 \"Spirit Message\" card from your hand or Deck in your Spell & Trap Zone face-up, in the proper order of \"I\", \"N\", \"A\", and \"L\". When any \"Spirit Message\" card or \"Destiny Board\" you control leaves the field, send all \"Spirit Message\" cards and \"Destiny Board\" you control to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94212438.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 83746708,
+        "name": "Mage Power",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 29549364,
+        "name": "Mask of Restrict",
+        "type": "Trap Card",
+        "desc": "Neither player can Tribute cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29549364.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 33950246,
+        "name": "Royal Command",
+        "type": "Trap Card",
+        "desc": "Flip monsters' effects cannot be activated, also their effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33950246.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 86099788,
+        "name": "The Last Warrior from Another Planet",
+        "type": "Fusion Monster",
+        "desc": "\"Zombyra the Dark\" + \"Maryokutai\"\nIf this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86099788.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 49064413,
+        "name": "The Masked Beast",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49064413.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 56747793,
+        "name": "United We Stand",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56747793.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 21888494,
+        "name": "Chosen One",
+        "type": "Spell Card",
+        "desc": "Select 1 Monster Card and 2 non-Monster Cards from your hand. Your opponent randomly selects 1 card among them. If it is a Monster Card, it is Special Summoned and send the remaining 2 cards to the Graveyard. If not, send all the cards to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21888494.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 7565547,
+        "name": "Collected Power",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; equip it with all Equip Cards on the field. If any of those Equip Cards is now equipped to an incorrect target, destroy that Equip Card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7565547.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 94377247,
+        "name": "Curse of the Masked Beast",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"The Masked Beast\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94377247.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 67105242,
+        "name": "Earthbound Spirit",
+        "type": "Normal Monster",
+        "desc": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67105242.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 21598948,
+        "name": "Fairy Box",
+        "type": "Trap Card",
+        "desc": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21598948.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 33550694,
+        "name": "Fusion Gate",
+        "type": "Spell Card",
+        "desc": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33550694.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 46821314,
+        "name": "Humanoid Slime",
+        "type": "Normal Monster",
+        "desc": "This slime apparently has some human genes in its genetic makeup.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46821314.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 5600127,
+        "name": "Humanoid Worm Drake",
+        "type": "Fusion Monster",
+        "desc": "\"Worm Drake\" + \"Humanoid Slime\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5600127.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 21558682,
+        "name": "Jam Defender",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack on a monster you control: You can target 1 \"Revival Jam\" you control; switch the attack target to that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21558682.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 57882509,
+        "name": "Mask of Weakness",
+        "type": "Trap Card",
+        "desc": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57882509.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 44072894,
+        "name": "Supply",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44072894.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 18605135,
+        "name": "Tornado Wall",
+        "type": "Trap Card",
+        "desc": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when \"Umi\" leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18605135.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 95220856,
+        "name": "Vengeful Bog Spirit",
+        "type": "Spell Card",
+        "desc": "Monsters cannot attack the turn they are Summoned.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95220856.jpg",
+        "rarity": "Short Print"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 69140098,
+        "name": "Gemini Elf",
+        "type": "Normal Monster",
+        "desc": "Elf twins that alternate their attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69140098.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

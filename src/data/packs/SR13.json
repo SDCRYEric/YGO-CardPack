@@ -1,0 +1,371 @@
+{
+  "setName": "Structure Deck: Dark World",
+  "pool": {
+    "Common": [
+      {
+        "id": 60990740,
+        "name": "Absolute King Back Jack",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn (Quick Effect): You can banish this card from the GY; excavate the top card of your Deck, and if it is a Normal Trap, Set it to your field. Otherwise, send it to the GY. That Set card can be activated during this turn. If this card is sent to the GY: You can look at 3 cards from the top of your Deck, then place them on the top of the Deck in any order. You can only use each effect of \"Absolute King Back Jack\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60990740.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33731070,
+        "name": "Beiige, Vanguard of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33731070.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79126789,
+        "name": "Broww, Huntsman of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79126789.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6214884,
+        "name": "Brron, Mad King of Dark World",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: You can discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6214884.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72892473,
+        "name": "Card Destruction",
+        "type": "Spell Card",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7623640,
+        "name": "Ceruli, Guru of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent's side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7623640.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85325774,
+        "name": "Charge Into a Dark World",
+        "type": "Spell Card",
+        "desc": "Target 1 Level 4 or lower Fiend monster in your GY; Special Summon it, then discard 1 Fiend monster. You can only activate 1 \"Charge Into a Dark World\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85325774.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43316238,
+        "name": "Danger! Bigfoot!",
+        "type": "Effect Monster",
+        "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Bigfoot!\", Special Summon 1 \"Danger! Bigfoot!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Danger! Bigfoot!\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43316238.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52350806,
+        "name": "Danger! Mothman!",
+        "type": "Effect Monster",
+        "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Mothman!\", Special Summon 1 \"Danger! Mothman!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can have both players draw 1 card, then both players discard 1 card. You can only use this effect of \"Danger! Mothman!\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52350806.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90807199,
+        "name": "Danger! Thunderbird!",
+        "type": "Effect Monster",
+        "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Thunderbird!\", Special Summon 1 \"Danger! Thunderbird!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 Set card your opponent controls; destroy it. You can only use this effect of \"Danger! Thunderbird!\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90807199.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99745551,
+        "name": "Danger!? Tsuchinoko?",
+        "type": "Effect Monster",
+        "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger!? Tsuchinoko?\", Special Summon 1 \"Danger!? Tsuchinoko?\" from your hand, and if you do, draw 1 card. If this card is discarded: You can Special Summon this card. You can only use this effect of \"Danger!? Tsuchinoko?\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99745551.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41930553,
+        "name": "Dark Smog",
+        "type": "Trap Card",
+        "desc": "Once per turn: You can target 1 monster in your opponent's Graveyard; discard 1 Fiend-Type monster, and if you do, banish that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41930553.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10131855,
+        "name": "Dark World Brainwashing",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster activates its effect, if you have 3 or more cards in your hand (except during the Damage Step): You can target 1 \"Dark World\" monster on the field; return it to the hand, and if you do, the activated effect becomes \"Discard 1 random card from your opponent's hand\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10131855.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74117290,
+        "name": "Dark World Dealings",
+        "type": "Spell Card",
+        "desc": "Each player draws 1 card, then each player discards 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93554166,
+        "name": "Dark World Lightning",
+        "type": "Spell Card",
+        "desc": "Target 1 Set card on the field; destroy that target, then discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93554166.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35027493,
+        "name": "Deck Devastation Virus",
+        "type": "Trap Card",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16435215,
+        "name": "Dragged Down into the Grave",
+        "type": "Spell Card",
+        "desc": "Both players reveal their hands, each chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16435215.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47217354,
+        "name": "Fabled Raven",
+        "type": "Tuner Monster",
+        "desc": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47217354.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93431518,
+        "name": "Gateway to Dark World",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Dark World\" monster in your Graveyard; Special Summon that target. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93431518.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78004197,
+        "name": "Goldd, Wu-Lord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78004197.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34230233,
+        "name": "Grapha, Dragon Lord of Dark World",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your Graveyard) by returning 1 \"Dark World\" monster you control to the hand, except \"Grapha, Dragon Lord of Dark World\". If this card is discarded to the Graveyard by a card effect: Target 1 card your opponent controls; destroy that target, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, look at 1 random card in your opponent's hand, then, if it was a monster, you can Special Summon it to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34230233.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51232472,
+        "name": "Gren, Tactician of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51232472.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25847467,
+        "name": "Kahkki, Guerilla of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25847467.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15667446,
+        "name": "Latinum, Exarch of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15667446.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23898021,
+        "name": "Lilith, Lady of Lament",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned, its original ATK becomes 1000. (Quick Effect): You can Tribute 1 DARK monster; reveal 3 Normal Traps from your Deck, your opponent randomly chooses 1 for you to Set on your field, and you shuffle the rest back into your Deck. You can only use this effect of \"Lilith, Lady of Lament\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23898021.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34968834,
+        "name": "Lucent, Netherlord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, you can Special Summon 1 Fiend-Type monster from your Deck to either side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34968834.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15800838,
+        "name": "Mind Crush",
+        "type": "Trap Card",
+        "desc": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15800838.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38761908,
+        "name": "Paleozoic Dinomischus",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38761908.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99458769,
+        "name": "Reign-Beaux, Overlord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60606759,
+        "name": "Renge, Gatekeeper of Dark World",
+        "type": "Normal Monster",
+        "desc": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60606759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5498296,
+        "name": "Scarr, Scout of Dark World",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower \"Dark World\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5498296.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32619583,
+        "name": "Sillva, Warlord of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32619583.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82732705,
+        "name": "Skill Drain",
+        "type": "Trap Card",
+        "desc": "Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82732705.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60228941,
+        "name": "Snoww, Unlight of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target 1 monster in your opponent's Graveyard; add 1 \"Dark World\" card from your Deck to your hand, then Special Summon that target (if any) in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60228941.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29826127,
+        "name": "The Forces of Darkness",
+        "type": "Trap Card",
+        "desc": "Target 2 \"Dark World\" monsters in your Graveyard; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29826127.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33017655,
+        "name": "The Gates of Dark World",
+        "type": "Spell Card",
+        "desc": "All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33017655.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7459013,
+        "name": "Zure, Knight of Dark World",
+        "type": "Normal Monster",
+        "desc": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7459013.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 65956182,
+        "name": "Dark World Accession",
+        "type": "Spell Card",
+        "desc": "During the Main Phase: Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by banishing materials mentioned on it from your field or GY. If Fusion Summoning a \"Dark World\" monster this way, you can also discard monsters as material. During your Main Phase, if this card is in your GY: You can add this card to your hand, then discard 1 \"Dark World\" monster. You can only use each effect of \"Dark World Accession\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65956182.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 76672730,
+        "name": "Dark World Archives",
+        "type": "Spell Card",
+        "desc": "During your Main Phase: You can discard 1 \"Dark World\" monster, and if you do, \"Dark World\" monsters you currently control gain ATK equal to the Level the discarded monster had in the hand x 100, until the end of this turn. If a monster whose original Type is Fiend is discarded from your hand by the effect of a \"Dark World\" card or an opponent's card effect, even during the Damage Step: You can discard 1 card, then draw 2 cards. You can only use each effect of \"Dark World Archives\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76672730.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 30284022,
+        "name": "Dark World Puppetry",
+        "type": "Spell Card",
+        "desc": "Target up to 3 cards in any GY(s); banish them, then discard 1 Fiend monster. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished Fiend monsters; add it to your hand. You can only activate 1 \"Dark World Puppetry\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30284022.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 39552584,
+        "name": "Grapha, Dragon Overlord of Dark World",
+        "type": "Fusion Monster",
+        "desc": "\"Grapha, Dragon Lord of Dark World\" + 1 DARK monster\r\nWhen your opponent activates a monster effect, or a Normal Spell/Trap Card, while you have a card(s) in your hand (Quick Effect): You can activate this effect; the activated effect becomes \"Your opponent discards 1 card\". You can only use this effect of \"Grapha, Dragon Overlord of Dark World\" once per turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your \"Grapha, Dragon Lord of Dark World\" that is banished or in your GY, then each player with a hand discards 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39552584.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 41406613,
+        "name": "Reign-Beaux, Overking of Dark World",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your GY) by returning 1 Level 7 or lower \"Dark World\" monster you control to the hand. If this card is discarded to the GY by card effect: You can add 1 Level 5 or higher \"Dark World\" monster from your Deck to your hand, except \"Reign-Beaux, Overking of Dark World\", then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon 1 Level 4 or lower \"Dark World\" monster from your Deck or GY to either field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41406613.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 3167439,
+        "name": "Dark World Punishment",
+        "type": "Trap Card",
+        "desc": "When a monster(s) would be Normal or Special Summoned: You can negate the Summon, and if you do, destroy that monster(s), then discard 1 Fiend monster. If a \"Dark World\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead. You can only use each effect of \"Dark World Punishment\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3167439.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77895328,
+        "name": "Genta, Gateman of Dark World",
+        "type": "Effect Monster",
+        "desc": "You can only Special Summon \"Genta, Gateman of Dark World\" once per turn. You can discard this card to the GY; add 1 \"The Gates of Dark World\" from your Deck to your hand. If this card is banished and you control a \"Dark World\" card: You can Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77895328.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3289027,
+        "name": "Parl, Hermit of Dark World",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the GY by card effect: You can target 1 \"Dark World\" monster in your GY, except \"Parl, Hermit of Dark World\"; Special Summon it to either field, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon, to either field, 1 of your Fiend monsters that is banished, or in your hand or GY. You can only use this effect of \"Parl, Hermit of Dark World\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3289027.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

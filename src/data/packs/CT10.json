@@ -1,0 +1,81 @@
+{
+  "setName": "2013 Collectible Tins Wave 1",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 26593852,
+        "name": "Ally of Justice Catastor",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26593852.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 72989439,
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72989439.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 6353603,
+        "name": "Brotherhood of the Fire Fist - Bear",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when this card inflicts battle damage to your opponent: You can Set 1 \"Fire Formation\" Spell directly from your Deck. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6353603.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 12014404,
+        "name": "Gagaga Cowboy",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; apply this effect, depending on this card's current battle position.\n● Attack Position: If this card attacks an opponent's monster this turn, it gains 1000 ATK, also the opponent's monster loses 500 ATK, during the Damage Step only.\n● Defense Position: Inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12014404.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 23874409,
+        "name": "Karakuri Shogun mdl 00 \"Burei\"",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner Machine-Type monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Once per turn: You can target 1 monster on the field; change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23874409.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 75433814,
+        "name": "Number 40: Gimmick Puppet of Strings",
+        "type": "XYZ Monster",
+        "desc": "2 Level 8 monsters\nOnce per turn: You can detach 1 material from this card; place 1 String Counter on each face-up monster on the field, except this card. Once per turn, during the next End Phase of the opponent of the player who placed a String Counter(s) by this effect: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75433814.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56910167,
+        "name": "Superdreadnought Rail Cannon Gustav Max",
+        "type": "XYZ Monster",
+        "desc": "2 Level 10 monsters\r\nOnce per turn: You can detach 1 material from this card; inflict 2000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56910167.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 53804307,
+        "name": "Blaster, Dragon Ruler of Infernos",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand or Graveyard: You can banish a total of 2 FIRE and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 FIRE monster to the Graveyard, then target 1 card on the field; destroy that target. If this card is banished: You can add 1 FIRE Dragon-Type monster from your Deck to your hand. You can only use 1 \"Blaster, Dragon Ruler of Infernos\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53804307.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 26400609,
+        "name": "Tidal, Dragon Ruler of Waterfalls",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand or Graveyard: You can banish a total of 2 WATER and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 WATER monster to the Graveyard; send 1 monster from your Deck to the Graveyard. If this card is banished: You can add 1 WATER Dragon-Type monster from your Deck to your hand. You can only use 1 \"Tidal, Dragon Ruler of Waterfalls\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26400609.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

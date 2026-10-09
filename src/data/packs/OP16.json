@@ -1,0 +1,219 @@
+{
+  "setName": "OTS Tournament Pack 16",
+  "pool": {
+    "Common": [
+      {
+        "id": 17490535,
+        "name": "Alien Brain",
+        "type": "Trap Card",
+        "desc": "When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17490535.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44221928,
+        "name": "Breath of Acclamation",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any WIND Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44221928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84012625,
+        "name": "Cosmic Flare",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Stardust\" Synchro Monster you control; this turn, if that Synchro Monster you control battles an opponent's monster, shuffle that opponent's monster into the Deck at the start of the Damage Step. If a \"Stardust\" Synchro Monster you control would Tribute itself to activate its effect, you can banish this card from your Graveyard instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84012625.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89112729,
+        "name": "Cyber Saurus",
+        "type": "Fusion Monster",
+        "desc": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89112729.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4611269,
+        "name": "Lion Alligator",
+        "type": "Effect Monster",
+        "desc": "While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4611269.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35514096,
+        "name": "Lord British Space Fighter",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects:\n● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 \"Multi Token\" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35514096.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6343408,
+        "name": "Miracle Dig",
+        "type": "Spell Card",
+        "desc": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6343408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52624755,
+        "name": "Peten the Dark Clown",
+        "type": "Effect Monster",
+        "desc": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52624755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19844995,
+        "name": "Power Filter",
+        "type": "Spell Card",
+        "desc": "Neither player can Special Summon monsters with 1000 or less ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19844995.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60634565,
+        "name": "Reptilianne Hydra",
+        "type": "Synchro Monster",
+        "desc": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\r\nWhen this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60634565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70791313,
+        "name": "Royal Magical Library",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70791313.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27196937,
+        "name": "Stardust Flash",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Stardust\" monster in your Graveyard; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27196937.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35129241,
+        "name": "Stardust Wish",
+        "type": "Trap Card",
+        "desc": "Once per turn, if a \"Stardust\" Synchro Monster you control is Tributed to activate its own effect (except during the Damage Step): You can target that monster; Special Summon it. Your opponent cannot activate cards or effects in response to this effect's activation. Monsters Special Summoned by this effect cannot be destroyed by battle while in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35129241.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 70095155,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095155.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 5043010,
+        "name": "Firewall Dragon",
+        "type": "Link Monster",
+        "desc": "2+ monsters\r\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 Cyberse monster from your hand. You can only use each effect of \"Firewall Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5043010.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 24299458,
+        "name": "Forbidden Droplet",
+        "type": "Spell Card",
+        "desc": "Send any number of other cards from your hand and/or field to the GY; choose that many Effect Monsters your opponent controls, and until the end of this turn, their ATK is halved, also their effects are negated. In response to this card's activation, your opponent cannot activate cards, or the effects of cards, with the same original type (Monster/Spell/Trap) as the cards sent to the GY to activate this card. You can only activate 1 \"Forbidden Droplet\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24299458.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 69015963,
+        "name": "Cyber-Stein",
+        "type": "Effect Monster",
+        "desc": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69015963.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22420202,
+        "name": "Drytron Delta Altais",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Drytron\" card. You can Tribute 1 other \"Drytron\" monster, or 1 Ritual Monster, from your hand or field; Special Summon this card from your hand or GY in Defense Position, then you can reveal 1 Ritual Monster or 1 Ritual Spell in your hand, and if you do, draw 1 card. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this effect. You can only use this effect of \"Drytron Delta Altais\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22420202.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96026108,
+        "name": "Drytron Zeta Aldhibah",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Drytron\" card. You can Tribute 1 other \"Drytron\" monster, or 1 Ritual Monster, from your hand or field; Special Summon this card from your hand or GY in Defense Position, then you can add 1 Ritual Spell from your Deck to your hand. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this effect. You can only use this effect of \"Drytron Zeta Aldhibah\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96026108.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 52119435,
+        "name": "Geonator Transverser",
+        "type": "Link Monster",
+        "desc": "2 Effect Monsters\r\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36021814,
+        "name": "King of the Skull Servants",
+        "type": "Effect Monster",
+        "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36021814.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80921533,
+        "name": "Mausoleum of the Emperor",
+        "type": "Spell Card",
+        "desc": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80921533.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67556500,
+        "name": "Phonon Pulse Dragon",
+        "type": "Synchro Tuner Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; this card becomes that Level, also you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material. You can only Special Summon \"Phonon Pulse Dragon(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67556500.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 14342283,
+        "name": "Token Stampede",
+        "type": "Trap Card",
+        "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 14816857,
+        "name": "Tri-Brigade Nervall",
+        "type": "Effect Monster",
+        "desc": "You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. If this card is sent to the GY: You can add 1 \"Tri-Brigade\" monster from your Deck to your hand, except \"Tri-Brigade Nervall\". You can only use each effect of \"Tri-Brigade Nervall\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14816857.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 50275295,
+        "name": "Virtual World Gate - Qinglong",
+        "type": "Spell Card",
+        "desc": "You can banish 1 \"Virtual World\" card from your GY, then target 1 face-up monster on the field; negate its effects until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Virtual World\" monster from your Deck to your hand, then send 1 card from your hand to the GY. You can only use each effect of \"Virtual World Gate - Qinglong\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50275295.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

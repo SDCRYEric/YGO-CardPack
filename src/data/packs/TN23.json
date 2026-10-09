@@ -1,0 +1,135 @@
+{
+  "setName": "25th Anniversary Tin: Dueling Heroes",
+  "pool": {
+    "Quarter Century Secret Rare": [
+      {
+        "id": 73580471,
+        "name": "Black Rose Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73580471.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 69031175,
+        "name": "Blackwing Armor Master",
+        "type": "Synchro Monster",
+        "desc": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nCannot be destroyed by battle, and you take no battle damage from attacks involving this card. At the end of the Damage Step, if this card attacked a monster: You can place 1 Wedge Counter on that monster (max. 1). You can remove all Wedge Counters from your opponent's monsters; the ATK and DEF of those monsters that had Wedge Counters become 0 until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69031175.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "type": "Effect Monster",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 46986421,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986421.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 1861630,
+        "name": "Decode Talker",
+        "type": "Link Monster",
+        "desc": "2+ Effect Monsters\r\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1861630.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 89943724,
+        "name": "Elemental HERO Neos",
+        "type": "Normal Monster",
+        "desc": "''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89943724.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 59123194,
+        "name": "Enlightenment Paladin",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Magician\" Pendulum Monster as Material: You can target 1 Spell Card in your Graveyard; add it to your hand. You can only use this effect of \"Enlightenment Paladin\" once per turn. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59123194.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 33396948,
+        "name": "Exodia the Forbidden One",
+        "type": "Effect Monster",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33396948.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 5043012,
+        "name": "Firewall Dragon",
+        "type": "Link Monster",
+        "desc": "2+ monsters\r\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 Cyberse monster from your hand. You can only use each effect of \"Firewall Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5043012.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 93717133,
+        "name": "Galaxy-Eyes Photon Dragon",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During the Battle Step, if this card battles an opponent's monster (Quick Effect): You can target that opponent's monster; banish both this card from the field and that target. Return those banished monsters to the field at the end of the Battle Phase, and if you banished an Xyz Monster, this card gains 500 ATK for each material it had when it was banished.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93717133.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 84013238,
+        "name": "Number 39: Utopia",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\r\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84013238.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 16178683,
+        "name": "Odd-Eyes Pendulum Dragon",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nYou can reduce the battle damage you take from an attack involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of \"Odd-Eyes Pendulum Dragon\" once per turn.\n\n[ Monster Effect ] \nIf this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16178683.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 79856792,
+        "name": "Rainbow Dragon",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all face-up \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79856792.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 74677427,
+        "name": "Red-Eyes Black Dragon",
+        "type": "Normal Monster",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74677427.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 9608555,
+        "name": "Salamangreat Blaze Dragon",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\r\nIf this card would be destroyed by battle or card effect, detach 1 material from this card instead. During the Battle Phase, if this card has no material (Quick Effect): You can Special Summon from your Extra Deck, 1 \"Salamangreat\" Xyz Monster by using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"Salamangreat Blaze Dragon\" once per turn. If this card is Xyz Summoned using \"Salamangreat Blaze Dragon\" as material: You can destroy 1 monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9608555.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 44508095,
+        "name": "Stardust Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44508095.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      }
+    ]
+  }
+}

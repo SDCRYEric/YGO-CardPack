@@ -1,0 +1,323 @@
+{
+  "setName": "Dragunity Legion Structure Deck",
+  "pool": {
+    "Common": [
+      {
+        "id": 980973,
+        "name": "Armed Dragon LV3",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46384672,
+        "name": "Armed Dragon LV5",
+        "type": "Effect Monster",
+        "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72892473,
+        "name": "Card Destruction",
+        "type": "Spell Card",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31036355,
+        "name": "Creature Swap",
+        "type": "Spell Card",
+        "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31036355.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99659159,
+        "name": "Dragon Mastery",
+        "type": "Spell Card",
+        "desc": "Each monster you control that is equipped with a \"Dragunity\" monster(s) gains 500 ATK. Once per turn, you can select 1 face-up monster you control, and equip it with 1 Dragon-Type \"Dragunity\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99659159.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62265044,
+        "name": "Dragon Ravine",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can discard 1 card, then activate 1 of these effects;\r\n● Add 1 Level 4 or lower \"Dragunity\" monster from your Deck to your hand.\r\n● Send 1 Dragon monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62265044.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55991637,
+        "name": "Dragon's Gunfire",
+        "type": "Spell Card",
+        "desc": "If you control a Dragon monster: Activate 1 of these effects;\r\n● Inflict 800 damage to your opponent.\r\n● Target 1 monster with 800 or less DEF; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55991637.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54178050,
+        "name": "Dragon's Rage",
+        "type": "Trap Card",
+        "desc": "Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54178050.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54455664,
+        "name": "Dragunity Brandistock",
+        "type": "Tuner Monster",
+        "desc": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54455664.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13361027,
+        "name": "Dragunity Darkspear",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can Tribute 1 Dragon-Type \"Dragunity\" monster to select 1 Level 4 or lower Winged Beast-Type monster in your Graveyard, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13361027.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28183605,
+        "name": "Dragunity Dux",
+        "type": "Effect Monster",
+        "desc": "Gains 200 ATK for each \"Dragunity\" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28183605.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80549379,
+        "name": "Dragunity Javelin",
+        "type": "Tuner Monster",
+        "desc": "If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type \"Dragunity\" monster you control, instead of sending it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80549379.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54578613,
+        "name": "Dragunity Legionnaire",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. You can send 1 \"Dragunity\" card from your Spell & Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54578613.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81661951,
+        "name": "Dragunity Militum",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81661951.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18060565,
+        "name": "Dragunity Primus Pilus",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18060565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81962318,
+        "name": "Dragunity Tribus",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81962318.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52503575,
+        "name": "Final Attack Orders",
+        "type": "Trap Card",
+        "desc": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52503575.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84834865,
+        "name": "Flying Kamakiri #1",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84834865.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81439173,
+        "name": "Foolish Burial",
+        "type": "Spell Card",
+        "desc": "Send 1 monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81439173.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12800777,
+        "name": "Garuda the Wind Spirit",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. During your opponent's End Phase, you can select 1 face-up monster your opponent controls, and change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12800777.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51962254,
+        "name": "Hunter Owl",
+        "type": "Effect Monster",
+        "desc": "This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51962254.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53567095,
+        "name": "Icarus Attack",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53567095.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30461781,
+        "name": "Legacy of Yata-Garasu",
+        "type": "Trap Card",
+        "desc": "Activate 1 of these effects:\n● Draw 1 card.\n● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30461781.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83746708,
+        "name": "Mage Power",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39191307,
+        "name": "Masked Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Dragon-Type monster with 1500 or less ATK from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39191307.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44095762,
+        "name": "Mirror Force",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82199284,
+        "name": "Mist Valley Falcon",
+        "type": "Effect Monster",
+        "desc": "This card cannot declare an attack unless you return 1 card you control to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82199284.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74848038,
+        "name": "Monster Reincarnation",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37507488,
+        "name": "Relieve Monster",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target 1 monster you control; return that target to the hand, then Special Summon 1 Level 4 monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37507488.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31553716,
+        "name": "Spear Dragon",
+        "type": "Effect Monster",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31553716.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79333300,
+        "name": "Spiritual Wind Art - Miyabi",
+        "type": "Trap Card",
+        "desc": "Tribute 1 WIND monster, then target 1 card your opponent controls; place that card on the bottom of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79333300.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81385346,
+        "name": "Stamping Destruction",
+        "type": "Spell Card",
+        "desc": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81385346.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43586926,
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56747793,
+        "name": "United We Stand",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56747793.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59744639,
+        "name": "Windstorm of Etaqua",
+        "type": "Trap Card",
+        "desc": "Change the battle positions of all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59744639.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 36870345,
+        "name": "Dragunity Aklys",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can Special Summon 1 \"Dragunity\" monster from your hand, then equip it with this card. When this card is sent to the Graveyard while equipped to a monster, select 1 card on the field, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36870345.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 876330,
+        "name": "Dragunity Arma Mystletainn",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card from your hand by sending 1 face-up \"Dragunity\" monster you control to the Graveyard. When this card is Normal or Special Summoned from the hand, you can select 1 Dragon-Type \"Dragunity\" monster in your Graveyard, and equip it to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/876330.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 63487632,
+        "name": "Dragunity Arma Leyvaten",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card from your hand or Graveyard by removing from play 1 face-up monster you control equipped with a \"Dragunity\" card(s). When this card is Normal or Special Summoned, you can select 1 Dragon-Type monster in your Graveyard, except \"Dragunity Arma Leyvaten\", and equip it to this card. When this card is sent to the Graveyard by your opponent's card effect, you can select 1 of the monsters that were equipped to this card when it was sent to the Graveyard, and Special Summon that monster from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63487632.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

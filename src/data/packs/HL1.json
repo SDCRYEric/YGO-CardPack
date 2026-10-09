@@ -1,0 +1,25 @@
+{
+  "setName": "Hobby League 1 participation cards A",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 61831093,
+        "name": "Greenkappa",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61831093.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 99510761,
+        "name": "Lord of the Lamp",
+        "type": "Normal Monster",
+        "desc": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99510761.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

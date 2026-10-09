@@ -1,0 +1,167 @@
+{
+  "setName": "Duelist League 16 participation cards",
+  "pool": {
+    "Rare": [
+      {
+        "id": 35149085,
+        "name": "Beast Soul Swap",
+        "type": "Trap Card",
+        "desc": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35149085.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 30127518,
+        "name": "Darkfall",
+        "type": "Trap Card",
+        "desc": "When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30127518.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 6021033,
+        "name": "Doomkaiser Dragon",
+        "type": "Synchro Monster",
+        "desc": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nWhen this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6021033.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 40732515,
+        "name": "Endymion, the Master Magician",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or GY) by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. If Summoned this way: Target 1 Spell in your GY; add that target to your hand. Once per turn: You can discard 1 Spell, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40732515.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 71786742,
+        "name": "Geargiano",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71786742.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 34460239,
+        "name": "Generation Shift",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; destroy that target, then add 1 card with the same name as the destroyed card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34460239.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80723580,
+        "name": "Giant Trap Hole",
+        "type": "Trap Card",
+        "desc": "When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80723580.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 52512994,
+        "name": "Kasha",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52512994.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 57666212,
+        "name": "Kuraz the Light Monarch",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57666212.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 23171610,
+        "name": "Limiter Removal",
+        "type": "Spell Card",
+        "desc": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23171610.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 25518020,
+        "name": "Machine Assembly Line",
+        "type": "Spell Card",
+        "desc": "All Machine-Type monsters on the field gain 200 ATK. Each time a face-up Machine-Type monster(s) on the field is destroyed by battle or card effect, place 2 Junk Counters on this card. You can send this card to the Graveyard, then target 1 Machine-Type monster in your Graveyard whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25518020.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 1557341,
+        "name": "Rose, Warrior of Revenge",
+        "type": "Tuner Monster",
+        "desc": "When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1557341.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 37265642,
+        "name": "Sabersaurus",
+        "type": "Normal Monster",
+        "desc": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37265642.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 81489939,
+        "name": "Stygian Dirge",
+        "type": "Trap Card",
+        "desc": "Reduce the Levels of all monsters your opponent controls by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81489939.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 97705809,
+        "name": "Supercharge",
+        "type": "Trap Card",
+        "desc": "When your opponent declares an attack while the only monsters you control are Machine-Type \"roid\" monster(s): Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97705809.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 51402908,
+        "name": "The Supremacy Sun",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51402908.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 698785,
+        "name": "Thunder End Dragon",
+        "type": "XYZ Monster",
+        "desc": "2 Level 8 Normal Monsters\nOnce per turn: You can detach 1 Xyz Material from this card; destroy all other monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/698785.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 56387350,
+        "name": "Vampire Baby",
+        "type": "Effect Monster",
+        "desc": "At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56387350.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 34294855,
+        "name": "Vampire's Curse",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34294855.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 75162696,
+        "name": "Victoria",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75162696.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

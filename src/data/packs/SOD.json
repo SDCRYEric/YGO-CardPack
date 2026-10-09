@@ -1,0 +1,495 @@
+{
+  "setName": "Soul of the Duelist",
+  "pool": {
+    "Common": [
+      {
+        "id": 27744077,
+        "name": "Absolute End",
+        "type": "Trap Card",
+        "desc": "Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27744077.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89801755,
+        "name": "Abyssal Designator",
+        "type": "Spell Card",
+        "desc": "Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89801755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 980973,
+        "name": "Armed Dragon LV3",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51562916,
+        "name": "Big Wave Small Wave",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up WATER monsters you control, then you can Special Summon WATER monsters from your hand, up to the number of monsters destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51562916.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36262024,
+        "name": "Black Dragon's Chick",
+        "type": "Effect Monster",
+        "desc": "You can send this face-up card you control to the Graveyard; Special Summon 1 \"Red-Eyes B. Dragon\" from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36262024.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51394546,
+        "name": "Cemetary Bomb",
+        "type": "Trap Card",
+        "desc": "Inflict 100 damage to your opponent for each card in their Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51394546.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90928333,
+        "name": "Dark Factory of Mass Production",
+        "type": "Spell Card",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90928333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74713516,
+        "name": "Dark Mimic LV1",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30314994,
+        "name": "Element Dragon",
+        "type": "Effect Monster",
+        "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30314994.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66712593,
+        "name": "Element Soldier",
+        "type": "Effect Monster",
+        "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66712593.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91862578,
+        "name": "Enraged Muka Muka",
+        "type": "Effect Monster",
+        "desc": "This card gains 400 ATK and DEF for each card in your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91862578.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12057781,
+        "name": "Goblin Calligrapher",
+        "type": "Normal Monster",
+        "desc": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12057781.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52648457,
+        "name": "Gorgon's Eye",
+        "type": "Trap Card",
+        "desc": "Until the end of this turn, all effects of Defense Position monsters are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52648457.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28357177,
+        "name": "Hade-Hane",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can return up to 3 monsters on the field to the owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28357177.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52417194,
+        "name": "Heavy Slump",
+        "type": "Trap Card",
+        "desc": "If your opponent has 8 or more cards in their hand: They shuffle their entire hand into the Deck, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52417194.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9264485,
+        "name": "Horus' Servant",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9264485.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93107608,
+        "name": "Howling Insect",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Insect-Type monster with 1500 or less ATK from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93107608.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25290459,
+        "name": "Level Up!",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25290459.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72657739,
+        "name": "Malice Doll of Demise",
+        "type": "Effect Monster",
+        "desc": "During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72657739.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39191307,
+        "name": "Masked Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Dragon-Type monster with 1500 or less ATK from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39191307.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15800838,
+        "name": "Mind Crush",
+        "type": "Trap Card",
+        "desc": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15800838.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52817046,
+        "name": "Mind Wipe",
+        "type": "Spell Card",
+        "desc": "Activate only if your opponent has 3 or less cards in their hand. Your opponent adds their hand to the Deck and shuffles it, then draws the same number of cards they added to the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52817046.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49563947,
+        "name": "Neo Aqua Madoor",
+        "type": "Normal Monster",
+        "desc": "The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49563947.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89628781,
+        "name": "Ninjitsu Art of Decoy",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up \"Ninja\" monster you control; it cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89628781.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65878864,
+        "name": "Nobleman-Eater Bug",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Destroy 2 monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65878864.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54351224,
+        "name": "Ritual Weapon",
+        "type": "Spell Card",
+        "desc": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54351224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53539634,
+        "name": "Sanwitch",
+        "type": "Fusion Monster",
+        "desc": "\"Sangan\" + \"Witch of the Black Forest\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53539634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86652646,
+        "name": "Skull Dog Marron",
+        "type": "Normal Monster",
+        "desc": "A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86652646.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90740329,
+        "name": "Taunt",
+        "type": "Trap Card",
+        "desc": "Activate only during your opponent's Main Phase 1; select 1 monster on your side of the field. While the selected card remains on the field, if your opponent attacks with a monster(s) this turn, they must select the selected monster as the attack target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90740329.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88089103,
+        "name": "The Graveyard in the Fourth Dimension",
+        "type": "Spell Card",
+        "desc": "Add 2 \"LV\" monsters from your Graveyard to your Deck and shuffle it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88089103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38479725,
+        "name": "The Trojan Horse",
+        "type": "Effect Monster",
+        "desc": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38479725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25578802,
+        "name": "Two-Man Cell Battle",
+        "type": "Spell Card",
+        "desc": "During each player's End Phase, the turn player can Special Summon 1 Level 4 Normal Monster from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25578802.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67934141,
+        "name": "Ultimate Baseball Kid",
+        "type": "Effect Monster",
+        "desc": "This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67934141.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92084010,
+        "name": "Unshaven Angler",
+        "type": "Effect Monster",
+        "desc": "When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92084010.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 46384672,
+        "name": "Armed Dragon LV5",
+        "type": "Effect Monster",
+        "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 13179332,
+        "name": "Charcoal Inpachi",
+        "type": "Normal Monster",
+        "desc": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13179332.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 1102515,
+        "name": "Dark Mimic LV3",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 26022485,
+        "name": "Enervating Mist",
+        "type": "Trap Card",
+        "desc": "Your opponent's hand size limit becomes 5.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26022485.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 26412047,
+        "name": "Hammer Shot",
+        "type": "Spell Card",
+        "desc": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26412047.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 75830094,
+        "name": "Horus the Black Flame Dragon LV4",
+        "type": "Effect Monster",
+        "desc": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75830094.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 27134689,
+        "name": "Master of Oz",
+        "type": "Fusion Monster",
+        "desc": "\"Big Koala\" + \"Des Kangaroo\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27134689.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 66690411,
+        "name": "Mind on Air",
+        "type": "Effect Monster",
+        "desc": "Your opponent must play with their hand revealed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66690411.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 47507260,
+        "name": "Mystic Swordsman LV2",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV4\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47507260.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 4041838,
+        "name": "Ninja Grandmaster Sasuke",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4041838.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 90140980,
+        "name": "Ojama King",
+        "type": "Fusion Monster",
+        "desc": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90140980.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 31440542,
+        "name": "Rafflesia Seduction",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31440542.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53239672,
+        "name": "Spirit Barrier",
+        "type": "Trap Card",
+        "desc": "While you control a monster, you take no battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53239672.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 49441499,
+        "name": "Ultimate Insect LV1",
+        "type": "Effect Monster",
+        "desc": "While this card is on the field, it is unaffected by the effects of Spell Cards. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV3\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49441499.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 73879377,
+        "name": "Armed Dragon LV7",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 48229808,
+        "name": "Horus the Black Flame Dragon LV8",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48229808.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 52684508,
+        "name": "Inferno Fire Blast",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Red-Eyes B. Dragon\" in your Monster Zone; inflict damage to your opponent equal to its original ATK. \"Red-Eyes B. Dragon\" cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52684508.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 74591968,
+        "name": "Mystic Swordsman LV4",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74591968.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 97342942,
+        "name": "Ectoplasmer",
+        "type": "Spell Card",
+        "desc": "Once per turn, during each player's End Phase: The turn player must Tribute 1 face-up monster, and if they do, inflict damage to their opponent equal to half the original ATK of the Tributed monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97342942.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89405199,
+        "name": "Greed",
+        "type": "Trap Card",
+        "desc": "Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89405199.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88789641,
+        "name": "Hallowed Life Barrier",
+        "type": "Trap Card",
+        "desc": "Discard 1 card from your hand. This turn, any damage you take from your opponent's cards and effects becomes 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88789641.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 11224103,
+        "name": "Horus the Black Flame Dragon LV6",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11224103.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4929256,
+        "name": "Mobius the Frost Monarch",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80863132,
+        "name": "Muko",
+        "type": "Trap Card",
+        "desc": "Activate only when an effect of drawing card(s) is activated. Both players see the cards drawn by the effect and discard them all to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80863132.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64751286,
+        "name": "Penumbral Soldier Lady",
+        "type": "Effect Monster",
+        "desc": "If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64751286.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 27967615,
+        "name": "Fusion Weapon",
+        "type": "Spell Card",
+        "desc": "Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27967615.jpg",
+        "rarity": "Short Print"
+      }
+    ]
+  }
+}

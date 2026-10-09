@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! GX Volume 5 promotional card",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 55690251,
+        "name": "Darklord Desire",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 Fairy-Type monster. Once per turn: You can target 1 monster your opponent controls; this card loses exactly 1000 ATK, and if it does, send that target to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55690251.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "setName": "Hobby League 7 participation card A",
+  "pool": {
+    "Ultra Parallel Rare": [
+      {
+        "id": 83764718,
+        "name": "Monster Reborn",
+        "type": "Spell Card",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83764718.jpg",
+        "rarity": "Ultra Parallel Rare"
+      }
+    ]
+  }
+}

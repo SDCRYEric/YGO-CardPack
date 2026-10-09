@@ -1,0 +1,173 @@
+{
+  "setName": "Champion Pack: Game Two",
+  "pool": {
+    "Rare": [
+      {
+        "id": 18318842,
+        "name": "Abyss Soldier",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 WATER monster to the Graveyard to target 1 card on the field; return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18318842.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 97642679,
+        "name": "Dark Master - Zorc",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Contract with the Dark Master\". Once per turn: You can roll a six-sided die, then destroy all monsters your opponent controls if you roll 1 or 2, destroy 1 monster your opponent controls if you roll 3, 4 or 5, or destroy all monsters you control if you roll 6.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97642679.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 40640057,
+        "name": "Kuriboh",
+        "type": "Effect Monster",
+        "desc": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40640057.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 28553439,
+        "name": "Magical Dimension",
+        "type": "Spell Card",
+        "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28553439.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 33508719,
+        "name": "Morphing Jar",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 83555666,
+        "name": "Ring of Destruction",
+        "type": "Trap Card",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83555666.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 61127349,
+        "name": "Big Bang Shot",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 400 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card leaves the field, banish the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61127349.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38699854,
+        "name": "Book of Taiyou",
+        "type": "Spell Card",
+        "desc": "Flip 1 face-down monster on the field into face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38699854.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36468556,
+        "name": "Ceasefire",
+        "type": "Trap Card",
+        "desc": "If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36468556.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99030164,
+        "name": "Happy Lover",
+        "type": "Normal Monster",
+        "desc": "Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99030164.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70046172,
+        "name": "Rush Recklessly",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60764581,
+        "name": "Stray Lambs",
+        "type": "Spell Card",
+        "desc": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60764581.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31786629,
+        "name": "Thunder Dragon",
+        "type": "Effect Monster",
+        "desc": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31786629.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43586926,
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 98494543,
+        "name": "Magical Stone Excavation",
+        "type": "Spell Card",
+        "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 31560081,
+        "name": "Magician of Faith",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22567609,
+        "name": "Nimble Momonga",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22567609.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77044671,
+        "name": "Pyramid Turtle",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77044671.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 97169186,
+        "name": "Smashing Ground",
+        "type": "Spell Card",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

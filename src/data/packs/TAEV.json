@@ -1,0 +1,737 @@
+{
+  "setName": "Tactical Evolution",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 44223284,
+        "name": "Abyssal Kingshark",
+        "type": "Effect Monster",
+        "desc": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44223284.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 18828179,
+        "name": "Cranium Fish",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card by Tributing 1 \"Ocean's Keeper\". You can discard 1 WATER monster to the Graveyard to destroy 1 face-down card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18828179.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80033124,
+        "name": "Cyberdark Impact!",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Cyberdark Dragon\" from your Extra Deck, by returning 1 each of \"Cyberdark Horn\", \"Cyberdark Edge\", and \"Cyberdark Keel\" from your hand, GY, and/or anywhere on your field, to the Deck, as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80033124.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 78512663,
+        "name": "Elemental HERO Magma Neos",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\" + \"Neo-Spacian Grand Mole\"\r\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each card on the field. Once per turn, during the End Phase: Shuffle this card into the Extra Deck. If this card is shuffled into the Extra Deck this way: Return all cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78512663.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 55589254,
+        "name": "Frost and Flame Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55589254.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 19041767,
+        "name": "Gemini Summoner",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your opponent's End Phase: You can pay 500 LP; Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19041767.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 70595331,
+        "name": "Il Blud",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● Once per turn: You can Special Summon 1 Zombie monster from your hand or either GY, but if this card leaves the field, destroy all Zombie monsters Special Summoned by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70595331.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 71717923,
+        "name": "Mormolith",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 face-up EARTH monster to destroy all face-up monsters with DEF equal to or less than the ATK of the Tributed card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71717923.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 8062132,
+        "name": "Vennominaga the Deity of Poisonous Snakes",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned or Set. Must first be Special Summoned with \"Rise of the Snake Deity\" and cannot be Special Summoned by other ways except by its own effect. This card gains 500 ATK for each Reptile-Type monster in your Graveyard. This card cannot be targeted by, and is unaffected by, Spell/Trap effects and other Effect Monsters' effects. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card. When this card inflicts Battle Damage to your opponent: Place 1 Hyper-Venom Counter on it. When 3 Hyper-Venom Counters are on this card, you win the Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8062132.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 97127906,
+        "name": "Alien Shocktrooper",
+        "type": "Normal Monster",
+        "desc": "The Aliens have used a mysterious biological substance to create a supreme race of soldiers. They do not have the natural powers of the other Aliens, but can make stunning physical attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97127906.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77972406,
+        "name": "Ambush Fangs",
+        "type": "Trap Card",
+        "desc": "Activate only when a face-up \"Venom\" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77972406.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5183693,
+        "name": "Amulet of Ambition",
+        "type": "Spell Card",
+        "desc": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5183693.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41587307,
+        "name": "Broken Bamboo Sword",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 0 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41587307.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17363041,
+        "name": "Chrysalis Chicky",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Air Hummingbird\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17363041.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16241441,
+        "name": "Chrysalis Larva",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Flare Scarab\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16241441.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42239546,
+        "name": "Chrysalis Mole",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Grand Mole\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42239546.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43751755,
+        "name": "Chrysalis Pantail",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Dark Panther\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43751755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29246354,
+        "name": "Chrysalis Pinny",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Glow Moss\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29246354.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80368942,
+        "name": "Cocoon Party",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 \"Chrysalis\" monster from your Deck for each \"Neo-Spacian\" monster with a different name in your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80368942.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43644025,
+        "name": "Cocoon Rebirth",
+        "type": "Spell Card",
+        "desc": "You can Tribute 1 face-up \"Chrysalis\" monster you control to Special Summon 1 \"Neo-Spacian\" monster written in the card text of that card from either player's Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43644025.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56641453,
+        "name": "Cocoon Veil",
+        "type": "Trap Card",
+        "desc": "Activate by Tributing 1 face-up \"Chrysalis\" monster. This turn, any damage to a player caused by an effect becomes 0. Special Summon 1 \"Neo-Spacian\" monster written on the \"Chrysalis\" monster you Tributed from your hand, Deck or from either player's Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56641453.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82639107,
+        "name": "Convert Contact",
+        "type": "Spell Card",
+        "desc": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82639107.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42309337,
+        "name": "Counter Counter",
+        "type": "Trap Card",
+        "desc": "Negate the activation of a Counter Trap Card, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42309337.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15305240,
+        "name": "Creature Seizure",
+        "type": "Spell Card",
+        "desc": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15305240.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81755371,
+        "name": "Dark Effigy",
+        "type": "Effect Monster",
+        "desc": "If you Tribute Summon a DARK Normal Monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81755371.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57549932,
+        "name": "Dawnbreak Gardna",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● The original DEF of this card becomes 2300.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57549932.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77859858,
+        "name": "Destructive Draw",
+        "type": "Trap Card",
+        "desc": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77859858.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83812099,
+        "name": "Flint Lock",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 \"Flint\" in the Spell & Trap Zone; equip it to this card. During your Main Phase: You can target 1 \"Flint\" equipped to this card, and 1 face-up monster on the field, except this card; equip that \"Flint\" to that targeted monster. This card can only be equipped with 1 \"Flint\". While equipped with \"Flint\", this card is unaffected by the effect of \"Flint\", and cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83812099.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16437822,
+        "name": "Flint Missile",
+        "type": "Spell Card",
+        "desc": "Destroy 1 monster equipped with \"Flint\". You can return this card to your Deck instead of sending it to the Graveyard after it resolves.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16437822.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39526584,
+        "name": "Gift Card",
+        "type": "Trap Card",
+        "desc": "Your opponent gains 3000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39526584.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21155323,
+        "name": "Goggle Golem",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● The original ATK of this card becomes 2100.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21155323.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29216198,
+        "name": "Gravitic Orb",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Change the battle positions of all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29216198.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19024706,
+        "name": "Hero Counterattack",
+        "type": "Trap Card",
+        "desc": "When an \"Elemental HERO\" monster you control is destroyed by battle: Your opponent chooses and reveals 1 random card from your hand, then, if it is an \"Elemental HERO\" monster, you destroy 1 monster your opponent controls and Special Summon the chosen monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19024706.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20438745,
+        "name": "King Pyron",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● Once per turn, you can inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20438745.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54766667,
+        "name": "Light Effigy",
+        "type": "Effect Monster",
+        "desc": "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54766667.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78734254,
+        "name": "Neo-Spacian Marine Dolphin",
+        "type": "Fusion Monster",
+        "desc": "This card's name is also treated as \"Neo-Spacian Aqua Dolphin\". This card cannot be Special Summoned except with \"NEX\". Once per turn, you can discard 1 card to look at your opponent's hand and select 1 Monster Card in it. If you control a monster with ATK greater than or equal to the selected monster's, destroy the selected monster and inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78734254.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81913510,
+        "name": "NEX",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up \"Neo-Spacian\" monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81913510.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40391316,
+        "name": "Ojama Knight",
+        "type": "Fusion Monster",
+        "desc": "1 \"Ojama\" monster + 1 \"Ojama\" monster\r\nSelect up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40391316.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56605802,
+        "name": "Phantom Cricket",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56605802.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18372968,
+        "name": "Razor Lizard",
+        "type": "Effect Monster",
+        "desc": "While you control another Reptile-Type monster, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18372968.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60606759,
+        "name": "Renge, Gatekeeper of Dark World",
+        "type": "Normal Monster",
+        "desc": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60606759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18302224,
+        "name": "Reverse of Neos",
+        "type": "Spell Card",
+        "desc": "Activate only when a face-up \"Neos\" Fusion Monster you control is destroyed. Special Summon 1 \"Elemental Hero Neos\" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18302224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16067089,
+        "name": "Rise of the Snake Deity",
+        "type": "Trap Card",
+        "desc": "When a face-up \"Vennominon the King of Poisonous Snakes\" you control is destroyed, except by battle: Special Summon 1 \"Vennominaga the Deity of Poisonous Snakes\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16067089.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34334692,
+        "name": "Ritual Raven",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon a DARK Ritual Monster, this 1 card can be used as the entire Tribute.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34334692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57827484,
+        "name": "Shadow Delver",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● Once per turn, you can select 1 face-up Level 4 or lower DARK monster you control. It can attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57827484.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3244563,
+        "name": "Shield Spear",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3244563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81791932,
+        "name": "Snake Whistle",
+        "type": "Trap Card",
+        "desc": "Activate only when a Reptile-Type monster you control is destroyed. Special Summon 1 Level 4 or lower Reptile-Type monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81791932.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30643162,
+        "name": "Strike Slash",
+        "type": "Trap Card",
+        "desc": "When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30643162.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5915629,
+        "name": "The Gift of Greed",
+        "type": "Trap Card",
+        "desc": "Your opponent draws 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5915629.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9284723,
+        "name": "Venom Boa",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can place 2 Venom Counters on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9284723.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4466015,
+        "name": "Venom Burn",
+        "type": "Trap Card",
+        "desc": "Select 1 monster with a Venom Counter(s). Remove all Venom Counters from that card, and inflict 700 damage to your opponent for each Venom Counter removed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4466015.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22499463,
+        "name": "Venom Cobra",
+        "type": "Normal Monster",
+        "desc": "Hard scales cover all parts of this gigantic cobra. It hunts by shooting out massive amounts of venom, but because of its large size, its attack pattern is easily predicted.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22499463.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36278828,
+        "name": "Venom Serpent",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36278828.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60728397,
+        "name": "Venom Shot",
+        "type": "Spell Card",
+        "desc": "Activate only while you control a face-up \"Venom\" monster, \"Vennominaga the Deity of Poisonous Snakes\", or \"Vennominon the King of Poisonous Snakes\". Send 1 Reptile-Type monster from your Deck to the Graveyard and place 2 Venom Counters on 1 face-up monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60728397.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73899015,
+        "name": "Venom Snake",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73899015.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54306223,
+        "name": "Venom Swamp",
+        "type": "Spell Card",
+        "desc": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54306223.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33112041,
+        "name": "Volcanic Rat",
+        "type": "Normal Monster",
+        "desc": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33112041.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 22377815,
+        "name": "Aquarian Alessa",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● When this card destroys an opponent's monster by battle and sends it to the Graveyard, they discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22377815.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16984449,
+        "name": "Blazewing Butterfly",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16984449.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94944637,
+        "name": "Doom Shaman",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can Special Summon 1 Fiend-Type monster from your hand or from either Graveyard. When this card leaves the field, destroy all Fiend-Type monsters Special Summoned by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94944637.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 69884162,
+        "name": "Elemental HERO Neos Alius",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69884162.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55428811,
+        "name": "Fifth Hope",
+        "type": "Spell Card",
+        "desc": "Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55428811.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68762510,
+        "name": "Lucky Pied Piper",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● When this card destroys an opponent's monster by battle and sends it to the Graveyard, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68762510.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43452193,
+        "name": "Mirror Gate",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack targeting a face-up \"Elemental HERO\" monster you control: Switch control of the opponent's attacking monster with the targeted monster you control, then calculate damage. Control of both monsters switches back during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43452193.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4906301,
+        "name": "Necro Gardna",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4906301.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17259470,
+        "name": "Zombie Master",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17259470.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 95888876,
+        "name": "Chthonian Emperor Dragon",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card can attack twice during the same Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95888876.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 82099401,
+        "name": "Crystal Seer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82099401.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 81977953,
+        "name": "Desert Twister",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81977953.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 41517968,
+        "name": "Elemental HERO Darkbright",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41517968.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 72677437,
+        "name": "Vennominon the King of Poisonous Snakes",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned by another Effect Monster's effect. This card is unaffected by \"Venom Swamp\". This card gains 500 ATK for each Reptile-Type monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72677437.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 40465719,
+        "name": "Common Charity",
+        "type": "Trap Card",
+        "desc": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40465719.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 44584775,
+        "name": "Damage = Reptile",
+        "type": "Trap Card",
+        "desc": "Once per turn, when you take Battle Damage from a battle involving a Reptile-Type monster, you can Special Summon 1 Reptile-Type monster from your Deck with ATK less than or equal to the Battle Damage you took.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44584775.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 43422537,
+        "name": "Double Summon",
+        "type": "Spell Card",
+        "desc": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43422537.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 5128859,
+        "name": "Elemental HERO Marine Neos",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Marine Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can destroy 1 random card in your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5128859.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17706537,
+        "name": "Fossil Tusker",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 400 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17706537.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 95166228,
+        "name": "Grasschopper",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card can attack all monsters your opponent controls once each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95166228.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 96005454,
+        "name": "Hunter Dragon",
+        "type": "Normal Monster",
+        "desc": "This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first it is vulnerable to a counter-attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96005454.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 19594506,
+        "name": "Neo Space Pathfinder",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the Graveyard to add 1 \"Neo Space\" from your Deck or Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19594506.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 45045866,
+        "name": "Ocean's Keeper",
+        "type": "Effect Monster",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. When this card is destroyed by battle, add 1 \"Thousand-Eyes Jellyfish\" or 1 \"Cranium Fish\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45045866.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 42709949,
+        "name": "Phalanx Pike",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42709949.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 43191636,
+        "name": "Phantom Dragonray Bronto",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● The original ATK of this card becomes 2300. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43191636.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80678380,
+        "name": "Snake Deity's Command",
+        "type": "Trap Card",
+        "desc": "Activate by showing your opponent 1 \"Venom\" monster in your hand. Negate the activation and effect of an opponent's Spell Card, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80678380.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17189677,
+        "name": "Snake Rain",
+        "type": "Spell Card",
+        "desc": "Discard 1 card. Select 4 Reptile-Type monsters from your Deck and send them to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17189677.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 76137276,
+        "name": "Spell Reclamation",
+        "type": "Trap Card",
+        "desc": "Discard 1 card and chain this card to a Spell Card you activated. Whenever that Spell Card is sent to the Graveyard, return it to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76137276.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 79816536,
+        "name": "Summoner's Art",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79816536.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 78794994,
+        "name": "Symbols of Duty",
+        "type": "Spell Card",
+        "desc": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78794994.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 81434470,
+        "name": "Thousand-Eyes Jellyfish",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Ocean's Keeper\". Your opponent must play with their hand revealed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81434470.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 2122975,
+        "name": "Trap Reclamation",
+        "type": "Trap Card",
+        "desc": "Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2122975.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ghost Rare": [
+      {
+        "id": 79856792,
+        "name": "Rainbow Dragon",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all face-up \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79856792.jpg",
+        "rarity": "Ghost Rare"
+      }
+    ]
+  }
+}

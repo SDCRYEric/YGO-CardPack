@@ -1,0 +1,15 @@
+{
+  "setName": "Fire Fists: Special Edition",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 57103969,
+        "name": "Fire Formation - Tenki",
+        "type": "Spell Card",
+        "desc": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

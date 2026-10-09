@@ -1,0 +1,819 @@
+{
+  "setName": "Phantom Nightmare",
+  "pool": {
+    "Common": [
+      {
+        "id": 27822206,
+        "name": "Ages of Stars and Frost",
+        "type": "Spell Card",
+        "desc": "If a monster(s) you control was destroyed by your Spell effect or your opponent's card effect and sent to the GY this turn: You can conduct your next Battle Phase twice. If a monster you control is shuffled into the Deck or returned to the Extra Deck face-down, while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Ages of Stars and Frost\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27822206.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25861589,
+        "name": "Aroma Blend",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; place 1 \"Humid Winds\", \"Dried Winds\", or \"Blessed Winds\" from your hand or Deck, face-up in your Spell & Trap Zone. You can banish this card from your GY; Fusion Summon 1 Plant Fusion Monster from your Extra Deck, by banishing its materials from your hand or field. If your LP are higher than your opponent's, you can also banish Plant monsters from your GY as material. You can only use each effect of \"Aroma Blend\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25861589.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12804701,
+        "name": "Aroma Healing",
+        "type": "Trap Card",
+        "desc": "Gain 1000 LP for each \"Aroma\" monster you control with a different name. You can banish this card from your GY, then target 1 \"Aroma\" monster in your GY; Special Summon it (but banish it when it leaves the field), then gain 500 LP. You can only use 1 \"Aroma Healing\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12804701.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66848311,
+        "name": "Ashened for Eternity",
+        "type": "Trap Card",
+        "desc": "When this card is activated: You can add 1 \"Veidos the Eruption Dragon of Extinction\" or 1 \"Ashened\" monster from your GY to your hand. You can target 1 face-up monster your opponent controls that you own; take control of that monster, then you can make all face-up monsters your opponent currently controls lose ATK equal to the targeted monster's original ATK. This ATK change lasts until the end of this turn. You can only use this effect of \"Ashened for Eternity\" once per turn. You can only activate 1 \"Ashened for Eternity\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66848311.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13744068,
+        "name": "Berserk Archfiend",
+        "type": "Effect Monster",
+        "desc": "You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of \"Berserk Archfiend\" once per turn. When a monster(s) is destroyed by this card's effect: You can target face-up monsters your opponent controls equal to the number destroyed; this card gains ATK equal to their combined original ATK, until the end of your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13744068.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79627627,
+        "name": "Conbirdable",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 Level 5 or higher Flip monster from your Deck in face-down Defense Position, except \"Conbirdable\".\r\nDuring the Battle Phase, if this card is in your hand (Quick Effect): You can target 1 face-down monster on the field; send it to the GY, and if you do, Special Summon this card in face-down Defense Position. You can only use each effect of \"Conbirdable\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79627627.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53194323,
+        "name": "Dark Element",
+        "type": "Spell Card",
+        "desc": "If you have a \"Gate Guardian\" monster in your GY: Pay half your LP; Special Summon 1 Level 11 or higher \"Gate Guardian\" monster from your hand, Deck, or Extra Deck, ignoring its Summoning conditions. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" from your Deck or banishment to your hand. You can only use each effect of \"Dark Element\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53194323.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26746975,
+        "name": "Dark Guardian",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Gate Guardian\" card.)\r\nCannot be Normal Summoned/Set. Must be either Special Summoned by \"Dark Element\", or Special Summoned (from your hand or GY) by shuffling into the Deck, 1 each of your \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\" that is in your hand, face-up field, GY, and/or banished. Cannot be destroyed by battle. If this card is Special Summoned by the effect of \"Dark Element\", it is unaffected by other monsters' effects or your opponent's activated Spell Cards or effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26746975.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26700718,
+        "name": "Dramatic Snake-Eye Chase",
+        "type": "Spell Card",
+        "desc": "Place 1 \"Diabellstar\" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. During the End Phase: You can banish this card from your GY, then target 1 Monster Card treated as a Continuous Spell you control; Special Summon it. You can only use each effect of \"Dramatic Snake-Eye Chase\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26700718.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49139666,
+        "name": "E Stranger Big Bang",
+        "type": "Effect Monster",
+        "desc": "If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. During your Main Phase: You can reduce the Levels of all other monsters on the field by 1, and if you do, increase the Level of this card by the number of monsters whose Levels were reduced by this effect. During your Battle Phase or your opponent's Main Phase, if this card's Level is 8 or higher (Quick Effect): You can destroy 1 other card on the field, and if you do, this card's Level becomes 5. You can only use each effect of \"E Stranger Big Bang\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49139666.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99599062,
+        "name": "Earthbound Fusion",
+        "type": "Spell Card",
+        "desc": "You can only activate this card during the Main Phase, unless a card is in a Field Zone. Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as material. During your Main Phase, if a card is in a Field Zone: You can banish this card from your GY; Special Summon 1 \"Earthbound\" monster from your hand or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only use this effect of \"Earthbound Fusion\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99599062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43633088,
+        "name": "Emergency Apport",
+        "type": "Trap Card",
+        "desc": "Target 1 of your Level 5 or lower Psychic monsters that is banished or in your GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43633088.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87532344,
+        "name": "Eternal Favorite",
+        "type": "Trap Card",
+        "desc": "Once per turn: You can activate 1 of these effects (but you can only use each effect of \"Eternal Favorite\" once per turn);\r\n● Special Summon 1 of your \"Yubel\" monsters that is banished or in your GY. Neither player can activate cards or effects when that monster is Special Summoned.\r\n● If you control \"Yubel\": Discard 1 card and send this face-up card to the GY; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as material, including a \"Yubel\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87532344.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35834119,
+        "name": "Fish Lamp",
+        "type": "Synchro Tuner Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is sent to the GY as Synchro Material: You can Special Summon 2 \"Lamp Tokens\" (Fish/FIRE/Level 2/ATK 0/DEF 0), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fish monsters. If you control a Fish Synchro Monster: You can banish this card from your GY, then target 1 card on the field; destroy it. You can only use each effect of \"Fish Lamp\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35834119.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50134646,
+        "name": "Flock Together",
+        "type": "Spell Card",
+        "desc": "Place 1 monster from your Deck in your Spell & Trap Zone as a face-up Continuous Spell. You can banish this card from your GY; place 1 monster from your Deck in your Spell & Trap Zone as a face-up Continuous Trap. You can only use 1 \"Flock Together\" effect per turn, and only once that turn. The total number of cards in the Monster Zones and face-up Monster Cards in the Spell & Trap Zones must be 10 or more to activate either of this card's effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50134646.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26913989,
+        "name": "Geistgrinder Golem",
+        "type": "Effect Monster",
+        "desc": "You can only Special Summon \"Geistgrinder Golem\" once per turn. You can reveal 1 \"Yubel\" monster in your hand; Special Summon this card from your hand to your opponent's field, then you can Special Summon the revealed monster to your field. Once per turn, during damage calculation, if this card battles a \"Yubel\" monster: Your opponent gains 3000 LP. If you Special Summon \"Yubel\" while this card is in your GY (except during the Damage Step): You can Special Summon this card to your opponent's field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26913989.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27868563,
+        "name": "Goblin Biker Boom Mach",
+        "type": "Effect Monster",
+        "desc": "Once per Chain, during the Main Phase, if this card is in your hand or GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, also you cannot Special Summon \"Goblin Biker Boom Mach\" until the end of the next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27868563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50311058,
+        "name": "Goblin Biker Grand Stampede",
+        "type": "Trap Card",
+        "desc": "During the Main Phase, you can: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster, using only \"Goblin\" monsters you control. If you control a \"Goblin\" Xyz Monster: You can target 1 Effect Monster on the field; detach 1 Xyz Material from a monster on either field, and if you do, negate that monster's effects until the end of this turn. You can only use 1 \"Goblin Biker Grand Stampede\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50311058.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85123771,
+        "name": "Goblin Freefall Squad",
+        "type": "Effect Monster",
+        "desc": "If this card is Special Summoned from the hand in Attack Position: You can target 1 face-up Effect Monster your opponent controls; change this card to Defense Position, also negate the effects of that monster while this monster is in face-up Defense Position. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can discard 1 card; add this card to your hand. You can only use each effect of \"Goblin Freefall Squad\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85123771.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71100270,
+        "name": "Goblin's Crazy Beast",
+        "type": "XYZ Monster",
+        "desc": "2+ Level 6 monsters\r\nOnce per turn (Quick Effect): You can target 1 Spell/Trap on the field; detach 2 materials from a monster(s) on the field, and if you do, attach that target to this card as material. If a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is in your GY: You can Special Summon this card, then you can attach 1 \"Goblin\" monster from your GY to this card as material. You can only use this effect of \"Goblin's Crazy Beast\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71100270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47894537,
+        "name": "Jongleur-Ghoul Illusionist",
+        "type": "Normal Monster",
+        "desc": "''A captivating street performer, who'll catch you off guard with his song and dance and hocus pocus attacks. Once his eyes start spinning, danger is impending, so make a run for it!''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47894537.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3121655,
+        "name": "Junk Dragonlet",
+        "type": "Effect Monster",
+        "desc": "If you control a Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Junk Dragonlet\" once per turn this way. When a Synchro Monster you control declares an attack: You can banish this card from your GY; that monster you control gains 800 ATK until the end of this turn. You can only use this effect of \"Junk Dragonlet\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3121655.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50951254,
+        "name": "Magmacho Dragon",
+        "type": "Effect Monster",
+        "desc": "You can banish up to 3 FIRE monsters from your GY; this card gains 400 ATK for each, until the end of this turn. If a face-up FIRE monster(s) you control is destroyed by card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card (but banish it when it leaves the field), then draw 1 card. You can only use each effect of \"Magmacho Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50951254.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9551692,
+        "name": "Master of Ham",
+        "type": "Fusion Monster",
+        "desc": "2 Beast monsters\r\nIf this card is Fusion Summoned or flipped face-up: You can Special Summon 1 Flip monster from your hand or Deck in face-down Defense Position. If this card is in your GY: You can banish 2 Flip monsters from your face-up field and/or GY; Special Summon this card in face-down Defense Position, but banish it when it leaves the field. You can only use each effect of \"Master of Ham\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9551692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24649931,
+        "name": "Materialization",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;\r\n● Special Summon it to its owner's field.\r\n● Return it to the hand.\r\n● Destroy it, then you can destroy 1 monster on the field with an equal or lower Level.\r\nYou can only activate 1 \"Materialization\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24649931.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92650749,
+        "name": "Mature Chronicle",
+        "type": "Spell Card",
+        "desc": "Each time a monster(s) is Special Summoned that is a \"Yubel\" monster or mentions \"Yubel\", place 1 Chronicle Counter on this card. You can remove Chronicle Counters from your field to activate 1 of these effects;\r\n● 1: Special Summon 1 \"Yubel\" from your GY.\r\n● 2: Add 1 of your banished cards to your hand.\r\n● 3: Banish 1 card from your Deck.\r\n● 4: Destroy 1 card on the field.\r\n● 5: Add 1 \"Super Polymerization\" from your Deck to your hand.\r\nYou can only use this effect of \"Mature Chronicle\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92650749.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52918032,
+        "name": "Mementotlan Ghattic",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster's effect: You can Special Summon this card. You can only use each effect of \"Mementotlan Ghattic\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52918032.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85401123,
+        "name": "Mokomoko",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card.\r\nDuring your Main Phase: You can change this card to face-down Defense Position.\r\nYou can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85401123.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97534104,
+        "name": "Mystic Potato",
+        "type": "Effect Monster",
+        "desc": "If this card on the field is destroyed by card effect and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck in Attack Position, except \"Mystic Potato\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97534104.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53134520,
+        "name": "Phantasmal Summoning Beast",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\" or \"Raviel, Lord of Phantasms\" from your Deck or GY to your hand, then you can Special Summon 1 Level 10 Pyro, Thunder, or Fiend monster from your hand whose ATK equals its own DEF, ignoring its Summoning conditions, but it cannot attack directly this turn. You can banish this card from your GY; add 1 \"Dimension Fusion Destruction\" from your Deck to your hand. You can only use each effect of \"Phantasmal Summoning Beast\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53134520.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52472775,
+        "name": "Prayers of the Voiceless Voice",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any LIGHT Ritual Monster. You must also Tribute LIGHT monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. If a face-up LIGHT Ritual Monster(s) you control leaves the field by an opponent's card effect (except during the Damage Step): You can banish this card from your GY; Special Summon 1 \"Sauravis, the Ancient and Ascended\", \"Saffira, Queen of Dragons\", or \"Skull Guardian, Protector of the Voiceless Voice\" from your hand or Deck, ignoring its Summoning conditions. You can only use this effect of \"Prayers of the Voiceless Voice\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52472775.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11496832,
+        "name": "Principug",
+        "type": "Effect Monster",
+        "desc": "You can target 1 monster you control with \"Guardian\" in its original name, that cannot be Normal Summoned/Set; it can make a second attack during each Battle Phase this turn. You can banish this card from your GY, then target 1 \"Guardian\" monster in your GY that cannot be Normal Summoned/Set, and activate 1 of these effects;\r\n● Add it to your hand.\r\n● Add 1 other card that is mentioned on that monster from your GY to your hand.\r\nYou can only use each effect of \"Principug\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11496832.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12612470,
+        "name": "Procession of the Tea Jar",
+        "type": "Tuner Monster",
+        "desc": "Face-down Defense Position monsters in this card's column cannot change their battle positions, also neither player can activate the Set cards in the Spell & Trap Zones in this card's column. You can only use each of the following effects of \"Procession of the Tea Jar\" once per turn. During your Main Phase: You can move this card to an unused adjacent Main Monster Zone. If this card in the Monster Zone moves to another Monster Zone: Change all other monsters in this card's current column to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12612470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86310763,
+        "name": "Radiance of the Voiceless Voice",
+        "type": "Trap Card",
+        "desc": "During the Main Phase: You can activate 1 of these effects;\r\n● Shuffle 1 LIGHT Ritual Monster (Warrior or Dragon) or 1 Ritual Spell from your hand or GY into the Deck, and if you do, add to your hand, or Special Summon, 1 \"Voiceless Voice\" monster from your Deck.\r\n● Target cards your opponent controls, up to the number of LIGHT Ritual Monsters (Warrior or Dragon) you control; destroy both this card and as many of the targeted cards as possible.\r\nYou can only use the effect of \"Radiance of the Voiceless Voice\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86310763.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13927359,
+        "name": "Raidraptor - Glorious Bright",
+        "type": "Trap Card",
+        "desc": "If you control a \"Raidraptor\" monster: Target 1 face-up monster your opponent controls, or if you control a \"Raidraptor\" Xyz Monster, you can target 1 face-up card your opponent controls; negate that card's effects until the end of this turn. You can banish this card from your GY, then target 1 of your \"Raidraptor\" monsters that is banished or in your GY; add it to your hand. You can only use 1 \"Raidraptor - Glorious Bright\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13927359.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99707692,
+        "name": "Raidraptor - Noir Lanius",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 \"Raidraptor\" monster you control; add 1 \"Raidraptor\" monster with a different Level than that monster from your Deck to your hand. You can banish this card from your GY; increase or decrease the Levels of all \"Raidraptor\" monsters you currently control by 1. You can only use each effect of \"Raidraptor - Noir Lanius\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99707692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64049553,
+        "name": "Raidraptor - Roost",
+        "type": "Spell Card",
+        "desc": "If a \"Raidraptor\" monster(s) is Special Summoned from the Extra Deck to your field (except during the Damage Step): You can add 1 \"Raidraptor\" Spell/Trap from your Deck to your hand, except \"Raidraptor - Roost\". You can target 3 of your \"Raidraptor\" monsters that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card. You can only use each effect of \"Raidraptor - Roost\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64049553.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74289646,
+        "name": "Royal Rhino with Deceitful Dice",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when a card or effect is activated, even during the Damage Step (Quick Effect): You can roll a six-sided die, then apply the appropriate effect, depending on the Chain Link number of this effect.\r\n● 2: This card gains ATK equal to the result x 500 until the end of this turn.\r\n● 3: Inflict damage to your opponent equal to the result x 500.\r\n● 4+: Destroy cards on the field up to the result.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74289646.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39767432,
+        "name": "Sorcerer of Sebek",
+        "type": "Link Monster",
+        "desc": "2 Effect Monsters\r\nWhen this card or your monster this card points to inflicts battle damage to your opponent: You can gain that much LP. If a player gains LP, even during the Damage Step: You can make each player take 1000 damage. You can only use each effect of \"Sorcerer of Sebek\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39767432.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5993144,
+        "name": "Swallow's Cowrie",
+        "type": "Spell Card",
+        "desc": "Tribute 1 Winged Beast monster in your hand or face-up field; add 1 Winged Beast monster from your Deck to your hand with the same Level that the Tributed monster had. You can only activate 1 \"Swallow's Cowrie\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5993144.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6116731,
+        "name": "Swarm of Centipedes",
+        "type": "Effect Monster",
+        "desc": "If this card is flipped face-up: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. You can only use this effect of \"Swarm of Centipedes\" once per turn. Once per turn, during your Main Phase: You can change this card to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6116731.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31464658,
+        "name": "Three-Eyed Ghost",
+        "type": "Effect Monster",
+        "desc": "You can send this card from the field to the GY; add 1 Level 10 DARK monster from your Deck to your hand. You can only use this effect of \"Three-Eyed Ghost\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31464658.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86346363,
+        "name": "Time Reloader",
+        "type": "Effect Monster",
+        "desc": "During the Main Phase, if a monster on the field is flipped face-up: You can Special Summon this card from your hand, then change 1 face-up monster on the field to face-down Defense Position. During the Main Phase, if this card is flipped face-up: You can target 1 monster in your GY; Special Summon it in Defense Position, then change 1 face-up monster on the field to face-down Defense Position. You can only use each effect of \"Time Reloader\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86346363.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78905039,
+        "name": "Tricorn the Cacophonous Concert",
+        "type": "Tuner Monster",
+        "desc": "If a monster(s) in your possession is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is sent from the field to the GY: You can target 1 monster in your GY with both the same Type and Attribute as a monster you control; add that monster to your hand. You can only use each effect of \"Tricorn the Cacophonous Concert\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78905039.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76823930,
+        "name": "Ultimeat Offering",
+        "type": "Trap Card",
+        "desc": "During your Main Phase: You can pay 1000 LP; you can conduct up to 3 Normal Summons/Sets this turn, not just 1. During your opponent's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 monster. You can only use each effect of \"Ultimeat Offering\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76823930.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9839115,
+        "name": "Vagnawa the Moon-Eating Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can activate this effect; this card gains 300 ATK for each Level that the non-Tuners used had, then inflict 300 damage to your opponent for each Level that the Tuner used had. The ATK increase lasts until the end of the next turn. You can only use this effect of \"Vagnawa the Moon-Eating Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9839115.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46956301,
+        "name": "White Aura Porpoise",
+        "type": "Synchro Monster",
+        "desc": "1 WATER Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower Fish monster from your hand or GY in Defense Position, then you can Special Summon 1 monster with that same name from your GY. You can only use this effect of \"White Aura Porpoise\" once per turn. If this card in your possession is destroyed by your opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46956301.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91434208,
+        "name": "White Reincarnation",
+        "type": "Spell Card",
+        "desc": "When this card is activated: Add 1 Fish monster with an effect that treats itself as a Tuner from your Deck to your hand. Once per turn, at the end of the Damage Step, if your \"White Aura\" monster attacked: You can activate this effect; the attacking monster can make a second attack in a row. Once per turn, if a Level 8 or higher Fish Synchro Monster(s) is Special Summoned from your GY, even during the Damage Step: You can destroy all monsters your opponent controls. You can only activate 1 \"White Reincarnation\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91434208.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52596406,
+        "name": "White Sunfish",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand: You can target 1 Level 4 or lower Fish monster in your GY with the same name as a card you control; Special Summon this card, and if you do, Special Summon that monster. You can only use this effect of \"White Sunfish\" once per turn. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52596406.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31398842,
+        "name": "Xyz Force",
+        "type": "Spell Card",
+        "desc": "Send 1 \"Xyz\" card from your Deck to the GY, except \"Xyz Force\", or if an Xyz Monster is on the field that has an Xyz Monster as material, you can add the \"Xyz\" card to your hand instead. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; detach 1 material from an Xyz Monster on either field, then if the detached material was an Xyz Monster, you can Special Summon that monster from your GY or your banishment, in Defense Position. You can only use each effect of \"Xyz Force\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31398842.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 73167098,
+        "name": "Aromalilith Magnolia",
+        "type": "Fusion Monster",
+        "desc": "1 \"Aroma\" monster + 1 Plant monster\r\nWhile your LP are higher than your opponent's, Plant monsters you control cannot be destroyed by your opponent's card effects. Once per turn: You can pay 2000 LP; banish cards on the field equal to the number of \"Humid Winds\", \"Dried Winds\", and \"Blessed Winds\" you control. Once per turn, if you gain LP, even during the Damage Step: You can make all Plant monsters you currently control gain ATK equal to the LP gained, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73167098.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 24689197,
+        "name": "Aromalilith Rosalina",
+        "type": "Tuner Monster",
+        "desc": "(Quick Effect): You can discard this card, then target 1 \"Aroma\" monster you control; gain LP equal to half its ATK. If this card is Normal or Special Summoned: You can Special Summon 1 non-Tuner \"Aroma\" monster from your Deck, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of \"Aromalilith Rosalina\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24689197.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 30989084,
+        "name": "Aromalilith Rosemary",
+        "type": "Link Monster",
+        "desc": "2+ Plant monsters\r\nIf this card is Special Summoned: You can add 1 \"Aroma\" card from your Deck to your hand. If you gain LP, even during the Damage Step: You can Special Summon up to 3 \"Aroma\" monsters from your hand to your zones this card points to. You can Tribute 1 monster this card points to, then target 1 card on the field; banish it, and if you do, gain 1000 LP. You can only use each effect of \"Aromalilith Rosemary\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30989084.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 98477480,
+        "name": "Barrier of the Voiceless Voice",
+        "type": "Spell Card",
+        "desc": "While you control \"Lo, the Prayers of the Voiceless Voice\" and a LIGHT Ritual Monster, your opponent's monsters can only target Ritual Monsters for attacks, also your opponent cannot target LIGHT monsters you control with card effects. During your Main Phase: You can add 1 \"Voiceless Voice\" card or 1 \"Skull Guardian\" Ritual Monster from your Deck to your hand, except \"Barrier of the Voiceless Voice\". You can only use this effect of \"Barrier of the Voiceless Voice\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98477480.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 87462901,
+        "name": "Emissary from the House of Wax",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. You can only use this effect of \"Emissary from the House of Wax\" once per turn. If this card battles a monster, neither can be destroyed by that battle. At the end of your opponent's Battle Phase: You can activate this effect; until the start of your opponent's next Battle Phase, all Attack Position monsters your opponent currently controls cannot change their battle positions, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon, also their effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87462901.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51473858,
+        "name": "Goblin Biker Clatter Sploder",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can target 1 \"Goblin\" monster in your GY, except \"Goblin Biker Clatter Sploder\"; Special Summon it. During your opponent's Main Phase, if this card is in your GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Goblin Biker Clatter Sploder\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51473858.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64257161,
+        "name": "Goblin Biker Mean Merciless",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Goblin\" monster from your hand, except \"Goblin Biker Mean Merciless\". During your Main Phase, if this card is in your GY: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Goblin Biker Mean Merciless\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64257161.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 30676200,
+        "name": "Hero of the Ashened City",
+        "type": "Effect Monster",
+        "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Hero of the Ashened City\" once per turn this way. During the Main Phase (Quick Effect): You can target 1 Pyro monster on the field; destroy it, then if you destroyed \"Veidos the Eruption Dragon of Extinction\" by this effect, you can place 1 \"Obsidim, the Ashened City\" from your Deck face-up in your Field Zone. You can only use this effect of \"Hero of the Ashened City\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30676200.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 99529628,
+        "name": "Keaf, Murk of the Ghoti",
+        "type": "Effect Monster",
+        "desc": "If a Fish monster is on the field: You can Special Summon this card from your hand. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters and 1 of your banished Level 6 or lower Fish monsters; banish both that opponent's monster and this card, and if you do, Special Summon your targeted monster. During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. You can only use each effect of \"Keaf, Murk of the Ghoti\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99529628.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4271596,
+        "name": "King of the Ashened City",
+        "type": "Effect Monster",
+        "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"King of the Ashened City\" once per turn this way. During your Main Phase: You can Special Summon 1 \"Ashened\" monster from your hand, except \"King of the Ashened City\", or if your opponent controls a monster with 2800 or more ATK, you can Special Summon it from your Deck instead. You can only use this effect of \"King of the Ashened City\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4271596.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51073802,
+        "name": "Majespecter Porcupine - Yamarashi",
+        "type": "Pendulum Effect Monster",
+        "desc": "During the Main Phase, if you control a \"Majespecter\" monster (Quick Effect): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 \"Majespecter\" Spell in your GY; Set it. You can only use each of the previous effects of \"Majespecter Porcupine - Yamarashi\" once per turn. While this card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51073802.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51250293,
+        "name": "Majespecter Wind",
+        "type": "Spell Card",
+        "desc": "When you activate this card, you can also Tribute 1 WIND Spellcaster monster; Special Summon 1 \"Majespecter\" monster from your hand or GY, or if you Tributed a monster at activation, you can Special Summon 1 \"Majespecter\" monster from your Deck instead. You can only activate 1 \"Majespecter Wind\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51250293.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65261141,
+        "name": "Nightmare Pain",
+        "type": "Spell Card",
+        "desc": "During your Main Phase: You can destroy 1 DARK monster in your hand or face-up field, and if you do, add 1 \"Yubel\", or 1 card that mentions it, from your Deck to your hand, except \"Nightmare Pain\". You can only use this effect of \"Nightmare Pain\" once per turn. While you control a \"Yubel\" monster, your opponent's monsters that can attack must attack \"Yubel\" monsters. Your opponent takes any battle damage you would have taken from battles involving your \"Yubel\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65261141.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3055018,
+        "name": "Obsidim, the Ashened City",
+        "type": "Spell Card",
+        "desc": "Face-up Special Summoned monsters your opponent controls become Pyro during your turn only. You can only use each of the following effects of \"Obsidim, the Ashened City\" once per turn. During your End Phase: You can target 1 \"Obsidim, the Ashened City\" in your GY; place it on the bottom of your Deck, then draw 1 card. If this card in the Field Zone is destroyed or banished: You can Special Summon 1 \"Ashened\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3055018.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26523337,
+        "name": "Psiics, Moonlight of the Ghoti",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 Fish monster from your Deck to your hand, except \"Psiics, Moonlight of the Ghoti\", then banish 1 Fish monster from your hand or face-up field. If this card is banished: You can banish 1 Fish monster from your hand, GY, or face-up field, except \"Psiics, Moonlight of the Ghoti\"; Special Summon this card. You can only use each effect of \"Psiics, Moonlight of the Ghoti\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26523337.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16238373,
+        "name": "Psychic Arsenal",
+        "type": "Spell Card",
+        "desc": "Target 1 Psychic monster you control and pay LP equal to its Level x 200; add 1 Machine monster with the same Attribute, but a higher Level, from your Deck to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 each of your banished Psychic and Machine monsters; place 1 of them on the bottom of the Deck, and if you do, add the other to your hand. You can only use each effect of \"Psychic Arsenal\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16238373.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25191307,
+        "name": "Raidraptor - Bloom Vulture",
+        "type": "Effect Monster",
+        "desc": "If you do not control any face-up monsters, other than Winged Beast monsters: You can Special Summon both this card and 1 \"Raidraptor\" monster from your hand. If you control no monsters: You can target 2 Level 4 or lower \"Raidraptor\" monsters in your GY, including this card; Special Summon them in Defense Position. You can only use 1 \"Raidraptor - Bloom Vulture\" effect per turn, and only once that turn, also you cannot Special Summon monsters the turn you activate either of these effects, except DARK monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25191307.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 8617563,
+        "name": "Raidraptor - Brave Strix",
+        "type": "XYZ Monster",
+        "desc": "2 Level 5 monsters\r\nA \"Raidraptor\" Xyz Monster that has this card as material gains this effect.\r\n● This card gains ATK equal to its Rank x 100.\r\nYou can only use 1 of the following effects of \"Raidraptor - Brave Strix\" per turn, and only once that turn. You can detach 1 material from this card; Set 1 \"Raidraptor\" Spell/Trap from your Deck. If this card has a Winged Beast monster as material: You can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8617563.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 38044854,
+        "name": "Rise Rank-Up-Magic Raidraptor's Force",
+        "type": "Spell Card",
+        "desc": "During the Main Phase or your opponent's Battle Phase: Target 2 or more \"Raidraptor\" Xyz Monsters you control and/or in your GY, including a monster on the field; if at least 2 remain face-up at resolution, Special Summon 1 \"Raidraptor\" Xyz Monster from your Extra Deck with a Rank equal to their combined Ranks, and if you do, attach the targeted monsters to it as material. (This is treated as an Xyz Summon. Transfer their materials to the Summoned monster.) You can only activate 1 \"Rise Rank-Up-Magic Raidraptor's Force\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38044854.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 62318994,
+        "name": "Samsara D Lotus",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon 1 \"Yubel\" monster from your Deck. During your opponent's turn, when a monster effect is activated, while you control a \"Yubel\" monster (Quick Effect): You can Tribute this card; the activated effect becomes \"Destroy 1 \"Yubel\" monster on the field\". During your End Phase, if you control \"Yubel\" and this card is in your GY: You can add this card to your hand, or Special Summon it. You can only use each effect of \"Samsara D Lotus\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62318994.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88284599,
+        "name": "Sauravis, Dragon Sage of the Voiceless Voice",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by shuffling 2 Spells from your hand and/or GY into the Deck, including a Ritual Spell. You can only Special Summon \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn this way. When your opponent activates a card or effect (Quick Effect): You can return this card from the field to the hand; Special Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand or Deck, but shuffle it into the Deck during the End Phase of the next turn. You can only use this effect of \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88284599.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90829280,
+        "name": "Spirit of Yubel",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle, also you take no damage from battles involving this card. If this card is destroyed: You can Special Summon 1 of your \"Yubel\" that is banished or in your hand, Deck, or GY. You can only use each of the following effects of \"Spirit of Yubel\" once per turn. When an opponent's monster declares an attack: You can Special Summon this card from your hand. If this card is Special Summoned: You can add to your hand or Set 1 Spell/Trap from your Deck that mentions \"Yubel\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90829280.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42510430,
+        "name": "Sunset Beat",
+        "type": "Spell Card",
+        "desc": "If a face-up monster you control is changed to face-down Defense Position: You can target 1 card on the field; destroy it. If a Flip monster(s) you control is flipped face-up, even during the Damage Step: You can target 1 of them; inflict damage to your opponent equal to its Level x 200. You can only use each effect of \"Sunset Beat\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42510430.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 85698115,
+        "name": "Terrors of the Afterroot",
+        "type": "Trap Card",
+        "desc": "Target 1 monster in your opponent's GY; Special Summon it to your opponent's field, then you can banish 1 monster your opponent controls, then if your opponent has a banished monster(s), return 1 of them to the GY. You can banish this card from your GY, except the turn it was sent there, then target 1 Level 1 monster in your GY; shuffle that monster into the Deck, then you can Set 1 \"Terrors of the Underroot\", \"Terrors of the Overroot\", or \"Terrors of the Afterroot\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85698115.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26984177,
+        "name": "Walls of the Imperial Tomb",
+        "type": "Spell Card",
+        "desc": "This card's name becomes \"King's Sarcophagus\" while in the Field Zone. During your Main Phase: You can add 1 \"Horus\" monster from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of \"Walls of the Imperial Tomb\" once per turn. If you activate the effect of \"Horus the Black Flame Deity\": You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26984177.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 98684051,
+        "name": "White Sardine",
+        "type": "Effect Monster",
+        "desc": "You can send 1 \"White Sardine\" from your Deck to the GY; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use this effect of \"White Sardine\" once per turn. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98684051.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Quarter Century Secret Rare": [
+      {
+        "id": 30453613,
+        "name": "Awakening of Veidos",
+        "type": "Spell Card",
+        "desc": "Place 1 \"Obsidim, the Ashened City\" from your Deck, face-up in either Field Zone, then if your opponent controls a card in their Field Zone, you can add 1 Level 5 or higher DARK Pyro monster from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Special Summon from the Deck or Extra Deck, except Pyro monsters. You can only activate 1 \"Awakening of Veidos\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30453613.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 13567610,
+        "name": "Carnot the Eternal Machine",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or GY) during a Duel in which your opponent has activated a monster effect in their hand or GY. You can only Special Summon \"Carnot the Eternal Machine\" once per turn. Once per turn, if your opponent activates a monster effect (except during the Damage Step): You can make this card gain 1000 ATK. If this card is sent to the GY, except from the hand or Deck: Shuffle this card into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13567610.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 48017189,
+        "name": "EM:P Meowmine",
+        "type": "Effect Monster",
+        "desc": "If a Link Monster is on the field or in either GY, you can Special Summon this card (from your hand). You can only Special Summon \"EM:P Meowmine\" once per turn this way. If a Link-2 monster you control is sent to the GY or banished face-up (except during the Damage Step): You can banish this card from your GY (if it was there when the monster was sent or banished) or hand (even if not), then target 1 card your opponent controls; return it to the hand. You can only use this effect of \"EM:P Meowmine\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48017189.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 72444406,
+        "name": "Enigmaster Packbit",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned, or sent to the GY: You can target 1 monster in your GY, or 1 face-up monster your opponent controls; discard 1 card, and if you do, place that monster in its owner's Spell & Trap Zone as a face-up Continuous Trap. During either player's turn, if this card is a Continuous Trap: You can Special Summon 1 face-up Monster Card from your Spell & Trap Zone. You can only use each effect of \"Enigmaster Packbit\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72444406.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 34001672,
+        "name": "Goblin Biker Big Gabonga",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\r\nIf this card is Xyz Summoned: You can add 1 \"Goblin\" monster from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 face-up monster on the field, except this card; attach it to this card as material. During the End Phase: You can attach 1 \"Goblin\" monster from your Deck to this card as material. You can only use each effect of \"Goblin Biker Big Gabonga\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34001672.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 24079759,
+        "name": "Goblin Biker Dugg Charger",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Goblin Biker\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Goblin Biker Dugg Charger\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24079759.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 64327901,
+        "name": "Goblin Biker Grand Bash",
+        "type": "Spell Card",
+        "desc": "\"Goblin\" monsters you control gain 300 ATK for each \"Goblin\" monster you control. During your Main Phase, you can Normal Summon 1 \"Goblin\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 2 \"Goblin\" monsters you control, then activate 1 of these effects;\r\n● Make the Level of 1 of the monsters become the current Level of the other.\r\n● Both of their Levels become their combined original Levels.\r\nYou can only use this effect of \"Goblin Biker Grand Bash\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64327901.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 90711610,
+        "name": "Goblin Biker Grand Entrance",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Goblin\" monster from your Deck to your hand, then you can apply the following effect.\r\n● Detach 1 Xyz Material from a monster on either field, and if you do, Special Summon 1 Level 4 or lower \"Goblin\" monster from your hand.\r\nYou can banish this card from your GY; detach 1 Xyz Material from a monster on either field, then you can add 1 \"Goblin\" monster from your GY to your hand. You can only use each effect of \"Goblin Biker Grand Entrance\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90711610.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 99307040,
+        "name": "Horus the Black Flame Deity",
+        "type": "Effect Monster",
+        "desc": "If you control a \"Horus\" monster and \"King's Sarcophagus\": You can reveal this card in your hand, then send 1 card from your hand or field to the GY; send 1 card on the field to the GY. If a face-up \"Horus\" monster(s) you control, except \"Horus the Black Flame Deity\", or a face-up \"King's Sarcophagus\" you control, leaves the field by an opponent's card effect (except during the Damage Step): You can Special Summon this card from your hand, then you can send all other monsters on the field to the GY. You can only use each effect of \"Horus the Black Flame Deity\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99307040.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 12682213,
+        "name": "Iron Thunder",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated on the field: Pay half your LP; negate the activation, and if you do, destroy that card, then destroy any other cards in the same column the destroyed card was in, that are in the Monster Zones or Spell & Trap Zones.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12682213.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 25801745,
+        "name": "Lo, the Prayers of the Voiceless Voice",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon exactly 1 LIGHT Ritual Monster (Warrior or Dragon) with a card effect that requires use of monsters, this card can be used as the entire Tribute. You can only use each of the following effects of \"Lo, the Prayers of the Voiceless Voice\" once per turn. If this card is Normal or Special Summoned: You can place 1 \"Voiceless Voice\" Continuous Spell/Trap from your Deck face-up in your Spell & Trap Zone. If a LIGHT Ritual Monster (Warrior or Dragon) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25801745.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 15845914,
+        "name": "Magicians of Bonds and Unity",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 25 or more cards in your GY. While your opponent has 25 or more cards in their GY, this card gains 2500 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15845914.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 3594985,
+        "name": "Majespecter Draco - Ryu",
+        "type": "XYZ Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nIf you have a \"Majespecter\" or \"Dracoslayer\" card in your other Pendulum Zone: You can add 1 \"Majespecter\" card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majespecter Draco - Ryu\" once per turn.\n\n[ Monster Effect ] \n2 Level 4 monsters\r\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. If a monster(s) is Tributed while this card is on the field (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 Level 6 or lower WIND Spellcaster monster from your Deck. You can only use this effect of \"Majespecter Draco - Ryu\" up to twice per turn. If this card in the Monster Zone is destroyed by battle or card effect, or Tributed: You can place this card in your Pendulum Zone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3594985.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 66384688,
+        "name": "Majespecter Orthrus - Nue",
+        "type": "Link Monster",
+        "desc": "2 Pendulum Monsters, including a \"Majespecter\" monster\r\nIf this card is Link Summoned: You can add up to 2 face-up \"Majespecter\" Pendulum Monsters from your Extra Deck to your hand, then you can add up to 2 \"Majespecter\" Pendulum Monsters with different names from your Deck to your face-up Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Majespecter\" or \"Dracoslayer\" monsters. You can only use this effect of \"Majespecter Orthrus - Nue\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66384688.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 88654892,
+        "name": "Mutamorphosis",
+        "type": "Spell Card",
+        "desc": "Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 \"Mutamorphosis\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88654892.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 67660909,
+        "name": "Priestess of the Ashened City",
+        "type": "Effect Monster",
+        "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Priestess of the Ashened City\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Ashened\" card from your Deck to your hand, except \"Priestess of the Ashened City\". You can only use this effect of \"Priestess of the Ashened City\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67660909.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 2772337,
+        "name": "Promethean Princess, Bestower of Flames",
+        "type": "Link Monster",
+        "desc": "2+ Effect Monsters\r\nYou cannot Special Summon monsters, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2772337.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 70843274,
+        "name": "Psychic Processor",
+        "type": "Effect Monster",
+        "desc": "You can banish this card you control; Special Summon up to 2 Machine, Psychic, and/or Cyberse monsters from your hand, and they can attack directly this turn. During the Standby Phase of the next turn after this card was banished: You can add this banished card to your hand. You can only use each effect of \"Psychic Processor\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70843274.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 71222868,
+        "name": "Raidraptor - Rising Rebellion Falcon",
+        "type": "XYZ Monster",
+        "desc": "5 Level 13 Winged Beast monsters\r\nUnaffected by other cards' effects. If this card is Xyz Summoned: You can destroy as many cards your opponent controls as possible, then if this card has 3 or more \"Raidraptor\" Xyz Monsters with different names as material, inflict damage to your opponent equal to the combined original ATK of the destroyed monsters. Once per turn: You can detach 3 materials from this card, then target 1 \"Raidraptor\" Xyz Monster in your GY; this card gains that monster's effects until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71222868.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 51296484,
+        "name": "Saffira, Dragon Queen of the Voiceless Voice",
+        "type": "Effect Monster",
+        "desc": "You can discard this card; send 1 Ritual Spell from your Deck to the GY, then you can add 1 LIGHT Ritual Monster (Warrior or Dragon) from your Deck or GY to your hand. You can banish this card from your GY; Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Saffira, Dragon Queen of the Voiceless Voice\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51296484.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 10774240,
+        "name": "Skull Guardian, Protector of the Voiceless Voice",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Prayers of the Voiceless Voice\". Gains 2050 ATK while you have \"Lo, the Prayers of the Voiceless Voice\" on your field or in your GY. You can only use each of the following effects of \"Skull Guardian, Protector of the Voiceless Voice\" once per turn. If this card is Ritual Summoned: You can add 1 \"Voiceless Voice\" monster, or 1 Ritual Monster (Warrior or Dragon), from your Deck to your hand. When your opponent activates a card or effect while you control \"Lo, the Prayers of the Voiceless Voice\" (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10774240.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 90241276,
+        "name": "Snake-Eyes Poplar",
+        "type": "Effect Monster",
+        "desc": "If this card is added to your hand, except by drawing it: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90241276.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 49299410,
+        "name": "The Black Goat Laughs",
+        "type": "Trap Card",
+        "desc": "Declare 1 Monster Card name; this turn, neither player can Special Summon monsters with that original name, except from the GY. You can banish this card from the GY, then declare 1 Monster Card name; this turn, neither player can activate the effects of monsters on the field with that original name. You can only use 1 \"The Black Goat Laughs\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49299410.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 78783557,
+        "name": "Veidos the Eruption Dragon of Extinction",
+        "type": "Effect Monster",
+        "desc": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 card in a Field Zone; Special Summon this card to your opponent's field, and if you do, destroy that card, then you can add to your hand or Set 1 \"Ashened\" Continuous Trap from your Deck. If this card is sent from your opponent's field to your GY: You can destroy all monsters on the field. You can only use each effect of \"Veidos the Eruption Dragon of Extinction\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78783557.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "id": 47172959,
+        "name": "Yubel - The Loving Defender Forever",
+        "type": "Fusion Monster",
+        "desc": "1 \"Yubel\" monster + 1+ Effect Monsters on the field\r\nIf this card is Fusion Summoned: You can inflict 500 damage to your opponent for each material used. You can only use this effect of \"Yubel - The Loving Defender Forever\" once per turn. Cannot be destroyed by battle or card effects, also you take no battle damage from battles involving this card. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, banish that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47172959.jpg",
+        "rarity": "Quarter Century Secret Rare"
+      }
+    ]
+  }
+}

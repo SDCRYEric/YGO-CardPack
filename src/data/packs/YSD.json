@@ -1,0 +1,329 @@
+{
+  "setName": "Starter Deck 2006",
+  "pool": {
+    "Common": [
+      {
+        "id": 65169794,
+        "name": "Black Pendant",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65169794.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87910978,
+        "name": "Brain Control",
+        "type": "Spell Card",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87910978.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44209392,
+        "name": "Castle Walls",
+        "type": "Trap Card",
+        "desc": "Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44209392.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51394546,
+        "name": "Cemetary Bomb",
+        "type": "Trap Card",
+        "desc": "Inflict 100 damage to your opponent for each card in their Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51394546.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "type": "Trap Card",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11321183,
+        "name": "Dark Blade",
+        "type": "Normal Monster",
+        "desc": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11321183.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90928333,
+        "name": "Dark Factory of Mass Production",
+        "type": "Spell Card",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90928333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21844576,
+        "name": "Elemental HERO Avian",
+        "type": "Normal Monster",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21844576.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58932616,
+        "name": "Elemental HERO Burstinatrix",
+        "type": "Normal Monster",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58932616.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84327329,
+        "name": "Elemental HERO Clayman",
+        "type": "Normal Monster",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84327329.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20721928,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66788016,
+        "name": "Fissure",
+        "type": "Spell Card",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66788016.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56594520,
+        "name": "Gaia Power",
+        "type": "Spell Card",
+        "desc": "All EARTH monsters gain 500 ATK and lose 400 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56594520.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5818798,
+        "name": "Gazelle the King of Mythical Beasts",
+        "type": "Normal Monster",
+        "desc": "This monster moves so fast that it looks like an illusion to mortal eyes.\n\n\n(This card is always treated as a \"Phantom Beast\" card.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5818798.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19613556,
+        "name": "Heavy Storm",
+        "type": "Spell Card",
+        "desc": "Destroy all Spell and Trap Cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19613556.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83968380,
+        "name": "Jar of Greed",
+        "type": "Trap Card",
+        "desc": "Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83968380.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40640059,
+        "name": "Kuriboh",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40640059.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11091375,
+        "name": "Luster Dragon",
+        "type": "Normal Monster",
+        "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17658803,
+        "name": "Luster Dragon #2",
+        "type": "Normal Monster",
+        "desc": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17658803.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31560081,
+        "name": "Magician of Faith",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15960641,
+        "name": "Mirage Dragon",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15960641.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74848038,
+        "name": "Monster Reincarnation",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19523799,
+        "name": "Ookazi",
+        "type": "Spell Card",
+        "desc": "Inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19523799.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70828912,
+        "name": "Premature Burial",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70828912.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51371017,
+        "name": "Princess of Tsurugi",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51371017.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31785398,
+        "name": "Ready for Intercepting",
+        "type": "Trap Card",
+        "desc": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31785398.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38199696,
+        "name": "Red Medicine",
+        "type": "Spell Card",
+        "desc": "Increase your Life Points by 500 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38199696.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17814387,
+        "name": "Reinforcements",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17814387.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56120475,
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56120475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60694662,
+        "name": "Skelengel",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60694662.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31553716,
+        "name": "Spear Dragon",
+        "type": "Effect Monster",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31553716.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48659020,
+        "name": "Spirit Caller",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 Level 3 or lower Normal Monster from your Graveyard to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48659020.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38479725,
+        "name": "The Trojan Horse",
+        "type": "Effect Monster",
+        "desc": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38479725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95281259,
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95281259.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79759861,
+        "name": "Tribute to the Doomed",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75953262,
+        "name": "Warrior Dai Grepher",
+        "type": "Normal Monster",
+        "desc": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75953262.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66073051,
+        "name": "Warrior of Zera",
+        "type": "Normal Monster",
+        "desc": "A wandering warrior who seeks the sanctuary where he can gain the power of the Archlords. To escape the temptation of evil fiends, he fights solo day by day.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66073051.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 59793705,
+        "name": "Elemental HERO Bladedge",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

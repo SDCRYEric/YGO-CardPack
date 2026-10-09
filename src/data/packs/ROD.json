@@ -1,0 +1,23 @@
+{
+  "setName": "Yu-Gi-Oh! Double Pack promotional cards",
+  "pool": {
+    "Super Parallel Rare": [
+      {
+        "id": 50725996,
+        "name": "Dark Magician Knight",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Knight's Title\" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50725996.jpg",
+        "rarity": "Super Parallel Rare"
+      },
+      {
+        "id": 87210505,
+        "name": "Knight's Title",
+        "type": "Spell Card",
+        "desc": "Tribute 1 face-up \"Dark Magician\"; Special Summon 1 \"Dark Magician Knight\" from your hand, Deck or Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87210505.jpg",
+        "rarity": "Super Parallel Rare"
+      }
+    ]
+  }
+}

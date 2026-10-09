@@ -1,0 +1,411 @@
+{
+  "setName": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 86066372,
+        "name": "Accesscode Talker",
+        "type": "Link Monster",
+        "desc": "2+ Effect Monsters\r\nYour opponent cannot activate cards or effects in response to this card's effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as material for its Link Summon; this card gains ATK equal to that monster's Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86066372.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 44822037,
+        "name": "Angel Statue - Azurune",
+        "type": "Trap Card",
+        "desc": "Special Summon this card as an Effect Monster (Fairy/LIGHT/Level 4/ATK 1800/DEF 1800). (This card is also still a Trap.) Once per turn, when your opponent would Special Summon a monster(s) while this card is in your Monster Zone: You can send to the GY, 1 Continuous Trap in your Monster Zone that was Special Summoned from the Spell & Trap Zone; negate the Summon, and if you do, destroy that monster(s). When this card in the Monster Zone is destroyed by battle: You can destroy the monster that destroyed this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44822037.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 62803464,
+        "name": "Aussa the Earth Channeler",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Charmer\" card.)\r\nYou can discard this card and 1 EARTH monster; add 1 EARTH monster from your Deck to your hand with 1850 or less ATK, whose original Type is the same as one of the discarded monsters, also you cannot activate non-EARTH monster effects for the rest of this turn. When your EARTH monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Aussa the Earth Channeler\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62803464.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 97661969,
+        "name": "Aussa the Earth Charmer, Immovable",
+        "type": "Link Monster",
+        "desc": "2 monsters, including an EARTH monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 EARTH monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 EARTH monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Aussa the Earth Charmer, Immovable\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97661969.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 62256492,
+        "name": "Awakening of the Possessed",
+        "type": "Spell Card",
+        "desc": "Monsters you control gain 300 ATK for each different Attribute you control. \"Charmer\" and \"Familiar-Possessed\" monsters you control cannot be destroyed by card effects. If a Spellcaster monster(s) with 1850 original ATK is Normal or Special Summoned to your field: Draw 1 card. You can only use this effect of \"Awakening of the Possessed\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62256492.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 74426895,
+        "name": "Awakening of the Possessed - Gagigobyte",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower WATER monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Gagigobyte\" once per turn.\r\n● When this card is Special Summoned by its effect: You can send 1 random card from your opponent's hand to the GY, then each player draws 1 card.\r\n● If this card is sent from the field to the GY: You can add 1 \"Spiritual Water Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74426895.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 92652813,
+        "name": "Awakening of the Possessed - Greater Inari Fire",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower FIRE monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Greater Inari Fire\" once per turn.\r\n● When this card is Special Summoned by its effect: You can inflict damage to your opponent equal to the original ATK of 1 monster they control (your choice).\r\n● If this card is sent from the field to the GY: You can add 1 \"Spiritual Fire Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92652813.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 65268179,
+        "name": "Awakening of the Possessed - Nefariouser Archfiend",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower EARTH monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Nefariouser Archfiend\" once per turn.\r\n● When this card is Special Summoned by its effect: You can Special Summon 1 Level 4 or lower monster from your GY, but negate its effects.\r\n● If this card is sent from the field to the GY: You can add 1 \"Spiritual Earth Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65268179.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 410904,
+        "name": "Awakening of the Possessed - Rasenryu",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower WIND monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Rasenryu\" once per turn.\r\n● When this card is Special Summoned by its effect: You can return 1 card your opponent controls to the hand.\r\n● If this card is sent from the field to the GY: You can add 1 \"Spiritual Wind Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/410904.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 54693926,
+        "name": "Dark Ruler No More",
+        "type": "Spell Card",
+        "desc": "Negate the effects of all face-up monsters your opponent currently controls, until the end of this turn, also, for the rest of this turn after this card resolves, your opponent takes no damage. Neither player can activate monster effects in response to this card's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54693926.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 11335209,
+        "name": "Duamutef, Blessing of Horus",
+        "type": "Effect Monster",
+        "desc": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Duamutef, Blessing of Horus\" once per turn this way. Gains 1200 ATK/DEF for each \"Horus\" monster you control. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can draw cards equal to the number of monsters with different names in your Main Monster Zone. You can only use this effect of \"Duamutef, Blessing of Horus\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11335209.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 15746348,
+        "name": "Eria the Water Channeler",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Charmer\" card.)\r\nYou can discard this card and 1 other WATER monster; add 1 WATER monster from your Deck to your hand with an equal or higher Level than the other discarded monster, also you cannot activate non-WATER monster effects for the rest of this turn. When your WATER monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Eria the Water Channeler\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15746348.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 73309655,
+        "name": "Eria the Water Charmer, Gentle",
+        "type": "Link Monster",
+        "desc": "2 monsters, including a WATER monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WATER monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WATER monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Eria the Water Charmer, Gentle\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73309655.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 86937530,
+        "name": "Fairy Tail - Luna",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 Spellcaster monster with 1850 ATK from your Deck to your hand. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster's name from their Deck or Extra Deck to the GY to negate this effect, otherwise return both this card and that monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86937530.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 31887905,
+        "name": "Familiar-Possessed - Aussa",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31887905.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 68881649,
+        "name": "Familiar-Possessed - Eria",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68881649.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 4376658,
+        "name": "Familiar-Possessed - Hiita",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4376658.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 31764353,
+        "name": "Familiar-Possessed - Wynn",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31764353.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 38057522,
+        "name": "Grand Spiritual Art - Ichirin",
+        "type": "Spell Card",
+        "desc": "Negate your opponent's first monster effect that resolves each turn while you control a Spellcaster monster with 1500 DEF. During your Main Phase: You can reveal 1 Spellcaster monster from your hand, and if you do, add 1 monster with the same Attribute, but with 1500 ATK/200 DEF, from your Deck to your hand, and if you do that, shuffle the revealed card into the Deck. You can only use this effect of \"Grand Spiritual Art - Ichirin\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38057522.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 47330808,
+        "name": "Hapi, Guidance of Horus",
+        "type": "Effect Monster",
+        "desc": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Hapi, Guidance of Horus\" once per turn this way. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can target 2 cards that are banished and/or in the GYs; either add both to the hand or shuffle both into the Deck. You can only use this effect of \"Hapi, Guidance of Horus\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47330808.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 76615300,
+        "name": "Hiita the Fire Channeler",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Charmer\" card.)\r\nYou can discard this card and 1 other FIRE monster; add 1 FIRE monster from your Deck to your hand with higher ATK than the other discarded monster, also you cannot activate non-FIRE monster effects for the rest of this turn. When your FIRE monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Hiita the Fire Channeler\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76615300.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 48815792,
+        "name": "Hiita the Fire Charmer, Ablaze",
+        "type": "Link Monster",
+        "desc": "2 monsters, including a FIRE monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 FIRE monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 FIRE monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Hiita the Fire Charmer, Ablaze\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48815792.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 84941194,
+        "name": "Imsety, Glory of Horus",
+        "type": "Effect Monster",
+        "desc": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Imsety, Glory of Horus\" once per turn this way. You can only use each of the following effects of \"Imsety, Glory of Horus\" once per turn. You can send 2 cards from your hand to the GY, including this card; add 1 \"King's Sarcophagus\" from your Deck to your hand, then you can draw 1 card. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can send 1 card on the field to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84941194.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 62953041,
+        "name": "Inari Fire",
+        "type": "Effect Monster",
+        "desc": "You can only control 1 \"Inari Fire\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your next Standby Phase after this face-up card on the field was destroyed by a card effect and sent to the Graveyard: Special Summon it from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62953041.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 40894584,
+        "name": "Jigabyte",
+        "type": "Effect Monster",
+        "desc": "You can only control 1 \"Jigabyte\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). When this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster with 1500 ATK and 200 DEF from your Deck, except \"Jigabyte\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40894584.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 16528181,
+        "name": "King's Sarcophagus",
+        "type": "Spell Card",
+        "desc": "\"Horus\" monsters you control cannot be destroyed by card effects that do not target them. You can send 1 card from your hand to the GY; send 1 \"Horus\" monster from your Deck to the GY. You can only use this effect of \"King's Sarcophagus\" up to four times per turn. Once per turn, at the start of the Damage Step, if your \"Horus\" monster battles an opponent's monster: You can send that opponent's monster to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16528181.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 9822220,
+        "name": "Lord of the Heavenly Prison",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can activate this effect; this card in your hand becomes revealed until the end of your opponent's turn. While this card is revealed by this effect, Set cards on the field cannot be destroyed by card effects. If a Set Spell/Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand, then, if you activated this effect while this card was revealed, you can reveal and Set 1 Spell/Trap directly from your Deck, but banish it during the End Phase of the next turn. You can only use 1 \"Lord of the Heavenly Prison\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9822220.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 11827244,
+        "name": "Magicalized Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY. You can only activate 1 \"Magicalized Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11827244.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 60666820,
+        "name": "Nefarious Archfiend Eater of Nefariousness",
+        "type": "Effect Monster",
+        "desc": "You can only control 1 \"Nefarious Archfiend Eater of Nefariousness\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your opponent's End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60666820.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 65046521,
+        "name": "Possessed Partnerships",
+        "type": "Trap Card",
+        "desc": "Special Summon 1 Spellcaster monster with 1500 DEF from your hand or GY in Attack Position or face-down Defense Position, then, if you control monsters with 2 or more different Attributes, you can destroy 1 face-up card on the field. You can banish this card from your GY, then target 1 \"Possessed\" Continuous Spell/Trap in your GY; place it face-up on your field. You can only use 1 \"Possessed Partnerships\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65046521.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 74725513,
+        "name": "Qebehsenuef, Protection of Horus",
+        "type": "Effect Monster",
+        "desc": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Qebehsenuef, Protection of Horus\" once per turn this way. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can activate this effect; this turn, your opponent's monsters cannot target \"Horus\" monsters for attacks, also your opponent cannot target \"Horus\" monsters on the field with card effects. You can only use this effect of \"Qebehsenuef, Protection of Horus\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74725513.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 84433295,
+        "name": "Quintet Magician",
+        "type": "Fusion Monster",
+        "desc": "5 Spellcaster monsters\r\nMust be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names: You can destroy all cards your opponent controls. This face-up card on the field cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84433295.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 44680819,
+        "name": "Ranryu",
+        "type": "Effect Monster",
+        "desc": "You can only control 1 \"Ranryu\". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster with 1500 ATK/200 DEF in your GY, except \"Ranryu\"; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44680819.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 45819647,
+        "name": "Selene, Queen of the Master Magicians",
+        "type": "Link Monster",
+        "desc": "2+ monsters, including a Spellcaster monster\r\nIf this card is Link Summoned: Place Spell Counters on this card, equal to the number of Spells on the field and in the GYs. While an \"Endymion\" card(s) is on the field, your opponent's monsters cannot target this card for attacks. Once per turn, during the Main Phase (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 Spellcaster monster from your hand or GY in Defense Position, to your zone this card points to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45819647.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 1528054,
+        "name": "Silhouhatte Rabbit",
+        "type": "Link Monster",
+        "desc": "2 Effect Monsters\r\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Silhouhatte Rabbit\" once per turn. If this card is Link Summoned: You can Set 1 Continuous Trap from your Deck with an effect that Special Summons itself as a monster, also this card cannot be used as Link Material this turn. If a card in the Spell & Trap Zone is Special Summoned to the Monster Zone (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1528054.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 19739265,
+        "name": "Sol and Luna",
+        "type": "Spell Card",
+        "desc": "Target 1 monster you control and 1 monster your opponent controls; apply the following effect on each monster, depending on its battle position.\r\n● Face-up: Change it to face-down Defense Position.\r\n● Face-down: Change it to face-up Defense Position.\r\nYou can only activate 1 \"Sol and Luna\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19739265.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 14824019,
+        "name": "Spellbook Magician of Prophecy",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14824019.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 23314220,
+        "name": "Spellbook of Knowledge",
+        "type": "Spell Card",
+        "desc": "Send to the GY either 1 Spellcaster monster you control, or 1 other \"Spellbook\" card from your hand or face-up field, except \"Spellbook of Knowledge\", and if you do, draw 2 cards. You can only activate 1 \"Spellbook of Knowledge\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23314220.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 89739383,
+        "name": "Spellbook of Secrets",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Spellbook\" card from your Deck to your hand, except \"Spellbook of Secrets\". You can only activate 1 \"Spellbook of Secrets\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89739383.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 91530236,
+        "name": "Spirit Charmers",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; take 2 cards from your Deck with different names from each other, that are \"Charmer\" monsters, \"Familiar-Possessed\" monsters, and/or \"Possessed\" Spells/Traps, add 1 of them to your hand, and Set the other. You can only activate 1 \"Spirit Charmers\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91530236.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 73082255,
+        "name": "The Zombie Vampire",
+        "type": "XYZ Monster",
+        "desc": "2+ Level 8 monsters\r\nIf you use a monster(s) with a Level that is owned by your opponent for the Xyz Summon of this card, treat it as Level 8. Neither player can target this card with effects of Special Summoned monsters, except those Special Summoned from the GY. You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field. You can only use this effect of \"The Zombie Vampire\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73082255.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 25704359,
+        "name": "Unpossessed",
+        "type": "Trap Card",
+        "desc": "\"Charmer\" monsters you control cannot be destroyed by battle. If a \"Familiar-Possessed\" monster you control attacks an opponent's monster, it gains 800 ATK during damage calculation only. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 Spellcaster-Type monster with 1500 DEF from your Deck, whose Attribute is different from at least 1 of those destroyed monsters' original Attributes on the field, in Attack Position or face-down Defense Position. You can only use this effect of \"Unpossessed\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25704359.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 86395581,
+        "name": "Wynn the Wind Channeler",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Charmer\" card.)\r\nYou can discard this card and 1 other WIND monster; add 1 WIND monster with 1500 or less DEF from your Deck to your hand, except \"Wynn the Wind Channeler\", also you cannot activate monster effects for the rest of this turn, except WIND monsters. When a WIND monster you control is destroyed by battle while this card is in your hand: You can Special Summon this card. You can only use each effect of \"Wynn the Wind Channeler\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86395581.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 30674956,
+        "name": "Wynn the Wind Charmer, Verdant",
+        "type": "Link Monster",
+        "desc": "2 monsters, including a WIND monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WIND monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WIND monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Wynn the Wind Charmer, Verdant\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30674956.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "New artwork": [
+      {
+        "id": 37970940,
+        "name": "Aussa the Earth Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37970940.jpg",
+        "rarity": "New artwork"
+      },
+      {
+        "id": 74364659,
+        "name": "Eria the Water Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 face-up WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74364659.jpg",
+        "rarity": "New artwork"
+      },
+      {
+        "id": 759393,
+        "name": "Hiita the Fire Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
+        "rarity": "New artwork"
+      },
+      {
+        "id": 37744402,
+        "name": "Wynn the Wind Charmer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37744402.jpg",
+        "rarity": "New artwork"
+      }
+    ],
+    "New": [
+      {
+        "id": 48016074,
+        "name": "Charmers of the Grand Circle",
+        "type": "Fusion Monster",
+        "desc": "2+ \"Charmer\" or \"Familiar-Possessed\" monsters\r\nIf this card is Fusion Summoned: You can activate this effect; for each different original Attribute used for its Fusion Summon (max. 4), you can apply 1 effect from this list. You can choose the same effect more than once. Resolve each effect before choosing again.\r\n● This card gains 800 ATK. ● Add 1 \"Possessed\" Spell/Trap from your Deck to your hand.\r\n● Return 1 card on the field to the hand. ● Special Summon 1 Spellcaster monster from your GY.\r\nYou can only use this effect of \"Charmers of the Grand Circle\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48016074.jpg",
+        "rarity": "New"
+      },
+      {
+        "id": 11911336,
+        "name": "Spellbook of the Grand Circle",
+        "type": "Spell Card",
+        "desc": "Add 4 \"Charmer\" monsters with different Attributes from your Deck, GY, and/or banishment to your hand, then shuffle 2 cards from your hand into the Deck. You can banish this card from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck, using \"Charmer\" or \"Familiar-Possessed\" monsters from your hand or field, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way. You can only use each effect of \"Spellbook of the Grand Circle\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11911336.jpg",
+        "rarity": "New"
+      }
+    ]
+  }
+}

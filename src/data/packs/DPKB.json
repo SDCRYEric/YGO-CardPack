@@ -1,0 +1,335 @@
+{
+  "setName": "Duelist Pack: Kaiba",
+  "pool": {
+    "Common": [
+      {
+        "id": 54912977,
+        "name": "Ancient Lamp",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54912977.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86871614,
+        "name": "Cloning",
+        "type": "Trap Card",
+        "desc": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86871614.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76909279,
+        "name": "Enraged Battle Ox",
+        "type": "Effect Monster",
+        "desc": "If a Beast, Beast-Warrior, or Winged Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76909279.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89731911,
+        "name": "Familiar Knight",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Each player can Special Summon 1 Level 4 monster from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89731911.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76184692,
+        "name": "Hitotsu-Me Giant",
+        "type": "Normal Monster",
+        "desc": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76184692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36261276,
+        "name": "Interdimensional Matter Transporter",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; banish that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36261276.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30113682,
+        "name": "Judge Man",
+        "type": "Normal Monster",
+        "desc": "This club-wielding warrior battles to the end and will never surrender.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30113682.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97590747,
+        "name": "La Jinn the Mystical Genie of the Lamp",
+        "type": "Normal Monster",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97590747.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17985575,
+        "name": "Lord of D.",
+        "type": "Effect Monster",
+        "desc": "Neither player can target Dragon monsters on the field with card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17985575.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61844784,
+        "name": "Magic Reflector",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up Spell Card you control; place 1 counter on it. If it would ever be destroyed, remove the counter instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61844784.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24094653,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58641905,
+        "name": "Ring of Defense",
+        "type": "Spell Card",
+        "desc": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58641905.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66602787,
+        "name": "Saggi the Dark Clown",
+        "type": "Normal Monster",
+        "desc": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66602787.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50005633,
+        "name": "Swordstalker",
+        "type": "Normal Monster",
+        "desc": "A monster formed by the vengeful souls of those who passed away in battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50005633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43973174,
+        "name": "The Flute of Summoning Dragon",
+        "type": "Spell Card",
+        "desc": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43973174.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9786492,
+        "name": "White Dragon Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Paladin of White Dragon\". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9786492.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62651957,
+        "name": "X-Head Cannon",
+        "type": "Normal Monster",
+        "desc": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62651957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65622692,
+        "name": "Y-Dragon Head",
+        "type": "Union Effect Monster",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65622692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64500000,
+        "name": "Z-Metal Tank",
+        "type": "Union Effect Monster",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64500000.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 23995346,
+        "name": "Blue-Eyes Ultimate Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23995346.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 62873545,
+        "name": "Dragon Master Knight",
+        "type": "Fusion Monster",
+        "desc": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\r\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62873545.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 9433350,
+        "name": "Malefic Blue-Eyes White Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Blue-Eyes White Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9433350.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 89631145,
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89631145.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 24874630,
+        "name": "Fiend's Sanctuary",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. Once per turn, during your Standby Phase, pay 1000 LP or destroy this Token.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24874630.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27174286,
+        "name": "Return from the Different Dimension",
+        "type": "Trap Card",
+        "desc": "Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27174286.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79814787,
+        "name": "The White Stone of Legend",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 91998119,
+        "name": "XYZ-Dragon Cannon",
+        "type": "Fusion Monster",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91998119.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 82301904,
+        "name": "Chaos Emperor Dragon - Envoy of the End",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82301904.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 57728571,
+        "name": "Crush Card Virus",
+        "type": "Trap Card",
+        "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57728571.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 34124316,
+        "name": "Cyber Jar",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Destroy all monsters on the field, then both players reveal the top 5 cards from their Decks, then Special Summon all revealed Level 4 or lower monsters in face-up Attack Position or face-down Defense Position, also add any remaining cards to their hand. (If either player has less than 5 cards in their Deck, reveal as many as possible.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34124316.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 55144522,
+        "name": "Pot of Greed",
+        "type": "Spell Card",
+        "desc": "Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55144522.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 83555666,
+        "name": "Ring of Destruction",
+        "type": "Trap Card",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83555666.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 23265313,
+        "name": "Cost Down",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23265313.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 50939127,
+        "name": "Different Dimension Dragon",
+        "type": "Effect Monster",
+        "desc": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50939127.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 52824910,
+        "name": "Kaiser Glider",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52824910.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17444133,
+        "name": "Kaiser Sea Horse",
+        "type": "Effect Monster",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 73398797,
+        "name": "Paladin of White Dragon",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"White Dragon Ritual\". At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand or Deck, but \"Blue-Eyes White Dragons\" cannot attack for the rest of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73398797.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 52624755,
+        "name": "Peten the Dark Clown",
+        "type": "Effect Monster",
+        "desc": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52624755.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53839837,
+        "name": "Vampire Lord",
+        "type": "Effect Monster",
+        "desc": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53839837.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 14898067,
+        "name": "Vorse Raider",
+        "type": "Normal Monster",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14898067.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! Destiny Board Traveler promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 70074904,
+        "name": "D.D. Assailant",
+        "type": "Effect Monster",
+        "desc": "After damage calculation, when this card is destroyed by battle with an opponent's monster: Banish that monster, also banish this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70074904.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43580269,
+        "name": "Emes the Infinity",
+        "type": "Effect Monster",
+        "desc": "Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43580269.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 82035781,
+        "name": "Twinheaded Beast",
+        "type": "Effect Monster",
+        "desc": "This card can attack twice during the same Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82035781.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

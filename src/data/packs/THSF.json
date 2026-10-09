@@ -1,0 +1,489 @@
+{
+  "setName": "The Secret Forces",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 21044178,
+        "name": "Abyss Dweller",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nWhile this card has a material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn (Quick Effect): You can detach 1 material from this card; your opponent cannot activate any card effects in their GY this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21044178.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 46052429,
+        "name": "Advanced Ritual Art",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46052429.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27632240,
+        "name": "Altitude Knight",
+        "type": "Effect Monster",
+        "desc": "Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27632240.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 78910579,
+        "name": "Aquamirror Cycle",
+        "type": "Trap Card",
+        "desc": "Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78910579.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 28985331,
+        "name": "Armageddon Knight",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28985331.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88301833,
+        "name": "Ascending Soul",
+        "type": "Spell Card",
+        "desc": "Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88301833.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 48976825,
+        "name": "Burial from a Different Dimension",
+        "type": "Spell Card",
+        "desc": "Target up to 3 banished monsters; return them to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48976825.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 45812361,
+        "name": "Cardcar D",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45812361.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15854426,
+        "name": "Divine Wind of Mist Valley",
+        "type": "Spell Card",
+        "desc": "Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15854426.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77153811,
+        "name": "Djinn Cursenchanter of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. While the monster Ritual Summoned using this card is face-up on the field, Synchro Monsters' effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77153811.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 30492798,
+        "name": "Djinn Disserere of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is unaffected by Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30492798.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 34358408,
+        "name": "Djinn Presider of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If the monster Ritual Summoned using this card destroys a monster by battle, the controller of the Ritual Monster draws 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34358408.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4141820,
+        "name": "Djinn Prognosticator of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. If you Ritual Summon using this card, if that Ritual Summoned monster inflicts battle damage to your opponent, they discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4141820.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 8903700,
+        "name": "Djinn Releaser of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, the other player cannot Special Summon while that Ritual Summoned monster is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8903700.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53180020,
+        "name": "Exa, Enforcer of the Nekroz",
+        "type": "Effect Monster",
+        "desc": "If this card is Tributed by a card effect: You can add 1 Dragon-Type \"Nekroz\" Ritual Monster from your Deck to your hand. If this card is banished: You can target 1 of your banished \"Nekroz\" monsters, except this card; Special Summon that monster. You can only use 1 \"Exa, Enforcer of the Nekroz\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53180020.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 57103969,
+        "name": "Fire Formation - Tenki",
+        "type": "Spell Card",
+        "desc": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 66399675,
+        "name": "Gishki Chain",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66399675.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63942761,
+        "name": "Gishki Noellia",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can excavate the top 5 cards of your Deck, send any excavated Ritual Spell Cards and \"Gishki\" monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63942761.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29888389,
+        "name": "Gishki Shadow",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 \"Gishki\" Ritual Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29888389.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 47106439,
+        "name": "Gishki Vision",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 \"Gishki\" Ritual Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47106439.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27796375,
+        "name": "Great Sorcerer of the Nekroz",
+        "type": "Effect Monster",
+        "desc": "If this card is Tributed by a card effect: You can add 1 Spellcaster-Type \"Nekroz\" Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 \"Nekroz\" monster from your Deck to the Graveyard, except \"Great Sorcerer of the Nekroz\". You can only use 1 \"Great Sorcerer of the Nekroz\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27796375.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 95492061,
+        "name": "Manju of the Ten Thousand Hands",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95492061.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 4906301,
+        "name": "Necro Gardna",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4906301.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96729612,
+        "name": "Preparation of Rites",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96729612.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 11556339,
+        "name": "Ritual Beast Steeds",
+        "type": "Trap Card",
+        "desc": "If you control a \"Ritual Beast\" monster: Destroy monsters on the field up to the number of \"Ritual Beast\" monsters you currently control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11556339.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 75457624,
+        "name": "Ritual Beast's Bond",
+        "type": "Spell Card",
+        "desc": "Banish 2 \"Ritual Beast\" monsters you control; Special Summon 1 \"Ritual Beast\" monster from your Extra Deck, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75457624.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25796442,
+        "name": "Ritual Cage",
+        "type": "Spell Card",
+        "desc": "You take no battle damage from attacks involving a Ritual Monster you control. Ritual Monsters you control cannot be targeted by, or destroyed by, monster effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25796442.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54351224,
+        "name": "Ritual Weapon",
+        "type": "Spell Card",
+        "desc": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54351224.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51452091,
+        "name": "Royal Decree",
+        "type": "Trap Card",
+        "desc": "Negate all other Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90307777,
+        "name": "Shurit, Strategist of the Nekroz",
+        "type": "Effect Monster",
+        "desc": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90307777.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68073522,
+        "name": "Soul Absorption",
+        "type": "Spell Card",
+        "desc": "If a card(s) is banished: Gain 500 LP for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68073522.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 5758500,
+        "name": "Soul Release",
+        "type": "Spell Card",
+        "desc": "Target up to 5 cards in any GY(s); banish them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5758500.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 86396750,
+        "name": "Spiritual Beast Apelio",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during either player's turn: You can banish 1 \"Ritual Beast\" card from your Graveyard; for the rest of this turn, all \"Ritual Beast\" monsters you control will gain 500 ATK and DEF. You can only Special Summon \"Spiritual Beast Apelio(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86396750.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 49885567,
+        "name": "Spiritual Beast Cannahawk",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can banish 1 \"Ritual Beast\" card from your Deck, face-up. During your second Standby Phase after this effect's activation, add the card banished by this effect to your hand. You can only Special Summon \"Spiritual Beast Cannahawk(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49885567.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 13890468,
+        "name": "Spiritual Beast Pettlephin",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can banish 1 \"Ritual Beast\" card from your hand, then target 1 card your opponent controls; return it to the hand. You can only Special Summon \"Spiritual Beast Pettlephin(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13890468.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 5851097,
+        "name": "Vanity's Emptiness",
+        "type": "Trap Card",
+        "desc": "Neither player can Special Summon monsters. If a card is sent from the Deck or the field to your Graveyard: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5851097.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27918963,
+        "name": "Yosen Training Grounds",
+        "type": "Spell Card",
+        "desc": "Each time a \"Yosenju\" monster(s) is Normal or Special Summoned, place 1 Yosen Counter on this card. You can remove any number of Yosen Counters from this card; apply this effect, depending on the number of Yosen Counters removed. You can only use this effect of \"Yosen Training Grounds\" once per turn.\n● 1 Counter: All \"Yosenju\" monsters you currently control gain 300 ATK until the end of this turn (even if this card leaves the field).\n● 3 Counters: Add 1 \"Yosenju\" card from your Deck or Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27918963.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65025250,
+        "name": "Yosenju Shinchu L",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nIf a \"Yosenju\" monster(s) you control would be destroyed by battle or card effect, you can destroy this card instead.\n\n[ Monster Effect ] \nIf this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target \"Yosenju\" monsters you control with card effects, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65025250.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 91420254,
+        "name": "Yosenju Shinchu R",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).\n\n[ Monster Effect ] \nIf this card is Normal Summoned: Change it to Defense Position. Monsters your opponent controls cannot target face-up \"Yosenju\" monsters for attacks, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91420254.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54903668,
+        "name": "Yosenjus' Secret Move",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated while you control at least 1 \"Yosenju\" card, and all face-up monsters you control are \"Yosenju\" monsters: Negate the activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54903668.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 93368494,
+        "name": "Mayosenju Daibak",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nWhen a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.\n\n[ Monster Effect ] \nCannot be Special Summoned, except by Pendulum Summon. This card's Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target up to 2 cards on the field; return them to the hand. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93368494.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 51124303,
+        "name": "Nekroz Kaleidoscope",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any number of \"Nekroz\" Ritual Monsters. Tribute 1 monster from your hand or field, or send 1 monster from your Extra Deck to the GY, also after that, Ritual Summon any number of \"Nekroz\" monsters whose total Levels exactly equal the Level of that monster. You can only use this effect of \"Nekroz Kaleidoscope\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your GY; add 1 \"Nekroz\" Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51124303.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14735698,
+        "name": "Nekroz Mirror",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, and/or banish \"Nekroz\" monsters from your GY, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Nekroz Mirror\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your GY; add 1 \"Nekroz\" Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14735698.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 26674724,
+        "name": "Nekroz of Brionac",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using \"Nekroz of Brionac\". You can only use each of these effects of \"Nekroz of Brionac\" once per turn.\r\n● You can discard this card; add 1 \"Nekroz\" monster from your Deck to your hand, except \"Nekroz of Brionac\".\r\n● You can target up to 2 face-up monsters on the field that were Special Summoned from the Extra Deck; shuffle them into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26674724.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52846880,
+        "name": "Nekroz of Catastor",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using \"Nekroz of Catastor\", and cannot be Special Summoned by other ways. You can discard this card, then target 1 \"Nekroz\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Nekroz of Catastor\" once per turn. At the start of the Damage Step, if a \"Nekroz\" monster you control battles an opponent's face-up monster that was Special Summoned from the Extra Deck: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52846880.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 99185129,
+        "name": "Nekroz of Clausolas",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned. You can only use each of these effects of \"Nekroz of Clausolas\" once per turn.\r\n● You can discard this card; add 1 \"Nekroz\" Spell/Trap from your Deck to your hand.\r\n● (Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, that target's ATK becomes 0, also that target's effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99185129.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 88240999,
+        "name": "Nekroz of Decisive Armor",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 10 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Decisive Armor\" once per turn.\n● During either player's turn: You can discard this card, then target 1 \"Nekroz\" monster you control; it gains 1000 ATK and DEF until the end of this turn.\n● You can target 1 Set card your opponent controls; destroy it, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88240999.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52068432,
+        "name": "Nekroz of Trishula",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using any Level 9 monsters. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.\r\n● When a card or effect is activated that targets a \"Nekroz\" monster(s) you control (Quick Effect): You can discard this card; negate the activation.\r\n● When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and GY. (The card in the hand is chosen at random.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52068432.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 89463537,
+        "name": "Nekroz of Unicore",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned. You can discard this card, then target 1 \"Nekroz\" card in your GY, except \"Nekroz of Unicore\"; add it to your hand. You can only use this effect of \"Nekroz of Unicore\" once per turn. Negate the effects of face-up monsters on the field that were Special Summoned from the Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89463537.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 25857246,
+        "name": "Nekroz of Valkyrus",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using any Level 8 monsters. You can only use each of these effects of \"Nekroz of Valkyrus\" once per turn.\r\n● When an opponent's monster declares an attack: You can banish 1 \"Nekroz\" card from your GY and discard this card; negate the attack, then end the Battle Phase.\r\n● During your Main Phase: You can Tribute up to 2 monsters from your hand and/or field, and if you do, draw the same number of cards you Tributed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25857246.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14513016,
+        "name": "Ritual Beast Tamer Elder",
+        "type": "Effect Monster",
+        "desc": "After you Normal Summon this card, you can Normal Summon 1 \"Ritual Beast\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon \"Ritual Beast Tamer Elder(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14513016.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 87118301,
+        "name": "Ritual Beast Tamer Lara",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: You can target 1 \"Ritual Beast\" monster in your Graveyard; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Lara(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87118301.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 40907115,
+        "name": "Ritual Beast Tamer Wen",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: You can target 1 of your banished \"Ritual Beast\" monsters; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Wen(s)\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40907115.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 86274272,
+        "name": "Ritual Beast Ulti-Apelio",
+        "type": "Fusion Monster",
+        "desc": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) If this card attacks, it is unaffected by other cards' effects until the end of the Damage Step. During either player's turn: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86274272.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 48063985,
+        "name": "Ritual Beast Ulti-Cannahawk",
+        "type": "Fusion Monster",
+        "desc": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) Once per turn: You can target 2 of your banished \"Ritual Beast\" cards; return them to the Graveyard, and if you do, add 1 \"Ritual Beast\" card from your Deck to your hand. During either player's turn: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48063985.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 12678870,
+        "name": "Ritual Beast Ulti-Pettlephin",
+        "type": "Fusion Monster",
+        "desc": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) Cannot be destroyed by card effects. During either player's turn: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12678870.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 65247798,
+        "name": "Yosenju Kama 1",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 \"Yosenju\" monster from your hand, except \"Yosenju Kama 1\". If you control another \"Yosenju\" monster: You can target 1 face-up card your opponent controls; return it to the hand. This effect can only be used once while this card is face-up on the field. Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65247798.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 92246806,
+        "name": "Yosenju Kama 2",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 \"Yosenju\" monster from your hand, except \"Yosenju Kama 2\". This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved. Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92246806.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 28630501,
+        "name": "Yosenju Kama 3",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 \"Yosenju\" monster from your hand, except \"Yosenju Kama 3\". When another \"Yosenju\" monster you control inflicts battle damage to your opponent: You can add 1 \"Yosenju\" card from your Deck to your hand, except \"Yosenju Kama 3\". You can only use this effect of \"Yosenju Kama 3\" once per turn. Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28630501.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 39853199,
+        "name": "Yosenju Misak",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card battles a face-up non-WIND monster: You can destroy that monster. When this card is Pendulum Summoned: You can target 1 card your opponent controls; destroy it. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39853199.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

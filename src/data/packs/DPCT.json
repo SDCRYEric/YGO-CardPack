@@ -1,0 +1,15 @@
+{
+  "setName": "Duelist Pack Collection Tin 2008",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 26701483,
+        "name": "Card Ejector",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26701483.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

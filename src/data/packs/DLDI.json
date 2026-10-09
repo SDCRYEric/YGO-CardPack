@@ -1,0 +1,47 @@
+{
+  "setName": "Duelist League Demo 2010",
+  "pool": {
+    "Common": [
+      {
+        "id": 40619825,
+        "name": "Axe of Despair",
+        "type": "Spell Card",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40619825.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54652250,
+        "name": "Man-Eater Bug",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54652250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22567609,
+        "name": "Nimble Momonga",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22567609.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

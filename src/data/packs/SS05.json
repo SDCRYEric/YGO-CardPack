@@ -1,0 +1,537 @@
+{
+  "setName": "Speed Duel Starter Decks: Twisted Nightmares",
+  "pool": {
+    "Common": [
+      {
+        "id": 1475311,
+        "name": "Allure of Darkness",
+        "type": "Spell Card",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52090844,
+        "name": "Bowganian",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Standby Phase: Inflict 600 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52090844.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74277583,
+        "name": "Brave Scizzar",
+        "type": "Normal Monster",
+        "desc": "Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74277583.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17597059,
+        "name": "Byser Shock",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Return all Set cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17597059.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65830223,
+        "name": "Coffin Seller",
+        "type": "Trap Card",
+        "desc": "Each time a monster(s) is sent to your opponent's GY: Inflict 300 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65830223.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40465719,
+        "name": "Common Charity",
+        "type": "Trap Card",
+        "desc": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40465719.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15305240,
+        "name": "Creature Seizure",
+        "type": "Spell Card",
+        "desc": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15305240.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78811937,
+        "name": "Creeping Darkness",
+        "type": "Spell Card",
+        "desc": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78811937.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 674561,
+        "name": "Dark Eruption",
+        "type": "Spell Card",
+        "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/674561.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90980792,
+        "name": "Dark Jeroid",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90980792.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85313220,
+        "name": "Dark Lucius LV4",
+        "type": "Effect Monster",
+        "desc": "Negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card has destroyed a monster by battle: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85313220.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12817939,
+        "name": "Dark Lucius LV6",
+        "type": "Effect Monster",
+        "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV4\", negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card negated your opponent's monster effect by this effect: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12817939.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58206034,
+        "name": "Dark Lucius LV8",
+        "type": "Effect Monster",
+        "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV6\", banish your opponent's monsters destroyed by battle with this card, also negate their effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58206034.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74713516,
+        "name": "Dark Mimic LV1",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1102515,
+        "name": "Dark Mimic LV3",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31829185,
+        "name": "Dark Necrofear",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31829185.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89558090,
+        "name": "Dark Prisoner",
+        "type": "Normal Monster",
+        "desc": "This monster bends light to hide its image from the eyes of opponents.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89558090.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53982768,
+        "name": "Dark Ruler Ha Des",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53982768.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30325729,
+        "name": "Dokuroyaiba",
+        "type": "Normal Monster",
+        "desc": "A boomerang with brains that will pursue a target to the ends of the earth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30325729.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99050989,
+        "name": "Drillago",
+        "type": "Effect Monster",
+        "desc": "If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99050989.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67105242,
+        "name": "Earthbound Spirit",
+        "type": "Normal Monster",
+        "desc": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67105242.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68396778,
+        "name": "Faustian Bargain",
+        "type": "Spell Card",
+        "desc": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68396778.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37955049,
+        "name": "Gaap the Divine Soldier",
+        "type": "Effect Monster",
+        "desc": "All monsters are changed to Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend monsters in your hand; this card gains 300 ATK for each, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37955049.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38445524,
+        "name": "Gil Garth",
+        "type": "Normal Monster",
+        "desc": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38445524.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5434080,
+        "name": "Headless Knight",
+        "type": "Normal Monster",
+        "desc": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5434080.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76052811,
+        "name": "Helpoemer",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the GY. At the end of your opponent's Battle Phase, if this card is in the GY because it was destroyed by battle: Make your opponent discard 1 random card. This card must be in the GY to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76052811.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300205001,
+        "name": "Inner Conflict",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per Duel, you can pay half your LP and take control of 1 monster your opponent controls until the End Phase, but it cannot attack directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300205001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300205002,
+        "name": "Into the Darkness Below",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per turn, you can discard 1 Normal Fiend Monster, then use 1 of the following Skills.\r\n● Draw 1 card, also flip this card over.\r\n● If you have 4 or more Fiend Normal Monsters with different names in your GY, add 1 monster from your Deck to your hand, also flip this card over.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300205002.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90147755,
+        "name": "Lady Assailant of Flames",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90147755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79418153,
+        "name": "Lancer Archfiend",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when your monster declares an attack on your opponent's Defense Position monster: You can activate this effect; during that battle, if that monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79418153.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 102380,
+        "name": "Lava Golem",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/102380.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99747800,
+        "name": "Legendary Fiend",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99747800.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16475472,
+        "name": "Lesser Fiend",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nBanish any monster destroyed by battle with this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16475472.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25290459,
+        "name": "Level Up!",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25290459.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31034919,
+        "name": "Mad Reloader",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31034919.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28933734,
+        "name": "Mask of Darkness",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28933734.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46820049,
+        "name": "Mefist the Infernal General",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Make your opponent discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46820049.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86569121,
+        "name": "Melchid the Four-Face Beast",
+        "type": "Normal Monster",
+        "desc": "This monster has four different masks for four different attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86569121.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26905245,
+        "name": "Metal Reflect Slime",
+        "type": "Trap Card",
+        "desc": "Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap.) This card cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26905245.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70084224,
+        "name": "Neck Hunter",
+        "type": "Normal Monster",
+        "desc": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70084224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4335645,
+        "name": "Newdoria",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4335645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54704216,
+        "name": "Nightmare Wheel",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54704216.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19230408,
+        "name": "Offerings to the Doomed",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19230408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66518841,
+        "name": "Prideful Roar",
+        "type": "Trap Card",
+        "desc": "During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay LP equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66518841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82213171,
+        "name": "Prometheus, King of the Shadows",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82213171.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41442341,
+        "name": "Puppet Master",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41442341.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93382620,
+        "name": "Rope of Life",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is destroyed by battle and sent to your GY: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93382620.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300205003,
+        "name": "Shadow Reborn",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per Duel, you can pay half your LP and Special Summon 1 monster from either GY, but your opponent takes no battle damage this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300205003.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17626381,
+        "name": "Supply Squad",
+        "type": "Spell Card",
+        "desc": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17626381.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37120512,
+        "name": "Sword of Dark Destruction",
+        "type": "Spell Card",
+        "desc": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37120512.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52367652,
+        "name": "That Which Feeds on Life",
+        "type": "Normal Monster",
+        "desc": "A monster that feeds on the energy of other creatures.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52367652.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66989694,
+        "name": "The Earl of Demise",
+        "type": "Normal Monster",
+        "desc": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66989694.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94861297,
+        "name": "The Forceful Checkpoint",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94861297.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68049471,
+        "name": "The Gross Ghost of Fled Dreams",
+        "type": "Normal Monster",
+        "desc": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68049471.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63125616,
+        "name": "The Shadow Who Controls the Dark",
+        "type": "Normal Monster",
+        "desc": "A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63125616.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79759861,
+        "name": "Tribute to the Doomed",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88132637,
+        "name": "Twin-Headed Wolf",
+        "type": "Effect Monster",
+        "desc": "While you control another Fiend monster, negate the effects of Flip monsters destroyed by battle with this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88132637.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300205004,
+        "name": "Twisted Personality",
+        "type": "Skill Card",
+        "desc": "[At the start of the Duel, flip this card over.]\r\n\r\nEach time a player loses LP, place 1 counter on this card (max. 3). Once per turn, during your Main Phase, you can use 1 of the following Skills.\r\n● Remove 2 counters from this card, then discard 1 random card from your opponent's hand.\r\n● Remove 3 counters from this card, then destroy 1 face-up card your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300205004.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90434926,
+        "name": "Veil of Darkness",
+        "type": "Spell Card",
+        "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90434926.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56043447,
+        "name": "Viser Des",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56043447.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91996584,
+        "name": "Whiptail Crow",
+        "type": "Normal Monster",
+        "desc": "Attacks from the skies with a whip-like tail.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91996584.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10315429,
+        "name": "Yaiba Robo",
+        "type": "Normal Monster",
+        "desc": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10315429.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79852326,
+        "name": "Zoma the Spirit",
+        "type": "Trap Card",
+        "desc": "Special Summon this card in Defense Position as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500). (This card is also still a Trap.) If this card Summoned this way is destroyed by battle: Inflict damage to your opponent equal to the ATK of the monster that destroyed it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79852326.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 98494543,
+        "name": "Magical Stone Excavation",
+        "type": "Spell Card",
+        "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 46565218,
+        "name": "Santa Claws",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46565218.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

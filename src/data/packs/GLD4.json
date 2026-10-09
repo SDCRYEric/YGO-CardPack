@@ -1,0 +1,409 @@
+{
+  "setName": "Gold Series 4: Pyramids Edition",
+  "pool": {
+    "Common": [
+      {
+        "id": 99426834,
+        "name": "Beastking of the Swamps",
+        "type": "Effect Monster",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99426834.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35027493,
+        "name": "Deck Devastation Virus",
+        "type": "Trap Card",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29424328,
+        "name": "Diabolos, King of the Abyss",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If you Tribute Summon this card, the Tributes must be DARK. Cannot be Tributed by card effects while face-up on the field. Once per turn, during your opponent's Draw Phase, before their normal draw: Look at the top card of your opponent's Deck, and if you do, place that card on either the top or bottom of their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29424328.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94716515,
+        "name": "Eradicating Aerosol",
+        "type": "Spell Card",
+        "desc": "Destroy all Insect monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94716515.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56606928,
+        "name": "Eternal Drought",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up Fish-Type monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56606928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31038159,
+        "name": "Genesis Dragon",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31038159.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67959180,
+        "name": "Goddess of Whim",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card's ATK during this turn. If you call it wrong, halve its ATK during this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67959180.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53493204,
+        "name": "Goddess with the Third Eye",
+        "type": "Effect Monster",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53493204.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74137509,
+        "name": "Graceful Dice",
+        "type": "Spell Card",
+        "desc": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74137509.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79575620,
+        "name": "Injection Fairy Lily",
+        "type": "Effect Monster",
+        "desc": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79575620.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55818463,
+        "name": "Lich Lord, King of the Underworld",
+        "type": "Effect Monster",
+        "desc": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card effect and sent to the GY: Add this card from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55818463.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67227834,
+        "name": "Magic Formula",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Dark Magician\" or \"Dark Magician Girl\". It gains 700 ATK. If this card is sent from the field to the GY: Gain 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67227834.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49905576,
+        "name": "Meltiel, Sage of the Sky",
+        "type": "Effect Monster",
+        "desc": "Each time a Counter Trap Card is activated, immediately after it resolves, gain 1000 LP, and if you do, if \"The Sanctuary in the Sky\" is on the field, destroy 1 card your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49905576.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32012841,
+        "name": "Millennium Shield",
+        "type": "Normal Monster",
+        "desc": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32012841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71717923,
+        "name": "Mormolith",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 face-up EARTH monster to destroy all face-up monsters with DEF equal to or less than the ATK of the Tributed card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71717923.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7634581,
+        "name": "Orichalcos Shunoros",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. If a Normal Monster you control is destroyed by battle, you can Special Summon this card from your hand. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7634581.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24433921,
+        "name": "Pendulum Machine",
+        "type": "Normal Monster",
+        "desc": "A horrible torture machine with a large pendulum blade.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24433921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82213171,
+        "name": "Prometheus, King of the Shadows",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82213171.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84177693,
+        "name": "Radiant Jeral",
+        "type": "Effect Monster",
+        "desc": "When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if \"The Sanctuary in the Sky\" is on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84177693.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81191584,
+        "name": "Recurring Nightmare",
+        "type": "Spell Card",
+        "desc": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81191584.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88279736,
+        "name": "Robbin' Goblin",
+        "type": "Trap Card",
+        "desc": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88279736.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13604200,
+        "name": "Sage's Stone",
+        "type": "Spell Card",
+        "desc": "If you control a face-up \"Dark Magician Girl\": Special Summon 1 \"Dark Magician\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13604200.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 126218,
+        "name": "Skull Dice",
+        "type": "Trap Card",
+        "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/126218.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68005187,
+        "name": "Soul Exchange",
+        "type": "Spell Card",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17589298,
+        "name": "Sword of Dark Rites",
+        "type": "Spell Card",
+        "desc": "Equip only to a DARK monster. It gains 400 ATK. When the equipped monster is Tributed and this card is sent to the Graveyard, return this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17589298.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6285791,
+        "name": "The Wicked Worm Beast",
+        "type": "Effect Monster",
+        "desc": "This face-up card on the field is returned to the owner's hand during the End Phase of your turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6285791.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90960358,
+        "name": "Toon Dark Magician Girl",
+        "type": "Toon Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90960358.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15259704,
+        "name": "Toon World",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15259704.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38120068,
+        "name": "Trade-In",
+        "type": "Spell Card",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50259460,
+        "name": "Versago the Destroyer",
+        "type": "Effect Monster",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50259460.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73891874,
+        "name": "White-Horned Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73891874.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76515293,
+        "name": "Xing Zhen Hu",
+        "type": "Trap Card",
+        "desc": "Activate by selecting 2 Set Spell or Trap Cards on the field. The selected Spell or Trap Cards cannot be activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76515293.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Gold Rare": [
+      {
+        "id": 72989439,
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72989439.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 94381039,
+        "name": "Celestia, Lightsworn Angel",
+        "type": "Effect Monster",
+        "desc": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94381039.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 9596126,
+        "name": "Chaos Sorcerer",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9596126.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 40921744,
+        "name": "Darklord Zerato",
+        "type": "Effect Monster",
+        "desc": "If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. Once per turn, during the End Phase, if this effect was activated this turn: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40921744.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 78700060,
+        "name": "Doomcaliber Knight",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78700060.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 99267151,
+        "name": "Five-Headed Dragon",
+        "type": "Fusion Monster",
+        "desc": "5 Dragon monsters\r\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99267151.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 48156348,
+        "name": "Gladiator Beast Gyzarus",
+        "type": "Fusion Monster",
+        "desc": "\"Gladiator Beast Bestiari\" + 1 \"Gladiator Beast\" monster\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) When this card is Special Summoned: You can target up to 2 cards on the field; destroy those targets. At the end of the Battle Phase, if this card battled: You can return it to the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Bestiari\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48156348.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 24317029,
+        "name": "Gravekeeper's Spy",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24317029.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 33508719,
+        "name": "Morphing Jar",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 10000002,
+        "name": "Obelisk the Tormentor",
+        "type": "Effect Monster",
+        "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10000002.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 67169062,
+        "name": "Pot of Avarice",
+        "type": "Spell Card",
+        "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67169062.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 93016201,
+        "name": "Royal Oppression",
+        "type": "Trap Card",
+        "desc": "Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93016201.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 21502796,
+        "name": "Ryko, Lightsworn Hunter",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Apply these effects (simultaneously).\r\n● You can destroy 1 card on the field.\r\n● Send the top 3 cards of your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21502796.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 23205979,
+        "name": "Spirit Reaper",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23205979.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 423585,
+        "name": "Summoner Monk",
+        "type": "Effect Monster",
+        "desc": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/423585.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 89997728,
+        "name": "Toon Table of Contents",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Toon\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 59616123,
+        "name": "Trap Stun",
+        "type": "Trap Card",
+        "desc": "Negate all other Trap effects on the field this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59616123.jpg",
+        "rarity": "Gold Rare"
+      },
+      {
+        "id": 11819616,
+        "name": "Tytannial, Princess of Camellias",
+        "type": "Effect Monster",
+        "desc": "When a card or effect is activated that targets a card(s) on the field (Quick Effect): You can Tribute 1 face-up Plant monster; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11819616.jpg",
+        "rarity": "Gold Rare"
+      }
+    ]
+  }
+}

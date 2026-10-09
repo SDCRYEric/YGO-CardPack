@@ -1,0 +1,173 @@
+{
+  "setName": "Champion Pack: Game Eight",
+  "pool": {
+    "Common": [
+      {
+        "id": 24104865,
+        "name": "Alien Mother",
+        "type": "Effect Monster",
+        "desc": "If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. When this card is removed from the field, all monsters that were Special Summoned by this card's effect are destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24104865.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98719226,
+        "name": "Alien Warrior",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, place 2 A-Counters on the monster that destroyed it. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98719226.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16255442,
+        "name": "Beckoning Light",
+        "type": "Trap Card",
+        "desc": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16255442.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84491298,
+        "name": "Cell Explosion Virus",
+        "type": "Trap Card",
+        "desc": "Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84491298.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37011715,
+        "name": "Miraculous Rebirth",
+        "type": "Spell Card",
+        "desc": "Activate only as Chain Link 4 or higher. Select 1 monster from either player's Graveyard and Special Summon it. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37011715.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14181608,
+        "name": "Mushroom Man",
+        "type": "Normal Monster",
+        "desc": "Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14181608.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43237273,
+        "name": "Neo-Spacian Dark Panther",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43237273.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93016201,
+        "name": "Royal Oppression",
+        "type": "Trap Card",
+        "desc": "Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93016201.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72634965,
+        "name": "Vanity's Ruler",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72634965.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 48976825,
+        "name": "Burial from a Different Dimension",
+        "type": "Spell Card",
+        "desc": "Target up to 3 banished monsters; return them to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48976825.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 63176202,
+        "name": "Great Shogun Shien",
+        "type": "Effect Monster",
+        "desc": "If you control 2 or more face-up \"Six Samurai\" monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 66337215,
+        "name": "Herald of Creation",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66337215.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80304126,
+        "name": "Magician's Valkyria",
+        "type": "Effect Monster",
+        "desc": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80304126.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 4906301,
+        "name": "Necro Gardna",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4906301.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 73665146,
+        "name": "Silent Magician LV4",
+        "type": "Effect Monster",
+        "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 81674782,
+        "name": "Dimensional Fissure",
+        "type": "Spell Card",
+        "desc": "Any monster sent to the Graveyard is banished instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81674782.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 95503687,
+        "name": "Lumina, Lightsworn Summoner",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 4 or lower \"Lightsworn\" monster in your GY; Special Summon that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95503687.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15800838,
+        "name": "Mind Crush",
+        "type": "Trap Card",
+        "desc": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15800838.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43711255,
+        "name": "Prohibition",
+        "type": "Spell Card",
+        "desc": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43711255.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 56931015,
+        "name": "Gravity Behemoth",
+        "type": "Effect Monster",
+        "desc": "If it is not the first turn of the Duel and there are no cards on the field, you can Normal Summon this card without Tributing. You can destroy all Field Spell Cards on the field. This card cannot attack the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56931015.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

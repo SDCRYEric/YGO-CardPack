@@ -1,0 +1,819 @@
+{
+  "setName": "Stardust Overdrive",
+  "pool": {
+    "Common": [
+      {
+        "id": 43262273,
+        "name": "Appointer of the Red Lotus",
+        "type": "Trap Card",
+        "desc": "Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until your opponent's next End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43262273.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68786330,
+        "name": "Attack Pheromones",
+        "type": "Spell Card",
+        "desc": "If a monster you control attacks a Defense Position monster, change that monster to face-up Attack Position at the end of the Damage Step if your attacking monster is Reptile-Type.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68786330.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94662235,
+        "name": "Bending Destiny",
+        "type": "Trap Card",
+        "desc": "Activate only if all face-up monsters you control are \"Fortune Lady\" monsters. Negate the activation of a Spell or Trap Card, or the Normal Summon of a monster, and remove that card from play. The card removed from play by this effect is returned to its owner's hand during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94662235.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81759748,
+        "name": "Dark Spider",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can increase the Level of 1 face-up Insect-Type monster you control by 2, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81759748.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29934351,
+        "name": "Earthbound Wave",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell/Trap Card while you control a \"Earthbound Immortal\" monster: Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29934351.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72631243,
+        "name": "Energy Bravery",
+        "type": "Effect Monster",
+        "desc": "Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72631243.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57274196,
+        "name": "Enlightenment",
+        "type": "Trap Card",
+        "desc": "You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57274196.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18096222,
+        "name": "Gemini Booster",
+        "type": "Trap Card",
+        "desc": "Equip this card to a Gemini monster you control as an Equip Card. It gains 700 ATK. When this card is destroyed while equipped and sent to the Graveyard, select 1 face-up Gemini monster and treat it as an Effect Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18096222.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81601517,
+        "name": "Gemini Counter",
+        "type": "Trap Card",
+        "desc": "Change 1 face-up Gemini monster you control to face-down Defense Position and negate the activation of an opponent's Spell Card, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81601517.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33846209,
+        "name": "Gemini Spark",
+        "type": "Spell Card",
+        "desc": "Tribute 1 face-up Level 4 Gemini monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33846209.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17243896,
+        "name": "Ground Spider",
+        "type": "Effect Monster",
+        "desc": "Once per turn, if you control this face-up Defense Position monster when your opponent Normal or Special Summons a monster(s), you can change that monster(s) to Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17243896.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57441100,
+        "name": "Herculean Power",
+        "type": "Spell Card",
+        "desc": "Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57441100.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18712704,
+        "name": "Infernity Force",
+        "type": "Trap Card",
+        "desc": "Activate only when an \"Infernity\" monster is selected as an attack target while you have no cards in your hand. Destroy the attacking monster and Special Summon 1 \"Infernity\" monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18712704.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56209279,
+        "name": "Infernity Necromancer",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned, it is changed to Defense Position. If you have no cards in your hand, this card gains the following effect: Once per turn, you can select 1 \"Infernity\" monster in your Graveyard, except \"Infernity Necromancer\", and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56209279.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22991179,
+        "name": "Insect Neglect",
+        "type": "Spell Card",
+        "desc": "When your opponent's monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22991179.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20457551,
+        "name": "Iron Core Armor",
+        "type": "Spell Card",
+        "desc": "Equip only to a \"Koa'ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20457551.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74576482,
+        "name": "Koa'ki Meiru Sea Panther",
+        "type": "Effect Monster",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 WATER monster in your hand. Once per turn, you can send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard to return 1 Spell Card from your Graveyard to the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74576482.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57421866,
+        "name": "Level Eater",
+        "type": "Effect Monster",
+        "desc": "If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57421866.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82324105,
+        "name": "Limit Impulse",
+        "type": "Trap Card",
+        "desc": "Send 2 cards from your hand to the GY; Special Summon 2 \"Soul Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0). They cannot be Tributed except for a Tribute Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82324105.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95784434,
+        "name": "Molting Escape",
+        "type": "Spell Card",
+        "desc": "Equip only to a Reptile-Type monster. Once per turn, if the equipped monster would be destroyed by battle, it is not destroyed. The equipped monster gains 300 ATK at the end of the Damage Step each time this effect is applied.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95784434.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20932152,
+        "name": "Quickdraw Synchron",
+        "type": "Tuner Monster",
+        "desc": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a \"Synchron\" Tuner as material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20932152.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20210570,
+        "name": "Regulus",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20210570.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54248491,
+        "name": "Relinquished Spider",
+        "type": "Effect Monster",
+        "desc": "If you have 4 or more Insect-Type monsters in your Graveyard, you can Tribute this card to destroy all face-up Defense Position monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54248491.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43426903,
+        "name": "Reptilianne Gorgon",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43426903.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89810518,
+        "name": "Reptilianne Medusa",
+        "type": "Effect Monster",
+        "desc": "Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89810518.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16909657,
+        "name": "Reptilianne Scylla",
+        "type": "Effect Monster",
+        "desc": "If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16909657.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21179143,
+        "name": "Reptilianne Spawn",
+        "type": "Spell Card",
+        "desc": "Remove from play 1 \"Reptilianne\" monster from your Graveyard. Special Summon 2 \"Reptilianne Tokens\" (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21179143.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42303365,
+        "name": "Reptilianne Viper",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42303365.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54094821,
+        "name": "Ritual Buster",
+        "type": "Trap Card",
+        "desc": "Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54094821.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60234913,
+        "name": "Ritual of Grace",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Divine Grace - Northwemko\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand. During your Main Phase, you can remove from play this card from your Graveyard to make 1 face-up Ritual Monster you control become un-targetable by effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60234913.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56339050,
+        "name": "Roar of the Earthbound Immortal",
+        "type": "Trap Card",
+        "desc": "Once per turn, if an opponent's monster declares an attack: Target the attacking monster; destroy that target, and if you do, inflict damage to your opponent equal to half the destroyed monster's ATK. You must control an \"Earthbound Immortal\" monster with ATK higher than the ATK of the attacking monster to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56339050.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32391631,
+        "name": "Savage Colosseum",
+        "type": "Spell Card",
+        "desc": "If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During each End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32391631.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94484482,
+        "name": "Slip Summon",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94484482.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28966434,
+        "name": "Solitaire Magician",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 face-up \"Fortune Lady\" monster you control and 1 other face-up monster on the field. Reduce the Level of the selected \"Fortune Lady\" monster by 3, and destroy the other selected monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28966434.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56051648,
+        "name": "Spider Egg",
+        "type": "Trap Card",
+        "desc": "When your opponent declares a direct attack, while you have 3 or more Insect monsters in your GY: Negate the attack, and if you do, Special Summon 3 \"Spider Tokens\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56051648.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69408987,
+        "name": "Spider Web",
+        "type": "Spell Card",
+        "desc": "If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69408987.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69112325,
+        "name": "Spiritual Forest",
+        "type": "Spell Card",
+        "desc": "Each turn, the first face-up Beast, Beast-Warrior, or Plant-Type monster you control that would be destroyed by battle, is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69112325.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80637190,
+        "name": "Spyder Spider",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's Defense Position monster by battle, you can select and Special Summon 1 Level 4 or lower Insect-Type monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80637190.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9126351,
+        "name": "Swap Frog",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by discarding 1 other WATER monster. When this card is Summoned: You can send 1 Level 2 or lower WATER Aqua monster from your Deck or face-up field to the GY. Once per turn: You can return 1 monster you control to the hand; you can Normal Summon 1 \"Frog\" monster during your Main Phase this turn, except \"Swap Frog\", in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9126351.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21879581,
+        "name": "Synchro Barrier",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Synchro Monster you control. You do not take any damage until the End Phase of the next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21879581.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94068856,
+        "name": "Time Passage",
+        "type": "Spell Card",
+        "desc": "Increase the Level of 1 face-up \"Fortune Lady\" monster you control by 3, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94068856.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47459126,
+        "name": "Tuned Magician",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card is treated as a Tuner monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47459126.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83546647,
+        "name": "Wolf in Sheep's Clothing",
+        "type": "Trap Card",
+        "desc": "Activate only when you take Battle Damage from your opponent's monster's direct attack. Reveal 1 Level 1 monster in your hand. Special Summon it from your hand, and 1 monster with the same name from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83546647.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9848939,
+        "name": "Woodland Archer",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having 2 or more Normal Monsters in your Graveyard. You can Tribute this card to add 1 Gemini monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9848939.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 59509952,
+        "name": "Archlord Kristya",
+        "type": "Effect Monster",
+        "desc": "If you have exactly 4 Fairy monsters in your GY, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy monster in your GY; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the GY, place it on top of the Deck, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59509952.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 97811903,
+        "name": "Clear Vice Dragon",
+        "type": "Effect Monster",
+        "desc": "You are unaffected by the effects of \"Clear World\". If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97811903.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 33900648,
+        "name": "Clear World",
+        "type": "Spell Card",
+        "desc": "During each of your End Phases, pay 500 Life Points or destroy this card. Each player receives effects, depending on the monster Attributes they control. ● LIGHT: Play with your hand revealed at all times. ● DARK: If you control 2 or more monsters, you cannot declare an attack. ● EARTH: During your Standby Phase: Target 1 face-up Defense Position monster you control; destroy that target. ● WATER: During your End Phase: Discard 1 card. ● FIRE: During your End Phase: Take 1000 damage. ● WIND: You must pay 500 Life Points to activate a Spell Card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33900648.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 11366199,
+        "name": "Dark Simorgh",
+        "type": "Effect Monster",
+        "desc": "While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11366199.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 34022290,
+        "name": "Guardian Eatos",
+        "type": "Effect Monster",
+        "desc": "If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34022290.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14462257,
+        "name": "Ice Queen",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the GY. When this face-up card you control is destroyed and sent to your GY: You can target 1 Spell in your GY; add that target to your hand. You must have 3 or more Spellcaster monsters in your GY to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14462257.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 65422840,
+        "name": "Shutendoji",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can activate 1 of these effects.\n● Banish 2 Zombie monsters from your GY; draw 1 card.\n● Target 1 of your banished Zombie monsters; place that target on the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65422840.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75162696,
+        "name": "Victoria",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75162696.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 96029574,
+        "name": "Black Brutdrago",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner Gemini monsters\nOnce per turn, you can send 1 Gemini monster from your hand to the Graveyard to select and destroy 1 Spell or Trap Card your opponent controls. When this card is destroyed and sent to the Graveyard, you can select 1 Gemini monster in your Graveyard and Special Summon it. The Special Summoned Gemini monster is treated as an Effect Monster, and gains its effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96029574.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96907086,
+        "name": "Earthbound Whirlwind",
+        "type": "Spell Card",
+        "desc": "If you control an \"Earthbound Immortal\" monster: Destroy all Spell and Trap Cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96907086.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68663748,
+        "name": "Fortune's Future",
+        "type": "Spell Card",
+        "desc": "Target 1 of your banished \"Fortune Lady\" monsters; return it to the GY, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68663748.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27970830,
+        "name": "Gateway of the Six",
+        "type": "Spell Card",
+        "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 2 Bushido Counters on this card. You can remove Bushido Counters from your field to activate these effects.\r\n● 2 Counters: Target 1 \"Six Samurai\" or \"Shien\" Effect Monster; that target gains 500 ATK until the end of this turn.\r\n● 4 Counters: Add 1 \"Six Samurai\" monster from your Deck or GY to your hand.\r\n● 6 Counters: Target 1 \"Shien\" Effect Monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27970830.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 46237548,
+        "name": "Knight of the Red Lotus",
+        "type": "Effect Monster",
+        "desc": "If you have exactly 3 Normal Monsters in your Graveyard, you can Special Summon this card from your hand by removing from play 2 Normal Monsters from your Graveyard. Once per turn, you can select and Special Summon 1 Level 4 or lower Normal Monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46237548.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39037517,
+        "name": "Koa'ki Meiru Beetle",
+        "type": "Effect Monster",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Insect-Type monster in your hand. If a LIGHT or DARK monster is Special Summoned in Attack Position: Change that monster to Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39037517.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 10060427,
+        "name": "Koa'ki Meiru Rooklord",
+        "type": "Effect Monster",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. You can Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster. When this card is Normal Summoned, you can remove from play 1 \"Koa'ki Meiru\" card in your Graveyard to destroy up to 2 cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10060427.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 21159309,
+        "name": "Majestic Dragon",
+        "type": "Tuner Monster",
+        "desc": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21159309.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94538053,
+        "name": "Max Warrior",
+        "type": "Effect Monster",
+        "desc": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94538053.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37792478,
+        "name": "Metabo-Shark",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37792478.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96729612,
+        "name": "Preparation of Rites",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96729612.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 60634565,
+        "name": "Reptilianne Hydra",
+        "type": "Synchro Monster",
+        "desc": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\r\nWhen this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60634565.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17874674,
+        "name": "Seal of Wickedness",
+        "type": "Trap Card",
+        "desc": "Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17874674.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 2420921,
+        "name": "Shire, Lightsworn Spirit",
+        "type": "Effect Monster",
+        "desc": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2420921.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 33236860,
+        "name": "Blackwing - Silverwind the Ascendant",
+        "type": "Synchro Monster",
+        "desc": "1 \"Blackwing\" Tuner + 2 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target up to 2 face-up monsters on the field with DEF lower than this card's ATK; destroy those targets. You cannot conduct your Battle Phase the turn you activate this effect. During each of your opponent's turns, the first \"Blackwing\" monster you control that would be destroyed by battle, is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33236860.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 73853830,
+        "name": "Crusader of Endymion",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● Once per turn: You can target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on it, and if you do, this card gains 600 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73853830.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 61757117,
+        "name": "Divine Grace - Northwemko",
+        "type": "Ritual Effect Monster",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Ritual of Grace\". When this card is Ritual Summoned, select a number of face-up cards on the field (except this card), up to the number of monsters you used for the Ritual Summon. While any of the selected cards are face-up on the field, this card cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61757117.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 79798060,
+        "name": "Earthbound Immortal Ccarayhua",
+        "type": "Effect Monster",
+        "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is destroyed by a card effect, except by its own effect: Destroy all cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79798060.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 15187079,
+        "name": "Earthbound Immortal Uru",
+        "type": "Effect Monster",
+        "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. Once per turn: You can Tribute 1 other monster, then target 1 face-up monster your opponent controls; take control of that target, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15187079.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 41181774,
+        "name": "Earthbound Immortal Wiraqocha Rasca",
+        "type": "Effect Monster",
+        "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41181774.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 33413279,
+        "name": "Explosive Magician",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner Spellcaster monsters\r\nYou can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33413279.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 65026212,
+        "name": "Koa'ki Meiru Maximus",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 \"Iron Core of Koa'ki Meiru\" from your hand. During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" or 1 \"Koa'ki Meiru\" monster from your hand to the Graveyard. Once per turn, during your Main Phase, you can select and destroy 1 card your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65026212.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 65303664,
+        "name": "Yellow Baboon, Archer of the Forest",
+        "type": "Effect Monster",
+        "desc": "When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65303664.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 54360049,
+        "name": "Catoblepas and the Witch of Fate",
+        "type": "Effect Monster",
+        "desc": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54360049.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 99261403,
+        "name": "Dark Rabbit",
+        "type": "Normal Monster",
+        "desc": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99261403.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 34358408,
+        "name": "Djinn Presider of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If the monster Ritual Summoned using this card destroys a monster by battle, the controller of the Ritual Monster draws 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34358408.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 8903700,
+        "name": "Djinn Releaser of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, the other player cannot Special Summon while that Ritual Summoned monster is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8903700.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 64187086,
+        "name": "Earthbound Immortal Revival",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 \"Earthbound Immortal\" monster and 1 Field Spell in your GY; add those targets to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64187086.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 55586621,
+        "name": "Fortune Lady Dark",
+        "type": "Effect Monster",
+        "desc": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When a face-up \"Fortune Lady\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard, you can select and Special Summon 1 \"Fortune Lady\" monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55586621.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 82971335,
+        "name": "Fortune Lady Earth",
+        "type": "Effect Monster",
+        "desc": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82971335.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 29088922,
+        "name": "Fortune Lady Water",
+        "type": "Effect Monster",
+        "desc": "This card's ATK/DEF become its Level x 300. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). If this card is Special Summoned while you control a \"Fortune Lady\" monster except \"Fortune Lady Water\": Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29088922.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 82693917,
+        "name": "Fortune Lady Wind",
+        "type": "Effect Monster",
+        "desc": "This card's ATK and DEF are equal to its Level x 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82693917.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 91798373,
+        "name": "Gemini Scorpion",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91798373.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 20057949,
+        "name": "Inherited Fortune",
+        "type": "Trap Card",
+        "desc": "Activate during the turn a face-up \"Fortune Lady\" monster you control was destroyed. Special Summon up to 2 \"Fortune Lady\" monsters from your hand during your next Standby Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20057949.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 35514096,
+        "name": "Lord British Space Fighter",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects:\n● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 \"Multi Token\" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35514096.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17021204,
+        "name": "Mother Spider",
+        "type": "Effect Monster",
+        "desc": "If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17021204.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 55117418,
+        "name": "Nega-Ton Corepanel",
+        "type": "Trap Card",
+        "desc": "Activate only if you control a face-up \"Koa'ki Meiru\" monster and have \"Iron Core of Koa'ki Meiru\" in your Graveyard. Negate the activation of an Effect Monster's effect, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55117418.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 95507060,
+        "name": "Raging Mad Plants",
+        "type": "Spell Card",
+        "desc": "All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95507060.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 90576781,
+        "name": "Reptilianne Poison",
+        "type": "Spell Card",
+        "desc": "Activate only if you control a face-up \"Reptilianne\" monster. Change 1 Defense Position monster your opponent controls to face-up Attack Position and reduce its ATK to 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90576781.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 38815069,
+        "name": "Rinyan, Lightsworn Rogue",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38815069.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 82878489,
+        "name": "Shine Palace",
+        "type": "Spell Card",
+        "desc": "Equip only to a LIGHT monster. It gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82878489.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 68543408,
+        "name": "Stardust Xiaolong",
+        "type": "Effect Monster",
+        "desc": "When you Synchro Summon \"Stardust Dragon\", you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68543408.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 93816465,
+        "name": "Zero Gardna",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card to activate its effect. If you do, monsters you control cannot be destroyed by battle, and you take no Battle Damage, during this turn. This effect can be activated during either player's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93816465.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 68396778,
+        "name": "Faustian Bargain",
+        "type": "Spell Card",
+        "desc": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68396778.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 22123627,
+        "name": "Moray of Greed",
+        "type": "Spell Card",
+        "desc": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22123627.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 71519605,
+        "name": "Oshaleon",
+        "type": "Effect Monster",
+        "desc": "While you control this face-up Attack Position card, your opponent cannot select a monster other than \"Oshaleon\" as an attack target. When this card is destroyed by battle and sent to the Graveyard, you can add 1 Reptile-Type monster with 500 or less ATK from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71519605.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 81489939,
+        "name": "Stygian Dirge",
+        "type": "Trap Card",
+        "desc": "Reduce the Levels of all monsters your opponent controls by 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81489939.jpg",
+        "rarity": "Short Print"
+      }
+    ],
+    "Ghost Rare": [
+      {
+        "id": 7841112,
+        "name": "Majestic Star Dragon",
+        "type": "Synchro Monster",
+        "desc": "\"Majestic Dragon\" + \"Stardust Dragon\" + 1 non-Tuner monster\nDuring either player's turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card's effect once this turn. During the End Phase: Target 1 \"Stardust Dragon\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7841112.jpg",
+        "rarity": "Ghost Rare"
+      }
+    ]
+  }
+}

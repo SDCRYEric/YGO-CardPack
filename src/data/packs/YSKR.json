@@ -1,0 +1,391 @@
+{
+  "setName": "Starter Deck: Kaiba Reloaded",
+  "pool": {
+    "Common": [
+      {
+        "id": 43096270,
+        "name": "Alexandrite Dragon",
+        "type": "Normal Monster",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43096270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85639257,
+        "name": "Aqua Madoor",
+        "type": "Normal Monster",
+        "desc": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85639257.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5053103,
+        "name": "Battle Ox",
+        "type": "Normal Monster",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5053103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35539880,
+        "name": "Birthright",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39507162,
+        "name": "Blade Knight",
+        "type": "Effect Monster",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39507162.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17655904,
+        "name": "Burst Stream of Destruction",
+        "type": "Spell Card",
+        "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17655904.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1434352,
+        "name": "Chaos Necromancer",
+        "type": "Effect Monster",
+        "desc": "The ATK of this card is the number of Monster Cards in your Graveyard x 300.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1434352.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96428622,
+        "name": "Cybernetic Cyclopean",
+        "type": "Effect Monster",
+        "desc": "While you have no cards in your hand, this card gains 1000 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96428622.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87106146,
+        "name": "Damage Gate",
+        "type": "Trap Card",
+        "desc": "When you take battle damage: Target 1 monster in your Graveyard with ATK less than or equal to the amount of damage you took; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87106146.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81985784,
+        "name": "Des Feral Imp",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81985784.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33695750,
+        "name": "Des Mosquito",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33695750.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20277376,
+        "name": "Divine Dragon Apocralyph",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Dragon-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20277376.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72549351,
+        "name": "Dragonic Tactics",
+        "type": "Spell Card",
+        "desc": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72549351.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75830094,
+        "name": "Horus the Black Flame Dragon LV4",
+        "type": "Effect Monster",
+        "desc": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75830094.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11224103,
+        "name": "Horus the Black Flame Dragon LV6",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11224103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25206027,
+        "name": "Interplanetarypurplythorny Dragon",
+        "type": "Effect Monster",
+        "desc": "If a monster you control is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25206027.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17444133,
+        "name": "Kaiser Sea Horse",
+        "type": "Effect Monster",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97590747,
+        "name": "La Jinn the Mystical Genie of the Lamp",
+        "type": "Normal Monster",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97590747.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11091375,
+        "name": "Luster Dragon",
+        "type": "Normal Monster",
+        "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79182538,
+        "name": "Mad Dog of Darkness",
+        "type": "Normal Monster",
+        "desc": "He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79182538.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19230408,
+        "name": "Offerings to the Doomed",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19230408.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14531242,
+        "name": "Opticlops",
+        "type": "Normal Monster",
+        "desc": "A one-eyed giant that serves the \"Dark Ruler Ha Des\", it skewers its enemies with its sharp horn, shattering them to pieces.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14531242.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51119924,
+        "name": "Puppet Plant",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the Graveyard, then target 1 Warrior or Spellcaster-Type monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51119924.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70046172,
+        "name": "Rush Recklessly",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56120475,
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56120475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29267084,
+        "name": "Shadow Spell",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29267084.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33904024,
+        "name": "Shard of Greed",
+        "type": "Spell Card",
+        "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33904024.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30683373,
+        "name": "Shield Crush",
+        "type": "Spell Card",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30683373.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55713623,
+        "name": "Shrink",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55713623.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42534368,
+        "name": "Silent Doom",
+        "type": "Spell Card",
+        "desc": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42534368.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68005187,
+        "name": "Soul Exchange",
+        "type": "Spell Card",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81385346,
+        "name": "Stamping Destruction",
+        "type": "Spell Card",
+        "desc": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81385346.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93346024,
+        "name": "The Dragon Dwelling in the Cave",
+        "type": "Normal Monster",
+        "desc": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93346024.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36361633,
+        "name": "Threatening Roar",
+        "type": "Trap Card",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36361633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10097168,
+        "name": "Tiger Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10097168.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4206964,
+        "name": "Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79759861,
+        "name": "Tribute to the Doomed",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43586926,
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77135531,
+        "name": "Vanguard of the Dragon",
+        "type": "Effect Monster",
+        "desc": "You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77135531.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14898067,
+        "name": "Vorse Raider",
+        "type": "Normal Monster",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14898067.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87151205,
+        "name": "Wattaildragon",
+        "type": "Normal Monster",
+        "desc": "Capable of indefinite flight. Attacks by wrapping its body with electricity and ramming into opponents.\nIMPORTANT: Capturing the \"Wattaildragon\" is forbidden by the Ancient Rules and is a Level 6 offense, the minimum sentence for which is imprisonment for no less than 2500 heliocycles.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87151205.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77754944,
+        "name": "Widespread Ruin",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77754944.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62651957,
+        "name": "X-Head Cannon",
+        "type": "Normal Monster",
+        "desc": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62651957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51534754,
+        "name": "Yomi Ship",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51534754.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

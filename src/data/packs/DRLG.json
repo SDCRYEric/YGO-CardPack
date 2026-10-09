@@ -1,0 +1,417 @@
+{
+  "setName": "Dragons of Legend",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 75380687,
+        "name": "Amulet Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Dark Magician\" + 1 Dragon monster\r\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". If this card is Special Summoned: Target any number of Spells in any GY(s) (min.1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75380687.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 15381252,
+        "name": "Berserker Soul",
+        "type": "Spell Card",
+        "desc": "When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min. 1); excavate the top card of your Deck, and if it is a Monster Card, send it to the Graveyard, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 \"Berserker Soul\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15381252.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 72930878,
+        "name": "Black Sonic",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack on a \"Blackwing\" monster you control: Banish all face-up Attack Position monsters your opponent controls. If you control exactly 3 \"Blackwing\" monsters (and no other monsters), you can activate this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72930878.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 43892409,
+        "name": "Dark Magician Girl the Dragon Knight",
+        "type": "Fusion Monster",
+        "desc": "\"Dark Magician Girl\" + 1 Dragon monster\r\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43892409.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 79997591,
+        "name": "Doble Passe",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack on a face-up Attack Position monster you control: Make your opponent's attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79997591.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 7080743,
+        "name": "Express Train Trolley Olley",
+        "type": "Effect Monster",
+        "desc": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: It gains 800 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7080743.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 68535320,
+        "name": "Fire Hand",
+        "type": "Effect Monster",
+        "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68535320.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 8102334,
+        "name": "Gate Blocker",
+        "type": "Effect Monster",
+        "desc": "Negate the effects of your opponent's Field Spells. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control with card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8102334.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 17052477,
+        "name": "Guarded Treasure",
+        "type": "Spell Card",
+        "desc": "Activate this card by discarding 5 cards; draw 2 cards. While this card is on the field, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17052477.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 18175965,
+        "name": "Guardian Dreadscythe",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a \"Guardian Eatos\" is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon this card from your hand. When this card is Special Summoned: You can equip 1 \"Reaper Scythe - Dreadscythe\" from your Deck to this card. You cannot Normal or Special Summon monsters (but you can Normal Set). If this card is sent from the field to the Graveyard: Send 1 card from your hand to the Graveyard, and if you do, Special Summon this card from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18175965.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 95929069,
+        "name": "Ice Hand",
+        "type": "Effect Monster",
+        "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 \"Fire Hand\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95929069.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 16404809,
+        "name": "Kuribandit",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 89397517,
+        "name": "Legend of Heart",
+        "type": "Spell Card",
+        "desc": "Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 \"Legendary Dragon\" Spells with different names from your hand and/or GY, and if you do, Special Summon that many \"Legendary Knight\" monsters with different names from your hand, Deck, and/or GY. You can only activate 1 \"Legend of Heart\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89397517.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80019195,
+        "name": "Legendary Knight Timaeus",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell in your GY; Set that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80019195.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 41386308,
+        "name": "Mathematician",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41386308.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 269012,
+        "name": "Mound of the Bound Creator",
+        "type": "Spell Card",
+        "desc": "Level 10 or higher monsters on the field cannot be targeted or destroyed by card effects. If a Level 10 or higher monster on the field destroys a monster by battle and sends it to the Graveyard: The player who controlled the destroyed monster takes 1000 damage. When this card on the field is destroyed by a card effect and sent to the Graveyard: You can add 1 DIVINE monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/269012.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 74875003,
+        "name": "Ra's Disciple",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can Special Summon up to 2 \"Ra's Disciple\" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", or \"The Winged Dragon of Ra\". You cannot Special Summon monsters, except by the effect of \"Ra's Disciple\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74875003.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 96142517,
+        "name": "Rank-Up-Magic Admiration of the Thousands",
+        "type": "Spell Card",
+        "desc": "Target 1 or more Xyz Monsters in each Graveyard, all of the same Rank; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher than those monsters, and attach those monsters to it as Xyz Materials. You cannot Special Summon other monsters during the turn you activate this card. You can only activate 1 \"Rank-Up-Magic Admiration of the Thousands\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96142517.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 33252803,
+        "name": "Rank-Up-Magic Quick Chaos",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Number\" Xyz Monster you control, except a \"Number C\" monster; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same number in its name as that target, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33252803.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 47264717,
+        "name": "Shooting Star",
+        "type": "Trap Card",
+        "desc": "If a \"Stardust\" monster is on the field: Target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47264717.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 1784686,
+        "name": "The Eye of Timaeus",
+        "type": "Spell Card",
+        "desc": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1784686.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 72714226,
+        "name": "Assault Dog",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Assault Dog\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72714226.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42502956,
+        "name": "Ayers Rock Sunrise",
+        "type": "Spell Card",
+        "desc": "Target 1 Beast-Type monster in your Graveyard; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast-Type monster currently in your Graveyard, until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42502956.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43225434,
+        "name": "Battle Fusion",
+        "type": "Spell Card",
+        "desc": "When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 \"Battle Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43225434.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 9925982,
+        "name": "Black Wing Revenge",
+        "type": "Trap Card",
+        "desc": "When a Winged Beast-Type monster you control is destroyed by battle and sent to the Graveyard: Special Summon 2 \"Blackwing - Black Crest Tokens\" (Winged Beast-Type/DARK/Level 2/ATK 0/DEF 800).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9925982.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36442179,
+        "name": "Blackwing - Hurricane the Tornado",
+        "type": "Tuner Monster",
+        "desc": "Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36442179.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 73652465,
+        "name": "Blackwing - Oroshi the Squall",
+        "type": "Tuner Monster",
+        "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Oroshi the Squall\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Oroshi the Squall\" once per turn this way. If this card is sent to the GY as a Synchro Material: You can target 1 monster on the field; change that target's battle position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73652465.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 9047460,
+        "name": "Blackwing - Steam the Cloak",
+        "type": "Tuner Monster",
+        "desc": "If this face-up card leaves the field: Special Summon 1 \"Steam Token\" (Aqua-Type/WIND/Level 1/ATK 100/DEF 100). If this card is in your Graveyard: You can Tribute 1 monster; Special Summon this card from the Graveyard. You can only use this effect of \"Blackwing - Steam the Cloak\" once per Duel. If this card Summoned this way is used as a Synchro Material Monster, all other Synchro Material Monsters must be \"Blackwing\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9047460.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15981690,
+        "name": "Carboneddon",
+        "type": "Effect Monster",
+        "desc": "If this card battles a FIRE monster, during damage calculation: This card gains 1000 ATK during damage calculation only. You can banish this card from your Graveyard; Special Summon, from your hand or Deck, 1 Level 7 or lower Dragon-Type Normal Monster in face-up Defense Position. You can only use this effect of \"Carboneddon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15981690.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55569674,
+        "name": "Celestial Sword - Eatos",
+        "type": "Spell Card",
+        "desc": "(This card is always treated as a \"Noble Arms\" card.)\nThe equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: You can target 1 \"Guardian Eatos\" you control; it gains 500 ATK for each banished monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55569674.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 34475451,
+        "name": "Construction Train Signal Red",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34475451.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89719143,
+        "name": "Final Fusion",
+        "type": "Trap Card",
+        "desc": "During either player's Battle Step, when a Fusion Monster you control battles an opponent's Fusion Monster: Target both those Fusion Monsters; negate the attack, and if you do, each player takes damage equal to the combined ATK of both those Fusion Monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89719143.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17236839,
+        "name": "Flash Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. Destroy it during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17236839.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 34022290,
+        "name": "Guardian Eatos",
+        "type": "Effect Monster",
+        "desc": "If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34022290.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68812773,
+        "name": "Lillybot",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned or flipped face-up: You can target 1 \"Orbital 7\" in your Graveyard; Special Summon that target in face-up Attack Position or face-down Defense Position. Once per turn: You can Tribute any number of Machine-Type monsters; Special Summon an equal number of \"Photon\" and/or \"Galaxy\" monsters from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68812773.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 61692648,
+        "name": "Lionhearted Locomotive",
+        "type": "Effect Monster",
+        "desc": "When this card declares an attack: Its ATK becomes half its original ATK until the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61692648.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22530212,
+        "name": "Magic Hand",
+        "type": "Effect Monster",
+        "desc": "When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the Graveyard, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22530212.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36076683,
+        "name": "Number 73: Abyss Splash",
+        "type": "XYZ Monster",
+        "desc": "2 Level 5 WATER monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; double this card's ATK until the end of your opponent's turn, also, any battle damage it inflicts to your opponent this turn is halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36076683.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55888045,
+        "name": "Number C106: Giant Red Hand",
+        "type": "XYZ Monster",
+        "desc": "3 Level 5 monsters\nIf this card has a \"Number\" monster as an Xyz Material, it gains this effect.\n● Once per turn, during either player's turn, when a card or effect is activated on the field: Detach 1 Xyz Material from this card, and if you do, negate the effects of all other face-up cards currently on the field until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55888045.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 69757518,
+        "name": "Number C5: Chaos Chimera Dragon",
+        "type": "XYZ Monster",
+        "desc": "3 or more Level 6 monsters\nThis card gains 1000 ATK for each Xyz Material attached to it. If this card attacks, at the end of the Damage Step: You can detach 1 Xyz Material from this card; this card can attack an opponent's monster again in a row. At the end of the Battle Phase: You can pay half your Life Points, then target 2 cards in any Graveyard(s); place 1 of them on the top of the Deck, and if you do, attach the other to this card as an Xyz Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69757518.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96864105,
+        "name": "Number C73: Abyss Supra Splash",
+        "type": "XYZ Monster",
+        "desc": "3 Level 6 monsters\nIf a monster you control battles an opponent's monster, during damage calculation (in either player's turn): You can detach 1 Xyz Material from this card once per battle; your battling monster gains ATK equal to the ATK of the opponent's monster it is battling, during that damage calculation only. If this card has \"Number 73: Abyss Splash\" as Xyz Material, it gains this effect.\n● This card cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96864105.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16114248,
+        "name": "Pair Cycroid",
+        "type": "Fusion Monster",
+        "desc": "2 Machine-Type monsters with the same name\nThis card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16114248.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 21414674,
+        "name": "Prominence Hand",
+        "type": "Effect Monster",
+        "desc": "If you control a \"Magic Hand\", \"Fire Hand\", or \"Ice Hand\", you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21414674.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81954378,
+        "name": "Reaper Scythe - Dreadscythe",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Guardian Dreadscythe\". It gains 500 ATK for each monster in the Graveyards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81954378.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42776960,
+        "name": "Relay Soul",
+        "type": "Trap Card",
+        "desc": "Special Summon 1 monster from your hand. While it is face-up on your side of the field, you take no damage. When it leaves the field, your opponent wins the Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42776960.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94807487,
+        "name": "Rising Sun Slash",
+        "type": "Spell Card",
+        "desc": "Equip only to a \"Utopia\" monster. It cannot be destroyed by card effects. Each time an attack is negated, place 1 Rising Sun Counter on this card. The equipped monster gains 500 ATK for each Rising Sun Counter on this card. If the equipped monster you control would detach its Xyz Material to activate its effect, you can treat this card as 1 of the Xyz Materials.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94807487.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80831721,
+        "name": "Sabatiel - The Philosopher's Stone",
+        "type": "Spell Card",
+        "desc": "If you have a \"Winged Kuriboh\" monster in your GY: Pay half your LP; add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand. If this card is in your GY: You can banish 3 copies of \"Sabatiel - The Philosopher's Stone\" from your GY, then target 1 monster on the field; it gains ATK equal to the ATK of the monster on the field with the highest ATK (your choice, if tied), until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80831721.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 35329581,
+        "name": "Shadow Impulse",
+        "type": "Trap Card",
+        "desc": "When a Synchro Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: Target 1 of those Synchro Monsters; Special Summon from your Extra Deck, 1 Synchro Monster with the same Level and Type as that monster, but with a different name. You can only activate 1 \"Shadow Impulse\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35329581.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54447022,
+        "name": "Soul Charge",
+        "type": "Spell Card",
+        "desc": "Target any number of monsters in your GY; Special Summon them, and if you do, you lose 1000 LP for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 \"Soul Charge\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54447022.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 60879050,
+        "name": "Train Connection",
+        "type": "Spell Card",
+        "desc": "Must be equipped to an EARTH Machine-Type monster, by banishing 2 Level 10 or higher Machine-Type monsters from your Graveyard, and cannot be equipped by other ways. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60879050.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 34507039,
+        "name": "Wiretap",
+        "type": "Trap Card",
+        "desc": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34507039.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

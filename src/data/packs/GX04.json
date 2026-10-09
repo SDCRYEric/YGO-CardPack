@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 4923662,
+        "name": "Chaos Burst",
+        "type": "Trap Card",
+        "desc": "When your opponent's monster declares an attack: Tribute 1 monster, then target the attacking monster; destroy that target, then inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4923662.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77538567,
+        "name": "Dark Bribe",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77538567.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 31034919,
+        "name": "Mad Reloader",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31034919.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

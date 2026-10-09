@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! World Championship 2007 promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 56570271,
+        "name": "Destiny HERO - Disk Commander",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the GY the turn this card was sent to the GY. If this card is Special Summoned from the GY: You can draw 2 cards. You can only use this effect of \"Destiny HERO - Disk Commander\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56570271.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20586572,
+        "name": "Exploder Dragon",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20586572.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93187568,
+        "name": "Spell Striker",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93187568.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

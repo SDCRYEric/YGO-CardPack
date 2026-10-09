@@ -1,0 +1,297 @@
+{
+  "setName": "Structure Deck: Warrior's Triumph",
+  "pool": {
+    "Common": [
+      {
+        "id": 84430950,
+        "name": "Armed Samurai - Ben Kei",
+        "type": "Effect Monster",
+        "desc": "For each Equip Card equipped to this card, it gains 1 additional attack during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84430950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98239899,
+        "name": "Blast with Chain",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK. If this card is destroyed by a card effect while equipped: Target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98239899.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97077563,
+        "name": "Call of the Haunted",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10375182,
+        "name": "Command Knight",
+        "type": "Effect Monster",
+        "desc": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10375182.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7572887,
+        "name": "D.D. Warrior Lady",
+        "type": "Effect Monster",
+        "desc": "After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7572887.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11321183,
+        "name": "Dark Blade",
+        "type": "Normal Monster",
+        "desc": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11321183.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31423101,
+        "name": "Divine Sword - Phoenix Blade",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior monster. It gains 300 ATK. During your Main Phase, if this card is in your GY: You can banish 2 Warrior monsters from your GY; add this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31423101.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74131780,
+        "name": "Exiled Force",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card to target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74131780.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20188127,
+        "name": "Fairy of the Spring",
+        "type": "Spell Card",
+        "desc": "Target 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20188127.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37684215,
+        "name": "Fusion Sword Murasame Blade",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior-Type monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37684215.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 423705,
+        "name": "Gearfried the Iron Knight",
+        "type": "Effect Monster",
+        "desc": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/423705.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57046845,
+        "name": "Gearfried the Swordmaster",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42703248,
+        "name": "Giant Trunade",
+        "type": "Spell Card",
+        "desc": "Return all Spell and Trap Cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78658564,
+        "name": "Goblin Attack Force",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78658564.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19613556,
+        "name": "Heavy Storm",
+        "type": "Spell Card",
+        "desc": "Destroy all Spell and Trap Cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19613556.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55226821,
+        "name": "Lightning Blade",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55226821.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77414722,
+        "name": "Magic Jammer",
+        "type": "Trap Card",
+        "desc": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77414722.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2460565,
+        "name": "Marauding Captain",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2460565.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22609617,
+        "name": "Mataza the Zapper",
+        "type": "Effect Monster",
+        "desc": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22609617.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47507260,
+        "name": "Mystic Swordsman LV2",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV4\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47507260.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74591968,
+        "name": "Mystic Swordsman LV4",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74591968.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4041838,
+        "name": "Ninja Grandmaster Sasuke",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4041838.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52077741,
+        "name": "Obnoxious Celtic Guard",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52077741.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32807846,
+        "name": "Reinforcement of the Army",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32807846.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75417459,
+        "name": "Release Restraint",
+        "type": "Spell Card",
+        "desc": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75417459.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22589918,
+        "name": "Reload",
+        "type": "Spell Card",
+        "desc": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22589918.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51452091,
+        "name": "Royal Decree",
+        "type": "Trap Card",
+        "desc": "Negate all other Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45986603,
+        "name": "Snatch Steal",
+        "type": "Spell Card",
+        "desc": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45986603.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16589042,
+        "name": "Swift Gaia the Fierce Knight",
+        "type": "Effect Monster",
+        "desc": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16589042.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12923641,
+        "name": "Swords of Concealing Light",
+        "type": "Spell Card",
+        "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12923641.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95281259,
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95281259.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5438492,
+        "name": "Warrior Lady of the Wasteland",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5438492.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68427465,
+        "name": "Wicked-Breaking Flamberge - Baou",
+        "type": "Spell Card",
+        "desc": "Send 1 card from your hand to the GY, then target 1 monster on the field; equip this card to that target. It gains 500 ATK. Negate the effects of opponent's monsters destroyed by battle with the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68427465.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 69933858,
+        "name": "Gilford the Legend",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69933858.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

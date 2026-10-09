@@ -1,0 +1,253 @@
+{
+  "setName": "Duelist Pack: Chazz Princeton",
+  "pool": {
+    "Common": [
+      {
+        "id": 90374791,
+        "name": "Armed Changer",
+        "type": "Spell Card",
+        "desc": "Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90374791.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 980973,
+        "name": "Armed Dragon LV3",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46384672,
+        "name": "Armed Dragon LV5",
+        "type": "Effect Monster",
+        "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46910446,
+        "name": "Chthonian Alliance",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46910446.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18271561,
+        "name": "Chthonian Blast",
+        "type": "Trap Card",
+        "desc": "When a face-up monster you control is destroyed and sent to the Graveyard: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, inflict damage to both players equal to half of that monster's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18271561.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72287557,
+        "name": "Chthonian Polymer",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent Fusion Summons a Fusion Monster. Tribute 1 monster to take control of that Fusion Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72287557.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79335209,
+        "name": "Ojama Black",
+        "type": "Normal Monster",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79335209.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8251996,
+        "name": "Ojama Delta Hurricane!!",
+        "type": "Spell Card",
+        "desc": "You can only activate this card while \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" are face-up on your side of the field. Destroy all cards on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8251996.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12482652,
+        "name": "Ojama Green",
+        "type": "Normal Monster",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12482652.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90140980,
+        "name": "Ojama King",
+        "type": "Fusion Monster",
+        "desc": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90140980.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29843091,
+        "name": "Ojama Trio",
+        "type": "Trap Card",
+        "desc": "Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29843091.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42941100,
+        "name": "Ojama Yellow",
+        "type": "Normal Monster",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42941100.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51638941,
+        "name": "V-Tiger Jet",
+        "type": "Normal Monster",
+        "desc": "This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51638941.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96300057,
+        "name": "W-Wing Catapult",
+        "type": "Union Effect Monster",
+        "desc": "Once per turn, you can either: Target 1 \"V-Tiger Jet\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96300057.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62651957,
+        "name": "X-Head Cannon",
+        "type": "Normal Monster",
+        "desc": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62651957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65622692,
+        "name": "Y-Dragon Head",
+        "type": "Union Effect Monster",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65622692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64500000,
+        "name": "Z-Metal Tank",
+        "type": "Union Effect Monster",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64500000.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 59464593,
+        "name": "Armed Dragon LV10",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the GY; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 58641905,
+        "name": "Ring of Defense",
+        "type": "Spell Card",
+        "desc": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58641905.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 73879377,
+        "name": "Armed Dragon LV7",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 12247206,
+        "name": "Inferno Reckless Summon",
+        "type": "Spell Card",
+        "desc": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12247206.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 85852291,
+        "name": "Magical Mallet",
+        "type": "Spell Card",
+        "desc": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85852291.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 84136000,
+        "name": "The Grave of Enkindling",
+        "type": "Trap Card",
+        "desc": "You can only activate this card when a monster on your side of the field is destroyed as a result of battle and sent to the Graveyard. You and your opponent each select 1 monster from your respective Graveyards and Special Summon them in Defense Position. Neither monster Special Summoned by this card's effect can change its battle position while it is face-up on the field, except with a card effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84136000.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 23309606,
+        "name": "Infernal Incinerator",
+        "type": "Effect Monster",
+        "desc": "This card can only be Normal Summoned or Set by discarding all other card(s) in your hand and Tributing 1 card you control with 2000 or more ATK. This card gains 200 ATK for each monster your opponent controls. This card loses 500 ATK for each other monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23309606.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 61850482,
+        "name": "Level Modulation",
+        "type": "Spell Card",
+        "desc": "Your opponent draws 2 cards. Special Summon 1 \"LV\" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61850482.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 24643836,
+        "name": "Ojamagic",
+        "type": "Spell Card",
+        "desc": "If this card is sent from the hand or field to the GY: Add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24643836.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 98259197,
+        "name": "Ojamuscle",
+        "type": "Spell Card",
+        "desc": "(This card is always treated as a \"Ojama\" card.)\r\nSelect 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98259197.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 58859575,
+        "name": "VW-Tiger Catapult",
+        "type": "Fusion Monster",
+        "desc": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58859575.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 84243274,
+        "name": "VWXYZ-Dragon Catapult Cannon",
+        "type": "Fusion Monster",
+        "desc": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip Effects are not activated.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84243274.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 91998119,
+        "name": "XYZ-Dragon Cannon",
+        "type": "Fusion Monster",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91998119.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

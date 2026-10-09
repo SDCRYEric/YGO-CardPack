@@ -1,0 +1,167 @@
+{
+  "setName": "Demo Deck 2015",
+  "pool": {
+    "Common": [
+      {
+        "id": 5053103,
+        "name": "Battle Ox",
+        "type": "Normal Monster",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5053103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22346472,
+        "name": "Blustering Winds",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22346472.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20721928,
+        "name": "Elemental HERO Sparkman",
+        "type": "Normal Monster",
+        "desc": "''An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20721928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13039848,
+        "name": "Giant Soldier of Stone",
+        "type": "Normal Monster",
+        "desc": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13039848.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38445524,
+        "name": "Gil Garth",
+        "type": "Normal Monster",
+        "desc": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38445524.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18325492,
+        "name": "Gyroid",
+        "type": "Effect Monster",
+        "desc": "Once per turn, this card cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18325492.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25005816,
+        "name": "Inspiration",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25005816.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97590748,
+        "name": "La Jinn the Mystical Genie of the Lamp",
+        "type": "Normal Monster",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97590748.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13723605,
+        "name": "Man-Eating Treasure Chest",
+        "type": "Normal Monster",
+        "desc": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13723605.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4335645,
+        "name": "Newdoria",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4335645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2311603,
+        "name": "Overdrive",
+        "type": "Normal Monster",
+        "desc": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2311603.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44203504,
+        "name": "Robotic Knight",
+        "type": "Normal Monster",
+        "desc": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44203504.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56120475,
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56120475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30683373,
+        "name": "Shield Crush",
+        "type": "Spell Card",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30683373.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84696266,
+        "name": "Sonic Duck",
+        "type": "Normal Monster",
+        "desc": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84696266.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81510157,
+        "name": "Soul Taker",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81510157.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36119641,
+        "name": "Space Mambo",
+        "type": "Normal Monster",
+        "desc": "A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36119641.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70781052,
+        "name": "Summoned Skull",
+        "type": "Normal Monster",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70781052.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36361633,
+        "name": "Threatening Roar",
+        "type": "Trap Card",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36361633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75953262,
+        "name": "Warrior Dai Grepher",
+        "type": "Normal Monster",
+        "desc": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75953262.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

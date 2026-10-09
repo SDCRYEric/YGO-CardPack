@@ -1,0 +1,379 @@
+{
+  "setName": "Structure Deck: Beware of Traptrix",
+  "pool": {
+    "Common": [
+      {
+        "id": 85103922,
+        "name": "Artifact Moralltach",
+        "type": "Effect Monster",
+        "desc": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent's turn: You can destroy 1 face-up card your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85103922.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12444060,
+        "name": "Artifact Sanctum",
+        "type": "Trap Card",
+        "desc": "Special Summon 1 \"Artifact\" monster from your Deck. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12444060.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14558127,
+        "name": "Ash Blossom & Joyous Spring",
+        "type": "Tuner Monster",
+        "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\r\n● Add a card from the Deck to the hand.\r\n● Special Summon from the Deck.\r\n● Send a card from the Deck to the GY.\r\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14558127.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68535320,
+        "name": "Fire Hand",
+        "type": "Effect Monster",
+        "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68535320.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69599136,
+        "name": "Floodgate Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69599136.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36956512,
+        "name": "Gadarla, the Mystery Dust Kaiju",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn, during either player's turn: You can remove 3 Kaiju Counters from anywhere on the field; the ATK and DEF of all other monsters on the field become halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36956512.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31548215,
+        "name": "Gravedigger's Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31548215.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18144507,
+        "name": "Harpie's Feather Duster",
+        "type": "Spell Card",
+        "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18144507.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95929069,
+        "name": "Ice Hand",
+        "type": "Effect Monster",
+        "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 \"Fire Hand\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95929069.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29726552,
+        "name": "Kumongous, the Sticky String Kaiju",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent Normal or Special Summons a monster(s): You can remove 2 Kaiju Counters from anywhere on the field; until the end of the next turn, that monster(s) cannot attack and it has its effects negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29726552.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48686504,
+        "name": "Lonefire Blossom",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can Tribute 1 face-up Plant monster; Special Summon 1 Plant monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48686504.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20537097,
+        "name": "Mekk-Knight Blue Sky",
+        "type": "Effect Monster",
+        "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Mekk-Knight\" monsters with different names, except \"Mekk-Knight Blue Sky\", from your Deck to your hand, equal to the number of your opponent's cards in this card's column. You can only use this effect of \"Mekk-Knight Blue Sky\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20537097.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28692962,
+        "name": "Mekk-Knight Purple Nightfall",
+        "type": "Effect Monster",
+        "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Purple Nightfall\" once per turn this way. (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; banish it (until the Standby Phase of your next turn), and if you do, add 1 \"Mekk-Knight\" monster from your Deck to your hand, except \"Mekk-Knight Purple Nightfall\". You can only use this effect of \"Mekk-Knight Purple Nightfall\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28692962.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3734202,
+        "name": "Naturia Sacred Tree",
+        "type": "Trap Card",
+        "desc": "If this card is sent to the Graveyard: Add 1 \"Naturia\" card from your Deck to your hand, except \"Naturia Sacred Tree\". You can only use 1 of the following effects of \"Naturia Sacred Tree\" per turn, and only once that turn.\n● You can Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.\n● You can Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3734202.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12580477,
+        "name": "Raigeki",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12580477.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96938986,
+        "name": "Resonance Insect",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except \"Resonance Insect\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96938986.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46502744,
+        "name": "Retaliating \"C\"",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when your opponent activates a Spell Card that includes an effect that Special Summons a monster(s): You can Special Summon this card from your hand. If Summoned this way, while this card is face-up on the field, any card sent to the Graveyard is banished instead. If this card is sent from the field to the Graveyard: You can add 1 EARTH Insect-Type monster with 1500 or less ATK from your Deck to your hand, except \"Retaliating \"C\"\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46502744.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89252157,
+        "name": "Rose Lover",
+        "type": "Effect Monster",
+        "desc": "You can banish this card from your GY; Special Summon 1 Plant monster from your hand, and if you do, it is unaffected by your opponent's Trap effects this turn. You can only use this effect of \"Rose Lover\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89252157.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85032782,
+        "name": "Sauge de Fleur",
+        "type": "Effect Monster",
+        "desc": "You can target 1 monster you control and 1 card on the field; Special Summon this card from your hand, and if you do, destroy them. If this card is sent from the field to your GY: You can target 1 other monster in your GY; shuffle it into the Deck, then add 1 Level 1 Plant monster from your Deck or GY to your hand. You can only use each effect of \"Sauge de Fleur\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85032782.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75294187,
+        "name": "Terrifying Trap Hole Nightmare",
+        "type": "Trap Card",
+        "desc": "If your opponent has Special Summoned a monster(s) this turn: Target 1 monster your opponent controls with 2000 or more ATK; destroy it, then if you have a \"Hole\" Normal Trap in your GY, you can banish 1 monster from your opponent's GY. You can only activate 1 \"Terrifying Trap Hole Nightmare\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75294187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98827725,
+        "name": "The Phantom Knights of Shade Brigandine",
+        "type": "Trap Card",
+        "desc": "Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If you have no Traps in your GY, you can activate this card the turn it was Set. You can only activate 1 \"The Phantom Knights of Shade Brigandine\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98827725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16223761,
+        "name": "Thunder Hand",
+        "type": "Effect Monster",
+        "desc": "If a face-up monster(s) you control with 1600 original ATK or DEF is destroyed by battle or an opponent's card effect and sent to the GY, while this card is in your hand or GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, destroy 1 card your opponent controls. You can only use this effect of \"Thunder Hand\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16223761.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4206964,
+        "name": "Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80101899,
+        "name": "Trap Trick",
+        "type": "Trap Card",
+        "desc": "Banish 1 Normal Trap from your Deck, except \"Trap Trick\", and Set 1 card with the same name directly from your Deck, also it can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Trick\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80101899.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59071624,
+        "name": "Traptrix Allomerus",
+        "type": "XYZ Monster",
+        "desc": "2+ Level 4 monsters / This card is unaffected by Trap effects while it has Xyz Material. You can only use each of the following effects of \"Traptrix Allomerus\" once per turn.\r\n● You can detach 2 materials from this card; Special Summon 1 Level 4 Insect or Plant monster from your GY.\r\n● If an opponent's monster(s) leaves the field because of your card effect, and is now in the GY or banished (except during the Damage Step): You can detach 1 material from this card, then target 1 of them; Special Summon it to your field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59071624.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55428242,
+        "name": "Traptrix Atrax",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. You can activate \"Hole\" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55428242.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 952523,
+        "name": "Traptrix Cularia",
+        "type": "Link Monster",
+        "desc": "2 Insect and/or Plant monsters\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Cularia\" once per turn. After you activate a \"Hole\" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 \"Traptrix\" monster in your GY; Special Summon it in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/952523.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45803070,
+        "name": "Traptrix Dionaea",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can target 1 \"Traptrix\" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 \"Hole\" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of \"Traptrix Dionaea\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45803070.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88078306,
+        "name": "Traptrix Genlisea",
+        "type": "Effect Monster",
+        "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can Tribute this card; Set 2 \"Hole\" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of \"Traptrix Genlisea\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88078306.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82738277,
+        "name": "Traptrix Mantis",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82738277.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91812341,
+        "name": "Traptrix Myrmeleo",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91812341.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28201945,
+        "name": "Traptrix Nepenthes",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. If you activate a \"Hole\" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 \"Traptrix\" monster from your Deck, except \"Traptrix Nepenthes\". You can only use this effect of \"Traptrix Nepenthes\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28201945.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6511113,
+        "name": "Traptrix Rafflesia",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6511113.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73639099,
+        "name": "Traptrix Sera",
+        "type": "Link Monster",
+        "desc": "1 non-Link \"Traptrix\" monster\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\r\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.\r\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73639099.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29616929,
+        "name": "Traptrix Trap Hole Nightmare",
+        "type": "Trap Card",
+        "desc": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29616929.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28868394,
+        "name": "Traptrix Vesiculo",
+        "type": "Effect Monster",
+        "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use 1 of the following effects of \"Traptrix Vesiculo\" per turn, and only once that turn. You can send 1 Set Trap you control to the GY; Special Summon this card from your hand. If you control no cards in your Spell & Trap Zone: You can banish this card from your GY, then target 1 \"Hole\" Normal Trap in your GY; Set it to your field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28868394.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1005587,
+        "name": "Void Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1005587.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 15693423,
+        "name": "Evenly Matched",
+        "type": "Trap Card",
+        "desc": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15693423.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 75416738,
+        "name": "Traptrix Arachnocampa",
+        "type": "Effect Monster",
+        "desc": "Unaffected by the effects of \"Hole\" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a \"Traptrix\" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of \"Traptrix Arachnocampa\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75416738.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 74577599,
+        "name": "Traptrix Holeutea",
+        "type": "Trap Card",
+        "desc": "You can activate this card the turn it was Set, by discarding 1 Normal Trap. Special Summon this card in Defense Position as a Normal Monster (Plant/EARTH/Level 4/ATK 400/DEF 2400). (This card is NOT treated as a Trap.) You can banish this card from your GY, then target 1 \"Traptrix\" monster in your GY; Special Summon it. You can only use 1 \"Traptrix Holeutea\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74577599.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 48805472,
+        "name": "Traptantalizing Tune",
+        "type": "Spell Card",
+        "desc": "Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or Normal Traps; place it on the bottom of the Deck. You can only use each effect of \"Traptantalizing Tune\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48805472.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 12801833,
+        "name": "Traptrip Garden",
+        "type": "Spell Card",
+        "desc": "During your Main Phase, you can Normal Summon 1 \"Traptrix\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) The first time each Insect or Plant monster you control would be destroyed by battle each turn, it is not destroyed. You can banish 1 monster you control; Special Summon 1 \"Traptrix\" monster from your hand or GY. You can only use this effect of \"Traptrip Garden\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12801833.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 48183890,
+        "name": "Traptrix Atypus",
+        "type": "Link Monster",
+        "desc": "2+ monsters, including an Insect or Plant monster\r\nThis Link Summoned card is unaffected by Trap effects. All \"Traptrix\" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.\r\n ● Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48183890.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 1688285,
+        "name": "Traptrix Pinguicula",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\r\nWhile this card has material, it is unaffected by Trap effects and the activated effects of other monsters with the same Type as this card's material. You can only use each of the following effects of \"Traptrix Pinguicula\" once per turn. You can detach 1 material from this card; add 1 \"Traptrix\" monster from your Deck to your hand. If a monster(s) owned by your opponent is sent to the GY, or banished, by a card effect (except during the Damage Step): You can attach 1 of those monsters to this card as material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1688285.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 49027020,
+        "name": "Traptrix Pudica",
+        "type": "Effect Monster",
+        "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use each of the following effects of \"Traptrix Pudica\" once per turn. When this card is Normal Summoned: You can add 1 \"Traptrip Garden\" from your Deck to your hand. If this card is Special Summoned: You can target 1 Special Summoned monster your opponent controls; banish it, also during the next Standby Phase, your opponent can Special Summon 1 of their banished monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49027020.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

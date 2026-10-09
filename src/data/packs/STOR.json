@@ -1,0 +1,817 @@
+{
+  "setName": "Storm of Ragnarok",
+  "pool": {
+    "Rare": [
+      {
+        "id": 27821104,
+        "name": "Asceticism of the Six Samurai",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Six Samurai\" monster you control; Special Summon 1 \"Six Samurai\" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27821104.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 16516630,
+        "name": "Blackwing - Boreas the Sharp",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase 1: You can banish this card from the Graveyard, then target 1 \"Blackwing\" monster you control; if that monster attacks this turn, you take no battle damage from that attack, it is not destroyed by that battle, also destroy the opponent's monster that it battled, after damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16516630.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53855409,
+        "name": "Doppelwarrior",
+        "type": "Effect Monster",
+        "desc": "When a monster(s) is Special Summoned from your GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is sent to the GY as a Synchro Material: You can Special Summon 2 \"Doppel Tokens\" (Warrior/DARK/Level 1/ATK 400/DEF 400) in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53855409.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 13455953,
+        "name": "Dverg of the Nordic Alfar",
+        "type": "Effect Monster",
+        "desc": "After you Normal Summon this card, you can Normal Summon 1 \"Nordic\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card on the field is sent to the GY: Target 1 \"Nordic Relic\" card in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13455953.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 88369727,
+        "name": "Foolish Return",
+        "type": "Spell Card",
+        "desc": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88369727.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 41788781,
+        "name": "Guldfaxe of the Nordic Beasts",
+        "type": "Tuner Monster",
+        "desc": "If your opponent controls a Synchro Monster and you control no monsters, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41788781.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80036543,
+        "name": "Hope for Escape",
+        "type": "Trap Card",
+        "desc": "If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80036543.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 2511717,
+        "name": "Legendary Six Samurai - Kageki",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Six Samurai\" monster from your hand. While you control a \"Six Samurai\" monster with a different name, this card gains 1500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2511717.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 28643791,
+        "name": "March Towards Ragnarok",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Aesir\" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spells/Traps.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28643791.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 41458579,
+        "name": "Musakani Magatama",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell/Trap Card, or monster effect, that destroys a card(s), while you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41458579.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 15286412,
+        "name": "Nordic Relic Gungnir",
+        "type": "Trap Card",
+        "desc": "Banish 1 \"Aesir\" or \"Nordic\" monster you control, then target 1 card on the field; destroy it, also during your 2nd End Phase after activation, return the monster you banished to activate this card to the field in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15286412.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 60577362,
+        "name": "Overpowering Eye",
+        "type": "Spell Card",
+        "desc": "Target 1 Zombie monster you control with 2000 or less ATK; it can attack directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60577362.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 32761286,
+        "name": "Scrap Worm",
+        "type": "Tuner Monster",
+        "desc": "This card can attack your opponent directly. If this card attacks, it is destroyed at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Worm\", and add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32761286.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 98162021,
+        "name": "Shien's Daredevil",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: Place 1 Bushido Counter on it (max. 1). This card gains 300 ATK while it has a Bushido Counter on it. Once per turn: You can target 1 face-up card on the field that you can place a Bushido Counter on; remove 1 Bushido Counter from this card, then place it on that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98162021.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 54031490,
+        "name": "Shien's Smoke Signal",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 3 or lower \"Six Samurai\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54031490.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 80244114,
+        "name": "Stardust Phantom",
+        "type": "Effect Monster",
+        "desc": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can select 1 \"Stardust Dragon\" in your Graveyard and Special Summon it in face-up Defense Position. You can remove from play this card in the Graveyard to select 1 face-up Dragon-Type Synchro Monster you control. Once per turn, that Synchro Monster cannot be destroyed by battle, but each time this effect is applied, it loses 800 ATK and DEF at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80244114.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 31826057,
+        "name": "Symphonic Warrior Piaano",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can declare 1 Monster Type and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Monster Type. You can declare 1 Monster Type and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Monster Type.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31826057.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 14677495,
+        "name": "Tanngnjostr of the Nordic Beasts",
+        "type": "Effect Monster",
+        "desc": "When a monster you control is destroyed by battle and sent to your GY: You can Special Summon this card from your hand. Once per turn, when this Defense Position card on the field is changed to face-up Attack Position: You can Special Summon 1 \"Nordic Beast\" monster from your Deck in Defense Position, except \"Tanngnjostr of the Nordic Beasts\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14677495.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 2333365,
+        "name": "Tyr of the Nordic Champions",
+        "type": "Effect Monster",
+        "desc": "Your opponent's monsters cannot target \"Nordic\" monsters for attacks, except \"Tyr of the Nordic Champions\". If there is no other \"Nordic\" monster on the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2333365.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 5554990,
+        "name": "Wattberyx",
+        "type": "Tuner Monster",
+        "desc": "When this card inflicts Battle Damage to your opponent by a direct attack, discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5554990.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 92361635,
+        "name": "Atomic Scrap Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 \"Scrap\" Tuner + 2 or more non-Tuner monsters\nOnce per turn, you can select 1 card you control and up to 3 cards in your opponent's Graveyard. Destroy your selected card and return the opponent's cards you selected to the Deck. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to the Graveyard, select 1 non-Synchro \"Scrap\" monster in your Graveyard, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92361635.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 14464864,
+        "name": "Gleipnir, the Fetters of Fenrir",
+        "type": "Trap Card",
+        "desc": "Add 1 \"Nordic\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14464864.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 24150026,
+        "name": "Karakuri Muso mdl 818 \"Haipa\"",
+        "type": "Effect Monster",
+        "desc": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24150026.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 66976526,
+        "name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner Machine-Type monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Once per turn, when the battle position of a face-up \"Karakuri\" monster you control is changed (and remains face-up): Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66976526.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 75116619,
+        "name": "Legendary Six Samurai - Enishi",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during either player's turn: You can banish 2 \"Six Samurai\" monsters from your Graveyard to target 1 face-up monster on the field; return that target to the hand. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. While you control 2 or more face-up \"Six Samurai\" monsters except \"Legendary Six Samurai - Enishi\", this card gains 500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75116619.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 29981921,
+        "name": "Legendary Six Samurai - Shi En",
+        "type": "Synchro Monster",
+        "desc": "1 Warrior Tuner + 1+ non-Tuner \"Six Samurai\" monsters\r\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can negate the activation, and if you do, destroy it. If this card on the field would be destroyed by battle or card effect, you can destroy another \"Six Samurai\" monster you control instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29981921.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 67098114,
+        "name": "Loki, Lord of the Aesir",
+        "type": "Synchro Monster",
+        "desc": "1 \"Nordic Alfar\" Tuner + 2+ non-Tuner monsters\r\nOnce per turn, when your opponent activates a Spell/Trap Card during your Battle Phase (Quick Effect): You can negate the activation, and if you do, destroy it. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Alfar\" Tuner from your GY; Special Summon this card. When Summoned this way: You can target 1 Trap in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67098114.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 50433147,
+        "name": "The Nordic Lights",
+        "type": "Spell Card",
+        "desc": "\"Nordic\" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all \"Nordic\" monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50433147.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 30604579,
+        "name": "Thor, Lord of the Aesir",
+        "type": "Synchro Monster",
+        "desc": "1 \"Nordic Beast\" Tuner + 2+ non-Tuner monsters\r\nOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Beast\" Tuner from your GY; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30604579.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 89127526,
+        "name": "Barrier Resonator",
+        "type": "Tuner Monster",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89127526.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53519297,
+        "name": "Blackboost",
+        "type": "Trap Card",
+        "desc": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53519297.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52900379,
+        "name": "Blackwing - Brisote the Tailwind",
+        "type": "Effect Monster",
+        "desc": "If 2 or more face-up \"Blackwing\" monsters you control were destroyed this turn, you can Special Summon this card (from your hand). If this card is sent to the Graveyard as a Synchro Material: Gain 600 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52900379.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88305978,
+        "name": "Blackwing - Calima the Haze",
+        "type": "Effect Monster",
+        "desc": "During your opponent's Battle Phase, if you control no monsters: You can banish this card from the Graveyard, then target 1 Synchro Monster in your Graveyard; Special Summon that target, but banish it at the end of the Battle Phase (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88305978.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97783659,
+        "name": "Blood Sucker",
+        "type": "Effect Monster",
+        "desc": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97783659.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27450400,
+        "name": "Cosmic Compass",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon a number of \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27450400.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63224564,
+        "name": "Cyber Shield",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63224564.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89914395,
+        "name": "Divine Relic Mjollnir",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Aesir\" monster you control; it can make a second attack during each Battle Phase this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89914395.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15854426,
+        "name": "Divine Wind of Mist Valley",
+        "type": "Spell Card",
+        "desc": "Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15854426.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88283496,
+        "name": "Garmr of the Nordic Beasts",
+        "type": "Effect Monster",
+        "desc": "If this card battles a Level 4 or lower monster, after damage calculation: You can return that monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88283496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91148083,
+        "name": "Gotterdammerung",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Aesir\" monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91148083.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43530283,
+        "name": "Hourglass of Courage",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Flip Summoned, its original ATK and DEF are halved until the End Phase of your next turn. After that, the original ATK and DEF are doubled.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43530283.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1498130,
+        "name": "Kagemusha of the Six Samurai",
+        "type": "Tuner Monster",
+        "desc": "During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1498130.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80204957,
+        "name": "Karakuri Cash Cache",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up \"Karakuri\" monster you control. Add 1 Level 4 or lower \"Karakuri\" monster from your Deck to your hand and change the battle position of the selected monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80204957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16708652,
+        "name": "Karakuri Gold Dust",
+        "type": "Spell Card",
+        "desc": "Activate only during the Battle Phase. Select 2 face-up \"Karakuri\" monsters in Attack Position. Change 1 of the selected monsters to Defense Position, and the other gains ATK equal to the ATK of the monster changed to Defense Position, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16708652.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6276588,
+        "name": "Karakuri Ninja mdl 919 \"Kuick\"",
+        "type": "Effect Monster",
+        "desc": "This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When this card destroys an opponent's monster by battle and sends it to the Graveyard, select 1 Level 4 or lower \"Karakuri\" monster in your Graveyard, and Special Summon it in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6276588.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70271583,
+        "name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+        "type": "Tuner Monster",
+        "desc": "This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When you take Battle Damage from a battle involving this card, all face-up \"Karakuri\" monsters you control gain 800 ATK and DEF until the End Phase. While this card is in face-up Attack Position, it cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70271583.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74094021,
+        "name": "Legendary Six Samurai - Mizuho",
+        "type": "Effect Monster",
+        "desc": "If you control \"Legendary Six Samurai - Shinai\", you can Special Summon this card (from your hand). Once per turn: You can Tribute another face-up \"Six Samurai\" monster, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74094021.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48505422,
+        "name": "Legendary Six Samurai - Shinai",
+        "type": "Effect Monster",
+        "desc": "If you control \"Legendary Six Samurai - Mizuho\", you can Special Summon this card (from your hand). If this card on the field is Tributed: Target 1 \"Six Samurai\" monster in your GY, except \"Legendary Six Samurai - Shinai\"; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48505422.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40666140,
+        "name": "Ljosalf of the Nordic Alfar",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 face-up monster you control, except this card; Special Summon 1 \"Nordic\" monster from your hand with a Level less than or equal to that face-up monster's Level.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40666140.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67211766,
+        "name": "Majioshaleon",
+        "type": "Effect Monster",
+        "desc": "Your opponent cannot select this card as an attack target while they control any Spell/Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67211766.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76348260,
+        "name": "Mimir of the Nordic Ascendant",
+        "type": "Effect Monster",
+        "desc": "Once per turn, at the start of your Standby Phase, if you control a \"Nordic\" monster and this card is in your GY: You can send 1 Spell from your hand to the GY; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76348260.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94230224,
+        "name": "Needle Ball",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94230224.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42793609,
+        "name": "Nordic Relic Brisingamen",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42793609.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55154048,
+        "name": "Nordic Relic Draupnir",
+        "type": "Spell Card",
+        "desc": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55154048.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89792713,
+        "name": "Nordic Relic Laevateinn",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field that destroyed a monster by battle this turn; destroy it. Cards and effects cannot be activated in response to this card's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89792713.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88069166,
+        "name": "Odin's Eye",
+        "type": "Trap Card",
+        "desc": "Once per turn, during each player's Standby Phase: You can target 1 \"Aesir\" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88069166.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15576074,
+        "name": "Resonator Engine",
+        "type": "Spell Card",
+        "desc": "Target 2 \"Resonator\" monsters in your Graveyard; add 1 Level 4 monster from your Deck to your hand, and if you do, return those targets to the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15576074.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69155991,
+        "name": "Scrap Shark",
+        "type": "Effect Monster",
+        "desc": "When an Effect Monster's effect or a Spell/Trap Card is activated, destroy this face-up card on the field. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can send 1 \"Scrap\" monster from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69155991.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77847678,
+        "name": "Shien's Scheme",
+        "type": "Trap Card",
+        "desc": "If a \"Six Samurai\" monster you control is destroyed by battle: Special Summon up to 2 \"Six Samurai\" monsters from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77847678.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33883834,
+        "name": "Shien's Squire",
+        "type": "Tuner Monster",
+        "desc": "During damage calculation, in either player's turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33883834.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81426505,
+        "name": "Six Strike - Triple Impact",
+        "type": "Spell Card",
+        "desc": "If you control 3 or more face-up \"Six Samurai\" monsters, you can activate 1 of these effects:\n● Destroy all face-up monsters your opponent controls.\n● Destroy all face-up Spell/Trap Cards your opponent controls.\n● Destroy all Set Spell/Trap Cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81426505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16308000,
+        "name": "Solemn Authority",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 \"Aesir\" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the GY during your 2nd Standby Phase after activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16308000.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54631834,
+        "name": "Terminal World",
+        "type": "Spell Card",
+        "desc": "Activate only during Main Phase 1. While this card is on the field, both players skip their Main Phase 2.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54631834.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3129635,
+        "name": "Tiki Curse",
+        "type": "Trap Card",
+        "desc": "Special Summon this card as an Effect Monster (Rock-Type/DARK/Level 4/ATK 1800/DEF 1000). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card that is a monster battles an opponent's monster, after damage calculation: Destroy that opponent's monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3129635.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49514333,
+        "name": "Tiki Soul",
+        "type": "Trap Card",
+        "desc": "Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell & Trap Card Zone instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49514333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14342283,
+        "name": "Token Stampede",
+        "type": "Trap Card",
+        "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52971673,
+        "name": "Token Sundae",
+        "type": "Spell Card",
+        "desc": "Destroy all Tokens you control, then destroy cards on the field up to the number of Tokens destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52971673.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53623827,
+        "name": "Top Runner",
+        "type": "Tuner Monster",
+        "desc": "All face-up Synchro Monsters you control gain 600 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53623827.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76721030,
+        "name": "Tyrant's Tirade",
+        "type": "Trap Card",
+        "desc": "Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76721030.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41858121,
+        "name": "Vylon Matter",
+        "type": "Spell Card",
+        "desc": "Select 3 Equip Spell Cards in your Graveyard. Return them to the Deck and apply 1 of these effects: ● Draw 1 card. ● Destroy 1 card your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41858121.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53193261,
+        "name": "Wattkey",
+        "type": "Spell Card",
+        "desc": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53193261.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32548609,
+        "name": "Wattmole",
+        "type": "Effect Monster",
+        "desc": "This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32548609.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57543573,
+        "name": "Worm Illidan",
+        "type": "Effect Monster",
+        "desc": "Each time a card is Set on your side of the field, place 1 Worm Counter on this card. You can remove 2 Worm Counters from this card to select 1 card your opponent controls, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57543573.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84932271,
+        "name": "Worm Jetelikpse",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: When this card is destroyed and sent to the Graveyard this turn: Special Summon it from the Graveyard in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84932271.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40736921,
+        "name": "Xing Zhen Hu Replica",
+        "type": "Trap Card",
+        "desc": "Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40736921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94215860,
+        "name": "Yaksha",
+        "type": "Spirit Monster",
+        "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94215860.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17521642,
+        "name": "Zero Force",
+        "type": "Trap Card",
+        "desc": "Activate only when a face-up monster you control is removed from play. The ATK of all face-up monsters on the field becomes 0.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17521642.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 97940434,
+        "name": "Chaos Hunter",
+        "type": "Effect Monster",
+        "desc": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97940434.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 23434538,
+        "name": "Maxx \"C\"",
+        "type": "Effect Monster",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23434538.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 86827882,
+        "name": "Nordic Relic Megingjord",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Aesir\" or \"Nordic\" monster you control; its ATK/DEF become double its original ATK/DEF, until the end of this turn, but it cannot attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86827882.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 51555725,
+        "name": "Scrap Breaker",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls a monster, you can Special Summon this card from your hand. When this card is Special Summoned this way, select 1 face-up \"Scrap\" monster you control, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51555725.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 23212990,
+        "name": "Six Strike - Thunder Blast",
+        "type": "Trap Card",
+        "desc": "Remove 1 Bushido Counter from your side of the field to activate 1 of these effects.\n● Target 1 monster your opponent controls; destroy that target.\n● Target 1 card your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23212990.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 42671151,
+        "name": "The Golden Apples",
+        "type": "Trap Card",
+        "desc": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend/DARK/Level 1/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42671151.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 61777313,
+        "name": "Vanadis of the Nordic Ascendant",
+        "type": "Tuner Monster",
+        "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Nordic\" Tuner. If this card is used as Synchro Material, all other Synchro Materials must be \"Nordic\" monsters. Once per turn: You can send 1 \"Nordic\" monster from your Deck to the GY; this card's Level becomes the Level of that monster, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61777313.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 45215453,
+        "name": "Vylon Delta",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\r\nIf this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45215453.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 16638212,
+        "name": "D.D. Sprite",
+        "type": "Tuner Monster",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 face-up monster you control. If you Summon this way, during your next Standby Phase: Return the banished monster to the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16638212.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41077745,
+        "name": "Elemental HERO Ice Edge",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 Set card in your opponent's Spell & Trap Card Zone; destroy that target. Once per turn, during your Main Phase 1: You can discard 1 card; this card can attack your opponent directly this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41077745.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27243130,
+        "name": "Forbidden Lance",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27243130.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 49721904,
+        "name": "Legendary Six Samurai - Kizan",
+        "type": "Effect Monster",
+        "desc": "If you control a \"Six Samurai\" monster with a different name, you can Special Summon this card (from your hand). While you control 2 or more other \"Six Samurai\" monsters, this card gains 300 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49721904.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89181369,
+        "name": "Stardust Shimmer",
+        "type": "Spell Card",
+        "desc": "Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster and Special Summon it from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89181369.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77060848,
+        "name": "Svartalf of the Nordic Alfar",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 \"Nordic\" monster in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77060848.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68933343,
+        "name": "Symphonic Warrior Basses",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can select 1 face-up \"Symphonic Warrior\" monster on the field. Increase its Level by the number of cards in your hand; this increase lasts until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and increase its Level by the number of cards in your hand; this increase lasts until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68933343.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94331452,
+        "name": "Symphonic Warrior Drumss",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can declare 1 Attribute and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Attribute. You can declare 1 Attribute and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Attribute.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94331452.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15394083,
+        "name": "Tanngrisnir of the Nordic Beasts",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Special Summon 2 \"Nordic Beast Tokens\" (Beast/EARTH/Level 3/ATK 0/DEF 0).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15394083.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53819808,
+        "name": "Temple of the Six",
+        "type": "Spell Card",
+        "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. Monsters your opponent controls lose 100 ATK for each Bushido Counter on this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53819808.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40844552,
+        "name": "Valkyrie of the Nordic Ascendant",
+        "type": "Tuner Monster",
+        "desc": "(This card is not treated as a \"Valkyrie\" card.)\r\nWhen this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 \"Nordic\" monsters from your hand; Special Summon 2 \"Einherjar Tokens\" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40844552.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25373678,
+        "name": "Vortex the Whirlwind",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Winged Beast-Type monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25373678.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29765339,
+        "name": "Watthydra",
+        "type": "Synchro Monster",
+        "desc": "1 \"Watt\" Tuner + 1 or more non-Tuner Thunder-Type monsters\nThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, choose 1 card in your Deck and remove it from play. Add that card to your hand during your 2nd Standby Phase after activating this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29765339.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 10026986,
+        "name": "Worm King",
+        "type": "Effect Monster",
+        "desc": "This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type \"Worm\" monster. You can Tribute 1 Reptile-Type \"Worm\" monster to select 1 card your opponent controls, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10026986.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ghost Rare": [
+      {
+        "id": 93483212,
+        "name": "Odin, Father of the Aesir",
+        "type": "Synchro Monster",
+        "desc": "1 \"Nordic Ascendant\" Tuner + 2+ non-Tuner monsters\r\nOnce per turn: You can make this card be unaffected by Spell/Trap effects until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Ascendant\" Tuner from your GY; Special Summon this card. When Summoned this way: You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93483212.jpg",
+        "rarity": "Ghost Rare"
+      }
+    ]
+  }
+}

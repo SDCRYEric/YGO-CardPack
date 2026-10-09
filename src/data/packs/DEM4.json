@@ -1,0 +1,87 @@
+{
+  "setName": "Advanced Demo Deck Extra Pack",
+  "pool": {
+    "Common": [
+      {
+        "id": 10817524,
+        "name": "First of the Dragons",
+        "type": "Fusion Monster",
+        "desc": "2 Normal Monsters\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10817524.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17390179,
+        "name": "Flash Knight",
+        "type": "Pendulum Normal Monster",
+        "desc": "''The power of the pendulum flashes forth from this shining knight.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17390179.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43785278,
+        "name": "Foucault's Cannon",
+        "type": "Pendulum Normal Monster",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.\n\n[ Monster Effect ] \n''A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43785278.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97204936,
+        "name": "Gaia Knight, the Force of Earth",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97204936.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11066358,
+        "name": "Galaxy Serpent",
+        "type": "Normal Tuner Monster",
+        "desc": "Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11066358.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71594310,
+        "name": "Gem-Knight Pearl",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71594310.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48940337,
+        "name": "Lancephorhynchus",
+        "type": "Pendulum Normal Monster",
+        "desc": "[ Pendulum Effect ] \nIf a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n[ Monster Effect ] \n''This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48940337.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98978921,
+        "name": "Link Spider",
+        "type": "Link Monster",
+        "desc": "1 Normal Monster\r\nOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98978921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19474136,
+        "name": "Mandragon",
+        "type": "Pendulum Normal Monster",
+        "desc": "''This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19474136.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24094653,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

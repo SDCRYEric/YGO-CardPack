@@ -1,0 +1,505 @@
+{
+  "setName": "Speed Duel Starter Decks: Ultimate Predators",
+  "pool": {
+    "Common": [
+      {
+        "id": 62325062,
+        "name": "Adhesion Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62325062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70924884,
+        "name": "Alinsection",
+        "type": "Normal Monster",
+        "desc": "A stag beetle with a saw-like head and arms.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70924884.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5183693,
+        "name": "Amulet of Ambition",
+        "type": "Spell Card",
+        "desc": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5183693.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89904598,
+        "name": "Anthrosaurus",
+        "type": "Normal Monster",
+        "desc": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89904598.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89091579,
+        "name": "Basic Insect",
+        "type": "Normal Monster",
+        "desc": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89091579.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1474910,
+        "name": "Bee List Soldier",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card and 1 face-up Insect monster, except \"Bee List Soldier\"; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1474910.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30587695,
+        "name": "Beetron",
+        "type": "Effect Monster",
+        "desc": "You can send 1 face-up Spell/Trap you control to the GY, then target 1 Level 4 or lower Insect monster in your GY; Special Summon that Insect monster in Defense Position. You can only use this effect of \"Beetron\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30587695.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53606874,
+        "name": "Big Insect",
+        "type": "Normal Monster",
+        "desc": "A giant ant that dwells in the jungle, it is powerful whether attacking or defending.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53606874.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79409334,
+        "name": "Black Stego",
+        "type": "Effect Monster",
+        "desc": "If this Attack Position card is targeted for an attack: Change this card to Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79409334.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38670435,
+        "name": "Black Tyranno",
+        "type": "Effect Monster",
+        "desc": "If the only cards your opponent controls are Defense Position monsters, this card can attack directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38670435.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52112003,
+        "name": "Card Advance",
+        "type": "Spell Card",
+        "desc": "Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52112003.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40240595,
+        "name": "Cocoon of Evolution",
+        "type": "Effect Monster",
+        "desc": "You can target 1 \"Petit Moth\" you control; equip this card from your hand to that target. While equipped by this effect, the original ATK/DEF of that \"Petit Moth\" becomes the ATK/DEF of \"Cocoon of Evolution\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40240595.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13235258,
+        "name": "Corrosive Scales",
+        "type": "Trap Card",
+        "desc": "Target 1 Insect monster you control; equip this card to it. While you control the equipped monster, your opponent's monsters cannot attack Insect monsters, except the equipped monster. While this card is equipped to a monster, each time your opponent Normal or Special Summons a monster(s), OR activates a card or effect, place 1 Scale Counter on each face-up monster they control. Each monster your opponent controls loses 100 ATK/DEF for each Scale Counter it has.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13235258.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23265313,
+        "name": "Cost Down",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23265313.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38289717,
+        "name": "Crawling Dragon #2",
+        "type": "Normal Monster",
+        "desc": "A powerful dragon with teeth that can grind almost anything to dust.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38289717.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65287621,
+        "name": "Dark Driceratops",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65287621.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90928333,
+        "name": "Dark Factory of Mass Production",
+        "type": "Spell Card",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90928333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300203001,
+        "name": "Dinosaur Kingdom",
+        "type": "Skill Card",
+        "desc": "All Dinosaur monsters gain 300 ATK/DEF. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300203001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92755808,
+        "name": "Element Saurus",
+        "type": "Effect Monster",
+        "desc": "Gains the following effect(s) while there is a monster(s) with the following Attribute(s) on the field.\r\n● FIRE: This card gains 500 ATK.\r\n● EARTH: Negate the effects of Effect Monsters destroyed by battle with this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92755808.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30531525,
+        "name": "Enchanting Fitting Room",
+        "type": "Spell Card",
+        "desc": "Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, after that, shuffle the rest back into your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30531525.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94716515,
+        "name": "Eradicating Aerosol",
+        "type": "Spell Card",
+        "desc": "Destroy all Insect monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94716515.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87430998,
+        "name": "Forest",
+        "type": "Spell Card",
+        "desc": "All Insect, Beast, Plant, and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87430998.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77491079,
+        "name": "Gale Lizard",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77491079.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54635862,
+        "name": "Gentlemander",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent's monsters cannot attack any monsters, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54635862.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45894482,
+        "name": "Gilasaurus",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45894482.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14472500,
+        "name": "Gokipon",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1500 or less ATK from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14472500.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45141013,
+        "name": "Heat Wave",
+        "type": "Spell Card",
+        "desc": "At the start of your Main Phase 1: Neither player can Normal or Special Summon Effect Monsters, until your next Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45141013.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300203004,
+        "name": "Hidden Parasite",
+        "type": "Skill Card",
+        "desc": "Once per turn, you can change all monsters on the field to Insect until the end of this turn, also any battle damage your opponent takes for the rest of this turn is halved. You can only use this Skill up to twice per Duel. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300203004.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11925569,
+        "name": "Hunting Instinct",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): Special Summon 1 Dinosaur monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11925569.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2671330,
+        "name": "Hyper Hammerhead",
+        "type": "Effect Monster",
+        "desc": "At the end of the Damage Step, if an opponent's monster that battled this card is not destroyed: Return that opponent's monster to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2671330.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300203003,
+        "name": "Hyper Metamorphosis",
+        "type": "Skill Card",
+        "desc": "You can activate this Skill while you control a Level 3 or lower Insect Normal Monster. Discard 2 cards and Tribute 1 Level 3 or lower Insect Normal Monster you control to Special Summon 1 \"Perfectly Ultimate Great Moth\" from your hand or Deck, ignoring its Summoning conditions. Any damage your opponent takes for the rest of this turn is halved. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300203003.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22991179,
+        "name": "Insect Neglect",
+        "type": "Spell Card",
+        "desc": "When your opponent's monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22991179.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37957847,
+        "name": "Insect Princess",
+        "type": "Effect Monster",
+        "desc": "All Insect monsters your opponent controls are changed to Attack Position. If this card destroys an Insect monster by battle: This card gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37957847.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91512835,
+        "name": "Insect Queen",
+        "type": "Effect Monster",
+        "desc": "This card gains 200 ATK for each Insect monster on the field. Cannot declare an attack unless you Tribute 1 monster. Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91512835.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56283725,
+        "name": "Kumootoko",
+        "type": "Normal Monster",
+        "desc": "A massive, intelligent spider that traps enemies with webbing.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56283725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77007920,
+        "name": "Laser Cannon Armor",
+        "type": "Spell Card",
+        "desc": "Equip only to an Insect monster. It gains 300 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77007920.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82324105,
+        "name": "Limit Impulse",
+        "type": "Trap Card",
+        "desc": "Send 2 cards from your hand to the GY; Special Summon 2 \"Soul Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0). They cannot be Tributed except for a Tribute Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82324105.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79870141,
+        "name": "Mad Sword Beast",
+        "type": "Effect Monster",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79870141.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54652250,
+        "name": "Man-Eater Bug",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54652250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300203002,
+        "name": "Nightmare Sonic Blast!",
+        "type": "Skill Card",
+        "desc": "You can activate this Skill while you control \"Serpent Night Dragon\". Once per turn, you can reveal the top 4 cards of your Deck, and use 1 of the following Skills, depending on the number of monsters revealed.\r\n1: Add one of the revealed cards to your hand.\r\n2: Destroy 1 card your opponent controls.\r\n3+: Apply both effects.\r\nThen, place the rest of the revealed cards on top of your Deck in any order. ",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300203002.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39019325,
+        "name": "Order to Smash",
+        "type": "Trap Card",
+        "desc": "Target 1 Level 2 or lower non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy up to 2 Spells/Traps your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39019325.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48579379,
+        "name": "Perfectly Ultimate Great Moth",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Petit Moth\" on your 6th turn or later after it was equipped with \"Cocoon of Evolution\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48579379.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58192742,
+        "name": "Petit Moth",
+        "type": "Normal Monster",
+        "desc": "This small but deadly creature is better off avoided.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58192742.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63571750,
+        "name": "Pharaoh's Treasure",
+        "type": "Trap Card",
+        "desc": "Shuffle this card face-up into your Deck. If you draw this face-up card that was added to the Deck by this effect: Send it to the GY, then target 1 card in your GY, except this card; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63571750.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26185991,
+        "name": "Pinch Hopper",
+        "type": "Effect Monster",
+        "desc": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26185991.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51267887,
+        "name": "Raise Body Heat",
+        "type": "Spell Card",
+        "desc": "Equip only to a Dinosaur monster. It gains 300 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51267887.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17814387,
+        "name": "Reinforcements",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17814387.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66516792,
+        "name": "Serpent Night Dragon",
+        "type": "Normal Monster",
+        "desc": "A dragon created from the soul of a wicked knight.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66516792.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39041729,
+        "name": "Spacetime Transcendence",
+        "type": "Spell Card",
+        "desc": "Banish 2 or more Dinosaur monsters from your GY; Special Summon 1 Dinosaur monster from your hand or GY whose Level equals the total Levels of those banished monsters, but it cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39041729.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56051648,
+        "name": "Spider Egg",
+        "type": "Trap Card",
+        "desc": "When your opponent declares a direct attack, while you have 3 or more Insect monsters in your GY: Negate the attack, and if you do, Special Summon 3 \"Spider Tokens\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56051648.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79816536,
+        "name": "Summoner's Art",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79816536.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6849042,
+        "name": "Super-Ancient Dinobeast",
+        "type": "Effect Monster",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur monster. When a Dinosaur monster(s) is Special Summoned from your GY while this monster is on the field (except during the Damage Step): You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6849042.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46457856,
+        "name": "Tomozaurus",
+        "type": "Normal Monster",
+        "desc": "Small but vicious, this monster even attacks its own kind.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46457856.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94119974,
+        "name": "Two-Headed King Rex",
+        "type": "Normal Monster",
+        "desc": "A powerful monster whose two heads attack as one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94119974.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22431243,
+        "name": "Ultra Evolution Pill",
+        "type": "Spell Card",
+        "desc": "Tribute 1 Reptile monster; Special Summon 1 Dinosaur monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22431243.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1784619,
+        "name": "Uraby",
+        "type": "Normal Monster",
+        "desc": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1784619.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80402389,
+        "name": "Verdant Sanctuary",
+        "type": "Spell Card",
+        "desc": "When a face-up Insect monster is destroyed by battle or card effect and sent to the GY: Its controller can add 1 Insect monster with the same Level as the destroyed monster from their Deck to their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80402389.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18756904,
+        "name": "White Elephant's Gift",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18756904.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39175982,
+        "name": "Winged Cleaver",
+        "type": "Normal Monster",
+        "desc": "Few can withstand the scythe-like arms of this dangerous creature.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39175982.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43140791,
+        "name": "Worm Bait",
+        "type": "Spell Card",
+        "desc": "If you control an Insect monster: Special Summon 2 \"Worm Tokens\" (Insect/EARTH/Level 1/ATK 0/DEF 0). You cannot Normal or Special Summon any Level 3 or 4 monsters the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43140791.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 98954106,
+        "name": "Jar of Avarice",
+        "type": "Trap Card",
+        "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98954106.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 78986941,
+        "name": "Order to Charge",
+        "type": "Spell Card",
+        "desc": "Target 1 non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy 1 monster your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78986941.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

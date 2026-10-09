@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! GX Tag Force 3 promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 93709215,
+        "name": "Darkness Destroyer",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93709215.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 30915572,
+        "name": "Gallis the Star Beast",
+        "type": "Effect Monster",
+        "desc": "You can reveal this card in your hand; send the top card of your Deck to the Graveyard, then, if it was a monster, inflict damage to your opponent equal to its Level x 200 and Special Summon this card from your hand, otherwise destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30915572.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67300516,
+        "name": "Red-Eyes Wyvern",
+        "type": "Effect Monster",
+        "desc": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67300516.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

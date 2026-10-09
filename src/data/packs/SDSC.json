@@ -1,0 +1,313 @@
+{
+  "setName": "Spellcaster's Command Structure Deck",
+  "pool": {
+    "Common": [
+      {
+        "id": 9156135,
+        "name": "Apprentice Magician",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9156135.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21051146,
+        "name": "Blast Magician",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21051146.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14087893,
+        "name": "Book of Moon",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71413901,
+        "name": "Breaker the Magical Warrior",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71413901.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82099401,
+        "name": "Crystal Seer",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82099401.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45462639,
+        "name": "Dark Red Enchanter",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45462639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2525268,
+        "name": "Defender, the Magical Knight",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Once per turn, if a Spellcaster monster(s) on the field would be destroyed, you can remove 1 Spell Counter from your field for each of those monsters instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2525268.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76137614,
+        "name": "Disenchanter",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76137614.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7153114,
+        "name": "Field Barrier",
+        "type": "Spell Card",
+        "desc": "Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7153114.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66788016,
+        "name": "Fissure",
+        "type": "Spell Card",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66788016.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42703248,
+        "name": "Giant Trunade",
+        "type": "Spell Card",
+        "desc": "Return all Spell and Trap Cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5640330,
+        "name": "Hannibal Necromancer",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 face-up Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5640330.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83746708,
+        "name": "Mage Power",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91819979,
+        "name": "Magical Blast",
+        "type": "Spell Card",
+        "desc": "Inflict 200 damage to your opponent for each Spellcaster monster you control. During your Draw Phase, if this card is in your GY, before you draw: You can give up your normal draw this turn, and if you do, add this card to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91819979.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39910367,
+        "name": "Magical Citadel of Endymion",
+        "type": "Spell Card",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from a card you control, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39910367.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28553439,
+        "name": "Magical Dimension",
+        "type": "Spell Card",
+        "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28553439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6061630,
+        "name": "Magical Exemplar",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster monster from your hand or GY whose Level is equal to the number of Spell Counters you removed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6061630.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8034697,
+        "name": "Magical Marionette",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 200 ATK for each Spell Counter on it. You can remove 2 Spell Counters from this card, then target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8034697.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7802006,
+        "name": "Magical Plant Mandragola",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7802006.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50755,
+        "name": "Magician's Circle",
+        "type": "Trap Card",
+        "desc": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36045450,
+        "name": "Magicians Unite",
+        "type": "Spell Card",
+        "desc": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36045450.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99597615,
+        "name": "Malevolent Nuzzler",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99597615.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47731128,
+        "name": "Mei-Kou, Master of Barriers",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card, then target 1 face-up Continuous Spell or Continuous Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47731128.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47529357,
+        "name": "Mist Body",
+        "type": "Spell Card",
+        "desc": "The equipped monster cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47529357.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55424270,
+        "name": "Mythical Beast Cerberus",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 500 ATK for each Spell Counter on it. At the end of the Battle Phase, if this card battled, remove all Spell Counters on it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55424270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45141844,
+        "name": "Old Vindictive Magician",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45141844.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34029630,
+        "name": "Pitch-Black Power Stone",
+        "type": "Trap Card",
+        "desc": "Activate this card by placing 3 Spell Counters on it. Once per turn, during your turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; remove 1 Spell Counter from this card, and if you do, place 1 Spell Counter on that target. When the last Spell Counter(s) is removed from this card, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34029630.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70791313,
+        "name": "Royal Magical Library",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70791313.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73752131,
+        "name": "Skilled Dark Magician",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73752131.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75014062,
+        "name": "Spell Power Grasp",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75014062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 423585,
+        "name": "Summoner Monk",
+        "type": "Effect Monster",
+        "desc": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/423585.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72302403,
+        "name": "Swords of Revealing Light",
+        "type": "Spell Card",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94256039,
+        "name": "Tower of Babel",
+        "type": "Trap Card",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94256039.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 40732515,
+        "name": "Endymion, the Master Magician",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand or GY) by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. If Summoned this way: Target 1 Spell in your GY; add that target to your hand. Once per turn: You can discard 1 Spell, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40732515.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

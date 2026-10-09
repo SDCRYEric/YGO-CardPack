@@ -1,0 +1,1043 @@
+{
+  "setName": "Legendary Decks II",
+  "pool": {
+    "Common": [
+      {
+        "id": 43096270,
+        "name": "Alexandrite Dragon",
+        "type": "Normal Monster",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43096270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64428736,
+        "name": "Alligator's Sword",
+        "type": "Normal Monster",
+        "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64428736.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3366982,
+        "name": "Alligator's Sword Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3366982.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54912977,
+        "name": "Ancient Lamp",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54912977.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10667321,
+        "name": "Ancient Rules",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10667321.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45349196,
+        "name": "Archfiend Black Skull Dragon",
+        "type": "Fusion Monster",
+        "desc": "1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45349196.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48305365,
+        "name": "Axe Raider",
+        "type": "Normal Monster",
+        "desc": "An axe-wielding monster of tremendous strength and agility.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48305365.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40908371,
+        "name": "Azure-Eyes Silver Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner Normal Monsters\r\nIf this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40908371.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 88819587,
+        "name": "Baby Dragon",
+        "type": "Normal Monster",
+        "desc": "Much more than just a child, this dragon is gifted with untapped power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88819587.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36280194,
+        "name": "Backup Soldier",
+        "type": "Trap Card",
+        "desc": "While there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36280194.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5053103,
+        "name": "Battle Ox",
+        "type": "Normal Monster",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5053103.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50371210,
+        "name": "Beacon of White",
+        "type": "Spell Card",
+        "desc": "If you do not control another \"Beacon of White\", and you have 3 or more \"Blue-Eyes\" monsters in your GY: Target 1 of them; Special Summon it, but it has its effects negated, also equip it with this card. When this card leaves the field, banish the equipped monster. Other monsters you control cannot attack, also if you have any number of \"Blue-Eyes\" monster(s) in your GY, the equipped monster can attack up to that number of times during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50371210.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65240384,
+        "name": "Big Shield Gardna",
+        "type": "Effect Monster",
+        "desc": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65240384.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93969023,
+        "name": "Black Metal Dragon",
+        "type": "Effect Monster",
+        "desc": "You can target 1 \"Red-Eyes\" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 \"Red-Eyes\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93969023.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39507162,
+        "name": "Blade Knight",
+        "type": "Effect Monster",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39507162.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21051146,
+        "name": "Blast Magician",
+        "type": "Effect Monster",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21051146.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16984449,
+        "name": "Blazewing Butterfly",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16984449.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48115277,
+        "name": "Blockman",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon in Defense Position, a number of \"Block Tokens\" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48115277.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50903514,
+        "name": "Blue Flame Swordsman",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during either player's Battle Phase: You can target 1 other Warrior-Type monster you control; this card loses exactly 600 ATK, and if it does, that monster gains 600 ATK. When this card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can banish this card from your Graveyard, then target 1 FIRE Warrior-Type monster in your Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50903514.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80163754,
+        "name": "Burst Breath",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Dragon-Type monster; destroy all face-up monsters on the field whose DEF is less than or equal to the ATK the Tributed monster had on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80163754.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 17655904,
+        "name": "Burst Stream of Destruction",
+        "type": "Spell Card",
+        "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17655904.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78193831,
+        "name": "Buster Blader",
+        "type": "Effect Monster",
+        "desc": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78193831.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97077563,
+        "name": "Call of the Haunted",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32566831,
+        "name": "Cards of the Red Stone",
+        "type": "Spell Card",
+        "desc": "Send 1 Level 7 \"Red-Eyes\" monster from your hand to the Graveyard; draw 2 cards, then you can send 1 Level 7 \"Red-Eyes\" monster from your Deck to the Graveyard. You can only activate 1 \"Cards of the Red Stone\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32566831.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86871614,
+        "name": "Cloning",
+        "type": "Trap Card",
+        "desc": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86871614.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10375182,
+        "name": "Command Knight",
+        "type": "Effect Monster",
+        "desc": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10375182.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33244944,
+        "name": "Contract with Exodia",
+        "type": "Spell Card",
+        "desc": "If you have all 5 of \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", and \"Left Leg of the Forbidden One\" in your Graveyard: Special Summon 1 \"Exodia Necross\" from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33244944.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66742250,
+        "name": "Curse of Anubis",
+        "type": "Trap Card",
+        "desc": "Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66742250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90928333,
+        "name": "Dark Factory of Mass Production",
+        "type": "Spell Card",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90928333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2314238,
+        "name": "Dark Magic Attack",
+        "type": "Spell Card",
+        "desc": "If you control \"Dark Magician\": Destroy all Spells and Traps your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2314238.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36996508,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36996508.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38033121,
+        "name": "Dark Magician Girl",
+        "type": "Effect Monster",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38033121.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83269557,
+        "name": "Dark Valkyria",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once, while this card is face-up on the field: You can place 1 Spell Counter on it. This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83269557.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45467446,
+        "name": "Dragon Spirit of White",
+        "type": "Effect Monster",
+        "desc": "(This card is always treated as a \"Blue-Eyes\" card.)\r\nThis card is treated as a Normal Monster while in the hand or GY. When this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; banish it. If your opponent controls a monster (Quick Effect): You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45467446.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12600382,
+        "name": "Exodia Necross",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Contract with Exodia\", and cannot be Special Summoned by other ways. Cannot be destroyed by battle or Spell/Trap effect. Once per turn, during your Standby Phase: This card gains 500 ATK. Destroy this card unless all 5 of these cards are in your Graveyard - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" and \"Left Leg of the Forbidden One\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12600382.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33396948,
+        "name": "Exodia the Forbidden One",
+        "type": "Effect Monster",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33396948.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52503575,
+        "name": "Final Attack Orders",
+        "type": "Trap Card",
+        "desc": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52503575.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10817524,
+        "name": "First of the Dragons",
+        "type": "Fusion Monster",
+        "desc": "2 Normal Monsters\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10817524.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81439173,
+        "name": "Foolish Burial",
+        "type": "Spell Card",
+        "desc": "Send 1 monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81439173.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66127916,
+        "name": "Fusion Reserve",
+        "type": "Trap Card",
+        "desc": "Reveal 1 Fusion Monster in your Extra Deck, add 1 of the Fusion Materials whose name is specifically listed on that card from your Deck to your hand, then you can add 1 \"Polymerization\" from your Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66127916.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74335036,
+        "name": "Fusion Substitute",
+        "type": "Spell Card",
+        "desc": "(This card's name is always treated as \"Polymerization\".)\r\nFusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74335036.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 423705,
+        "name": "Gearfried the Iron Knight",
+        "type": "Effect Monster",
+        "desc": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/423705.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19041767,
+        "name": "Gemini Summoner",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your opponent's End Phase: You can pay 500 LP; Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19041767.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78658564,
+        "name": "Goblin Attack Force",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78658564.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75500286,
+        "name": "Gold Sarcophagus",
+        "type": "Spell Card",
+        "desc": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85742772,
+        "name": "Gravity Bind",
+        "type": "Trap Card",
+        "desc": "Level 4 or higher monsters cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85742772.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52684508,
+        "name": "Inferno Fire Blast",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Red-Eyes B. Dragon\" in your Monster Zone; inflict damage to your opponent equal to its original ATK. \"Red-Eyes B. Dragon\" cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52684508.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98954106,
+        "name": "Jar of Avarice",
+        "type": "Trap Card",
+        "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98954106.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77585513,
+        "name": "Jinzo",
+        "type": "Effect Monster",
+        "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77585513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34627841,
+        "name": "Kaibaman",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34627841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66752837,
+        "name": "Keeper of the Shrine",
+        "type": "Effect Monster",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. While this card is in your hand or GY, if a face-up Dragon monster on the field, except \"Keeper of the Shrine\", is sent to the GY by a card effect or because it was destroyed by battle: You can Special Summon this card, then, if that monster sent to the GY is a Normal Monster, you can add 1 Dragon Normal Monster from your GY to your hand. You can only use this effect of \"Keeper of the Shrine\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66752837.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35629124,
+        "name": "Kidmodo Dragon",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of \"Kidmodo Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35629124.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79109599,
+        "name": "King of the Swamp",
+        "type": "Effect Monster",
+        "desc": "This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79109599.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37390589,
+        "name": "Kunai with Chain",
+        "type": "Trap Card",
+        "desc": "Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37390589.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97590747,
+        "name": "La Jinn the Mystical Genie of the Lamp",
+        "type": "Normal Monster",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97590747.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7902349,
+        "name": "Left Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7902349.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44519536,
+        "name": "Left Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44519536.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28553439,
+        "name": "Magical Dimension",
+        "type": "Spell Card",
+        "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28553439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81210420,
+        "name": "Magical Hats",
+        "type": "Trap Card",
+        "desc": "During your opponent's Battle Phase: Choose 2 Spell/Trap Cards from your Deck and 1 monster in your Main Monster Zone. Special Summon them as Normal Monsters (ATK 0/DEF 0) in face-down Defense Position, Set the chosen monster if it is face-up, and shuffle them on the field. The 2 cards chosen from your Deck are destroyed at the end of the Battle Phase, and cannot remain on the field except during this Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81210420.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50755,
+        "name": "Magician's Circle",
+        "type": "Trap Card",
+        "desc": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80304126,
+        "name": "Magician's Valkyria",
+        "type": "Effect Monster",
+        "desc": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80304126.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36045450,
+        "name": "Magicians Unite",
+        "type": "Spell Card",
+        "desc": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36045450.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31305911,
+        "name": "Marshmallon",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31305911.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45644898,
+        "name": "Master with Eyes of Blue",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT Tuner in your GY; add it to your hand. You can shuffle this card from your GY into the Deck, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your GY, other than the sent monster. You can only use this effect of \"Master with Eyes of Blue\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45644898.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24382602,
+        "name": "Mausoleum of White",
+        "type": "Spell Card",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 1 LIGHT Tuner in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 face-up monster you control; send 1 Normal Monster from your hand or Deck to the GY, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100, until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Burst Stream of Destruction\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24382602.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44656491,
+        "name": "Messenger of Peace",
+        "type": "Spell Card",
+        "desc": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44656491.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44095762,
+        "name": "Mirror Force",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74848038,
+        "name": "Monster Reincarnation",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14315573,
+        "name": "Negate Attack",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14315573.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69488544,
+        "name": "Phoenix Gearfried",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If your opponent activates a Spell Card: You can target 1 Gemini monster in your Graveyard; Special Summon that target. During either player's turn, when a Spell/Trap Card is activated that targets a monster(s) on the field: You can send 1 face-up Equip Card you control to the Graveyard; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69488544.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24094653,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98672567,
+        "name": "Pot of Dichotomy",
+        "type": "Spell Card",
+        "desc": "At the start of your Main Phase 1: Target 3 monsters with different Types in your Graveyard; Shuffle all 3 into the Deck, then draw 2 cards. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98672567.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98645731,
+        "name": "Pot of Duality",
+        "type": "Spell Card",
+        "desc": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98645731.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72855441,
+        "name": "Protector with Eyes of Blue",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 1 LIGHT Tuner from your hand. You can target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your hand. You can only use this effect of \"Protector with Eyes of Blue\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72855441.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39357122,
+        "name": "Red-Eyes Archfiend of Lightning",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can destroy all face-up monsters your opponent controls with DEF lower than this card's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39357122.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74677422,
+        "name": "Red-Eyes Black Dragon",
+        "type": "Normal Monster",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74677422.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30079770,
+        "name": "Red-Eyes Black Flare Dragon",
+        "type": "Gemini Monster",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If damage calculation is performed involving this card, at the end of the Battle Phase: You can inflict damage to your opponent equal to this card's original ATK. You can only use this effect of \"Red-Eyes Black Flare Dragon\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30079770.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6172122,
+        "name": "Red-Eyes Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster that lists a \"Red-Eyes\" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, and if you do, its name becomes \"Red-Eyes B. Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6172122.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53485634,
+        "name": "Red-Eyes Retro Dragon",
+        "type": "Effect Monster",
+        "desc": "If a Level 7 or lower \"Red-Eyes\" monster(s) you control is destroyed by your opponent's attack or card effect and sent to your GY, while this card is in your hand: You can Special Summon this card in Defense Position, and if you do, Special Summon as many of those destroyed monsters as possible in the same position they were in when destroyed. You can Tribute this card; you can Normal Summon 1 \"Red-Eyes\" monster during your Main Phase this turn in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53485634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44397496,
+        "name": "Red-Eyes Spirit",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Red-Eyes\" monster in your GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44397496.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14235211,
+        "name": "Rider of the Storm Winds",
+        "type": "Tuner Monster",
+        "desc": "You can target 1 Dragon Normal Monster you control; equip this monster from your hand or field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14235211.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70903634,
+        "name": "Right Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70903634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8124921,
+        "name": "Right Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8124921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30860696,
+        "name": "Rocket Warrior",
+        "type": "Effect Monster",
+        "desc": "During your Battle Phase, this card cannot be destroyed by battle and you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30860696.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36708764,
+        "name": "Roulette Spider",
+        "type": "Spell Card",
+        "desc": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result.\n1: Halve your LP.\n2: Make that attack a direct attack.\n3: Choose 1 monster you control, change the attack target to it, and perform damage calculation.\n4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.\n5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK.\n6: Destroy that opponent's monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36708764.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32268901,
+        "name": "Salamandra",
+        "type": "Spell Card",
+        "desc": "Equip only to a FIRE monster. It gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32268901.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26202165,
+        "name": "Sangan",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26202165.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73915051,
+        "name": "Scapegoat",
+        "type": "Spell Card",
+        "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73915051.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68462976,
+        "name": "Secret Village of the Spellcasters",
+        "type": "Spell Card",
+        "desc": "If only you control a Spellcaster monster, your opponent cannot activate Spell Cards. If you control no Spellcaster monsters, you cannot activate Spell Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68462976.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29267084,
+        "name": "Shadow Spell",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29267084.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55713623,
+        "name": "Shrink",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55713623.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42534368,
+        "name": "Silent Doom",
+        "type": "Spell Card",
+        "desc": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42534368.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73665146,
+        "name": "Silent Magician LV4",
+        "type": "Effect Monster",
+        "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72443568,
+        "name": "Silent Magician LV8",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72443568.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95750695,
+        "name": "Supervise",
+        "type": "Spell Card",
+        "desc": "Equip only to a Gemini monster. It becomes an Effect Monster, and gains its effects. If this face-up card is sent from the field to the GY: Target 1 Normal Monster in your GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95750695.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72302403,
+        "name": "Swords of Revealing Light",
+        "type": "Spell Card",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78794994,
+        "name": "Symbols of Duty",
+        "type": "Spell Card",
+        "desc": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78794994.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14778250,
+        "name": "The Tricky",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by discarding 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14778250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71039903,
+        "name": "The White Stone of Ancients",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can banish this card from your GY, then target 1 \"Blue-Eyes\" monster in your GY; add it to your hand. You can only use this effect of \"The White Stone of Ancients\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71039903.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79814787,
+        "name": "The White Stone of Legend",
+        "type": "Tuner Monster",
+        "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63391643,
+        "name": "Thousand Knives",
+        "type": "Spell Card",
+        "desc": "If you control \"Dark Magician\": Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63391643.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10097168,
+        "name": "Tiger Dragon",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10097168.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71625222,
+        "name": "Time Wizard",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71625222.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38120068,
+        "name": "Trade-In",
+        "type": "Spell Card",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75622824,
+        "name": "Tricky Spell 4",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up \"The Tricky\" you control to the Graveyard; Special Summon \"Tricky Tokens\" (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. \"Tricky Tokens\" cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75622824.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 911883,
+        "name": "Unexpected Dai",
+        "type": "Spell Card",
+        "desc": "If you control no monsters: Special Summon 1 Level 4 or lower Normal Monster from the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/911883.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99348756,
+        "name": "Valkyrian Knight",
+        "type": "Effect Monster",
+        "desc": "Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99348756.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14898066,
+        "name": "Vorse Raider",
+        "type": "Normal Monster",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14898066.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51405049,
+        "name": "Where Arf Thou?",
+        "type": "Spell Card",
+        "desc": "If you control a face-up Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51405049.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 23995346,
+        "name": "Blue-Eyes Ultimate Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23995346.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 88241506,
+        "name": "Maiden with Eyes of Blue",
+        "type": "Tuner Monster",
+        "desc": "When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. You can only use 1 \"Maiden with Eyes of Blue\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88241506.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 10000000,
+        "name": "Obelisk the Tormentor",
+        "type": "Effect Monster",
+        "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10000000.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 64043465,
+        "name": "Obliterate!!!",
+        "type": "Trap Card",
+        "desc": "You can target 1 monster on the field; send 1 \"Forbidden One\" monster or \"Exodia\" card from your hand or Deck to the Graveyard, and if you do, return that target to the hand. If this card is sent from the Spell & Trap Zone to the Graveyard: You can target 1 \"Forbidden One\" monster or \"Exodia\" card in your Graveyard; add it to your hand. You can only use 1 \"Obliterate!!!\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64043465.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 44405066,
+        "name": "Red-Eyes Flare Metal Dragon",
+        "type": "XYZ Monster",
+        "desc": "2 Level 7 monsters\nCannot be destroyed by card effects while it has Xyz Material. While this card has Xyz Material, each time your opponent activates a card or effect, inflict 500 damage to your opponent immediately after it resolves. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 \"Red-Eyes\" Normal Monster in your Graveyard; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44405066.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 39387565,
+        "name": "Return of the Red-Eyes",
+        "type": "Trap Card",
+        "desc": "If you control a \"Red-Eyes\" monster, except \"Red-Eyes B. Chick\": You can target 1 Normal Monster in your Graveyard; Special Summon it. If this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can target 1 \"Red-Eyes\" monster in your Graveyard, except \"Red-Eyes B. Chick\"; Special Summon it. You can only use each effect of \"Return of the Red-Eyes\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39387565.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 10000020,
+        "name": "Slifer the Sky Dragon",
+        "type": "Effect Monster",
+        "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. Gains 1000 ATK/DEF for each card in your hand. If a monster(s) is Normal or Special Summoned to your opponent's field in Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10000020.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 66574418,
+        "name": "The Black Stone of Legend",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; Special Summon 1 Level 7 or lower \"Red-Eyes\" monster from your Deck, except \"Red-Eyes B. Chick\". If this card is in your Graveyard: You can target 1 Level 7 or lower \"Red-Eyes\" monster in your Graveyard, except \"Red-Eyes B. Chick\"; shuffle it into the Deck, and if you do, add this card to your hand. You can only use 1 \"The Black Stone of Legend\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66574418.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 58604027,
+        "name": "The Legendary Exodia Incarnate",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Forbidden One\" monster, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each \"Forbidden One\" monster in your Graveyard. Unaffected by other cards' effects. Once per turn, during your End Phase: Add 1 \"Forbidden One\" monster from your Graveyard to your hand. When this card is destroyed by battle and sent to the Graveyard: You can reveal any number of \"Forbidden One\" monsters in your hand, and if you do, draw 1 card for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58604027.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 48800175,
+        "name": "The Melody of Awakening Dragon",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48800175.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 10000010,
+        "name": "The Winged Dragon of Ra",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10000010.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 40450317,
+        "name": "Ties of the Brethren",
+        "type": "Spell Card",
+        "desc": "Pay 2000 LP, then target 1 Level 4 or lower monster you control; for the rest of this turn after this card resolves, you cannot Special Summon monsters, also Special Summon 2 monsters from your Deck, with the same Type, Attribute, and Level as that monster, but with different names from each other and that monster. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40450317.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 49702428,
+        "name": "Dark Burning Attack",
+        "type": "Spell Card",
+        "desc": "If you control a \"Dark Magician Girl\" monster: Destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49702428.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75190122,
+        "name": "Dark Burning Magic",
+        "type": "Spell Card",
+        "desc": "If you control monsters whose original names are \"Dark Magician\" and \"Dark Magician Girl\": Destroy all cards your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75190122.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 48680970,
+        "name": "Eternal Soul",
+        "type": "Trap Card",
+        "desc": "Every \"Dark Magician\" in your Monster Zone is unaffected by your opponent's card effects. If this face-up card leaves the field: Destroy all monsters you control. You can only use the following effect of \"Eternal Soul\" once per turn. You can activate 1 of these effects;\r\n● Special Summon 1 \"Dark Magician\" from your hand or GY.\r\n● Add 1 \"Dark Magic Attack\" or \"Thousand Knives\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48680970.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

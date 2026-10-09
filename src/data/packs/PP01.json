@@ -1,0 +1,127 @@
+{
+  "setName": "Premium Pack (TCG)",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 76792184,
+        "name": "Black Magic Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Magician of Black Chaos\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76792184.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 99789342,
+        "name": "Dark Magic Curtain",
+        "type": "Spell Card",
+        "desc": "Pay half your LP; Special Summon 1 \"Dark Magician\" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99789342.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 67688478,
+        "name": "Gemini Imps",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67688478.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 26932788,
+        "name": "Javelin Beetle",
+        "type": "Ritual Monster",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26932788.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 41182875,
+        "name": "Javelin Beetle Pact",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Javelin Beetle\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41182875.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 30461781,
+        "name": "Legacy of Yata-Garasu",
+        "type": "Trap Card",
+        "desc": "Activate 1 of these effects:\n● Draw 1 card.\n● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30461781.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 30208479,
+        "name": "Magician of Black Chaos",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30208479.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 31305911,
+        "name": "Marshmallon",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31305911.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66865880,
+        "name": "Marshmallon Glasses",
+        "type": "Spell Card",
+        "desc": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66865880.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 68540058,
+        "name": "Metalmorph",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68540058.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 64335804,
+        "name": "Red-Eyes Black Metal Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64335804.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 3072077,
+        "name": "Return Zombie",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3072077.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 30683373,
+        "name": "Shield Crush",
+        "type": "Spell Card",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30683373.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 81756897,
+        "name": "Zera Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Zera the Mant\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81756897.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 69123138,
+        "name": "Zera the Mant",
+        "type": "Ritual Monster",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Zera Ritual\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69123138.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

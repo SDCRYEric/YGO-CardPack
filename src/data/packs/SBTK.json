@@ -1,0 +1,419 @@
+{
+  "setName": "Speed Duel: Trials of the Kingdom",
+  "pool": {
+    "Common": [
+      {
+        "id": 42431843,
+        "name": "Ancient Brain",
+        "type": "Normal Monster",
+        "desc": "A fallen fairy that is powerful in the dark.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42431843.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62633180,
+        "name": "Assault on GHQ",
+        "type": "Trap Card",
+        "desc": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76792184,
+        "name": "Black Magic Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Magician of Black Chaos\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76792184.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90654356,
+        "name": "Black Ptera",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90654356.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97783659,
+        "name": "Blood Sucker",
+        "type": "Effect Monster",
+        "desc": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97783659.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18914778,
+        "name": "Change Slime",
+        "type": "Normal Monster",
+        "desc": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18914778.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53713014,
+        "name": "Crazy Fish",
+        "type": "Normal Monster",
+        "desc": "A flying fish that attacks with its pointed head.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53713014.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 39978267,
+        "name": "Cyber Raider",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Activate 1 of these effects.\r\n● Target 1 Equip Card on the field; destroy that target.\r\n● Target 1 Equip Card on the field; equip that target to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39978267.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71200730,
+        "name": "Despair from the Dark",
+        "type": "Effect Monster",
+        "desc": "If this card is sent from your hand or Deck to your GY by an opponent's card effect: Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71200730.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75652080,
+        "name": "Double Cyclone",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap you control and 1 Spell/Trap your opponent controls; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75652080.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56916805,
+        "name": "Energy Drain",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; it gains 200 ATK/DEF for each card your opponent currently has in their hand, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56916805.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75560629,
+        "name": "Flint",
+        "type": "Spell Card",
+        "desc": "The equipped monster loses 300 ATK and cannot change its battle position or declare an attack. If this card is destroyed because the equipped monster is destroyed: Target 1 monster on the field; equip this card to that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75560629.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83812099,
+        "name": "Flint Lock",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 \"Flint\" in the Spell & Trap Zone; equip it to this card. During your Main Phase: You can target 1 \"Flint\" equipped to this card, and 1 face-up monster on the field, except this card; equip that \"Flint\" to that targeted monster. This card can only be equipped with 1 \"Flint\". While equipped with \"Flint\", this card is unaffected by the effect of \"Flint\", and cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83812099.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72299832,
+        "name": "Giant Mech-Soldier",
+        "type": "Normal Monster",
+        "desc": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72299832.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84620194,
+        "name": "Girochin Kuwagata",
+        "type": "Normal Monster",
+        "desc": "Despite its small size, this monster has powerful jaws that can rip metal to shreds.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84620194.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47025270,
+        "name": "Helping Robo for Combat",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47025270.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34559295,
+        "name": "Iron Draw",
+        "type": "Spell Card",
+        "desc": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34559295.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44689688,
+        "name": "Jurrac Spinos",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the GY: Special Summon 1 \"Spinos Token\" (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44689688.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76634149,
+        "name": "Kairyu-Shin",
+        "type": "Normal Monster",
+        "desc": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76634149.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71466592,
+        "name": "Maryokutai",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71466592.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65957473,
+        "name": "Metal Armored Bug",
+        "type": "Normal Monster",
+        "desc": "A gigantic insect-like creature covered by thick armor. Everything in his path is destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65957473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19153634,
+        "name": "Patrician of Darkness",
+        "type": "Effect Monster",
+        "desc": "You choose the attack targets for your opponent's attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19153634.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16222645,
+        "name": "Sasuke Samurai",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16222645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81443745,
+        "name": "Sealing Ceremony of Suiton",
+        "type": "Trap Card",
+        "desc": "Once per turn: You can send 1 WATER monster from your hand to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81443745.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56830749,
+        "name": "Share the Pain",
+        "type": "Spell Card",
+        "desc": "Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56830749.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14771222,
+        "name": "Shore Knight",
+        "type": "Effect Monster",
+        "desc": "Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14771222.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2504891,
+        "name": "Skull Knight",
+        "type": "Fusion Monster",
+        "desc": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2504891.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33951077,
+        "name": "Super War-Lion",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"War-Lion Ritual\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33951077.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83682725,
+        "name": "Tail Swipe",
+        "type": "Spell Card",
+        "desc": "Target 1 Level 5 or higher Dinosaur monster you control; if that Dinosaur monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return the chosen monsters to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83682725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28725004,
+        "name": "Tainted Wisdom",
+        "type": "Effect Monster",
+        "desc": "If this Attack Position card is changed to face-up Defense Position: Shuffle your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28725004.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3149764,
+        "name": "Tutan Mask",
+        "type": "Trap Card",
+        "desc": "When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3149764.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10813327,
+        "name": "Waking the Dragon",
+        "type": "Trap Card",
+        "desc": "If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10813327.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54539105,
+        "name": "War-Lion Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Super War-Lion\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54539105.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96643568,
+        "name": "Wetha",
+        "type": "Normal Monster",
+        "desc": "A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96643568.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 88610708,
+        "name": "Bashing Shield",
+        "type": "Spell Card",
+        "desc": "Equip only to a Normal Summoned/Set monster. It gains 1000 ATK. You take no battle damage from attacks involving it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88610708.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 300104003,
+        "name": "Dino Destruction",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Once per turn, you can choose 1 Level 6 or higher Dinosaur monster you control. This turn, if it attacks a Defense Position monster, inflict piercing battle damage. Flip this card over at the end of the turn you activated this Skill.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300104003.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 87102774,
+        "name": "Golden Ladybug",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn; gain 500 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87102774.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16111820,
+        "name": "Jurrac Herra",
+        "type": "Effect Monster",
+        "desc": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the GY: You can Special Summon this card from your hand or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16111820.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 48411996,
+        "name": "Jurrac Stauriko",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle: Special Summon 2 \"Jurrac Tokens\" (Dinosaur/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a \"Jurrac\" monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48411996.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 33057951,
+        "name": "Surface",
+        "type": "Spell Card",
+        "desc": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33057951.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 300104002,
+        "name": "Terror from the Deep!",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase, while you control \"Kairyu-Shin\". When this Skill is activated, you can activate \"Umi\" directly from your hand, Deck or GY. While you control \"Kairyu-Shin\", all WATER monsters you control are unaffected by Trap effects. If \"Kairyu-Shin\" you control leaves the field, draw 2 cards, and if you do, flip this card over.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300104002.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 300104001,
+        "name": "Zombie Master (Skill Card)",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Once per Duel, you can choose 1 Level 4 or lower Zombie monster you control, and it gains the following effect while face-up on the field.\r\n● Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300104001.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 300104004,
+        "name": "Cocoon of Ultra Evolution (Skill Card)",
+        "type": "Skill Card",
+        "desc": "Activate the following Skill(s) during your Main Phase.\r\n● You can Tribute 1 Insect monster from either field equipped with an Equip Card, and if you do, Special Summon 1 Insect monster from your Deck, ignoring its Summoning conditions, also flip this card over.\r\n● You can shuffle 1 Insect monster from your GY into the Deck, then draw 1 card, also flip this card over.\r\nEach of these Skills can only be used once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300104004.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 76922029,
+        "name": "Don Zaloog",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\r\n● Discard 1 random card from their hand.\r\n● Send the top 2 cards of their Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76922029.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 69599136,
+        "name": "Floodgate Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69599136.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 39033131,
+        "name": "Haunted Shrine",
+        "type": "Trap Card",
+        "desc": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but its effects are negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39033131.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 30208479,
+        "name": "Magician of Black Chaos",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30208479.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 14457896,
+        "name": "Parasite Paranoid",
+        "type": "Effect Monster",
+        "desc": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand to that target. The equipped monster becomes an Insect monster, cannot attack Insect monsters, also its effects that activate by targeting an Insect monster(s) are negated. You can only use this effect of \"Parasite Paranoid\" once per turn. If this Equip Card is sent to the GY: You can Special Summon 1 Level 7 or higher Insect monster from your hand, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14457896.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 300104005,
+        "name": "Switcheroo",
+        "type": "Skill Card",
+        "desc": "Activate this Skill during your Main Phase. Once per turn, you can shuffle 1 card from your hand into the Deck, then draw 1 card, also flip this card over. You can use this Skill up to twice per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300104005.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 19801646,
+        "name": "The Legendary Fisherman II",
+        "type": "Effect Monster",
+        "desc": "This card's name becomes \"The Legendary Fisherman\" while on the field or in the GY. While \"Umi\" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19801646.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 80987696,
+        "name": "Time Machine",
+        "type": "Trap Card",
+        "desc": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80987696.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

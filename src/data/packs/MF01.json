@@ -1,0 +1,15 @@
+{
+  "setName": "Mattel Action Figure promotional cards: Series 1",
+  "pool": {
+    "Normal Parallel Rare": [
+      {
+        "id": 61204971,
+        "name": "Elemental HERO Thunder Giant",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61204971.jpg",
+        "rarity": "Normal Parallel Rare"
+      }
+    ]
+  }
+}

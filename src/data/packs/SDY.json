@@ -1,0 +1,15 @@
+{
+  "setName": "Summoned Skull Sample promotional card",
+  "pool": {
+    "Common": [
+      {
+        "id": 70781052,
+        "name": "Summoned Skull",
+        "type": "Normal Monster",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70781052.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

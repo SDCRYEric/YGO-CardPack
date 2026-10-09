@@ -1,0 +1,175 @@
+{
+  "setName": "Duelist League 2 participation cards",
+  "pool": {
+    "Rare": [
+      {
+        "id": 85215458,
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "type": "Effect Monster",
+        "desc": "During either player's Damage Step, when a \"Blackwing\" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85215458.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 46986414,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986414.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 33396948,
+        "name": "Exodia the Forbidden One",
+        "type": "Effect Monster",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33396948.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 21598948,
+        "name": "Fairy Box",
+        "type": "Trap Card",
+        "desc": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21598948.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 33550694,
+        "name": "Fusion Gate",
+        "type": "Spell Card",
+        "desc": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33550694.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 24317029,
+        "name": "Gravekeeper's Spy",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24317029.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 20450925,
+        "name": "Hanewata",
+        "type": "Tuner Monster",
+        "desc": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20450925.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 53567095,
+        "name": "Icarus Attack",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53567095.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 39703254,
+        "name": "Inmato",
+        "type": "Effect Monster",
+        "desc": "When 1 other face-up Plant-Type monster is targeted by the effect of a Spell or Trap Card your opponent controls, you can Tribute this card to draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39703254.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 7902349,
+        "name": "Left Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7902349.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 44519536,
+        "name": "Left Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44519536.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 4929256,
+        "name": "Mobius the Frost Monarch",
+        "type": "Effect Monster",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 33508719,
+        "name": "Morphing Jar",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 57839750,
+        "name": "Mother Grizzly",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57839750.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 17449108,
+        "name": "Nobleman of Extermination",
+        "type": "Spell Card",
+        "desc": "Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17449108.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 77044671,
+        "name": "Pyramid Turtle",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77044671.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 70903634,
+        "name": "Right Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70903634.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 8124921,
+        "name": "Right Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "desc": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8124921.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 30450531,
+        "name": "Rite of Spirit",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target. This card's activation and effect are unaffected by \"Necrovalley\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30450531.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 72405967,
+        "name": "Royal Tribute",
+        "type": "Spell Card",
+        "desc": "If you control \"Necrovalley\": Both players discard any monsters in their hands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72405967.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 70780151,
+        "name": "Thought Ruler Archfiend",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys a monster by battle and sends it to the Graveyard: Gain LP equal to that monster's original ATK in the Graveyard. During either player's turn, when a Spell/Trap Card is activated that targets exactly 1 Psychic-Type monster (and no other cards): You can pay 1000 LP; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70780151.jpg",
+        "rarity": "Rare"
+      }
+    ]
+  }
+}

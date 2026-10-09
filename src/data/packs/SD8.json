@@ -1,0 +1,297 @@
+{
+  "setName": "Structure Deck: Lord of the Storm",
+  "pool": {
+    "Common": [
+      {
+        "id": 95132338,
+        "name": "Aqua Chorus",
+        "type": "Trap Card",
+        "desc": "If there are monsters with the same name on the field, increase the ATK and DEF of all of those monsters with the same name by 500 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95132338.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45547649,
+        "name": "Birdface",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 1 \"Harpie Lady\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45547649.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28470714,
+        "name": "Bladefly",
+        "type": "Effect Monster",
+        "desc": "As long as this card remains face-up on the field, increase the ATK of all WIND monsters by 500 points and decrease the ATK of all EARTH monsters by 400 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28470714.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97077563,
+        "name": "Call of the Haunted",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72892473,
+        "name": "Card Destruction",
+        "type": "Spell Card",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1804528,
+        "name": "Dark Coffin",
+        "type": "Trap Card",
+        "desc": "When this face-down card is destroyed and sent to the Graveyard, your opponent selects and executes 1 of the following effects:\n● Discard 1 random card in their hand.\n● Select 1 monster on their side of the field and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1804528.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90219263,
+        "name": "Elegant Egotist",
+        "type": "Spell Card",
+        "desc": "If \"Harpie Lady\" is on the field: Special Summon 1 \"Harpie Lady\" or \"Harpie Lady Sisters\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90219263.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84834865,
+        "name": "Flying Kamakiri #1",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84834865.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34100324,
+        "name": "Harpie Girl",
+        "type": "Normal Monster",
+        "desc": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34100324.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91932350,
+        "name": "Harpie Lady 1",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27927359,
+        "name": "Harpie Lady 2",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nNegate the effects of Flip monsters this card destroys by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27927359.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54415063,
+        "name": "Harpie Lady 3",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAn opponent's monster that battles this card cannot declare an attack during your opponent's next 2 turns.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54415063.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12206212,
+        "name": "Harpie Lady Sisters",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12206212.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6924874,
+        "name": "Harpie's Pet Baby Dragon",
+        "type": "Effect Monster",
+        "desc": "This card gains effects based on the number of \"Harpie\" monsters you control, except \"Harpie's Pet Baby Dragon\".\n● 1 or more: Your opponent cannot target \"Harpie\" monsters you control for attacks, except \"Harpie's Pet Baby Dragon\".\n● 2 or more: Double the original ATK and DEF of this card.\n● 3 or more: Once per turn: You can target 1 card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6924874.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 75782277,
+        "name": "Harpies' Hunting Ground",
+        "type": "Spell Card",
+        "desc": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75782277.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19613556,
+        "name": "Heavy Storm",
+        "type": "Spell Card",
+        "desc": "Destroy all Spell and Trap Cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19613556.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77778835,
+        "name": "Hysteric Party",
+        "type": "Trap Card",
+        "desc": "Activate this card by discarding 1 card; Special Summon as many copies of \"Harpie Lady\" as possible from your Graveyard. When this face-up card leaves the field, destroy those monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77778835.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53567095,
+        "name": "Icarus Attack",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53567095.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 82005435,
+        "name": "Lady Ninja Yae",
+        "type": "Effect Monster",
+        "desc": "By discarding 1 WIND monster from your hand to the Graveyard, return all Spell and Trap Cards on your opponent's side of the field to the owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82005435.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77414722,
+        "name": "Magic Jammer",
+        "type": "Trap Card",
+        "desc": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77414722.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70861343,
+        "name": "Ninjitsu Art of Transformation",
+        "type": "Trap Card",
+        "desc": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70861343.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71044499,
+        "name": "Nobleman of Crossout",
+        "type": "Spell Card",
+        "desc": "Target 1 face-down monster on the field; destroy that target, and if you do, banish it, then, if it was a Flip monster, each player reveals their Main Deck, then banishes all cards from it with that monster's name.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71044499.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37576645,
+        "name": "Reckless Greed",
+        "type": "Trap Card",
+        "desc": "Draw 2 cards and skip your next 2 Draw Phases.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37576645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 22589918,
+        "name": "Reload",
+        "type": "Spell Card",
+        "desc": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22589918.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28143906,
+        "name": "Roc from the Valley of Haze",
+        "type": "Effect Monster",
+        "desc": "When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28143906.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56120475,
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56120475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73001017,
+        "name": "Silpheed",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. When this card is destroyed as a result of battle and sent to the Graveyard, your opponent discards 1 random card from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73001017.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78636495,
+        "name": "Slate Warrior",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78636495.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84696266,
+        "name": "Sonic Duck",
+        "type": "Normal Monster",
+        "desc": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84696266.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40384720,
+        "name": "Sonic Shooter",
+        "type": "Effect Monster",
+        "desc": "If there are no cards in your opponent's Spell & Trap Zone, this card can attack your opponent directly. If it does, the battle damage inflicted to your opponent is the original ATK of this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40384720.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81896370,
+        "name": "Swift Birdman Joe",
+        "type": "Effect Monster",
+        "desc": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81896370.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12181376,
+        "name": "Triangle Ecstasy Spark",
+        "type": "Spell Card",
+        "desc": "Until the end of this turn, the ATK of all \"Harpie Lady Sisters\" currently on the field becomes 2700, your opponent cannot activate any Trap Cards, also negate all your opponent's Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12181376.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 14989021,
+        "name": "Simorgh, Bird of Divinity",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14989021.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

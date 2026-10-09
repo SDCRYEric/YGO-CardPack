@@ -1,0 +1,221 @@
+{
+  "setName": "Astral Pack Four",
+  "pool": {
+    "Common": [
+      {
+        "id": 22796548,
+        "name": "Archfiend's Oath",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can pay 500 Life Points, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22796548.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71645242,
+        "name": "Black Garden",
+        "type": "Spell Card",
+        "desc": "If a monster(s) is Normal or Special Summoned face-up, except by the effect of \"Black Garden\": Halve its ATK, then, the controller of that monster Special Summons 1 \"Rose Token\" (Plant/DARK/Level 2/ATK 800/DEF 800) to their opponent's field in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your GY with ATK equal to the total ATK of all Plant monsters on the field; destroy this card and as many Plant monsters on the field as possible, then, if you destroyed all of them, Special Summon that targeted monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71645242.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42009836,
+        "name": "Fossil Dyna Pachycephalo",
+        "type": "Effect Monster",
+        "desc": "If this card is flipped face-up: Destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42009836.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48686504,
+        "name": "Lonefire Blossom",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can Tribute 1 face-up Plant monster; Special Summon 1 Plant monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48686504.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18631392,
+        "name": "Ma'at",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect x 1000.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18631392.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32362575,
+        "name": "Magical Merchant",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32362575.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79106360,
+        "name": "Morphing Jar #2",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79106360.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58577036,
+        "name": "Reasoning",
+        "type": "Spell Card",
+        "desc": "Your opponent declares a monster Level from 1 to 12. Excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set, then, if that monster is the same Level as the one declared by your opponent, send all excavated cards to the GY. If not, Special Summon the excavated monster, also send the remaining cards to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58577036.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19139516,
+        "name": "Scrap Beast",
+        "type": "Tuner Monster",
+        "desc": "If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard: You can target 1 \"Scrap\" monster in your Graveyard, except \"Scrap Beast\"; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19139516.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48445393,
+        "name": "Scrapstorm",
+        "type": "Spell Card",
+        "desc": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48445393.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11819616,
+        "name": "Tytannial, Princess of Camellias",
+        "type": "Effect Monster",
+        "desc": "When a card or effect is activated that targets a card(s) on the field (Quick Effect): You can Tribute 1 face-up Plant monster; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11819616.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 2009101,
+        "name": "Blackwing - Gale the Whirlwind",
+        "type": "Tuner Monster",
+        "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK and DEF become half its current ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2009101.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 85215458,
+        "name": "Blackwing - Kalut the Moon Shadow",
+        "type": "Effect Monster",
+        "desc": "During either player's Damage Step, when a \"Blackwing\" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85215458.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63851864,
+        "name": "Break! Draw!",
+        "type": "Spell Card",
+        "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63851864.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 2980764,
+        "name": "Consecrated Light",
+        "type": "Effect Monster",
+        "desc": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2980764.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80321197,
+        "name": "Crimson Blader",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80321197.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 10719350,
+        "name": "Fire Formation - Tensu",
+        "type": "Spell Card",
+        "desc": "During your Main Phase, you can Normal Summon 1 Beast-Warrior monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior monsters you control gain 100 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10719350.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 73599290,
+        "name": "Soul Drain",
+        "type": "Trap Card",
+        "desc": "Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73599290.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 61592395,
+        "name": "Spellbook of Eternity",
+        "type": "Spell Card",
+        "desc": "Target 1 of your banished \"Spellbook\" Spell Cards, except \"Spellbook of Eternity\"; add that target to your hand. You can only activate 1 \"Spellbook of Eternity\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61592395.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88616795,
+        "name": "Spellbook of Wisdom",
+        "type": "Spell Card",
+        "desc": "Target 1 Spellcaster monster on the field, then activate 1 of these effects;\n● That face-up monster is unaffected by other Spell effects this turn.\n● That face-up monster is unaffected by Trap effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88616795.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18964575,
+        "name": "Swift Scarecrow",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18964575.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 15341821,
+        "name": "Dandylion",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the Graveyard: Special Summon 2 \"Fluff Tokens\" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15341821.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 23434538,
+        "name": "Maxx \"C\"",
+        "type": "Effect Monster",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23434538.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 47355498,
+        "name": "Necrovalley",
+        "type": "Spell Card",
+        "desc": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47355498.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 59036972,
+        "name": "Mavelus",
+        "type": "Fusion Monster",
+        "desc": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59036972.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 92944626,
+        "name": "Wings of Wicked Flame",
+        "type": "Normal Monster",
+        "desc": "Crimson wings of fire make this a very lethal creature.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92944626.jpg",
+        "rarity": "Short Print"
+      }
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "setName": "Cyberdark Impact",
+  "pool": {
+    "Common": [
+      {
+        "id": 12694768,
+        "name": "Abaki",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12694768.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98444741,
+        "name": "Accumulated Fortune",
+        "type": "Trap Card",
+        "desc": "Activate only as Chain Link 4 or higher. Draw 2 cards. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98444741.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76573247,
+        "name": "Alien Infiltrator",
+        "type": "Effect Monster",
+        "desc": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76573247.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99532708,
+        "name": "Alien Mars",
+        "type": "Effect Monster",
+        "desc": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99532708.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87257460,
+        "name": "Allure Queen LV3",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead. During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 \"Allure Queen LV5\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87257460.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84478195,
+        "name": "Barrier Statue of the Abyss",
+        "type": "Effect Monster",
+        "desc": "No monsters can be Special Summoned, except for DARK monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84478195.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19740112,
+        "name": "Barrier Statue of the Drought",
+        "type": "Effect Monster",
+        "desc": "No monsters can be Special Summoned, except for EARTH monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19740112.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46145256,
+        "name": "Barrier Statue of the Heavens",
+        "type": "Effect Monster",
+        "desc": "No monsters can be Special Summoned, except for LIGHT monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46145256.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47961808,
+        "name": "Barrier Statue of the Inferno",
+        "type": "Effect Monster",
+        "desc": "Neither player can Special Summon monsters, except FIRE monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47961808.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73356503,
+        "name": "Barrier Statue of the Stormwinds",
+        "type": "Effect Monster",
+        "desc": "No monsters can be Special Summoned, except for WIND monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73356503.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10963799,
+        "name": "Barrier Statue of the Torrent",
+        "type": "Effect Monster",
+        "desc": "Neither player can Special Summon monsters, except WATER monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10963799.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11685347,
+        "name": "Blast Asmodian",
+        "type": "Effect Monster",
+        "desc": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11685347.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36935434,
+        "name": "Byroad Sacrifice",
+        "type": "Trap Card",
+        "desc": "Activate only if a monster on your side of the field is destroyed by battle. Special Summon 1 \"Cyber Ogre\" from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36935434.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51449743,
+        "name": "Chain Detonation",
+        "type": "Trap Card",
+        "desc": "Inflict 500 damage to your opponent. If this card was activated as Chain Link 2 or 3, add this card to the Deck and shuffle it. If this card was activated as Chain Link 4 or higher, return this card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51449743.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25050038,
+        "name": "Chain Healing",
+        "type": "Trap Card",
+        "desc": "Gain 500 Life Points. If this card was activated as Chain Link 2 or 3, add this card to the Deck and shuffle it. If this card was activated as Chain Link 4 or higher, return this card to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25050038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91623717,
+        "name": "Chain Strike",
+        "type": "Spell Card",
+        "desc": "Activate only as Chain Link 2 or higher; inflict 400 damage to your opponent times the Chain Link number of this card. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91623717.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8806072,
+        "name": "Combo Fighter",
+        "type": "Effect Monster",
+        "desc": "If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8806072.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2561846,
+        "name": "Corruption Cell \"A\"",
+        "type": "Spell Card",
+        "desc": "Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2561846.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38834303,
+        "name": "Counter Cleaner",
+        "type": "Spell Card",
+        "desc": "Pay 500 Life Points. Remove all counters from the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38834303.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64268668,
+        "name": "Cyber Ogre",
+        "type": "Effect Monster",
+        "desc": "By discarding this card from your hand to the Graveyard, negate 1 battle involving a \"Cyber Ogre\" on your side of the field, and it gains 2000 ATK until the end of its next battle. This effect can be activated during either player's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64268668.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85313220,
+        "name": "Dark Lucius LV4",
+        "type": "Effect Monster",
+        "desc": "Negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card has destroyed a monster by battle: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV6\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85313220.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58098303,
+        "name": "Flame Ogre",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. When this card is Normal Summoned, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58098303.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1845204,
+        "name": "Instant Fusion",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Instant Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1845204.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 62271284,
+        "name": "Justi-Break",
+        "type": "Trap Card",
+        "desc": "Activate only when your opponent declares an attack against a face-up Normal Monster you control. Destroy all monsters on the field, except face-up Attack Position Normal Monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62271284.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90500169,
+        "name": "Level Down!?",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up \"LV\" on the field to activate this card. Return the selected card to its owner's Deck and Special Summon 1 monster from the owner's Graveyard to their side of the field with the same name but lower \"LV\" (ignoring the Summoning conditions).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90500169.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64238008,
+        "name": "Linear Accelerator Cannon",
+        "type": "Spell Card",
+        "desc": "Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64238008.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71395725,
+        "name": "Man Beast of Ares",
+        "type": "Effect Monster",
+        "desc": "After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71395725.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63516460,
+        "name": "Mystical Wind Typhoon",
+        "type": "Spell Card",
+        "desc": "Activate only as Chain Link 3 or higher. Destroy 1 Spell or Trap Card on the field. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63516460.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71411377,
+        "name": "Queen's Bodyguard",
+        "type": "Effect Monster",
+        "desc": "\"Allure Queen\" monsters on your side of the field cannot be selected as an attack target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71411377.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65450690,
+        "name": "Ritual Foregone",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; Special Summon 1 Ritual Monster from your hand, but it cannot attack, also destroy it during the End Phase. You can only activate 1 \"Ritual Foregone\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65450690.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63394872,
+        "name": "Senet Switch",
+        "type": "Spell Card",
+        "desc": "Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent (horizontal) unoccupied Monster Card Zone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63394872.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 84290642,
+        "name": "Snipe Hunter",
+        "type": "Effect Monster",
+        "desc": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84290642.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 25173686,
+        "name": "Straight Flush",
+        "type": "Trap Card",
+        "desc": "Activate only when all of your opponent's Spell & Trap Card Zones are occupied. Destroy all cards in your opponent's Spell & Trap Card Zones.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25173686.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86209650,
+        "name": "Stray Asmodian",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86209650.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24838456,
+        "name": "Vanity's Call",
+        "type": "Trap Card",
+        "desc": "Activate only as Chain Link 4 or higher. Pay half your Life Points. Negate the activation and effects of all other cards in the same Chain, and destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24838456.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Rare": [
+      {
+        "id": 23756165,
+        "name": "Allure Queen LV5",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Main Phase, if this card was Special Summoned by the effect of \"Allure Queen LV3\", you can select 1 Level 5 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead. During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 \"Allure Queen LV7\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23756165.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 50323155,
+        "name": "Black Horn of Heaven",
+        "type": "Trap Card",
+        "desc": "When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50323155.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 99788587,
+        "name": "Blasting Fuse",
+        "type": "Trap Card",
+        "desc": "Activate only when all zones of this card's column are occupied. Destroy all cards in this column.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99788587.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 44800181,
+        "name": "Combo Master",
+        "type": "Effect Monster",
+        "desc": "If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44800181.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 12817939,
+        "name": "Dark Lucius LV6",
+        "type": "Effect Monster",
+        "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV4\", negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card negated your opponent's monster effect by this effect: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV8\" from your hand or Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12817939.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 36995273,
+        "name": "Degenerate Circuit",
+        "type": "Spell Card",
+        "desc": "The controller of this card pays 500 Life Points during each of their Standby Phases (this is not optional). Monster Cards that would be returned from the field to the hand are removed from play instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36995273.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 98666339,
+        "name": "Dimensional Inversion",
+        "type": "Trap Card",
+        "desc": "Activate only when a monster(s) you own is removed from play by an opponent's effect. Special Summon 1 of those monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98666339.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 39956951,
+        "name": "Flash of the Forbidden Spell",
+        "type": "Spell Card",
+        "desc": "Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39956951.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 9628664,
+        "name": "Iris, the Earth Mother",
+        "type": "Effect Monster",
+        "desc": "After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9628664.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 45023678,
+        "name": "Lightning Punisher",
+        "type": "Effect Monster",
+        "desc": "After a Chain with 3 or more Links resolves, destroy 1 card on your opponent's side of the field. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45023678.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 37011715,
+        "name": "Miraculous Rebirth",
+        "type": "Spell Card",
+        "desc": "Activate only as Chain Link 4 or higher. Select 1 monster from either player's Graveyard and Special Summon it. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37011715.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 3784434,
+        "name": "Rampaging Rhynos",
+        "type": "Effect Monster",
+        "desc": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3784434.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 47084486,
+        "name": "Vanity's Fiend",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47084486.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 72634965,
+        "name": "Vanity's Ruler",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72634965.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 50140163,
+        "name": "Allure Queen LV7",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your Main Phase, if this card was Special Summoned by the effect of \"Allure Queen LV5\", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50140163.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 37057012,
+        "name": "Cyber Ogre 2",
+        "type": "Fusion Monster",
+        "desc": "\"Cyber Ogre\" + \"Cyber Ogre\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When this card attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37057012.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 40418351,
+        "name": "Cyberdark Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Cyberdark Horn\" + \"Cyberdark Edge\" + \"Cyberdark Keel\"\r\nThis monster cannot be Special Summoned except by Fusion Summon. When this monster is Special Summoned, select 1 Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card gains 100 ATK for each Monster Card in your Graveyard. If this card would be destroyed by battle, the equipped monster is destroyed instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40418351.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 58206034,
+        "name": "Dark Lucius LV8",
+        "type": "Effect Monster",
+        "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV6\", banish your opponent's monsters destroyed by battle with this card, also negate their effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58206034.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 91663373,
+        "name": "Cyber Esper",
+        "type": "Effect Monster",
+        "desc": "While this card is in face-up Attack Position, you can look at every card your opponent draws.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91663373.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90440725,
+        "name": "Cyber Shadow Gardna",
+        "type": "Trap Card",
+        "desc": "During your opponent's Main Phase: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK ?/DEF ?). (This card is also still a Trap.) When an opponent's monster declares an attack that targets this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. Once per turn, during your opponent's End Phase: Set this card in its Spell & Trap Zone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90440725.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 77625948,
+        "name": "Cyberdark Edge",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. This card can attack directly. If it does using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77625948.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41230939,
+        "name": "Cyberdark Horn",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41230939.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3019642,
+        "name": "Cyberdark Keel",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card destroys an opponent's monster by battle: Inflict 300 damage to your opponent. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3019642.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39188539,
+        "name": "Storm Shooter",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select and activate 1 of these effects: ● Move this card to an adjacent (horizontal) unoccupied Monster Card Zone. ● Return 1 Spell, Trap or Monster Card on your opponent's side of the field in the same column as this card to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39188539.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63323539,
+        "name": "Trojan Blast",
+        "type": "Trap Card",
+        "desc": "Activate only when an opponent's card effect shifts control of a monster from your side of the field to theirs. Destroy that 1 monster and inflict damage to your opponent equal to its ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63323539.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

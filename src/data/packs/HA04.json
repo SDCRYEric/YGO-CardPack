@@ -1,0 +1,489 @@
+{
+  "setName": "Hidden Arsenal 4: Trishula's Triumph",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 26304459,
+        "name": "Ancient Flamvell Deity",
+        "type": "Synchro Monster",
+        "desc": "1 FIRE Tuner + 1 or more non-Tuner Pyro-Type monsters\nWhen this card is Synchro Summoned, remove from play cards from your opponent's Graveyard up to the number of cards in their hand. This card gains 200 ATK for each card removed from play by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26304459.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 25682811,
+        "name": "Dragunity Knight - Barcha",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is Synchro Summoned, you can select any number of Dragon-Type \"Dragunity\" monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each \"Dragunity\" card equipped to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25682811.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80159717,
+        "name": "Dragunity Knight - Trident",
+        "type": "Synchro Monster",
+        "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards from there to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80159717.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 18060565,
+        "name": "Dragunity Primus Pilus",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18060565.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 53199020,
+        "name": "Fabled Dianaira",
+        "type": "Effect Monster",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Fabled\" monster. Once per turn, the first opponent's Normal Spell Card effect to resolve becomes \"Your opponent discards 1 card\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53199020.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 53921056,
+        "name": "General Gantala of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, during your End Phase, you can select 1 \"Ice Barrier\" monster in your Graveyard, except \"General Gantala of the Ice Barrier\", and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53921056.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 81275309,
+        "name": "General Raiho of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81275309.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 94622638,
+        "name": "Genex Ally Powercell",
+        "type": "Effect Monster",
+        "desc": "Other face-up monsters you control with the same Attribute as this card gain 500 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94622638.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 63211608,
+        "name": "Genex Ally Reliever",
+        "type": "Effect Monster",
+        "desc": "If you negate the activation of a Spell Card, Trap Card, or Effect Monster's effect activated by your opponent, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63211608.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 17760003,
+        "name": "Genex Ally Triarm",
+        "type": "Synchro Monster",
+        "desc": "\"Genex Controller\" + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. Once per turn, you can discard 1 card to activate one of its effects: ● WIND: Send 1 random card from your opponent's hand to the Graveyard. ● WATER: Select 1 Spell/Trap Card on the field, and destroy it. ● DARK: Select 1 face-up LIGHT monster on the field, destroy it and draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17760003.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52709508,
+        "name": "Genex Ally Triforce",
+        "type": "Synchro Monster",
+        "desc": "1 \"Genex\" Tuner + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. ● EARTH: If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. ● FIRE: If this card destroys a monster by battle, inflict damage to your opponent equal to the ATK of the destroyed monster. ● LIGHT: Once per turn, you can select 1 LIGHT monster in your Graveyard and Special Summon it in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52709508.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 17548456,
+        "name": "Jurrac Meteor",
+        "type": "Synchro Monster",
+        "desc": "1 \"Jurrac\" Tuner + 2 or more non-Tuner Dinosaur-Type monsters\nWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17548456.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 99916754,
+        "name": "Naturia Exterio",
+        "type": "Fusion Monster",
+        "desc": "\"Naturia Beast\" + \"Naturia Barkion\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While this card is face-up on the field, you can negate the activation of a Spell/Trap Card, and destroy it, by removing from play 1 card from your Graveyard, then sending the top card of your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99916754.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 43932460,
+        "name": "Naturia Landoise",
+        "type": "Synchro Monster",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters\nWhile this card is face-up on the field, you can send 1 Spell Card from your hand to the Graveyard to negate the activation of an Effect Monster's effect and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43932460.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 24644634,
+        "name": "Naturia White Oak",
+        "type": "Effect Monster",
+        "desc": "When this card is targeted by an opponent's card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower \"Naturia\" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24644634.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 91554542,
+        "name": "Neo Flamvell Sabre",
+        "type": "Effect Monster",
+        "desc": "While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91554542.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 82888408,
+        "name": "The Fabled Cerburrel",
+        "type": "Tuner Monster",
+        "desc": "If this card is discarded to the GY: Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82888408.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 89194103,
+        "name": "The Fabled Kudabbi",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nThis card gains the following effect based on the number of cards in your hand.\r\n● 0: Cannot be destroyed by battle or card effects.\r\n● 3+: Once per turn, during the End Phase: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89194103.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 44155002,
+        "name": "The Fabled Unicore",
+        "type": "Synchro Monster",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhile you and your opponent have the same number of cards in hand, negate all cards and effects activated by your opponent, and if you do, destroy those cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44155002.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52687916,
+        "name": "Trishula, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 82498947,
+        "name": "Defender of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82498947.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88361177,
+        "name": "Dragunity Angusticlavii",
+        "type": "Effect Monster",
+        "desc": "While this card is equipped with a Dragon-Type \"Dragunity\" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this monster, inflict the difference as Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88361177.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54455664,
+        "name": "Dragunity Brandistock",
+        "type": "Tuner Monster",
+        "desc": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54455664.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 99594764,
+        "name": "Dragunity Corsesca",
+        "type": "Tuner Monster",
+        "desc": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99594764.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80549379,
+        "name": "Dragunity Javelin",
+        "type": "Tuner Monster",
+        "desc": "If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type \"Dragunity\" monster you control, instead of sending it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80549379.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81661951,
+        "name": "Dragunity Militum",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81661951.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25988873,
+        "name": "Dragunity Partisan",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster is treated as a Tuner monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25988873.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 52977572,
+        "name": "Dragunity Pilum",
+        "type": "Tuner Monster",
+        "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster can attack your opponent directly. When you do, Battle Damage inflicted to your opponent (by the equipped monster) is halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52977572.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 91438994,
+        "name": "Genex Ally Bellflame",
+        "type": "Effect Monster",
+        "desc": "Each time a monster(s) you control is sent to the Graveyard, place 1 Genex Counter on this card. Each time a card(s) in your opponent's Graveyard is banished, place 2 Genex Counters on this card. This card gains 100 ATK for each Genex Counter on the field. If this card is destroyed by battle and sent to the Graveyard: Inflict 300 damage to your opponent for each Genex Counter that was on this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91438994.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64034255,
+        "name": "Genex Ally Birdman",
+        "type": "Tuner Monster",
+        "desc": "You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64034255.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20127343,
+        "name": "Genex Ally Changer",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20127343.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 38049541,
+        "name": "Genex Ally Chemistrer",
+        "type": "Tuner Monster",
+        "desc": "You can declare 1 Attribute and discard this card to select 1 face-up \"Genex\" monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38049541.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27827903,
+        "name": "Genex Ally Crusher",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27827903.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 57238939,
+        "name": "Genex Ally Remote",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can select 1 face-up Tuner monster on the field. The selected monster's name is treated as \"Genex Controller\" until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57238939.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 83500096,
+        "name": "Genex Ally Solid",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 face-up WATER \"Genex\" monster you control to the Graveyard to draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83500096.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56511382,
+        "name": "Genex Ally Volcannon",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 face-up FIRE \"Genex\" monster you control to the Graveyard to select 1 face-up monster your opponent controls, destroy it, and inflict damage to your opponent equal to the Level of the destroyed monster x 400.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56511382.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 80727721,
+        "name": "Jurrac Aeolo",
+        "type": "Tuner Monster",
+        "desc": "You can Tribute this card to select 1 Level 4 or lower \"Jurrac\" monster in your Graveyard, except \"Jurrac Aeolo\". Special Summon that monster from the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80727721.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17948378,
+        "name": "Jurrac Dino",
+        "type": "Tuner Monster",
+        "desc": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17948378.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 43332022,
+        "name": "Jurrac Gallim",
+        "type": "Tuner Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43332022.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 16111820,
+        "name": "Jurrac Herra",
+        "type": "Effect Monster",
+        "desc": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the GY: You can Special Summon this card from your hand or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16111820.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42110434,
+        "name": "Naturia Butterfly",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, when your opponent's monster declares an attack, you can send the top card of your Deck to the Graveyard and negate that attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42110434.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 19605133,
+        "name": "Naturia Ladybug",
+        "type": "Effect Monster",
+        "desc": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19605133.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51254980,
+        "name": "Naturia Mantis",
+        "type": "Effect Monster",
+        "desc": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51254980.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 87649699,
+        "name": "Naturia Ragweed",
+        "type": "Effect Monster",
+        "desc": "When your opponent draws a card(s), except during the Draw Phase, you can send this face-up card you control to the Graveyard to draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87649699.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25866285,
+        "name": "Naturia Stinkbug",
+        "type": "Tuner Monster",
+        "desc": "When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25866285.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55099248,
+        "name": "Naturia Strawberry",
+        "type": "Effect Monster",
+        "desc": "Once per turn, when your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; this card gains 100 ATK x the Level of that monster, until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55099248.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65156847,
+        "name": "Neo Flamvell Garuda",
+        "type": "Effect Monster",
+        "desc": "During your End Phase, if you control another face-up \"Flamvell\" monster, select 1 card in your opponent's Graveyard and remove it from play.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65156847.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 2377034,
+        "name": "Neo Flamvell Hedgehog",
+        "type": "Tuner Monster",
+        "desc": "If this card is destroyed by battle, select 1 card in your opponent's Graveyard and remove it from play. If this card on the field is destroyed by a card effect, select 1 FIRE monster with 200 or less DEF in your Graveyard, except \"Neo Flamvell Hedgehog\", and add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2377034.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 66378485,
+        "name": "Neo Flamvell Origin",
+        "type": "Tuner Monster",
+        "desc": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66378485.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39761138,
+        "name": "Neo Flamvell Shaman",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle while you have 3 or more \"Flamvell\" monsters in your Graveyard, select 1 card in your opponent's Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39761138.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44877690,
+        "name": "Sacred Spirit of the Ice Barrier",
+        "type": "Spirit Monster",
+        "desc": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card's effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44877690.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27527047,
+        "name": "Secret Guards of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Face-up \"Ice Barrier\" monsters you control cannot be targeted by effects of your opponent's Effect Monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27527047.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 50032342,
+        "name": "Strategist of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50032342.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56399890,
+        "name": "The Fabled Catsith",
+        "type": "Tuner Monster",
+        "desc": "If this card is discarded to the GY: Target 1 face-up card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56399890.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29905795,
+        "name": "The Fabled Chawa",
+        "type": "Tuner Monster",
+        "desc": "During your Main Phase: You can activate this effect; discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29905795.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18282103,
+        "name": "The Fabled Ganashia",
+        "type": "Effect Monster",
+        "desc": "If this card is discarded to the GY: Special Summon it. If Summoned this way, it gains 200 ATK, but banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18282103.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26704411,
+        "name": "The Fabled Kokkator",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can discard 1 \"Fabled\" monster; draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26704411.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55277252,
+        "name": "The Fabled Nozoochee",
+        "type": "Effect Monster",
+        "desc": "During your Main Phase: You can discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand. When this card is Special Summoned this way: You can Special Summon 1 Level 2 or lower \"Fabled\" monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55277252.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 90616316,
+        "name": "The Fabled Peggulsus",
+        "type": "Tuner Monster",
+        "desc": "When this card is discarded to the GY: You can Special Summon it in face-down Defense Position. When this card is flipped face-up: You can reveal 1 \"Fabled\" monster in your hand; send 1 \"Fabled\" monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90616316.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18482591,
+        "name": "Warlock of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "While you control another face-up \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18482591.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

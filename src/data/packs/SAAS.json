@@ -1,0 +1,15 @@
+{
+  "setName": "Samurai Assault",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 61737116,
+        "name": "Elder of the Six Samurai",
+        "type": "Effect Monster",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61737116.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

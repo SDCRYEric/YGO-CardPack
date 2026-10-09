@@ -1,0 +1,537 @@
+{
+  "setName": "Speed Duel Starter Decks: Match of the Millennium",
+  "pool": {
+    "Ultra Rare": [
+      {
+        "id": 46052429,
+        "name": "Advanced Ritual Art",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46052429.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 24508238,
+        "name": "D.D. Crow",
+        "type": "Effect Monster",
+        "desc": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24508238.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 28486799,
+        "name": "Backup Squad",
+        "type": "Spell Card",
+        "desc": "Each time you take 1000 or more damage by your opponent's card effect or their monster's attack: Draw 1 card for every 1000 damage you took.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28486799.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32452818,
+        "name": "Beaver Warrior",
+        "type": "Normal Monster",
+        "desc": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32452818.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41426869,
+        "name": "Black Illusion Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41426869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55761792,
+        "name": "Black Luster Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Black Luster Soldier\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55761792.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5405694,
+        "name": "Black Luster Soldier",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Black Luster Ritual\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5405694.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91152258,
+        "name": "Celtic Guardian",
+        "type": "Normal Monster",
+        "desc": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91152258.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7841921,
+        "name": "Charging Gaia the Fierce Knight",
+        "type": "Effect Monster",
+        "desc": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its original ATK becomes 1900. If this card is Tributed: You can add 1 \"Black Luster Soldier\" monster from your Deck to your hand. You can only use this effect of \"Charging Gaia the Fierce Knight\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7841921.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28279543,
+        "name": "Curse of Dragon",
+        "type": "Normal Monster",
+        "desc": "A wicked dragon that taps into dark forces to execute a powerful attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28279543.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46986415,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986415.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30492798,
+        "name": "Djinn Disserere of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. The monster Ritual Summoned using this card is unaffected by Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30492798.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4141820,
+        "name": "Djinn Prognosticator of Rituals",
+        "type": "Effect Monster",
+        "desc": "When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. If you Ritual Summon using this card, if that Ritual Summoned monster inflicts battle damage to your opponent, they discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4141820.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73872164,
+        "name": "Eliminating the League",
+        "type": "Trap Card",
+        "desc": "Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73872164.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6178850,
+        "name": "Fighting Spirit",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6178850.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48206762,
+        "name": "Fulfillment of the Contract",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48206762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 66889139,
+        "name": "Gaia the Dragon Champion",
+        "type": "Fusion Monster",
+        "desc": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66889139.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6368038,
+        "name": "Gaia The Fierce Knight",
+        "type": "Normal Monster",
+        "desc": "''A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6368038.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13039848,
+        "name": "Giant Soldier of Stone",
+        "type": "Normal Monster",
+        "desc": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13039848.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18658572,
+        "name": "Goblin Circus",
+        "type": "Spell Card",
+        "desc": "Once per turn, during your End Phase: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18658572.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28546905,
+        "name": "Illusionist Faceless Mage",
+        "type": "Normal Monster",
+        "desc": "Manipulates enemy attacks with the power of illusion.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28546905.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15173384,
+        "name": "Illusionist Faceless Magician",
+        "type": "Effect Monster",
+        "desc": "If a face-up \"Eyes Restrict\" Fusion Monster(s) or \"Relinquished\" you control is destroyed by battle or card effect: You can Special Summon this card from the GY (if it was there when that monster was destroyed) or hand (even if not). If this card is sent from the field to the GY: You can target 1 \"Eyes Restrict\" Fusion Monster or \"Relinquished\" in your GY; Special Summon it. You can only use each effect of \"Illusionist Faceless Magician\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15173384.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300204002,
+        "name": "Knight of Legend",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Each turn, 1 \"Gaia The Fierce Knight\" you Normal Summon can be Summoned without Tributing. Apply the following Skills while you control a \"Gaia The Fierce Knight\" monster or a \"Gaia the Dragon Champion\" monster.\r\n● If it attacks a Defense Position monster, inflict piercing battle damage. Once per turn, if it inflicts battle damage with this Skill, draw 2 cards, then discard 1 card.\r\n● You cannot activate Set cards in the Spell & Trap Zone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300204002.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40640057,
+        "name": "Kuriboh",
+        "type": "Effect Monster",
+        "desc": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40640057.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77414722,
+        "name": "Magic Jammer",
+        "type": "Trap Card",
+        "desc": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77414722.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31560081,
+        "name": "Magician of Faith",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38369349,
+        "name": "Manga Ryu-Ran",
+        "type": "Toon Monster",
+        "desc": "(This card is always treated as a \"Toon\" card.)\nCannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38369349.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45141844,
+        "name": "Old Vindictive Magician",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45141844.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27847700,
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27847700.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65570596,
+        "name": "Red Archery Girl",
+        "type": "Normal Monster",
+        "desc": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65570596.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64631466,
+        "name": "Relinquished",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64631466.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300204001,
+        "name": "Ritual of Black Mastery",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase, while you control \"Black Luster Soldier\" or \"Magician of Black Chaos\" that you Ritual Summoned this turn.\r\n● While you control \"Black Luster Soldier\", it cannot be destroyed by your opponent's Skill, also once per turn, if your opponent activates a Trap Card, draw 1 card immediately after it resolves.\r\n● While you control \"Magician of Black Chaos\", it cannot be destroyed by your opponent's Spell effects, also if your \"Magician of Black Chaos\" destroys a monster by battle, add 1 Spell from your GY to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300204001.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26533075,
+        "name": "Security Orb",
+        "type": "Trap Card",
+        "desc": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26533075.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 23401840,
+        "name": "Senju of the Thousand Hands",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23401840.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3819470,
+        "name": "Seven Tools of the Bandit",
+        "type": "Trap Card",
+        "desc": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3819470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40575313,
+        "name": "Shadow Specter",
+        "type": "Normal Monster",
+        "desc": "Powerful in groups, this animal spirit can be found in the wastelands.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40575313.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3244563,
+        "name": "Shield Spear",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3244563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90357090,
+        "name": "Silver Fang",
+        "type": "Normal Monster",
+        "desc": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90357090.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73729209,
+        "name": "Skill Successor",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73729209.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57617178,
+        "name": "Sonic Bird",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57617178.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 5758500,
+        "name": "Soul Release",
+        "type": "Spell Card",
+        "desc": "Target up to 5 cards in any GY(s); banish them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5758500.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93260132,
+        "name": "Spell Shattering Arrow",
+        "type": "Spell Card",
+        "desc": "Destroy as many face-up Spells your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93260132.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18807108,
+        "name": "Spellbinding Circle",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18807108.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33245030,
+        "name": "Sphere Kuriboh",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33245030.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49328340,
+        "name": "Spiral Spear Strike",
+        "type": "Spell Card",
+        "desc": "If \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\", or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If \"Gaia the Dragon Champion\" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49328340.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79816536,
+        "name": "Summoner's Art",
+        "type": "Spell Card",
+        "desc": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79816536.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 27125110,
+        "name": "Thousand-Eyes Idol",
+        "type": "Normal Monster",
+        "desc": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27125110.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63519819,
+        "name": "Thousand-Eyes Restrict",
+        "type": "Fusion Monster",
+        "desc": "\"Relinquished\" + \"Thousand-Eyes Idol\"\r\nOther monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63519819.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300204003,
+        "name": "Thousand-Eyes Spell",
+        "type": "Skill Card",
+        "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per turn, you can discard 1 card and use 1 of the following Skills, but you cannot conduct your Battle Phase this turn.\r\n● Ritual Summon 1 \"Relinquished\" from your hand by Tributing a monster from your hand or field whose Level is 1 or more, also flip this card over.\r\n● Fusion Summon 1 \"Thousand-Eyes Restrict\" from your Extra Deck, using monsters from your hand or field as Fusion Material, also flip this card over.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300204003.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59383041,
+        "name": "Toon Alligator",
+        "type": "Normal Monster",
+        "desc": "An alligator monster straight from the cartoons.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59383041.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28112535,
+        "name": "Toon Barrel Dragon",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can target 1 card on the field; toss a coin 3 times and destroy it if at least 2 of the results are Heads.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28112535.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61190918,
+        "name": "Toon Buster Blader",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. Gains 500 ATK for each Dragon monster your opponent controls or is in their GY. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61190918.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21296502,
+        "name": "Toon Dark Magician",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can discard 1 \"Toon\" card, then activate 1 of these effects;\n● Special Summon 1 Toon monster from your Deck, except \"Toon Dark Magician\", ignoring its Summoning conditions.\n● Add 1 \"Toon\" Spell/Trap from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21296502.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42386471,
+        "name": "Toon Gemini Elf",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42386471.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79447365,
+        "name": "Toon Mask",
+        "type": "Trap Card",
+        "desc": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79447365.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16392422,
+        "name": "Toon Masked Sorcerer",
+        "type": "Toon Monster",
+        "desc": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16392422.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 300204004,
+        "name": "Toon Mayhem!",
+        "type": "Skill Card",
+        "desc": "[At the start of the Duel, flip this card over.]\r\n\r\nThe first time each \"Toon World\" in your Spell & Trap Zone would be destroyed each turn, it is not destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/300204004.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65458948,
+        "name": "Toon Mermaid",
+        "type": "Toon Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand), while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65458948.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70560957,
+        "name": "Toon Rollback",
+        "type": "Spell Card",
+        "desc": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70560957.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91842653,
+        "name": "Toon Summoned Skull",
+        "type": "Toon Monster",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nCannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91842653.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 89997728,
+        "name": "Toon Table of Contents",
+        "type": "Spell Card",
+        "desc": "Add 1 \"Toon\" card from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15259704,
+        "name": "Toon World",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15259704.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45939841,
+        "name": "Twister",
+        "type": "Spell Card",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18756904,
+        "name": "White Elephant's Gift",
+        "type": "Spell Card",
+        "desc": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18756904.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 87796900,
+        "name": "Winged Dragon, Guardian of the Fortress #1",
+        "type": "Normal Monster",
+        "desc": "A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/87796900.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

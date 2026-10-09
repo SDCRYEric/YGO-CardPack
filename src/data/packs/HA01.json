@@ -1,0 +1,249 @@
+{
+  "setName": "Hidden Arsenal",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 26593852,
+        "name": "Ally of Justice Catastor",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26593852.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 60161788,
+        "name": "Blizzed, Defender of the Ice Barrier",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 50321796,
+        "name": "Brionac, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50321796.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 53388413,
+        "name": "Commander Gottoms, Swordmaster",
+        "type": "Effect Monster",
+        "desc": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53388413.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 23950192,
+        "name": "Cryomancer of the Ice Barrier",
+        "type": "Tuner Monster",
+        "desc": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23950192.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52875873,
+        "name": "Evolution Burst",
+        "type": "Spell Card",
+        "desc": "If you control \"Cyber Dragon\": Target 1 card your opponent controls; destroy that target. \"Cyber Dragon\" cannot attack the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52875873.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 53714009,
+        "name": "Flamvell Uruquizas",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53714009.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 95443805,
+        "name": "Mist Valley Shaman",
+        "type": "Tuner Monster",
+        "desc": "Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95443805.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 22837504,
+        "name": "Mist Valley Soldier",
+        "type": "Tuner Monster",
+        "desc": "While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22837504.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 69448290,
+        "name": "Mist Valley Thunderbird",
+        "type": "Effect Monster",
+        "desc": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69448290.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 27315304,
+        "name": "Mist Wurm",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14936691,
+        "name": "Worm Erokin",
+        "type": "Effect Monster",
+        "desc": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14936691.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 52098461,
+        "name": "Wrath of Neos",
+        "type": "Spell Card",
+        "desc": "Select 1 face-up \"Elemental HERO Neos\" you control. Return it to the Deck and destroy all cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52098461.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 90508760,
+        "name": "X-Saber Airbellum",
+        "type": "Tuner Monster",
+        "desc": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90508760.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80108118,
+        "name": "X-Saber Urbellum",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80108118.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 89386122,
+        "name": "Ally of Justice Clausolas",
+        "type": "Normal Monster",
+        "desc": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89386122.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 25771826,
+        "name": "Ally of Justice Garadholg",
+        "type": "Effect Monster",
+        "desc": "If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/25771826.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 52265835,
+        "name": "Ally of Justice Rudra",
+        "type": "Effect Monster",
+        "desc": "If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52265835.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15471265,
+        "name": "Berserker Crush",
+        "type": "Spell Card",
+        "desc": "Banish 1 monster from your GY, then target 1 \"Winged Kuriboh\" you control; that target's ATK/DEF become equal to the ATK/DEF of the monster that was banished, until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15471265.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 96565487,
+        "name": "Blizzard Warrior",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return that card to either the top or the bottom of their Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96565487.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89086566,
+        "name": "Detonate",
+        "type": "Spell Card",
+        "desc": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of cards destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89086566.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68226653,
+        "name": "Flamvell Dragnov",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 \"Flamvell Dragnov\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68226653.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 21615956,
+        "name": "Flamvell Guard",
+        "type": "Normal Tuner Monster",
+        "desc": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 95621257,
+        "name": "Flamvell Magician",
+        "type": "Tuner Monster",
+        "desc": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95621257.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88650530,
+        "name": "Worm Apocalypse",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Target 1 Spell/Trap Card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88650530.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15658249,
+        "name": "Worm Barses",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15658249.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51043243,
+        "name": "Worm Cartaros",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51043243.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 88438982,
+        "name": "Worm Dimikles",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: This card gains 300 ATK and DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88438982.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53100061,
+        "name": "X-Saber Axel",
+        "type": "Effect Monster",
+        "desc": "While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53100061.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26993374,
+        "name": "X-Saber Uruz",
+        "type": "Effect Monster",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Tribute this card to return the destroyed card to the top of its owner's Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26993374.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

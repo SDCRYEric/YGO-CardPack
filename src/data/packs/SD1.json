@@ -1,0 +1,23 @@
+{
+  "setName": "Structure Deck: Deluxe Edition",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 73879377,
+        "name": "Armed Dragon LV7",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 93382620,
+        "name": "Rope of Life",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is destroyed by battle and sent to your GY: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93382620.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "setName": "Number Hunters",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 12533811,
+        "name": "Baby Tiragon",
+        "type": "XYZ Monster",
+        "desc": "3 Level 1 monsters\nDuring your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12533811.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55550921,
+        "name": "Battle Warrior",
+        "type": "Normal Monster",
+        "desc": "A warrior that fights with his bare hands!!!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55550921.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40424929,
+        "name": "Battlecruiser Dianthus",
+        "type": "XYZ Monster",
+        "desc": "3 Level 3 monsters\nYou can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of \"Battlecruiser Dianthus\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40424929.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54582424,
+        "name": "Blue Mountain Butterspy",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. When you Normal Summon a Warrior monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54582424.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63630268,
+        "name": "Butterspy Protection",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up Attack Position monster on the field; change it to face-up Defense Position, also any damage you take for the rest of this turn is halved.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63630268.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65393205,
+        "name": "Chakra",
+        "type": "Ritual Monster",
+        "desc": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65393205.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94766498,
+        "name": "Chronomaly Aztec Mask Golem",
+        "type": "Effect Monster",
+        "desc": "During your turn, if you have activated a \"Chronomaly\" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Aztec Mask Golem\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94766498.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20154092,
+        "name": "Chronomaly Cabrera Trebuchet",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can Tribute 1 other \"Chronomaly\" monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20154092.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 67559101,
+        "name": "Chronomaly Mud Golem",
+        "type": "Effect Monster",
+        "desc": "If a \"Chronomaly\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67559101.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93543806,
+        "name": "Chronomaly Sol Monolith",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can target 1 \"Chronomaly\" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except \"Chronomaly\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93543806.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41309158,
+        "name": "CXyz Mechquipped Djinn Angeneral",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\nWhen this card is Xyz Summoned: You can target 1 Defense Position monster on the field; change that target to face-up Attack Position. If this card has \"Mechquipped Angineer\" as an Xyz Material, it gains this effect.\n● When this card inflicts battle damage to your opponent: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41309158.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 12423762,
+        "name": "Gagaga Gardna",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. When this card is targeted for an attack: You can discard 1 card; this card cannot be destroyed by that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12423762.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 19012345,
+        "name": "Gash the Dust Lord",
+        "type": "Effect Monster",
+        "desc": "When this card inflicts battle damage to your opponent: Increase the Level of this card by 1 (max. 12).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19012345.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20032555,
+        "name": "Gimmick Puppet Egg Head",
+        "type": "Effect Monster",
+        "desc": "You can only use the effect of \"Gimmick Puppet Egg Head\" once per turn. You can discard 1 \"Gimmick Puppet\" monster, then activate 1 of these effects;\n● Inflict 800 damage to your opponent.\n● This card's Level becomes 8 until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20032555.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56427559,
+        "name": "Gimmick Puppet Gear Changer",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned from the Deck. Once per turn: You can target 1 \"Gimmick Puppet\" monster you control, except this card; this card's Level becomes the Level of that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56427559.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55204071,
+        "name": "Gimmick Puppet Nightmare",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 1 face-up Xyz Monster you control. You can only Special Summon \"Gimmick Puppet Nightmare\" once per turn this way. When you do: You can Special Summon 1 \"Gimmick Puppet Nightmare\" from your hand or Graveyard. If this card is Special Summoned, you cannot Special Summon any monsters for the rest of this turn, except \"Gimmick Puppet\" monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55204071.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29216967,
+        "name": "Gimmick Puppet Scissor Arms",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can send 1 \"Gimmick Puppet\" monster from your Deck to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29216967.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 92821268,
+        "name": "Gimmick Puppet Twilight Joker",
+        "type": "Effect Monster",
+        "desc": "When a \"Gimmick Puppet\" monster you control is destroyed by battle and sent to your Graveyard: You can banish that monster; Special Summon this card from your hand. You can only use the effect of \"Gimmick Puppet Twilight Joker\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92821268.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39695323,
+        "name": "Gogogo Giant",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can target 1 \"Gogogo\" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39695323.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 62476815,
+        "name": "Gogogo Golem",
+        "type": "Effect Monster",
+        "desc": "Once per turn, this Defense Position card cannot be destroyed by battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62476815.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37241623,
+        "name": "Heraldry Record",
+        "type": "Trap Card",
+        "desc": "When an effect of your opponent's Xyz Monster is activated by detaching its own Xyz Material(s): Negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37241623.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 28194325,
+        "name": "Heroic Challenger - Clasp Sword",
+        "type": "Effect Monster",
+        "desc": "When this card is Special Summoned by the effect of a \"Heroic Challenger\" monster: You can add 1 \"Heroic Challenger\" monster from your Deck to your hand. You can only use the effect of \"Heroic Challenger - Clasp Sword\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28194325.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3492538,
+        "name": "Insect Armor with Laser Cannon",
+        "type": "Spell Card",
+        "desc": "Equip only to an Insect monster. It gains 700 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3492538.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94656263,
+        "name": "Kagetokage",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94656263.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 40817915,
+        "name": "Kurivolt",
+        "type": "Effect Monster",
+        "desc": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40817915.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15914410,
+        "name": "Mechquipped Angineer",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster you control; change it to face-up Defense Position, and if you do, it cannot be destroyed by battle or by card effects this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15914410.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 2191144,
+        "name": "Night Papilloperative",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\n Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2191144.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89642993,
+        "name": "Number 63: Shamoji Soldier",
+        "type": "XYZ Monster",
+        "desc": "2 Level 1 monsters\nYou can only use the effect of \"Number 63: Shamoji Soldier\" once per turn. You can detach 1 Xyz Material from this card, then activate 1 of these effects;\n● At the start of your opponent's next Standby Phase, each player draws 1 card.\n● Each player gains 1000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89642993.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42421606,
+        "name": "Number 85: Crazy Box",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nThis card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.\n1: Halve your Life Points. 2: Draw 1 card.\n3: Your opponent discards 1 card.\n4: Negate the effects of 1 face-up card on the field until the end of this turn.\n5: Destroy 1 card on the field. 6: Destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42421606.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 89516305,
+        "name": "Number 87: Queen of the Night",
+        "type": "XYZ Monster",
+        "desc": "3 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects.\n● Target 1 Set Spell/Trap Card your opponent controls; while this card is face-up on the field, that Set card cannot be activated.\n● Target 1 Plant-Type monster on the field; change that target to face-down Defense Position.\n● Target 1 face-up monster on the field; that target gains 300 ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/89516305.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 74852810,
+        "name": "Overlay Capture",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up Xyz Monster your opponent controls that has Xyz Material and 1 face-up Xyz Monster you control; detach all Xyz Materials from the opponent's monster, and if you do, attach this card to your monster as an Xyz Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74852810.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 28990150,
+        "name": "Photon Cerberus",
+        "type": "Effect Monster",
+        "desc": "During the turn this card was Normal Summoned, neither player can activate Trap Cards while this card is face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28990150.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 38973775,
+        "name": "Photon Lizard",
+        "type": "Effect Monster",
+        "desc": "You can Tribute this card; add 1 Level 4 or lower \"Photon\" monster from your Deck to your hand. You can only use this effect of \"Photon Lizard\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38973775.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 1969506,
+        "name": "Puppet Ritual",
+        "type": "Spell Card",
+        "desc": "If your opponent's Life Points are at least 2000 higher than yours: You can target 2 Level 8 \"Gimmick Puppet\" monsters in your Graveyard; Special Summon those targets. You can only activate 1 \"Puppet Ritual\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1969506.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39399168,
+        "name": "Resurrection of Chakra",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Chakra\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39399168.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79850798,
+        "name": "Rocket Arrow Express",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling no cards, and cannot be Special Summoned by other ways. You cannot conduct your Battle Phase the turn you Special Summon this card. You cannot activate cards or effects, or Set any cards. During each of your Standby Phases, destroy this card unless you send your entire hand to the Graveyard (min.1).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79850798.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37364101,
+        "name": "Stoic Challenge",
+        "type": "Spell Card",
+        "desc": "You can only control 1 \"Stoic Challenge\". Equip only to a face-up Xyz Monster that has Xyz Material. It gains 600 ATK for each Xyz Material attached to a monster you control, and any battle damage your opponent takes from battles involving it and their monster is doubled, but its effects cannot be activated. During your opponent's End Phase: Send this card to the Graveyard. When this card leaves the field, destroy the equipped monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37364101.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 38180759,
+        "name": "Unformed Void",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\nOnce per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38180759.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 27971137,
+        "name": "Zombowwow",
+        "type": "Effect Monster",
+        "desc": "When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/27971137.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 97896503,
+        "name": "Zubaba Knight",
+        "type": "Effect Monster",
+        "desc": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97896503.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 81587028,
+        "name": "Box of Friends",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed and sent to the GY: You can Special Summon from your Deck, 2 Normal Monsters with different names whose ATK or DEF is 0, in face-up Defense Position, but they cannot be used as Synchro Material, also they are destroyed during your next End Phase. You can only use this effect of \"Box of Friends\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81587028.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 30741334,
+        "name": "Coach King Giantrainer",
+        "type": "XYZ Monster",
+        "desc": "3 Level 8 monsters\nYou can detach 1 Xyz Material from this card; draw 1 card and show it, then if it was a monster, inflict 800 damage to your opponent. You cannot conduct your Battle Phase the turn you activate this effect. You can only use this effect of \"Coach King Giantrainer\" up to thrice per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30741334.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 77631175,
+        "name": "Comics Hero King Arthur",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 Warrior-Type monsters\nIf this card would be destroyed by battle, you can detach 1 Xyz Material from this card instead. When you do: It gains 500 ATK, and if it does, inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77631175.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 76419637,
+        "name": "CXyz Battleship Cherry Blossom",
+        "type": "XYZ Monster",
+        "desc": "4 Level 4 monsters\nOnce per turn, during your opponent's End Phase, if your opponent has more cards in their hand than you do: They discard 1 card. If this card has \"Battlecruiser Dianthus\" as an Xyz Material, it gains this effect.\n● You can detach 1 Xyz Material from this card; inflict 300 damage to your opponent for each card on the field. You can only use this effect of \"CXyz Battleship Cherry Blossom\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76419637.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 88754763,
+        "name": "CXyz Coach Lord Ultimatrainer",
+        "type": "XYZ Monster",
+        "desc": "4 Level 9 monsters\nThis card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.\n● Once per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88754763.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 13030280,
+        "name": "CXyz Comics Hero Legend Arthur",
+        "type": "XYZ Monster",
+        "desc": "3 Level 5 monsters\nOnce per turn, this card cannot be destroyed by battle. If this card has \"Comics Hero King Arthur\" as an Xyz Material, it gains this effect.\n● When this card destroys a monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; banish the destroyed monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13030280.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 41147577,
+        "name": "CXyz Simon the Great Moral Leader",
+        "type": "XYZ Monster",
+        "desc": "3 Level 7 monsters\nThis card is unaffected by other monster effects. If this card has \"Norito the Moral Leader\" as an Xyz Material, it gains this effect.\n● Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41147577.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 49202331,
+        "name": "CXyz Skypalace Babylon",
+        "type": "XYZ Monster",
+        "desc": "3 Level 11 monsters\nWhen this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of the destroyed monster in the Graveyard. If this card has \"Skypalace Gangaridai\" as an Xyz Material, it gains this effect.\n● Once per turn, if this card destroys a monster by battle: You can detach 1 Xyz Material from this card; it can make a second attack in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49202331.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 92609670,
+        "name": "Heroic Challenger - Ambush Soldier",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase: You can Tribute this card; Special Summon up to 2 \"Heroic Challenger\" monsters from your hand and/or Graveyard, except \"Heroic Challenger - Ambush Soldier\". You can only use this effect of \"Heroic Challenger - Ambush Soldier\" once per turn. When you do: You can banish this card from your Graveyard; make all \"Heroic Challenger\" monsters you currently control become Level 1.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92609670.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 14152862,
+        "name": "Norito the Moral Leader",
+        "type": "XYZ Monster",
+        "desc": "2 Level 6 Spellcaster monsters\r\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14152862.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 88120966,
+        "name": "Number 15: Gimmick Puppet Giant Grinder",
+        "type": "XYZ Monster",
+        "desc": "2 Level 8 monsters\nUp to twice per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Special Summoned monster your opponent controls; destroy it, then if it was an Xyz Monster, inflict damage to your opponent equal to its original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88120966.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 80764541,
+        "name": "Number 44: Sky Pegasus",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80764541.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 16259549,
+        "name": "Number 49: Fortune Tune",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\nDuring each of your Standby Phases: Gain 500 Life Points. This card cannot be targeted by card effects. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. When this card is sent from the field to the Graveyard: Target 2 Level 3 monsters in your Graveyard; shuffle them both into the Deck, and if you do, return this card from your Graveyard to the Extra Deck. You can only use this effect of \"Number 49: Fortune Tune\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16259549.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 54366836,
+        "name": "Number 54: Lion Heart",
+        "type": "XYZ Monster",
+        "desc": "3 Level 1 monsters\nThis face-up Attack Position card cannot be destroyed by battle. When you take battle damage from battles involving this card: Inflict damage to your opponent equal to the amount of battle damage you took. If this card battles an opponent's monster, during damage calculation (in either player's turn): You can detach 1 Xyz Material from this card; your opponent takes any battle damage you would have taken from that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54366836.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 53244294,
+        "name": "Number 57: Tri-Head Dust Dragon",
+        "type": "XYZ Monster",
+        "desc": "3 Level 4 monsters\nWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 Xyz Material from this card, then choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is face-up on the field, that zone cannot be used.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53244294.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 16037007,
+        "name": "Number 74: Master of Blades",
+        "type": "XYZ Monster",
+        "desc": "2 Level 7 monsters\nDuring either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16037007.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 847915,
+        "name": "Number Wall",
+        "type": "Trap Card",
+        "desc": "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/847915.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75797046,
+        "name": "Photon Alexandra Queen",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 \"Butterspy\" monsters\nYou can detach 1 Xyz Material from this card; return all monsters on the field to the hand, then inflict 300 damage to each player for each card returned to their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75797046.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 75574498,
+        "name": "Princess Cologne",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Box of Friends\" in your Graveyard; Special Summon that target. If you control another monster, your opponent cannot target this card with cards, effects, or for attacks. If a face-up Normal Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can detach 1 Xyz Material from this card; Special Summon 1 Normal Monster from your Deck or Graveyard in face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/75574498.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 3814632,
+        "name": "Skypalace Gangaridai",
+        "type": "XYZ Monster",
+        "desc": "2 Level 10 monsters\nYou can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy that target, and if you do, inflict 1000 damage to your opponent. You can only use the effect of \"Skypalace Gangaridai\" once per turn. This card cannot attack the turn you activate this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3814632.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "setName": "Duelist League Series 10 participation card",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 20101223,
+        "name": "Breath of Light",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up Rock-Type monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20101223.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

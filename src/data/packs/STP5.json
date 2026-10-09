@@ -1,0 +1,291 @@
+{
+  "setName": "Speed Duel Tournament Pack 5",
+  "pool": {
+    "Common": [
+      {
+        "id": 32207100,
+        "name": "A Major Upset",
+        "type": "Trap Card",
+        "desc": "Tribute 1 face-up Attack Position Level 2 or lower monster you control; return all Level 7 or higher Special Summoned monsters to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32207100.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14087893,
+        "name": "Book of Moon",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90928333,
+        "name": "Dark Factory of Mass Production",
+        "type": "Spell Card",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90928333.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45462639,
+        "name": "Dark Red Enchanter",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45462639.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81977953,
+        "name": "Desert Twister",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81977953.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20638610,
+        "name": "Dragon's Rebirth",
+        "type": "Trap Card",
+        "desc": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20638610.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99050989,
+        "name": "Drillago",
+        "type": "Effect Monster",
+        "desc": "If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99050989.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 68396778,
+        "name": "Faustian Bargain",
+        "type": "Spell Card",
+        "desc": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68396778.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69599136,
+        "name": "Floodgate Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69599136.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45141013,
+        "name": "Heat Wave",
+        "type": "Spell Card",
+        "desc": "At the start of your Main Phase 1: Neither player can Normal or Special Summon Effect Monsters, until your next Draw Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45141013.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34559295,
+        "name": "Iron Draw",
+        "type": "Spell Card",
+        "desc": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34559295.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77585513,
+        "name": "Jinzo",
+        "type": "Effect Monster",
+        "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77585513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 49587034,
+        "name": "Lightforce Sword",
+        "type": "Trap Card",
+        "desc": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/49587034.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3819470,
+        "name": "Seven Tools of the Bandit",
+        "type": "Trap Card",
+        "desc": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3819470.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 8131171,
+        "name": "Sinister Serpent",
+        "type": "Effect Monster",
+        "desc": "During your Standby Phase, if this card is in your GY: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your GY during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8131171.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33245030,
+        "name": "Sphere Kuriboh",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33245030.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 61405855,
+        "name": "Sword of Dragon's Soul",
+        "type": "Spell Card",
+        "desc": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61405855.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43586926,
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47766694,
+        "name": "Wild Tornado",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up card in the Spell & Trap Zone; destroy that face-up card, then, its controller can Set 1 Spell/Trap from their hand. If this Set card is destroyed and sent to the GY: Target 1 face-up card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47766694.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 51534754,
+        "name": "Yomi Ship",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51534754.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 10509340,
+        "name": "Ancient Gear Beast",
+        "type": "Effect Monster",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10509340.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 32933942,
+        "name": "Crystal Beast Amethyst Cat",
+        "type": "Effect Monster",
+        "desc": "This card can attack your opponent directly, but when it uses this effect, any Battle Damage it inflicts to your opponent is halved. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32933942.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 13093792,
+        "name": "Destiny HERO - Diamond Dude",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13093792.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20586572,
+        "name": "Exploder Dragon",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20586572.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 53493204,
+        "name": "Goddess with the Third Eye",
+        "type": "Effect Monster",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53493204.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 26412047,
+        "name": "Hammer Shot",
+        "type": "Spell Card",
+        "desc": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26412047.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 83968380,
+        "name": "Jar of Greed",
+        "type": "Trap Card",
+        "desc": "Draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83968380.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 39996157,
+        "name": "Machine Angel Ritual",
+        "type": "Spell Card",
+        "desc": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your GY, you can banish this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39996157.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64627453,
+        "name": "Ojama Blue",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 2 \"Ojama\" cards from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64627453.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 33365932,
+        "name": "Volcanic Shell",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33365932.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 77235086,
+        "name": "Cyber Angel Benten",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77235086.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 76263644,
+        "name": "Destiny End Dragoon",
+        "type": "Fusion Monster",
+        "desc": "\"Destiny HERO - Plasma\" + \"Destiny HERO - Dogma\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. Once per turn: You can target 1 monster your opponent controls; destroy that target, and if it was face-up, inflict damage to your opponent equal to the ATK it had on the field. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn, during your Standby Phase, if this card is in your GY: You can banish 1 \"Destiny HERO\" card from your GY; Special Summon this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76263644.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 60493189,
+        "name": "Elemental HERO Plasma Vice",
+        "type": "Fusion Monster",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. You can discard 1 card to target 1 Attack Position monster your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60493189.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 86188410,
+        "name": "Elemental HERO Wildheart",
+        "type": "Effect Monster",
+        "desc": "This card is unaffected by Trap effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86188410.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 58169731,
+        "name": "Wall of Disruption",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: All Attack Position monsters your opponent controls lose 800 ATK for each monster they control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58169731.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ]
+  }
+}

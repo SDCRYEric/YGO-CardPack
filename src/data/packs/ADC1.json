@@ -1,0 +1,15 @@
+{
+  "setName": "Adidas collaboration card",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 46986421,
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46986421.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

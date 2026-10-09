@@ -1,0 +1,31 @@
+{
+  "setName": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 99000151,
+        "name": "Necro Fleur",
+        "type": "Effect Monster",
+        "desc": "If this card is destroyed by a card effect and sent to the Graveyard, you can Special Summon 1 \"Sorciere de Fleur\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99000151.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 36405256,
+        "name": "Sorciere de Fleur",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36405256.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 62499965,
+        "name": "Z-ONE",
+        "type": "Spell Card",
+        "desc": "When this Set card is destroyed and sent to the Graveyard, select 1 Continuous Spell or Field Spell Card in your Graveyard, and add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62499965.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

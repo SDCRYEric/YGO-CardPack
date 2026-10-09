@@ -1,0 +1,1067 @@
+{
+  "setName": "Magic Ruler",
+  "pool": {
+    "Rare": [
+      {
+        "id": 95174353,
+        "name": "Ameba",
+        "type": "Effect Monster",
+        "desc": "When the control of this face-up card on the field shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. This effect can only be used once as long as this card remains face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95174353.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 34124316,
+        "name": "Cyber Jar",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Destroy all monsters on the field, then both players reveal the top 5 cards from their Decks, then Special Summon all revealed Level 4 or lower monsters in face-up Attack Position or face-down Defense Position, also add any remaining cards to their hand. (If either player has less than 5 cards in their Deck, reveal as many as possible.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34124316.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 70681994,
+        "name": "Dragoness the Wicked Knight",
+        "type": "Fusion Monster",
+        "desc": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70681994.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 84834865,
+        "name": "Flying Kamakiri #1",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84834865.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 95178994,
+        "name": "Giant Germ",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of \"Giant Germs\" from your Deck in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95178994.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 97017120,
+        "name": "Giant Rat",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97017120.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 81863068,
+        "name": "Hiro's Shadow Scout",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81863068.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 64047146,
+        "name": "Horn of the Unicorn",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 700 ATK and DEF. When this card is sent from the field to the Graveyard: Return it to the top of the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64047146.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 62397231,
+        "name": "Hyozanryu",
+        "type": "Normal Monster",
+        "desc": "A dragon created from a massive diamond that sparkles with blinding light.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62397231.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 23289281,
+        "name": "Karate Man",
+        "type": "Effect Monster",
+        "desc": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23289281.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 38369349,
+        "name": "Manga Ryu-Ran",
+        "type": "Toon Monster",
+        "desc": "(This card is always treated as a \"Toon\" card.)\nCannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38369349.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 57839750,
+        "name": "Mother Grizzly",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57839750.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 83011277,
+        "name": "Mystic Tomato",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83011277.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 22567609,
+        "name": "Nimble Momonga",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22567609.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 55144522,
+        "name": "Pot of Greed",
+        "type": "Spell Card",
+        "desc": "Draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55144522.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 70046172,
+        "name": "Rush Recklessly",
+        "type": "Spell Card",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 23401839,
+        "name": "Senju of the Thousand Hands",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23401839.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 95956346,
+        "name": "Shining Angel",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95956346.jpg",
+        "rarity": "Rare"
+      },
+      {
+        "id": 60806437,
+        "name": "UFO Turtle",
+        "type": "Effect Monster",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60806437.jpg",
+        "rarity": "Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 14015067,
+        "name": "Ancient One of the Deep Forest",
+        "type": "Normal Monster",
+        "desc": "This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14015067.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32452818,
+        "name": "Beaver Warrior",
+        "type": "Normal Monster",
+        "desc": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32452818.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21340051,
+        "name": "Boar Soldier",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal Summoned, destroy this card. If your opponent controls 1 or more monsters, decrease the ATK of this card by 1000 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21340051.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20228463,
+        "name": "Ceremonial Bell",
+        "type": "Effect Monster",
+        "desc": "Both players must keep their hands revealed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20228463.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79323590,
+        "name": "Chain Energy",
+        "type": "Spell Card",
+        "desc": "Each player must pay 500 Life Points per card to Normal Summon, Special Summon, Set or activate cards from his/her respective hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79323590.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81380218,
+        "name": "Chorus of Sanctuary",
+        "type": "Spell Card",
+        "desc": "Increase the DEF of all Defense Position monsters by 500 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81380218.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43417563,
+        "name": "Commencement Dance",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Performance of Sword\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43417563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91782219,
+        "name": "Crab Turtle",
+        "type": "Ritual Monster",
+        "desc": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Turtle Oath\". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91782219.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 35565537,
+        "name": "Dark Witch",
+        "type": "Normal Monster",
+        "desc": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/35565537.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 59784896,
+        "name": "Dark Zebra",
+        "type": "Effect Monster",
+        "desc": "If this is the only Monster Card in your control during your Standby Phase, it is changed to Defense Position. You cannot change the position of this card during the same turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/59784896.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42578427,
+        "name": "Eatgaboon",
+        "type": "Trap Card",
+        "desc": "If the ATK of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42578427.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 11324436,
+        "name": "Electric Snake",
+        "type": "Effect Monster",
+        "desc": "When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11324436.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18591904,
+        "name": "Final Destiny",
+        "type": "Spell Card",
+        "desc": "Discard 5 cards from your hand. Destroy all cards on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18591904.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46534755,
+        "name": "Fire Kraken",
+        "type": "Normal Monster",
+        "desc": "A squid that thrives on fire and heat.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46534755.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 45231177,
+        "name": "Flame Swordsman",
+        "type": "Fusion Monster",
+        "desc": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45231177.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96890582,
+        "name": "Flash Assailant",
+        "type": "Effect Monster",
+        "desc": "Decrease the ATK and DEF of this card by 400 points for each card in your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96890582.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 98818516,
+        "name": "Frenzied Panda",
+        "type": "Normal Monster",
+        "desc": "A savage beast that carries a big bamboo stick for beating down its enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/98818516.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1641882,
+        "name": "Fusionist",
+        "type": "Fusion Monster",
+        "desc": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1641882.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 96981563,
+        "name": "Giant Turtle Who Feeds on Flames",
+        "type": "Normal Monster",
+        "desc": "A crimson-shelled tortoise that feeds on flames.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/96981563.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95744531,
+        "name": "Griggle",
+        "type": "Effect Monster",
+        "desc": "When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95744531.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47879985,
+        "name": "Guardian of the Throne Room",
+        "type": "Normal Monster",
+        "desc": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47879985.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 80811661,
+        "name": "Hamburger Recipe",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Hungry Burger\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80811661.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7089711,
+        "name": "Hane-Hane",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Select 1 monster on the field and return it to its owner's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7089711.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54579801,
+        "name": "High Tide Gyojin",
+        "type": "Normal Monster",
+        "desc": "A very agile half-fish warrior known for its relentless attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54579801.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 46130346,
+        "name": "Hinotama",
+        "type": "Spell Card",
+        "desc": "Inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/46130346.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76184692,
+        "name": "Hitotsu-Me Giant",
+        "type": "Normal Monster",
+        "desc": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76184692.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38552107,
+        "name": "Horn of Light",
+        "type": "Spell Card",
+        "desc": "Increase the DEF of a monster equipped with this card by 800 points. When this card is sent from the field to the Graveyard, if you pay 500 Life Points, this card returns to the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38552107.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15083728,
+        "name": "House of Adhesive Tape",
+        "type": "Trap Card",
+        "desc": "If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15083728.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30243636,
+        "name": "Hungry Burger",
+        "type": "Ritual Monster",
+        "desc": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Hamburger Recipe\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30243636.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 54541900,
+        "name": "Karbonala Warrior",
+        "type": "Fusion Monster",
+        "desc": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54541900.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19406822,
+        "name": "Kotodama",
+        "type": "Effect Monster",
+        "desc": "If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped face-up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19406822.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85705804,
+        "name": "Kurama",
+        "type": "Normal Monster",
+        "desc": "A vicious bird that attacks from the skies with its whip-like tail.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85705804.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67284908,
+        "name": "Labyrinth Wall",
+        "type": "Normal Monster",
+        "desc": "These walls form a labyrinth with no exit for enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67284908.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94675535,
+        "name": "Larvas",
+        "type": "Normal Monster",
+        "desc": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94675535.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 93108297,
+        "name": "Liquid Beast",
+        "type": "Normal Monster",
+        "desc": "A liquid life form that thrives on water.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93108297.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56342351,
+        "name": "M-Warrior #1",
+        "type": "Normal Monster",
+        "desc": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56342351.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 92731455,
+        "name": "M-Warrior #2",
+        "type": "Normal Monster",
+        "desc": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92731455.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 64389297,
+        "name": "Magical Labyrinth",
+        "type": "Spell Card",
+        "desc": "Equip only to \"Labyrinth Wall\". You can Tribute the equipped monster; Special Summon \"Wall Shadow\" from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64389297.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99597615,
+        "name": "Malevolent Nuzzler",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99597615.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40374923,
+        "name": "Mammoth Graveyard",
+        "type": "Normal Monster",
+        "desc": "A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40374923.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 13723605,
+        "name": "Man-Eating Treasure Chest",
+        "type": "Normal Monster",
+        "desc": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/13723605.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 44287299,
+        "name": "Masaki the Legendary Swordsman",
+        "type": "Normal Monster",
+        "desc": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44287299.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34442949,
+        "name": "Mechanical Snail",
+        "type": "Normal Monster",
+        "desc": "A cyborg snail that still travels at a slow pace.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34442949.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 55998462,
+        "name": "Metal Fish",
+        "type": "Normal Monster",
+        "desc": "A metal fish with a razor-sharp caudal fin.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55998462.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32539892,
+        "name": "Minar",
+        "type": "Effect Monster",
+        "desc": "When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent's Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32539892.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50913601,
+        "name": "Mountain",
+        "type": "Spell Card",
+        "desc": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50913601.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 18161786,
+        "name": "Mystic Plasma Zone",
+        "type": "Spell Card",
+        "desc": "Increase the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18161786.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83464209,
+        "name": "Mystical Sheep #2",
+        "type": "Normal Monster",
+        "desc": "A monstrous sheep with a long tail for hypnotizing enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83464209.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50930991,
+        "name": "Neo the Magic Swordsman",
+        "type": "Normal Monster",
+        "desc": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50930991.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74637266,
+        "name": "Octoberser",
+        "type": "Normal Monster",
+        "desc": "With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74637266.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 33064647,
+        "name": "One-Eyed Shield Dragon",
+        "type": "Normal Monster",
+        "desc": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/33064647.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19523799,
+        "name": "Ookazi",
+        "type": "Spell Card",
+        "desc": "Inflict 800 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19523799.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 21263083,
+        "name": "Pale Beast",
+        "type": "Normal Monster",
+        "desc": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21263083.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 20624263,
+        "name": "Peacock",
+        "type": "Normal Monster",
+        "desc": "A large peacock that launches its feathers in a lethal attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20624263.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 36039163,
+        "name": "Penguin Knight",
+        "type": "Effect Monster",
+        "desc": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36039163.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4849037,
+        "name": "Performance of Sword",
+        "type": "Ritual Monster",
+        "desc": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Commencement Dance\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4849037.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 38142739,
+        "name": "Petit Angel",
+        "type": "Normal Monster",
+        "desc": "A quick-moving and tiny fairy that's very difficult to hit.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/38142739.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77027445,
+        "name": "Power of Kaishin",
+        "type": "Spell Card",
+        "desc": "Equip only to an Aqua monster. It gains 300 ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77027445.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 7892180,
+        "name": "Psychic Kappa",
+        "type": "Normal Monster",
+        "desc": "An amphibian with a myriad of powers to shield it from enemy attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/7892180.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73081602,
+        "name": "Queen Bird",
+        "type": "Normal Monster",
+        "desc": "This monster attacks enemies using its huge beak.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73081602.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65570596,
+        "name": "Red Archery Girl",
+        "type": "Normal Monster",
+        "desc": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65570596.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 2964201,
+        "name": "Ryu-Ran",
+        "type": "Normal Monster",
+        "desc": "A vicious little dragon sheltered in an egg that looks deceptively harmless.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/2964201.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73051941,
+        "name": "Sand Stone",
+        "type": "Normal Monster",
+        "desc": "Appears from underground and attacks with long, snake-like tentacles.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73051941.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 596051,
+        "name": "Snake Fang",
+        "type": "Trap Card",
+        "desc": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/596051.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 57617178,
+        "name": "Sonic Bird",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57617178.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58551308,
+        "name": "Spear Cretin",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summons it in face-up Attack Position or face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58551308.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 15023985,
+        "name": "Stone Ogre Grotto",
+        "type": "Normal Monster",
+        "desc": "A behemoth shaped by giant boulders.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15023985.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16430187,
+        "name": "The Reliable Guardian",
+        "type": "Spell Card",
+        "desc": "Increase 1 face-up monster's DEF by 700 points until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16430187.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77827521,
+        "name": "Trial of Nightmare",
+        "type": "Normal Monster",
+        "desc": "This fiend passes judgment on enemies that are locked in coffins.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77827521.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76806714,
+        "name": "Turtle Oath",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Crab Turtle\". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76806714.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29692206,
+        "name": "Twin Long Rods #2",
+        "type": "Normal Monster",
+        "desc": "An amphibious creature with two whip-like tails.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29692206.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56789759,
+        "name": "Tyhone #2",
+        "type": "Normal Monster",
+        "desc": "A crimson dragon that spits fireballs to create a blazing sea of fire.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56789759.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 70368879,
+        "name": "Upstart Goblin",
+        "type": "Spell Card",
+        "desc": "Draw 1 card, then your opponent gains 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70368879.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 63162310,
+        "name": "Wall Shadow",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Magical Labyrinth\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63162310.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72053645,
+        "name": "Weather Report",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Destroys all of your opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent's turn).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72053645.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91996584,
+        "name": "Whiptail Crow",
+        "type": "Normal Monster",
+        "desc": "Attacks from the skies with a whip-like tail.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91996584.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 40619825,
+        "name": "Axe of Despair",
+        "type": "Spell Card",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40619825.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 44763025,
+        "name": "Delinquent Duo",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44763025.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 22046459,
+        "name": "Megamorph",
+        "type": "Spell Card",
+        "desc": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22046459.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "type": "Spell Card",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 64631466,
+        "name": "Relinquished",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64631466.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 45986603,
+        "name": "Snatch Steal",
+        "type": "Spell Card",
+        "desc": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45986603.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 18807108,
+        "name": "Spellbinding Circle",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18807108.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 42829885,
+        "name": "The Forceful Sentry",
+        "type": "Spell Card",
+        "desc": "Look at your opponent's hand. Select 1 card among them and return it to his/her Deck. The Deck is then shuffled.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42829885.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 65458948,
+        "name": "Toon Mermaid",
+        "type": "Toon Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand), while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65458948.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 91842653,
+        "name": "Toon Summoned Skull",
+        "type": "Toon Monster",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nCannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91842653.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 61528025,
+        "name": "Banisher of the Light",
+        "type": "Effect Monster",
+        "desc": "Any card sent to the Graveyard is banished instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/61528025.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 41426869,
+        "name": "Black Illusion Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41426869.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 65169794,
+        "name": "Black Pendant",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65169794.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17375316,
+        "name": "Confiscation",
+        "type": "Spell Card",
+        "desc": "Pay 1000 Life Points. Look at your opponent's hand, select 1 card in it and discard that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17375316.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 42703248,
+        "name": "Giant Trunade",
+        "type": "Spell Card",
+        "desc": "Return all Spell and Trap Cards on the field to the hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3056267,
+        "name": "Invader of the Throne",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3056267.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93013676,
+        "name": "Maha Vailo",
+        "type": "Effect Monster",
+        "desc": "This card gains 500 ATK for each Equip Card equipped to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93013676.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44656491,
+        "name": "Messenger of Peace",
+        "type": "Spell Card",
+        "desc": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44656491.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 74191942,
+        "name": "Painful Choice",
+        "type": "Spell Card",
+        "desc": "Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the remaining cards to the Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74191942.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 15259703,
+        "name": "Toon World",
+        "type": "Spell Card",
+        "desc": "Activate this card by paying 1000 LP.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/15259703.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Secret Rare": [
+      {
+        "id": 53183600,
+        "name": "Blue-Eyes Toon Dragon",
+        "type": "Toon Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53183600.jpg",
+        "rarity": "Secret Rare"
+      },
+      {
+        "id": 66516792,
+        "name": "Serpent Night Dragon",
+        "type": "Normal Monster",
+        "desc": "A dragon created from the soul of a wicked knight.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/66516792.jpg",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 12470447,
+        "name": "Curse of Fiend",
+        "type": "Spell Card",
+        "desc": "Change the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can only activate this card during your Standby Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12470447.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 17653779,
+        "name": "Fairy's Hand Mirror",
+        "type": "Trap Card",
+        "desc": "When your opponent activates a Spell Card that targets exactly 1 monster (and no other cards) on the field: Target another card that would be an appropriate target; that Spell now targets the new target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17653779.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 56594520,
+        "name": "Gaia Power",
+        "type": "Spell Card",
+        "desc": "All EARTH monsters gain 500 ATK and lose 400 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56594520.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 16762927,
+        "name": "Gravekeeper's Servant",
+        "type": "Spell Card",
+        "desc": "Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16762927.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 90020065,
+        "name": "Jigen Bakudan",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters you control and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90020065.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 81777047,
+        "name": "Luminous Spark",
+        "type": "Spell Card",
+        "desc": "All LIGHT monsters gain 500 ATK and lose 400 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81777047.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 19384334,
+        "name": "Molten Destruction",
+        "type": "Spell Card",
+        "desc": "All FIRE monsters gain 500 ATK and lose 400 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19384334.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 45778932,
+        "name": "Rising Air Current",
+        "type": "Spell Card",
+        "desc": "All WIND monsters gain 500 ATK and lose 400 DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/45778932.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 43641473,
+        "name": "Tailor of the Fickle",
+        "type": "Spell Card",
+        "desc": "Switch 1 Equip Card equipped to a monster to another correct target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43641473.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 82999629,
+        "name": "Umiiruka",
+        "type": "Spell Card",
+        "desc": "Increase the ATK of all WATER monsters by 500 points and decrease their DEF by 400 points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82999629.jpg",
+        "rarity": "Short Print"
+      }
+    ],
+    "Super Short Print": [
+      {
+        "id": 80168720,
+        "name": "Darkness Approaches",
+        "type": "Spell Card",
+        "desc": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80168720.jpg",
+        "rarity": "Super Short Print"
+      },
+      {
+        "id": 95051344,
+        "name": "Eternal Rest",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters equipped with Equip Cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95051344.jpg",
+        "rarity": "Super Short Print"
+      },
+      {
+        "id": 3797883,
+        "name": "Slot Machine",
+        "type": "Normal Monster",
+        "desc": "The machine's ability is said to vary according to its slot results.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3797883.jpg",
+        "rarity": "Super Short Print"
+      },
+      {
+        "id": 82003859,
+        "name": "Toll",
+        "type": "Spell Card",
+        "desc": "Each player must pay 500 Life Points to declare an attack.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/82003859.jpg",
+        "rarity": "Super Short Print"
+      }
+    ]
+  }
+}

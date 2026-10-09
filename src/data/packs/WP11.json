@@ -1,0 +1,173 @@
+{
+  "setName": "World Championship 2011 Card Pack",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 64428736,
+        "name": "Alligator's Sword",
+        "type": "Normal Monster",
+        "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64428736.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 3366982,
+        "name": "Alligator's Sword Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3366982.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20101223,
+        "name": "Breath of Light",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up Rock-Type monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20101223.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 97973387,
+        "name": "Droll Bird",
+        "type": "Normal Monster",
+        "desc": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97973387.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55691901,
+        "name": "Great Bill",
+        "type": "Normal Monster",
+        "desc": "Nothing escapes from this beast's massive mouth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55691901.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 1929294,
+        "name": "Key Mace",
+        "type": "Normal Monster",
+        "desc": "Enemies' hearts will melt at the sight of this small fairy's cuteness.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1929294.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 20541432,
+        "name": "Key Mace #2",
+        "type": "Normal Monster",
+        "desc": "This fiend brings out the worst in everyone.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20541432.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68540059,
+        "name": "Metalmorph",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68540059.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 84133008,
+        "name": "Monster Eye",
+        "type": "Effect Monster",
+        "desc": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/84133008.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 58074572,
+        "name": "Mooyan Curry",
+        "type": "Spell Card",
+        "desc": "Choose 1 player; that player gains 200 Life Points.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58074572.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 56713552,
+        "name": "Obese Marmot of Nefariousness",
+        "type": "Normal Monster",
+        "desc": "An ill-mannered field varmint that will sink its teeth into anything.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56713552.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 92391084,
+        "name": "Wilmee",
+        "type": "Normal Monster",
+        "desc": "A rabid rabbit that shears through opposition with its sharp skewers.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/92391084.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "European & Oceanian debut": [
+      {
+        "id": 16970158,
+        "name": "Call of the Grave",
+        "type": "Trap Card",
+        "desc": "When your opponent activates \"Monster Reborn\": Negate the effect of that \"Monster Reborn\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16970158.jpg",
+        "rarity": "European & Oceanian debut"
+      },
+      {
+        "id": 14977074,
+        "name": "Garoozis",
+        "type": "Normal Monster",
+        "desc": "An axe-swinging beast-warrior with the head of a dragon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14977074.jpg",
+        "rarity": "European & Oceanian debut"
+      },
+      {
+        "id": 58831685,
+        "name": "Giant Red Seasnake",
+        "type": "Normal Monster",
+        "desc": "A sea-dwelling snake that attacks passing enemies with its sharp teeth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58831685.jpg",
+        "rarity": "European & Oceanian debut"
+      },
+      {
+        "id": 4149689,
+        "name": "Goblin Fan",
+        "type": "Trap Card",
+        "desc": "When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4149689.jpg",
+        "rarity": "European & Oceanian debut"
+      },
+      {
+        "id": 50705071,
+        "name": "Metalzoa",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Zoa\" equipped with \"Metalmorph\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50705071.jpg",
+        "rarity": "European & Oceanian debut"
+      },
+      {
+        "id": 62762898,
+        "name": "Parrot Dragon",
+        "type": "Normal Monster",
+        "desc": "A dragon from the cartoons that's more dangerous than it appears to be.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62762898.jpg",
+        "rarity": "European & Oceanian debut"
+      }
+    ],
+    "European debut": [
+      {
+        "id": 64271667,
+        "name": "Meteor Dragon",
+        "type": "Normal Monster",
+        "desc": "This dragon appeared from the sky and crashed to the earth.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64271667.jpg",
+        "rarity": "European debut"
+      }
+    ],
+    "Oceanian debut": [
+      {
+        "id": 24311372,
+        "name": "Zoa",
+        "type": "Normal Monster",
+        "desc": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24311372.jpg",
+        "rarity": "Oceanian debut"
+      }
+    ]
+  }
+}

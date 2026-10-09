@@ -1,0 +1,15 @@
+{
+  "setName": "Duelist League Series 8 participation card",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 21323861,
+        "name": "Acid Rain",
+        "type": "Spell Card",
+        "desc": "Destroy all face-up Machine-Type monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21323861.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

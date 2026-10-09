@@ -1,0 +1,15 @@
+{
+  "setName": "Yu-Gi-Oh! GX Volume 2 promotional card",
+  "pool": {
+    "Secret Rare": [
+      {
+        "id": 71564252,
+        "name": "Thunder King Rai-Oh",
+        "type": "Effect Monster",
+        "desc": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71564252.jpg",
+        "rarity": "Secret Rare"
+      }
+    ]
+  }
+}

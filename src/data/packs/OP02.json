@@ -1,0 +1,229 @@
+{
+  "setName": "OTS Tournament Pack 2",
+  "pool": {
+    "Super Rare": [
+      {
+        "id": 65150219,
+        "name": "Armor Ninjitsu Art of Freezing",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack, if you control a \"Ninja\" monster: You can flip this card face-up; negate that attack and end the Battle Phase. While this card is face-up on the field and you control a \"Ninja\" monster, monsters your opponent controls cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65150219.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 81035362,
+        "name": "Fiendish Rhino Warrior",
+        "type": "Effect Monster",
+        "desc": "Fiend monsters you control, except \"Fiendish Rhino Warrior\", cannot be destroyed by battle or card effects. If this card is sent to the GY: You can send 1 Fiend monster from your Deck to the GY, except \"Fiendish Rhino Warrior\". You can only use this effect of \"Fiendish Rhino Warrior\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81035362.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 55063751,
+        "name": "Gameciel, the Sea Turtle Kaiju",
+        "type": "Effect Monster",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent activates a card or effect, except \"Gameciel, the Sea Turtle Kaiju\" (Quick Effect): You can remove 2 Kaiju Counters from anywhere on the field; negate the activation, and if you do, banish that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/55063751.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 29549364,
+        "name": "Mask of Restrict",
+        "type": "Trap Card",
+        "desc": "Neither player can Tribute cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29549364.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 22404675,
+        "name": "Mithra the Thunder Vassal",
+        "type": "Effect Monster",
+        "desc": "If this card is in your hand: You can activate this effect; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also Special Summon this card, and if you do, Special Summon 1 \"Vassal Token\" (Thunder-Type/LIGHT/Level 1/ATK 800/DEF 1000) to your opponent's field in Defense Position. If this card is Tributed for a Tribute Summon: You can activate this effect; you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.) You can only use each effect of \"Mithra the Thunder Vassal\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/22404675.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 70861343,
+        "name": "Ninjitsu Art of Transformation",
+        "type": "Trap Card",
+        "desc": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/70861343.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 12369277,
+        "name": "Super Quantum Blue Layer",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12369277.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 18895832,
+        "name": "System Down",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; banish all Machine-Type monsters your opponent controls and in their Graveyard.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/18895832.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 63821877,
+        "name": "The Phantom Knights of Ragged Gloves",
+        "type": "Effect Monster",
+        "desc": "A DARK Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: It gains 1000 ATK.\nYou can banish this card from your GY; send 1 \"Phantom Knights\" card from your Deck to the GY. You can only use each effect of \"The Phantom Knights of Ragged Gloves\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/63821877.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 54241725,
+        "name": "The Prime Monarch",
+        "type": "Trap Card",
+        "desc": "Once per turn: You can target 2 \"Monarch\" Spell/Trap Cards in your Graveyard; shuffle them into the Deck, then draw 1 card. If this card is in your Graveyard: You can banish 1 other \"Monarch\" Spell/Trap Card from your Graveyard; Special Summon this card in Defense Position as a Normal Monster (Fairy-Type/LIGHT/Level 5/ATK 1000/DEF 2400). (This card is NOT treated as a Trap Card.) You can only use this effect of \"The Prime Monarch\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/54241725.jpg",
+        "rarity": "Super Rare"
+      }
+    ],
+    "Common": [
+      {
+        "id": 23893227,
+        "name": "Cyber Dragon Core",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: Add 1 \"Cyber\" Spell/Trap from your Deck to your hand. If only your opponent controls a monster: You can banish this card from your GY; Special Summon 1 \"Cyber Dragon\" monster from your Deck. You can only use 1 \"Cyber Dragon Core\" effect per turn, and only once that turn. This card's name becomes \"Cyber Dragon\" while on the field or in the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23893227.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29436665,
+        "name": "Dark Eradicator Warlock",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29436665.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 9024367,
+        "name": "Galaxy Dragon",
+        "type": "Effect Monster",
+        "desc": "This card cannot attack directly, and can only attack Dragon-Type monsters. If this card battles a Dragon-Type monster, this card gains 1000 ATK during the Damage Step only, also that monster has its effects negated during this Battle Phase, as long as this card remains face-up on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9024367.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 99177923,
+        "name": "Infernity Archfiend",
+        "type": "Effect Monster",
+        "desc": "When you draw this card, if you have no other cards in your hand: You can reveal this card; Special Summon this card from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/99177923.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90200789,
+        "name": "Ninjitsu Art of Super-Transformation",
+        "type": "Trap Card",
+        "desc": "Activate this card by targeting 1 \"Ninja\" monster you control and 1 face-up monster your opponent controls; send them to the GY, then Special Summon 1 Dragon, Dinosaur, or Sea Serpent monster from your Deck whose Level is less than or equal to the combined original Levels of the sent monster(s). When this card leaves the field, banish that monster.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90200789.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 32231618,
+        "name": "Prediction Princess Coinorma",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 Level 3 or higher Flip monster from your hand or Deck in face-down Defense Position, also you cannot activate monster effects for the rest of this turn, except \"Prediction Princess\" monsters'.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/32231618.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94997874,
+        "name": "Prediction Princess Tarotrei",
+        "type": "Ritual Effect Monster",
+        "desc": "You can Ritual Summon this card with \"Prediction Ritual\". Once per turn, during your End Phase: You can Special Summon 1 Flip monster from your hand or Graveyard in face-down Defense Position. You can only use 1 of the following effects of \"Prediction Princess Tarotrei\" per turn, and only once that turn.\n● During either player's turn: You can target 1 face-down monster on the field; change it to face-up Attack Position.\n● During either player's turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94997874.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30392583,
+        "name": "Prediction Ritual",
+        "type": "Spell Card",
+        "desc": "This card is used to Ritual Summon \"Prediction Princess Tarotrei\". You must also Tribute monsters from your hand or field whose total Levels equal 9 or more. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 \"Prediction Princess\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30392583.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48800175,
+        "name": "The Melody of Awakening Dragon",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48800175.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 56747793,
+        "name": "United We Stand",
+        "type": "Spell Card",
+        "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/56747793.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34507039,
+        "name": "Wiretap",
+        "type": "Trap Card",
+        "desc": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34507039.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 6614221,
+        "name": "Fog King",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 monster, or no monsters, to Normal Summon (but not Set) this card. The ATK of this card becomes the combined original ATK of the Tributed monsters. Neither player can Tribute cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6614221.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 57666212,
+        "name": "Kuraz the Light Monarch",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57666212.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 12580477,
+        "name": "Raigeki",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12580477.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Short Print": [
+      {
+        "id": 8327462,
+        "name": "Skullbird",
+        "type": "Fusion Monster",
+        "desc": "\"Takuhee\" + \"Temple of Skulls\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/8327462.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 3170832,
+        "name": "Takuhee",
+        "type": "Normal Monster",
+        "desc": "This bird is known far and wide as a harbinger of doom.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3170832.jpg",
+        "rarity": "Short Print"
+      },
+      {
+        "id": 732302,
+        "name": "Temple of Skulls",
+        "type": "Normal Monster",
+        "desc": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/732302.jpg",
+        "rarity": "Short Print"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "setName": "OTS Tournament Pack 20",
+  "pool": {
+    "Common": [
+      {
+        "id": 21044178,
+        "name": "Abyss Dweller",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nWhile this card has a material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn (Quick Effect): You can detach 1 material from this card; your opponent cannot activate any card effects in their GY this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/21044178.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6459419,
+        "name": "Amazoness Shamanism",
+        "type": "Trap Card",
+        "desc": "Destroy all face-up \"Amazoness\" monsters you control. Then, you can Special Summon any number of Level 4 or lower \"Amazoness\" monsters from your Graveyard in face-up Defense Position, up to the number of monsters destroyed by this effect.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6459419.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 47594939,
+        "name": "And the Band Played On",
+        "type": "Trap Card",
+        "desc": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/47594939.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73534250,
+        "name": "Blackwing - Tornado the Reverse Wind",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned while your opponent controls a Special Summoned monster: You can target 1 \"Blackwing\" Tuner in your Graveyard; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Blackwing\" monsters, also Special Summon that monster, but its effects are negated.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73534250.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76913983,
+        "name": "Blackwing Armed Wing",
+        "type": "Synchro Monster",
+        "desc": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76913983.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12160911,
+        "name": "Elephant Statue of Disaster",
+        "type": "Effect Monster",
+        "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Inflict 2000 damage to your opponent.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12160911.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26232916,
+        "name": "Hidden Village of Ninjitsu Arts",
+        "type": "Spell Card",
+        "desc": "If a \"Ninja\" monster is Summoned to your field: You can target 1 \"Ninja\" monster or 1 \"Ninjitsu Art\" card in your GY; add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. If a \"Ninja\" monster(s) or \"Ninjitsu Art\" card(s) you control would be destroyed by battle or an opponent's card effect, you can banish 1 \"Ninja\" monster from your GY instead. You can only use each effect of \"Hidden Village of Ninjitsu Arts\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26232916.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79109599,
+        "name": "King of the Swamp",
+        "type": "Effect Monster",
+        "desc": "This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79109599.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 10632284,
+        "name": "Mimesis Elephant",
+        "type": "Trap Card",
+        "desc": "Special Summon this card as an Effect Monster (Beast/EARTH/Level 2/ATK 0/DEF 2000). (This card is also still a Trap.) If this card is in the Monster Zone (Quick Effect): You can declare 1 Type and 1 Attribute, then target 1 face-up monster on the field; it becomes that Type and Attribute, until the end of this turn. You can only use this effect of \"Mimesis Elephant\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10632284.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 24694698,
+        "name": "Naturia Marron",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can send 1 \"Naturia\" monster from your Deck to the Graveyard. Once per turn: You can target 2 \"Naturia\" monsters in your Graveyard; shuffle both those targets into the Deck, then draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24694698.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3734202,
+        "name": "Naturia Sacred Tree",
+        "type": "Trap Card",
+        "desc": "If this card is sent to the Graveyard: Add 1 \"Naturia\" card from your Deck to your hand, except \"Naturia Sacred Tree\". You can only use 1 of the following effects of \"Naturia Sacred Tree\" per turn, and only once that turn.\n● You can Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.\n● You can Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3734202.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95027497,
+        "name": "Ninja Grandmaster Hanzo",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95027497.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 50766506,
+        "name": "Ninjitsu Art of Duplication",
+        "type": "Trap Card",
+        "desc": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50766506.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73445448,
+        "name": "Number 22: Zombiestein",
+        "type": "XYZ Monster",
+        "desc": "2 Level 8 DARK monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard, then target 1 face-up card your opponent controls; change this card to Defense Position, and if you do, that face-up card has its effects negated until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73445448.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultimate Rare": [
+      {
+        "id": 62962630,
+        "name": "Aluber the Jester of Despia",
+        "type": "Effect Monster",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"Branded\" Spell/Trap from your Deck to your hand. If a face-up Fusion Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can target 1 Effect Monster your opponent controls; Special Summon this card, and if you do, negate the targeted monster's effects until the end of this turn. You can only use 1 \"Aluber the Jester of Despia\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62962630.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 62015408,
+        "name": "Ghost Reaper & Winter Cherries",
+        "type": "Tuner Monster",
+        "desc": "If your opponent controls more monsters than you do (Quick Effect): You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper & Winter Cherries\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/62015408.jpg",
+        "rarity": "Ultimate Rare"
+      },
+      {
+        "id": 26077387,
+        "name": "Sky Striker Ace - Raye",
+        "type": "Effect Monster",
+        "desc": "(Quick Effect): You can Tribute this card; Special Summon 1 \"Sky Striker Ace\" monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up \"Sky Striker Ace\" Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of \"Sky Striker Ace - Raye\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26077387.jpg",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 52296675,
+        "name": "Anchamoufrite",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nIf you have no cards in your Extra Deck except \"Anchamoufrite\": You can destroy this card, then draw 1 card. You can only use this effect of \"Anchamoufrite\" once per turn.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\". You can only Special Summon \"Anchamoufrite\" once per turn this way. If this face-up card in the Monster Zone leaves the field, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52296675.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 64487132,
+        "name": "Gadget Gamer",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can add 1 Level 1 Machine monster from your Deck to your hand. You can Tribute this card; Special Summon 1 \"Morphtronic\" monster from your hand, then you can Special Summon 1 \"Gadget Hauler\" from your hand or Deck. You can only use each effect of \"Gadget Gamer\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/64487132.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 83266092,
+        "name": "Grave of the Super Ancient Organism",
+        "type": "Trap Card",
+        "desc": "All Level 6 or higher Special Summoned monsters on the field cannot declare attacks or activate their effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83266092.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 17266660,
+        "name": "Herald of Orange Light",
+        "type": "Tuner Monster",
+        "desc": "When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/17266660.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37260946,
+        "name": "Morphtronic Earfon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhile this card is an Equip Card, the equipped monster can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Morphtronic Earfon\" once per turn. If this card is Special Summoned: You can target 1 face-up monster on the field; treat it as a Tuner until the end of this turn. You can target 1 Synchro Monster on the field; equip this card from your field or GY to it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37260946.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 11021521,
+        "name": "Neko Mane King",
+        "type": "Effect Monster",
+        "desc": "During your opponent's turn, when this card in your possession is sent to your Graveyard by an opponent's card effect: It becomes the End Phase of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11021521.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 68353324,
+        "name": "Nimble Beaver",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower \"Nimble\" monster from your Deck or GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/68353324.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 37354507,
+        "name": "Ninja Grandmaster Saizo",
+        "type": "Link Monster",
+        "desc": "2 \"Ninja\" monsters\r\nDuring your Main Phase: You can Set 1 \"Ninjitsu Art\" Spell/Trap directly from your Deck. You can only use this effect of \"Ninja Grandmaster Saizo\" once per turn. While this card points to a monster(s), this card cannot be targeted for an attack, also your opponent cannot target it with card effects.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37354507.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 79324191,
+        "name": "Ninjitsu Art Notebook",
+        "type": "Spell Card",
+        "desc": "Once per turn: You can send 1 \"Ninja\" monster from your hand to the GY; Set 1 \"Ninjitsu Art\" Spell/Trap directly from your Deck, except \"Ninjitsu Art Notebook\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79324191.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 93130022,
+        "name": "Option Token",
+        "type": "Token",
+        "desc": "This card can be used as an \"Option Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/93130022.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}

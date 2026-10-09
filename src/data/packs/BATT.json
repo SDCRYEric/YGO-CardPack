@@ -1,0 +1,167 @@
+{
+  "setName": "Battle Pack Tournament Prize Cards",
+  "pool": {
+    "Starfoil Rare": [
+      {
+        "id": 34487429,
+        "name": "Ancient City - Rainbow Ruins",
+        "type": "Spell Card",
+        "desc": "You must have this many \"Crystal Beast\" cards in your Spell & Trap Card Zone to activate and to resolve these effects. ● 1+: This card cannot be destroyed by card effects. ● 2+: Once per turn (including the opponent's) you can halve the Battle Damage you take. ● 3+: During either player's turn, when a Spell/Trap Card is activated: You can send 1 \"Crystal Beast\" monster you control to the Graveyard; negate the activation, and if you do, destroy it. ● 4+: Once per turn, during your Main Phase: You can draw 1 card. ● 5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Card Zone; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34487429.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 9156135,
+        "name": "Apprentice Magician",
+        "type": "Effect Monster",
+        "desc": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/9156135.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 69031175,
+        "name": "Blackwing Armor Master",
+        "type": "Synchro Monster",
+        "desc": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nCannot be destroyed by battle, and you take no battle damage from attacks involving this card. At the end of the Damage Step, if this card attacked a monster: You can place 1 Wedge Counter on that monster (max. 1). You can remove all Wedge Counters from your opponent's monsters; the ATK and DEF of those monsters that had Wedge Counters become 0 until the end of this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69031175.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 23995346,
+        "name": "Blue-Eyes Ultimate Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23995346.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 79229522,
+        "name": "Chimeratech Fortress Dragon",
+        "type": "Fusion Monster",
+        "desc": "\"Cyber Dragon\" + 1+ Machine monsters\r\nCannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79229522.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 23693634,
+        "name": "Colossal Fighter",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for every Warrior-Type monster in any Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can target 1 Warrior-Type monster in either Graveyard; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23693634.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 80316585,
+        "name": "Cyber Harpie Lady",
+        "type": "Effect Monster",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/80316585.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 24725825,
+        "name": "Electric Virus",
+        "type": "Effect Monster",
+        "desc": "You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24725825.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 48156348,
+        "name": "Gladiator Beast Gyzarus",
+        "type": "Fusion Monster",
+        "desc": "\"Gladiator Beast Bestiari\" + 1 \"Gladiator Beast\" monster\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) When this card is Special Summoned: You can target up to 2 cards on the field; destroy those targets. At the end of the Battle Phase, if this card battled: You can return it to the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Bestiari\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48156348.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 14464864,
+        "name": "Gleipnir, the Fetters of Fenrir",
+        "type": "Trap Card",
+        "desc": "Add 1 \"Nordic\" monster from your Deck to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14464864.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 83039729,
+        "name": "Grandmaster of the Six Samurai",
+        "type": "Effect Monster",
+        "desc": "You can only control 1 \"Grandmaster of the Six Samurai\". If you control a \"Six Samurai\" monster, you can Special Summon this card (from your hand). If this card in your possession is destroyed by an opponent's card effect: Target 1 \"Six Samurai\" monster in your GY; add that target to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83039729.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 30213599,
+        "name": "Gravekeeper's Descendant",
+        "type": "Effect Monster",
+        "desc": "You can Tribute 1 other face-up \"Gravekeeper's\" monster to target 1 card your opponent controls; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30213599.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 53567095,
+        "name": "Icarus Attack",
+        "type": "Trap Card",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53567095.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 57774843,
+        "name": "Judgment Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more \"Lightsworn\" monsters with different names in your GY. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/57774843.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 11012887,
+        "name": "Jurrac Guaiba",
+        "type": "Effect Monster",
+        "desc": "If this card destroys an opponent's monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/11012887.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 39552864,
+        "name": "Mystical Shine Ball",
+        "type": "Normal Monster",
+        "desc": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/39552864.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 23205979,
+        "name": "Spirit Reaper",
+        "type": "Effect Monster",
+        "desc": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23205979.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 41006930,
+        "name": "Strike Ninja",
+        "type": "Effect Monster",
+        "desc": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41006930.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 88307361,
+        "name": "Superancient Deepsea King Coelacanth",
+        "type": "Effect Monster",
+        "desc": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate the activation, and if you do, destroy that card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/88307361.jpg",
+        "rarity": "Starfoil Rare"
+      },
+      {
+        "id": 36687247,
+        "name": "T.G. Rush Rhino",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+        "image": "https://images.ygoprodeck.com/images/cards_small/36687247.jpg",
+        "rarity": "Starfoil Rare"
+      }
+    ]
+  }
+}

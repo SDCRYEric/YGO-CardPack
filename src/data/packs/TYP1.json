@@ -1,0 +1,215 @@
+{
+  "setName": "THANK YOU PACK",
+  "pool": {
+    "Common": [
+      {
+        "id": 10667321,
+        "name": "Ancient Rules",
+        "type": "Spell Card",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/10667321.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72989439,
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72989439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 31834488,
+        "name": "Book of Lunar Eclipse",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target 2 face-up monsters on the field; change them to face-down Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/31834488.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 29401950,
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4031928,
+        "name": "Change of Heart",
+        "type": "Spell Card",
+        "desc": "Target 1 monster your opponent controls; take control of it until the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4031928.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12423762,
+        "name": "Gagaga Gardna",
+        "type": "Effect Monster",
+        "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. When this card is targeted for an attack: You can discard 1 card; this card cannot be destroyed by that battle.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12423762.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69247929,
+        "name": "Gene-Warped Warwolf",
+        "type": "Normal Monster",
+        "desc": "This warwolf was given incalculable strength through horrific genetic manipulation. Its gentle nature was completely wiped out, and it now lives only to unleash destruction.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 85306040,
+        "name": "Goblin Elite Attack Force",
+        "type": "Effect Monster",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/85306040.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 26412047,
+        "name": "Hammer Shot",
+        "type": "Spell Card",
+        "desc": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/26412047.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77585513,
+        "name": "Jinzo",
+        "type": "Effect Monster",
+        "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77585513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 94656263,
+        "name": "Kagetokage",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94656263.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 83764719,
+        "name": "Monster Reborn",
+        "type": "Spell Card",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/83764719.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48739166,
+        "name": "Number 101: Silent Honor ARK",
+        "type": "XYZ Monster",
+        "desc": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48739166.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69610924,
+        "name": "Number 17: Leviathan Dragon",
+        "type": "XYZ Monster",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69610924.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 40838625,
+        "name": "Quaking Mirror Force",
+        "type": "Trap Card",
+        "desc": "When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/40838625.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 12580477,
+        "name": "Raigeki",
+        "type": "Spell Card",
+        "desc": "Destroy all monsters your opponent controls.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/12580477.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4178474,
+        "name": "Raigeki Break",
+        "type": "Trap Card",
+        "desc": "Discard 1 card, then target 1 card on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4178474.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 76774528,
+        "name": "Scrap Dragon",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can target 1 card you control and 1 card your opponent controls; destroy them. When this card in your possession is destroyed by your opponent's card and sent to your GY: Target 1 non-Synchro \"Scrap\" monster in your GY; Special Summon that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/76774528.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 97169186,
+        "name": "Smashing Ground",
+        "type": "Spell Card",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 91133740,
+        "name": "Snowman Eater",
+        "type": "Effect Monster",
+        "desc": "If this card is flipped face-up: Target 1 face-up monster on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/91133740.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 71564252,
+        "name": "Thunder King Rai-Oh",
+        "type": "Effect Monster",
+        "desc": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/71564252.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52687916,
+        "name": "Trishula, Dragon of the Ice Barrier",
+        "type": "Synchro Monster",
+        "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 14883228,
+        "name": "Typhoon",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up Spell/Trap on the field; destroy it. If your opponent controls 2 or more Spells/Traps and you control no Spells/Traps, you can activate this card from your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/14883228.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 79473793,
+        "name": "White Night Dragon",
+        "type": "Effect Monster",
+        "desc": "During either player's turn, when a Spell/Trap Card that targets this card is activated: Negate the activation, and if you do, destroy it. When another face-up monster you control is targeted for an attack: You can send 1 Spell/Trap Card you control to the Graveyard; change the attack target to this card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/79473793.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 90508760,
+        "name": "X-Saber Airbellum",
+        "type": "Tuner Monster",
+        "desc": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/90508760.jpg",
+        "rarity": "Common"
+      }
+    ]
+  }
+}

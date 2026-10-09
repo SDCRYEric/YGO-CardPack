@@ -1,0 +1,403 @@
+{
+  "setName": "Structure Deck: Shaddoll Showdown",
+  "pool": {
+    "Common": [
+      {
+        "id": 1475311,
+        "name": "Allure of Darkness",
+        "type": "Spell Card",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 28985331,
+        "name": "Armageddon Knight",
+        "type": "Effect Monster",
+        "desc": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/28985331.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 72989439,
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/72989439.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81788994,
+        "name": "Curse of the Shadow Prison",
+        "type": "Spell Card",
+        "desc": "Each time a \"Shaddoll\" monster(s) is sent to the GY by a card effect, place 1 Spellstone Counter on this card for each sent monster. All monsters your opponent controls lose 100 ATK for each Spellstone Counter on this card during your opponent's turn only. Each time you Fusion Summon a \"Shaddoll\" Fusion Monster, you can remove 3 Spellstone Counters from this card to use 1 appropriate face-up monster your opponent controls as 1 of the Fusion Materials.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81788994.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 65192027,
+        "name": "Dark Armed Dragon",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/65192027.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 19261966,
+        "name": "El Shaddoll Anoyatyllis",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 WATER monster\r\nMust first be Fusion Summoned. Neither player can Special Summon monsters from the hand or GY using Spell/Trap effects. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/19261966.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 6417578,
+        "name": "El Shaddoll Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only activate 1 \"El Shaddoll Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/6417578.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74009824,
+        "name": "El Shaddoll Wendigo",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 WIND monster\r\nMust first be Fusion Summoned. (Quick Effect): You can target 1 monster you control; this turn, it cannot be destroyed by battle with an opponent's Special Summoned monster. You can only use this effect of \"El Shaddoll Wendigo\" once per turn. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74009824.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34710660,
+        "name": "Electromagnetic Turtle",
+        "type": "Effect Monster",
+        "desc": "During your opponent's Battle Phase (Quick Effect): You can banish this card from your GY; end the Battle Phase. You can only use this effect of \"Electromagnetic Turtle\" once per Duel.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34710660.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 42921475,
+        "name": "Fairy Tail - Sleeper",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 monster from your hand.\r\nWhen your opponent activates a Normal Spell/Trap Card (Quick Effect): You can Tribute 1 other monster; the activated effect becomes \"Change 1 face-up monster your opponent controls to face-down Defense Position\". You can only use this effect of \"Fairy Tail - Sleeper\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/42921475.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73176465,
+        "name": "Felis, Lightsworn Archer",
+        "type": "Tuner Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY by a monster effect: Special Summon it. You can Tribute this card, then target 1 monster your opponent controls; destroy that target, then send the top 3 cards of your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73176465.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81439173,
+        "name": "Foolish Burial",
+        "type": "Spell Card",
+        "desc": "Send 1 monster from your Deck to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81439173.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 1845204,
+        "name": "Instant Fusion",
+        "type": "Spell Card",
+        "desc": "Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Instant Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/1845204.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 16404809,
+        "name": "Kuribandit",
+        "type": "Effect Monster",
+        "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 102380,
+        "name": "Lava Golem",
+        "type": "Effect Monster",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/102380.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 34959756,
+        "name": "Living Fossil",
+        "type": "Spell Card",
+        "desc": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon it and equip it with this card, but banish it when it leaves the field (even if this card has left the field). When this card leaves the field, banish the equipped monster. The equipped monster loses 1000 ATK/DEF, also its effects are negated. You can only activate 1 \"Living Fossil\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/34959756.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 74003290,
+        "name": "Lost Wind",
+        "type": "Trap Card",
+        "desc": "Target 1 face-up Special Summoned monster on the field; negate its effects, also its original ATK is halved. If a monster is Special Summoned from your opponent's Extra Deck, while this card is in your GY (except during the Damage Step): You can Set this card, but banish it when it leaves the field.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74003290.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 41386308,
+        "name": "Mathematician",
+        "type": "Effect Monster",
+        "desc": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/41386308.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 81223446,
+        "name": "Necro Fusion",
+        "type": "Trap Card",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY face-down, but it cannot attack this turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/81223446.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 60226558,
+        "name": "Nephe Shaddoll Fusion",
+        "type": "Spell Card",
+        "desc": "Activate this card by declaring 1 Attribute. Equip only to a \"Shaddoll\" monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including the equipped monster. You can only use this effect of \"Nephe Shaddoll Fusion\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/60226558.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67696066,
+        "name": "Performage Trick Clown",
+        "type": "Effect Monster",
+        "desc": "If this card is sent to the GY: You can target 1 \"Performage\" monster in your GY; Special Summon it, but its ATK/DEF become 0, then you take 1000 damage. You can only use this effect of \"Performage Trick Clown\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67696066.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69764158,
+        "name": "Peropero Cerperus",
+        "type": "Effect Monster",
+        "desc": "If you take damage by battle or an opponent's card effect while this card is in the GY: You can banish this card from the GY, then target 1 card on the field; destroy it.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69764158.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 67169062,
+        "name": "Pot of Avarice",
+        "type": "Spell Card",
+        "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/67169062.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 78942513,
+        "name": "Purushaddoll Aeon",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Shaddoll\" monster you control; send 1 \"Shaddoll\" card from your hand to the GY, and if you do, the targeted monster gains 1000 ATK/DEF, but is changed to face-down Defense Position during the End Phase.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/78942513.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 3717252,
+        "name": "Shaddoll Beast",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can draw 2 cards, then discard 1 card.\r\nIf this card is sent to the GY by a card effect: You can draw 1 card. You can only use 1 \"Shaddoll Beast\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/3717252.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 86938484,
+        "name": "Shaddoll Construct",
+        "type": "Link Monster",
+        "desc": "2 Flip monsters\r\nDuring your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this card is in your GY: You can send 1 \"Shaddoll\" card from your hand or face-up field to the GY, and if you do, Special Summon this card. You can only use each effect of \"Shaddoll Construct\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/86938484.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4904633,
+        "name": "Shaddoll Core",
+        "type": "Trap Card",
+        "desc": "Special Summon this card as an Effect Monster (Spellcaster/DARK/Level 9/ATK 1450/DEF 1950). (This card is also still a Trap.) If Summoned this way, you can substitute this monster for 1 Fusion Material that lists an Attribute, on a \"Shaddoll\" Fusion Monster Card. If this card is sent to the GY by a card effect: You can target 1 \"Shaddoll\" Spell/Trap in your GY, except \"Shaddoll Core\"; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4904633.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77723643,
+        "name": "Shaddoll Dragon",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target 1 card your opponent controls; return it to the hand.\r\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77723643.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 37445295,
+        "name": "Shaddoll Falco",
+        "type": "Flip Tuner Effect Monster",
+        "desc": "FLIP: You can target 1 \"Shaddoll\" monster in your GY, except \"Shaddoll Falco\"; Special Summon it in face-down Defense Position.\r\nIf this card is sent to the GY by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 \"Shaddoll Falco\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/37445295.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 4939890,
+        "name": "Shaddoll Hedgehog",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can add 1 \"Shaddoll\" Spell/Trap from your Deck to your hand.\r\nIf this card is sent to the GY by a card effect: You can add 1 \"Shaddoll\" monster from your Deck to your hand, except \"Shaddoll Hedgehog\". You can only use 1 \"Shaddoll Hedgehog\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/4939890.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 52551211,
+        "name": "Shaddoll Hound",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target 1 \"Shaddoll\" card in your GY; add it to your hand.\r\nIf this card is sent to the GY by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except \"Shaddoll\" monsters'.) You can only use 1 \"Shaddoll Hound\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/52551211.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 30328508,
+        "name": "Shaddoll Squamata",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target 1 monster on the field; destroy it.\r\nIf this card is sent to the GY by a card effect: You can send 1 \"Shaddoll\" card from your Deck to the GY, except \"Shaddoll Squamata\". You can only use 1 \"Shaddoll Squamata\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/30328508.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 95401059,
+        "name": "Shaddoll Zefracore",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or sent to the GY: You can target 1 \"Zefra\" card in your Pendulum Zone, except \"Shaddoll Zefracore\"; Special Summon it. You can only use this effect of \"Shaddoll Zefracore\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/95401059.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 58016954,
+        "name": "Shaddoll Zefranaga",
+        "type": "Pendulum Effect Monster",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/58016954.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 77505534,
+        "name": "Sinister Shadow Games",
+        "type": "Trap Card",
+        "desc": "Send 1 \"Shaddoll\" card from your Deck to the GY, then you can change any number of face-down Defense Position \"Shaddoll\" monsters you control to face-up Defense Position.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/77505534.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 73575650,
+        "name": "Subterror Succession",
+        "type": "Trap Card",
+        "desc": "Activate 1 of these effects, also, after that, Set this card face-down instead of sending it to the GY.\r\n● Send 1 monster from your hand or face-up field to the GY, and if you do, add 1 Flip monster from your Deck to your hand with the same Attribute, but a different name, as that monster before it was sent to the GY.\r\n● Send 1 Flip monster from your hand or face-up field to the GY, and if you do, add 1 monster from your Deck to your hand with the same Attribute but a lower original Level, as that monster before it was sent to the GY.\r\nYou can only activate 1 \"Subterror Succession\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/73575650.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 48130397,
+        "name": "Super Polymerization",
+        "type": "Spell Card",
+        "desc": "Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as Fusion Material. Neither player can activate cards or effects in response to this card's activation.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48130397.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 43898403,
+        "name": "Twin Twisters",
+        "type": "Spell Card",
+        "desc": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+        "rarity": "Common"
+      },
+      {
+        "id": 69452756,
+        "name": "Unending Nightmare",
+        "type": "Trap Card",
+        "desc": "You can pay 1000 LP, then target 1 face-up Spell/Trap on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/69452756.jpg",
+        "rarity": "Common"
+      }
+    ],
+    "Ultra Rare": [
+      {
+        "id": 50907446,
+        "name": "El Shaddoll Apkallone",
+        "type": "Fusion Monster",
+        "desc": "2 \"Shaddoll\" monsters with different Attributes\r\nMust first be Fusion Summoned. Cannot be destroyed by battle. You can only use each of the following effects of \"El Shaddoll Apkallone\" once per turn.\r\n● If this card is Special Summoned: You can target 1 face-up card on the field; negate its effects.\r\n● If this card is sent to the GY: You can add 1 \"Shaddoll\" card from your Deck or GY to your hand, then discard 1 card.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/50907446.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 20366275,
+        "name": "El Shaddoll Construct",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 LIGHT monster\r\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/20366275.jpg",
+        "rarity": "Ultra Rare"
+      },
+      {
+        "id": 48424886,
+        "name": "El Shaddoll Grysta",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 FIRE monster\r\nMust first be Fusion Summoned. When your opponent would Special Summon a monster(s) while you have a \"Shaddoll\" card in your hand (Quick Effect): You can negate the Summon, and if you do, destroy that monster, then send 1 \"Shaddoll\" card from your hand to the GY. You can only use this effect of \"El Shaddoll Grysta\" once per turn. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/48424886.jpg",
+        "rarity": "Ultra Rare"
+      }
+    ],
+    "Super Rare": [
+      {
+        "id": 74822425,
+        "name": "El Shaddoll Shekhinaga",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 EARTH monster\r\nMust first be Fusion Summoned. When a Special Summoned monster activates its effect while you have a \"Shaddoll\" card in your hand (Quick Effect): You can negate the activation, and if you do, destroy that monster, then send 1 \"Shaddoll\" card from your hand to the GY. You can only use this effect of \"El Shaddoll Shekhinaga\" once per turn. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/74822425.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 94977269,
+        "name": "El Shaddoll Winda",
+        "type": "Fusion Monster",
+        "desc": "1 \"Shaddoll\" monster + 1 DARK monster\r\nMust first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/94977269.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 97518132,
+        "name": "Naelshaddoll Ariel",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can target 1 of your banished \"Shaddoll\" monsters; Special Summon it in face-up or face-down Defense Position.\r\nIf this card is sent to the GY by a card effect: You can target up to 3 cards in the GY(s); banish them. You can only use 1 \"Naelshaddoll Ariel\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/97518132.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 24635329,
+        "name": "Qadshaddoll Keios",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 \"Shaddoll\" monster from your hand in face-up or face-down Defense Position.\r\nIf this card is sent to the GY by a card effect: You can send 1 \"Shaddoll\" monster from your hand to the GY, and if you do, for the rest of this turn, all monsters you control gain ATK/DEF equal to the original Level of that monster sent to the GY x 100. You can only use 1 \"Qadshaddoll Keios\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/24635329.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 51023024,
+        "name": "Reeshaddoll Wendi",
+        "type": "Flip Effect Monster",
+        "desc": "FLIP: You can Special Summon 1 \"Shaddoll\" monster from your Deck in face-up or face-down Defense Position, except \"Reeshaddoll Wendi\".\r\nIf this card is sent to the GY by a card effect: You can Special Summon 1 \"Shaddoll\" monster from your Deck in face-down Defense Position, except \"Reeshaddoll Wendi\". You can only use 1 \"Reeshaddoll Wendi\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/51023024.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 23912837,
+        "name": "Resh Shaddoll Incarnation",
+        "type": "Trap Card",
+        "desc": "Target 1 \"Shaddoll\" monster in your GY; Special Summon it in face-up or face-down Defense Position.\r\nYou can banish this card and 1 \"Shaddoll\" card from your GY, then activate 1 of these effects;\r\n● Change 1 face-down monster you control to face-up Defense Position.\r\n● Change 1 face-up monster you control to face-down Defense Position.\r\nYou can only use 1 \"Resh Shaddoll Incarnation\" effect per turn, and only once that turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/23912837.jpg",
+        "rarity": "Super Rare"
+      },
+      {
+        "id": 44394295,
+        "name": "Shaddoll Fusion",
+        "type": "Spell Card",
+        "desc": "Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 \"Shaddoll Fusion\" per turn.",
+        "image": "https://images.ygoprodeck.com/images/cards_small/44394295.jpg",
+        "rarity": "Super Rare"
+      }
+    ]
+  }
+}
