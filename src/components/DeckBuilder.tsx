@@ -1,8 +1,14 @@
-// src/components/DeckBuilder.tsx
 import { useState, useMemo, useEffect } from 'react';
 import { getCollectionMap, type OwnedCard } from '../lib/collection';
 import { getDeck, saveDeck, DECK_RULES, type Deck } from '../lib/deck';
 import { useCardPreview } from './CardPreviewProvider';
+import FilterPanel from './FilterPanel';
+import {
+  AdvancedFilters,
+  EMPTY_FILTERS,
+  matchesAdvancedFilters,
+} from '../lib/advancedFilter';
+import { matchCardName, rarityWeight, rarityCN } from '../lib/search';
 
 interface Props {
   deckId: string;
@@ -13,9 +19,9 @@ export default function DeckBuilder({ deckId, onBack }: Props) {
   const [deck, setDeck] = useState<Deck | null>(getDeck(deckId));
   const [collection] = useState<Record<number, OwnedCard>>(getCollectionMap);
   const [searchTerm, setSearchTerm] = useState('');
-  const [rarityFilter, setRarityFilter] = useState('all');
   const [toast, setToast] = useState<string | null>(null);
   const { openPreview } = useCardPreview();
+  const [filters, setFilters] = useState<AdvancedFilters>({ ...EMPTY_FILTERS });
 
   useEffect(() => {
     if (!toast) return;
@@ -82,12 +88,12 @@ export default function DeckBuilder({ deckId, onBack }: Props) {
   };
 
   const collectionList = useMemo(() => {
-    return Object.values(collection).filter(c => {
-      const matchesSearch = c.name.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesRarity = rarityFilter === 'all' || c.rarity === rarityFilter;
-      return matchesSearch && matchesRarity;
-    });
-  }, [collection, searchTerm, rarityFilter]);
+  return Object.values(collection).filter(c => {
+    const okSearch = matchCardName(c.name, c.nameEn, searchTerm);
+    const okAdvanced = matchesAdvancedFilters(c as any, filters);
+    return okSearch && okAdvanced;
+  });
+}, [collection, searchTerm, filters]);
 
   const deckCards = useMemo(() => {
     if (!deck) return [];
@@ -102,7 +108,8 @@ export default function DeckBuilder({ deckId, onBack }: Props) {
   }, [deck, collection]);
 
   const rarities = useMemo(
-    () => Array.from(new Set(Object.values(collection).map(c => c.rarity))).sort(),
+    () => Array.from(new Set(Object.values(collection).map(c => c.rarity)))
+      .sort((a, b) => rarityWeight(a) - rarityWeight(b)),
     [collection]
   );
 
@@ -143,12 +150,11 @@ export default function DeckBuilder({ deckId, onBack }: Props) {
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
             />
-            <select value={rarityFilter} onChange={e => setRarityFilter(e.target.value)}>
-              <option value="all">所有稀有度</option>
-              {rarities.map(r => (
-                <option key={r} value={r}>{r}</option>
-              ))}
-            </select>
+            <FilterPanel
+              filters={filters}
+              onChange={setFilters}
+              availableRarities={rarities}
+            />
           </div>
 
           <div className="deck-card-list">

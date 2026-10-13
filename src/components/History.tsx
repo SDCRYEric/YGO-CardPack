@@ -7,6 +7,8 @@ import {
   type HistoryEntry,
 } from '../lib/history';
 import { useCardPreview } from './CardPreviewProvider';
+import { rarityCN } from '../lib/search';
+import CardImage from './CardImage';
 
 interface Props {
   onBack: () => void;
@@ -95,11 +97,11 @@ export default function History({ onBack }: Props) {
                         onClick={() => openPreview(card as any)}
                         title={`${card.name} - 点击放大`}
                       >
-                        <img src={card.image} alt={card.name} loading="lazy" />
+                        <CardImage card={card} />
                         <div className="history-card-name" title={card.name}>
                           {card.name}
                         </div>
-                        <div className="history-card-rarity">{card.rarity}</div>
+                        <div className="history-card-rarity">{rarityCN(card.rarity)}</div>
                       </div>
                     ))}
                   </div>

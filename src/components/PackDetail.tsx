@@ -1,39 +1,81 @@
 // src/components/PackDetail.tsx
 import { useState, useEffect } from 'react';
 import type { Set } from '../types';
-import type { CardPool } from '../lib/draw';
+import {
+  resolvePool,
+  type CardPool,
+  type CardPoolIndex,
+} from '../lib/draw';
+import { loadCardsDb } from '../lib/cardsDb';
 import { getGeneration, getMasterRule } from '../data/categories';
 import { useCardPreview } from './CardPreviewProvider';
+import { getBoxState, clearBoxState, saveBoxState } from '../lib/boxes';
+import { buildVirtualBox, restoreBoxFromState } from '../lib/draw';
+import { rarityCN } from '../lib/search';
+import CardImage from './CardImage';
 
 interface Props {
   set: Set;
   onBack: () => void;
-  onOpenPack: (pool: CardPool) => void;
+  onOpenPack: (poolIndex: CardPoolIndex) => void;
 }
 
 export default function PackDetail({ set, onBack, onOpenPack }: Props) {
   const [pool, setPool] = useState<CardPool | null>(null);
+  const [poolIndex, setPoolIndex] = useState<CardPoolIndex | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const { openPreview } = useCardPreview();
+  const [boxInfo, setBoxInfo] = useState<{ remaining: number; drawn: number; total: number } | null>(null);
 
   useEffect(() => {
     setLoading(true);
     setError(null);
     setPool(null);
+    setPoolIndex(null);
 
-    import(`../data/packs/${set.code}.json`)
-      .then(mod => {
-        setPool(mod.default.pool as CardPool);
+    Promise.all([
+      import(`../data/packs-cn/${set.code}.json`).catch(() =>
+        import(`../data/packs/${set.code}.json`)
+      ),
+      loadCardsDb(),
+    ])
+      .then(([packMod, db]) => {
+        const index = (packMod as any).default.pool as CardPoolIndex;
+        const resolved = resolvePool(index, db);
+        setPool(resolved);
+        setPoolIndex(index);
         setLoading(false);
       })
-      .catch(() => {
+      .catch(err => {
+        console.error(err);
         setError(
-          `这个卡包的详细卡池数据还未生成。你需要先为「${set.code}」生成 src/data/packs/${set.code}.json 文件。`
+          `这个卡包的详细卡池数据还未生成。你需要先为「${set.code}」生成 src/data/packs-cn/${set.code}.json 文件。`
         );
         setLoading(false);
       });
   }, [set.code]);
+
+  useEffect(() => {
+    if (!pool || !set) return;
+    const existing = getBoxState(set.code);
+    if (existing) {
+      setBoxInfo({
+        remaining: existing.cardIds.length,
+        drawn: existing.drawnCount,
+        total: existing.totalCards,
+      });
+    } else {
+      setBoxInfo(null);
+    }
+  }, [pool, set]);
+
+  const handleReset = () => {
+    if (!set) return;
+    if (!confirm('确定重置这个卡盒吗？抽过的卡不会消失，但盒中的剩余卡会重新洗牌。')) return;
+    clearBoxState(set.code);
+    setBoxInfo(null);
+  };
 
   const allCards = pool
     ? Object.entries(pool).flatMap(([rarity, cards]) =>
@@ -43,9 +85,7 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
 
   return (
     <div className="pack-detail">
-      <button onClick={onBack} className="back-btn">
-        ← 返回卡包列表
-      </button>
+      <button onClick={onBack} className="back-btn">← 返回卡包列表</button>
 
       <div className="pack-header">
         {set.coverImage ? (
@@ -57,18 +97,9 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
         <div className="pack-info">
           <h1>{set.name}</h1>
           <div className="pack-meta">
-            <div>
-              <span className="label">卡包代码：</span>
-              <span>{set.code}</span>
-            </div>
-            <div>
-              <span className="label">发售年份：</span>
-              <span>{set.releaseDate || '未知'}</span>
-            </div>
-            <div>
-              <span className="label">卡片数量：</span>
-              <span>{set.cardCount} 张</span>
-            </div>
+            <div><span className="label">卡包代码：</span><span>{set.code}</span></div>
+            <div><span className="label">发售年份：</span><span>{set.releaseDate || '未知'}</span></div>
+            <div><span className="label">卡片数量：</span><span>{set.cardCount} 张</span></div>
             <div>
               <span className="label">所属世代：</span>
               <span className="highlight">{getGeneration(set.releaseDate)}</span>
@@ -79,13 +110,35 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
             </div>
           </div>
 
-          {pool && (
-            <button
-              className="open-pack-btn"
-              onClick={() => onOpenPack(pool)}
-            >
-              打开这包
-            </button>
+          {poolIndex && (
+            <div className="box-info-panel">
+              {boxInfo ? (
+                <>
+                  <div className="box-info-text">
+                    <span>已抽 {boxInfo.drawn} 张</span>
+                    <span>·</span>
+                    <span>剩余 {boxInfo.remaining} 张</span>
+                    {boxInfo.remaining === 0 && (
+                      <span className="box-empty">卡盒已抽干</span>
+                    )}
+                  </div>
+                  <div className="box-info-actions">
+                    <button className="open-pack-btn" onClick={() => onOpenPack(poolIndex)}>
+                      {boxInfo.remaining === 0 ? '进入抽卡页' : '继续抽卡'}
+                    </button>
+                    {boxInfo.remaining === 0 && (
+                      <button className="reset-btn" onClick={handleReset}>
+                        重置卡盒
+                      </button>
+                    )}
+                  </div>
+                </>
+              ) : (
+                <button className="open-pack-btn" onClick={() => onOpenPack(poolIndex)}>
+                  打开这包（新建卡盒）
+                </button>
+              )}
+            </div>
           )}
         </div>
       </div>
@@ -103,17 +156,20 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
           <div className="card-list">
             {allCards.map(card => (
               <div
-                  key={card.id}
-                  className="mini-card"
-                  onClick={() => openPreview(card)}
-                  title={`${card.name} - 点击放大`}
+                key={card.id}
+                className="mini-card"
+                onClick={() => openPreview(card)}
+                title={`${card.name} - 点击放大`}
               >
-              <img src={card.image} alt={card.name} loading="lazy" />
-              <div className="mini-card-info">
-              <div className="mini-card-name" title={card.name}>
-                {card.name}
-              </div>
-                <div className="mini-card-rarity">{card.rarity}</div>
+                <CardImage card={card} />
+                <div className="mini-card-info">
+                  <div className="mini-card-name" title={card.name}>{card.name}</div>
+                  {card.nameEn && card.nameEn !== card.name && (
+                    <div className="mini-card-name-en" title={card.nameEn}>
+                      {card.nameEn}
+                    </div>
+                  )}
+                  <div className="mini-card-rarity">{rarityCN(card.rarity)}</div>
                 </div>
               </div>
             ))}

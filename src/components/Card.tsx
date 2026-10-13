@@ -2,6 +2,8 @@
 import { useState } from 'react';
 import type { CardData } from '../lib/draw';
 import { useCardPreview } from './CardPreviewProvider';
+import { rarityCN } from '../lib/search';
+import CardImage from './CardImage';
 
 interface Props {
   card: CardData;
@@ -30,8 +32,8 @@ export default function Card({ card, index }: Props) {
       <div className="card-inner">
         <div className="card-back">YGO</div>
         <div className="card-front">
-          <img src={card.image} alt={card.name} loading="lazy" />
-          <div className="rarity">{card.rarity}</div>
+          <CardImage card={card} className="card-image" />
+          <div className="rarity">{rarityCN(card.rarity)}</div>
         </div>
       </div>
     </div>

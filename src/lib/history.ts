@@ -8,6 +8,13 @@ export interface HistoryCard {
   image: string;
   rarity: string;
   type?: string;
+  typeEn?: string;
+  race?: string;
+  attribute?: string;
+  atk?: number;
+  def?: number;
+  level?: number;
+  linkval?: number;
   desc?: string;
 }
 

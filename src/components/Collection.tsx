@@ -2,22 +2,24 @@
 import { useState, useMemo } from 'react';
 import { getCollection, type OwnedCard } from '../lib/collection';
 import { useCardPreview } from './CardPreviewProvider';
+import FilterPanel from './FilterPanel';
+import {
+  AdvancedFilters,
+  EMPTY_FILTERS,
+  matchesAdvancedFilters,
+} from '../lib/advancedFilter';
+import { matchCardName, rarityWeight, rarityCN } from '../lib/search';
+import CardImage from './CardImage';
 
 interface Props {
   onBack: () => void;
   onGoToDecks: () => void;
 }
 
-const RARITY_ORDER = [
-  'Common', 'Short Print', 'Rare', 'Super Rare', 'Ultra Rare',
-  'Secret Rare', 'Ultimate Rare', 'Ghost Rare', 'Starlight Rare',
-  'Quarter Century Secret Rare', "Collector's Rare",
-];
-
 export default function Collection({ onBack, onGoToDecks }: Props) {
   const [cards] = useState<OwnedCard[]>(getCollection());
   const [searchTerm, setSearchTerm] = useState('');
-  const [rarityFilter, setRarityFilter] = useState('all');
+  const [filters, setFilters] = useState<AdvancedFilters>({ ...EMPTY_FILTERS });
   const [sortBy, setSortBy] = useState<'rarity' | 'count' | 'name'>('rarity');
   const { openPreview } = useCardPreview();
 
@@ -26,33 +28,21 @@ export default function Collection({ onBack, onGoToDecks }: Props) {
 
   const rarities = useMemo(() => {
     const set = new Set(cards.map(c => c.rarity));
-    return Array.from(set).sort((a, b) => {
-      const ai = RARITY_ORDER.indexOf(a);
-      const bi = RARITY_ORDER.indexOf(b);
-      return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
-    });
+    return Array.from(set).sort((a, b) => rarityWeight(a) - rarityWeight(b));
   }, [cards]);
 
   const filtered = useMemo(() => {
     let list = cards.filter(c => {
-      const matchesSearch = c.name.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesRarity = rarityFilter === 'all' || c.rarity === rarityFilter;
-      return matchesSearch && matchesRarity;
+      const okSearch = matchCardName(c.name, c.nameEn, searchTerm);
+      const okAdvanced = matchesAdvancedFilters(c as any, filters);
+      return okSearch && okAdvanced;
     });
 
-    if (sortBy === 'count') {
-      list = [...list].sort((a, b) => b.count - a.count);
-    } else if (sortBy === 'name') {
-      list = [...list].sort((a, b) => a.name.localeCompare(b.name));
-    } else {
-      list = [...list].sort((a, b) => {
-        const ai = RARITY_ORDER.indexOf(a.rarity);
-        const bi = RARITY_ORDER.indexOf(b.rarity);
-        return (bi === -1 ? 999 : bi) - (ai === -1 ? 999 : ai);
-      });
-    }
+    if (sortBy === 'count') list = [...list].sort((a, b) => b.count - a.count);
+    else if (sortBy === 'name') list = [...list].sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'));
+    else list = [...list].sort((a, b) => rarityWeight(b.rarity) - rarityWeight(a.rarity));
     return list;
-  }, [cards, searchTerm, rarityFilter, sortBy]);
+  }, [cards, searchTerm, filters, sortBy]);
 
   return (
     <div className="collection-page">
@@ -71,21 +61,25 @@ export default function Collection({ onBack, onGoToDecks }: Props) {
           <span className="stat-label">不同种类</span>
           <span className="stat-value">{uniqueCount}</span>
         </div>
+        <div className="stat-item">
+          <span className="stat-label">筛选后</span>
+          <span className="stat-value">{filtered.length}</span>
+        </div>
       </div>
 
       <div className="filters">
         <input
           type="text"
-          placeholder="搜索卡名..."
+          placeholder="搜索中文名或英文名..."
           value={searchTerm}
           onChange={e => setSearchTerm(e.target.value)}
+          className="search-input"
         />
-        <select value={rarityFilter} onChange={e => setRarityFilter(e.target.value)}>
-          <option value="all">所有稀有度</option>
-          {rarities.map(r => (
-            <option key={r} value={r}>{r}</option>
-          ))}
-        </select>
+        <FilterPanel
+          filters={filters}
+          onChange={setFilters}
+          availableRarities={rarities}
+        />
         <select value={sortBy} onChange={e => setSortBy(e.target.value as any)}>
           <option value="rarity">按稀有度</option>
           <option value="count">按数量</option>
@@ -104,16 +98,21 @@ export default function Collection({ onBack, onGoToDecks }: Props) {
               key={card.id}
               className="mini-card"
               onClick={() => openPreview(card as any)}
-              title={`${card.name} - 点击放大`}
+              title={`${card.name}${card.nameEn ? ' / ' + card.nameEn : ''}`}
             >
               {card.image ? (
-                <img src={card.image} alt={card.name} loading="lazy" />
+                <CardImage card={card} />
               ) : (
                 <div className="card-image-placeholder">?</div>
               )}
               <div className="mini-card-info">
                 <div className="mini-card-name" title={card.name}>{card.name}</div>
-                <div className="mini-card-rarity">{card.rarity}</div>
+                {card.nameEn && card.nameEn !== card.name && (
+                  <div className="mini-card-name-en" title={card.nameEn}>
+                    {card.nameEn}
+                  </div>
+                )}
+                <div className="mini-card-rarity">{rarityCN(card.rarity)}</div>
               </div>
               {card.count > 1 && (
                 <div className="card-count-badge">×{card.count}</div>

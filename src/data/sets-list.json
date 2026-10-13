@@ -4898,10 +4898,10 @@
   },
   {
     "name": "Structure Deck: Deluxe Edition",
-    "code": "SD1",
+    "code": "SD2",
     "cardCount": 2,
     "releaseDate": "2005-01-01",
-    "coverImage": "https://images.ygoprodeck.com/images/sets/SD1.jpg"
+    "coverImage": "https://images.ygoprodeck.com/images/sets/SD2.jpg"
   },
   {
     "name": "Structure Deck: Dinosaur's Rage",
@@ -5186,7 +5186,7 @@
   {
     "name": "THANK YOU PACK",
     "code": "TYP1",
-    "cardCount": 26,
+    "cardCount": 27,
     "releaseDate": "2026-07-22",
     "coverImage": "https://images.ygoprodeck.com/images/sets/TYP1.jpg"
   },
@@ -6333,7 +6333,7 @@
     "releaseDate": "2009-11-17"
   },
   {
-    "name": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+    "name": "Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards",
     "code": "TF05",
     "cardCount": 3,
     "releaseDate": "2010-10-26"

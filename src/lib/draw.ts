@@ -1,14 +1,16 @@
 // src/lib/draw.ts
+import type { CardsDb, CardInfo } from './cardsDb';
+import type { BoxState } from './boxes';
 
-export interface CardData {
-  id: number;
-  name: string;
-  image: string;
+// 最终用于展示的卡片（含稀有度）
+export interface CardData extends CardInfo {
   rarity: string;
-  type?: string;
-  desc?: string;
 }
 
+// 卡包索引：稀有度 -> 卡片 ID 列表（新格式）
+export type CardPoolIndex = Record<string, number[]>;
+
+// 解析后的卡池：稀有度 -> 完整卡片
 export type CardPool = Record<string, CardData[]>;
 
 export interface PackConfig {
@@ -20,7 +22,23 @@ export interface PackConfig {
   guarantee: string;
 }
 
-// ============= 原有逻辑（保留，供其他地方使用） =============
+// 把卡包索引 + 卡片库 解析成完整卡池
+export function resolvePool(index: CardPoolIndex, db: CardsDb): CardPool {
+  const result: CardPool = {};
+  for (const [rarity, ids] of Object.entries(index)) {
+    if (!Array.isArray(ids)) continue;
+    const cards: CardData[] = [];
+    for (const id of ids) {
+      const info = db[String(id)];
+      if (!info) continue;
+      cards.push({ ...info, rarity });
+    }
+    result[rarity] = cards;
+  }
+  return result;
+}
+
+// ============= 以下部分保持原样 =============
 
 function weightedRarity(weights: Record<string, number>, pool: CardPool): string {
   const available = Object.entries(weights).filter(([rarity]) => pool[rarity]?.length);
@@ -57,14 +75,14 @@ export function drawPack(pool: CardPool, config: PackConfig): CardData[] {
   return cards;
 }
 
-// ============= 虚拟卡盒（决斗链接风格） =============
+// ============= 虚拟卡盒 =============
 
 export interface VirtualBox {
   cards: CardData[];
   totalCards: number;
   drawnCount: number;
-  guaranteeCounter: number;    // 连续未出 UR 的十连计数
-  srGuaranteeCounter: number;  // 连续未出 SR 的十连计数
+  guaranteeCounter: number;
+  srGuaranteeCounter: number;
 }
 
 function shuffle<T>(arr: T[]) {
@@ -74,7 +92,6 @@ function shuffle<T>(arr: T[]) {
   }
 }
 
-// 稀有度在盒中的固定张数（可根据需要调整）
 const BOX_DISTRIBUTION: Record<string, number> = {
   'Secret Rare': 2,
   'Ultra Rare': 6,
@@ -83,7 +100,6 @@ const BOX_DISTRIBUTION: Record<string, number> = {
   'Common': 150,
 };
 
-// 判断稀有度是否属于某个等级
 function isURPlus(rarity: string) {
   return rarity.includes('Ultra') || rarity.includes('Secret');
 }
@@ -91,11 +107,8 @@ function isSRPlus(rarity: string) {
   return rarity.includes('Super') || isURPlus(rarity);
 }
 
-// 生成一个虚拟卡盒
 export function buildVirtualBox(pool: CardPool): VirtualBox {
   const cards: CardData[] = [];
-
-  // 优先按预定义分配；如果卡池里没有这些稀有度，就把剩下的卡补进来
   const usedRarities = new Set<string>();
 
   for (const [rarity, count] of Object.entries(BOX_DISTRIBUTION)) {
@@ -107,13 +120,10 @@ export function buildVirtualBox(pool: CardPool): VirtualBox {
     }
   }
 
-  // 把未在分配表里出现过的稀有度也补进去（每种至少放一张）
   for (const [rarity, list] of Object.entries(pool)) {
     if (usedRarities.has(rarity)) continue;
     if (!list || list.length === 0) continue;
-    for (const card of list) {
-      cards.push(card);
-    }
+    for (const card of list) cards.push(card);
   }
 
   shuffle(cards);
@@ -127,7 +137,6 @@ export function buildVirtualBox(pool: CardPool): VirtualBox {
   };
 }
 
-// 从盒中抽一包（不放回）
 export function drawFromBox(box: VirtualBox, cardsPerPack: number): CardData[] {
   const result: CardData[] = [];
 
@@ -140,22 +149,18 @@ export function drawFromBox(box: VirtualBox, cardsPerPack: number): CardData[] {
 
   const hasUR = result.some(c => isURPlus(c.rarity));
   const hasSR = result.some(c => isSRPlus(c.rarity));
-
   box.guaranteeCounter = hasUR ? 0 : box.guaranteeCounter + 1;
   box.srGuaranteeCounter = hasSR ? 0 : box.srGuaranteeCounter + 1;
 
   return result;
 }
 
-// 十连抽（带 SR 保底 + 十连大保底 UR）
 export function drawTenFromBox(box: VirtualBox, cardsPerPack: number): CardData[] {
   const allCards: CardData[] = [];
-
   for (let pack = 0; pack < 10; pack++) {
     allCards.push(...drawFromBox(box, cardsPerPack));
   }
 
-  // SR 保底：整个十连没有 SR 以上，就替换最后一张
   const hasSRPlus = allCards.some(c => isSRPlus(c.rarity));
   if (!hasSRPlus) {
     const idx = box.cards.findIndex(c => isSRPlus(c.rarity));
@@ -165,7 +170,6 @@ export function drawTenFromBox(box: VirtualBox, cardsPerPack: number): CardData[
     }
   }
 
-  // UR 大保底：连续 10 个十连没出 UR
   if (box.guaranteeCounter >= 10) {
     const idx = box.cards.findIndex(c => isURPlus(c.rarity));
     if (idx >= 0) {
@@ -178,7 +182,36 @@ export function drawTenFromBox(box: VirtualBox, cardsPerPack: number): CardData[
   return allCards;
 }
 
-// 盒中剩余卡数（用于界面提示）
 export function getRemainingInBox(box: VirtualBox, cardsPerPack: number): number {
   return Math.ceil(box.cards.length / cardsPerPack);
+}
+
+// 根据持久化状态恢复虚拟盒（需要卡片库）
+// src/lib/draw.ts（替换 restoreBoxFromState 函数）
+// 替换文件末尾的 restoreBoxFromState
+export function restoreBoxFromState(
+  state: BoxState,
+  db: Record<string, CardInfo>
+): VirtualBox {
+  const cards: CardData[] = [];
+  for (let i = 0; i < state.cardIds.length; i++) {
+    const id = state.cardIds[i];
+    const info = db[String(id)];
+    if (!info) continue;
+    const rarity = state.rarities?.[i] || '—';
+    cards.push({ ...info, rarity });
+  }
+
+  return {
+    cards,
+    totalCards: state.totalCards,
+    drawnCount: state.drawnCount,
+    guaranteeCounter: state.guaranteeCounter,
+    srGuaranteeCounter: state.srGuaranteeCounter,
+  };
+}
+
+// 判断虚拟盒是否抽干
+export function isBoxDried(box: VirtualBox): boolean {
+  return box.cards.length === 0;
 }

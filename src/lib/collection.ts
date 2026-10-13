@@ -6,14 +6,21 @@ const KEY = 'ygo-collection';
 export interface OwnedCard {
   id: number;
   name: string;
+  nameEn?: string;
   image: string;
   rarity: string;
   type?: string;
+  typeEn?: string;
+  race?: string;
+  attribute?: string;
+  atk?: number;
+  def?: number;
+  level?: number;
+  linkval?: number;
   desc?: string;
   count: number;
 }
 
-// 内部：读取并兼容旧数据格式（{id: number}）
 function readRaw(): Record<number, OwnedCard> {
   const raw = localStorage.getItem(KEY);
   if (!raw) return {};
@@ -44,6 +51,15 @@ function readRaw(): Record<number, OwnedCard> {
 
 export function addCardToCollection(card: CardData) {
   const data = readRaw();
+  const c = card as CardData & {
+    race?: string;
+    attribute?: string;
+    typeEn?: string;
+    atk?: number;
+    def?: number;
+    level?: number;
+    linkval?: number;
+  };
 
   if (data[card.id]) {
     data[card.id].count += 1;
@@ -53,15 +69,26 @@ export function addCardToCollection(card: CardData) {
       data[card.id].name = card.name;
     }
     if (!data[card.id].type) data[card.id].type = card.type;
+    if (!data[card.id].typeEn) data[card.id].typeEn = c.typeEn;
+    if (!data[card.id].race) data[card.id].race = c.race;
+    if (!data[card.id].attribute) data[card.id].attribute = c.attribute;
     if (!data[card.id].desc) data[card.id].desc = card.desc;
     if (data[card.id].rarity === '?') data[card.id].rarity = card.rarity;
   } else {
     data[card.id] = {
       id: card.id,
       name: card.name,
+      nameEn: card.nameEn,
       image: card.image,
       rarity: card.rarity,
       type: card.type,
+      typeEn: c.typeEn,
+      race: c.race,
+      attribute: c.attribute,
+      atk: c.atk,
+      def: c.def,
+      level: c.level,
+      linkval: c.linkval,
       desc: card.desc,
       count: 1,
     };
