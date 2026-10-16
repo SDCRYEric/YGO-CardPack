@@ -1,6 +1,6 @@
 // src/App.tsx
 import { useState } from 'react';
-import { packs } from './data/packs';
+import { CARDS_PER_PACK } from './data/packs';
 import {
   drawFromBox,
   drawTenFromBox,
@@ -23,12 +23,14 @@ import Collection from './components/Collection';
 import DeckList from './components/DeckList';
 import DeckBuilder from './components/DeckBuilder';
 import CardSearch from './components/CardSearch';
+import UpdateChecker from './components/UpdateChecker';
 import './index.css';
 import { addCardToCollection } from './lib/collection';
 import { addHistoryEntry } from './lib/history';
 import type { Set } from './types';
 import { getBoxState, saveBoxState, clearBoxState } from './lib/boxes';
 import setsData from './data/sets-list.json';
+import hiddenData from './data/hidden-codes.json';
 import { CardPreviewProvider } from './components/CardPreviewProvider';
 
 const packModules = import.meta.glob('./data/packs-cn/*.json');
@@ -37,6 +39,10 @@ const availableCodes = new Set(
     const m = p.match(/\/([^/]+)\.json$/);
     return m ? m[1] : '';
   })
+);
+
+const hiddenCodes = new Set<string>(
+  (hiddenData as { hidden: string[] }).hidden || []
 );
 
 type View =
@@ -93,10 +99,7 @@ export default function App() {
       alert(`找不到代码为「${setCode}」的卡包`);
       return;
     }
-
-    // 【新增】记住当前页面，方便返回
     setPreviousView(view);
-
     setCurrentSet(found);
     setCurrentPool(null);
     setVirtualBox(null);
@@ -109,19 +112,23 @@ export default function App() {
     setView({ name: 'detail' });
   };
 
-  // 现在 onOpenPack 接收的是 CardPoolIndex，内部异步解析
   const handleOpenPack = async (poolIndex: CardPoolIndex) => {
     if (!currentSet) return;
     const db = await loadCardsDb();
     const pool = resolvePool(poolIndex, db);
     setCurrentPool(pool);
 
-    // 检查是否有已存在的盒
     const existing = getBoxState(currentSet.code);
     let box: VirtualBox;
 
     if (existing) {
-      box = restoreBoxFromState(existing, db);
+      const restored = restoreBoxFromState(existing, db);
+      if (restored) {
+        box = restored;
+      } else {
+        box = buildVirtualBox(pool);
+        saveBoxState(currentSet.code, box);
+      }
     } else {
       box = buildVirtualBox(pool);
       saveBoxState(currentSet.code, box);
@@ -130,13 +137,12 @@ export default function App() {
     setVirtualBox(box);
 
     if (isBoxDried(box)) {
-      // 盒已抽干，不抽卡，只显示状态
       setCards([]);
       setView({ name: 'draw' });
       return;
     }
 
-    const result = drawFromBox(box, packs[0].cardsPerPack);
+    const result = drawFromBox(box, CARDS_PER_PACK);
     saveBoxState(currentSet.code, box);
     result.forEach(card => addCardToCollection(card));
     recordDraw(result);
@@ -147,7 +153,7 @@ export default function App() {
 
   const handleDrawAgain = () => {
     if (!virtualBox || !currentSet) return;
-    const result = drawFromBox(virtualBox, packs[0].cardsPerPack);
+    const result = drawFromBox(virtualBox, CARDS_PER_PACK);
     saveBoxState(currentSet.code, virtualBox);
     result.forEach(card => addCardToCollection(card));
     recordDraw(result);
@@ -155,10 +161,9 @@ export default function App() {
     setLastDrawCount(1);
   };
 
-  // 修改 handleDrawTen
   const handleDrawTen = () => {
     if (!virtualBox || !currentSet) return;
-    const result = drawTenFromBox(virtualBox, packs[0].cardsPerPack);
+    const result = drawTenFromBox(virtualBox, CARDS_PER_PACK);
     saveBoxState(currentSet.code, virtualBox);
     result.forEach(card => addCardToCollection(card));
     recordDraw(result);
@@ -185,7 +190,6 @@ export default function App() {
   };
 
   const backFromDetail = () => {
-    // 如果有来源页面，回到那里
     if (previousView) {
       setView(previousView);
       setPreviousView(null);
@@ -194,7 +198,6 @@ export default function App() {
       setVirtualBox(null);
       setCards([]);
     } else {
-      // 否则回到卡包列表
       backToList();
     }
   };
@@ -211,8 +214,9 @@ export default function App() {
     }
   })();
 
-  const remainingPacks =
-    virtualBox ? getRemainingInBox(virtualBox, packs[0].cardsPerPack) : 0;
+  const remainingPacks = virtualBox
+    ? getRemainingInBox(virtualBox, CARDS_PER_PACK)
+    : 0;
   const isBoxEmpty = virtualBox ? virtualBox.cards.length === 0 : false;
 
   return (
@@ -235,8 +239,14 @@ export default function App() {
               <button className="nav-btn" onClick={() => setView({ name: 'history' })}>
                 📜 开包历史
               </button>
+              {/* 【新增】更新检查按钮 */}
+              <UpdateChecker />
             </div>
-            <PackSelector onSelect={handleSelect} availableCodes={availableCodes} />
+            <PackSelector
+              onSelect={handleSelect}
+              availableCodes={availableCodes}
+              hiddenCodes={hiddenCodes}
+            />
           </>
         )}
 

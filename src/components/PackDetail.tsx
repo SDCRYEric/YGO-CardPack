@@ -3,8 +3,6 @@ import { useState, useEffect } from 'react';
 import type { Set } from '../types';
 import {
   resolvePool,
-  buildVirtualBox,
-  restoreBoxFromState,
   type CardPool,
   type CardPoolIndex,
 } from '../lib/draw';
@@ -13,6 +11,7 @@ import { getGeneration, getMasterRule } from '../data/categories';
 import { useCardPreview } from './CardPreviewProvider';
 import { getBoxState, clearBoxState } from '../lib/boxes';
 import { rarityCN } from '../lib/search';
+import { CARDS_PER_PACK } from '../data/packs';
 
 interface Props {
   set: Set;
@@ -40,9 +39,7 @@ export default function PackDetail({ set, onBack, onOpenPack, backLabel }: Props
     setPoolIndex(null);
 
     Promise.all([
-      import(`../data/packs-cn/${set.code}.json`).catch(() =>
-        import(`../data/packs/${set.code}.json`)
-      ),
+      import(`../data/packs-cn/${set.code}.json`),
       loadCardsDb(),
     ])
       .then(([packMod, db]) => {
@@ -88,6 +85,16 @@ export default function PackDetail({ set, onBack, onOpenPack, backLabel }: Props
       )
     : [];
 
+  // ========== 新增：计算包数和"是否抽过" ==========
+  const totalPacks = boxInfo
+    ? Math.ceil(boxInfo.total / CARDS_PER_PACK)
+    : 0;
+  const remainingPacks = boxInfo
+    ? Math.ceil(boxInfo.remaining / CARDS_PER_PACK)
+    : 0;
+  // 抽过才显示重置按钮（全新未抽的盒不需要重置）
+  const hasDrawn = boxInfo ? boxInfo.remaining < boxInfo.total : false;
+
   return (
     <div className="pack-detail">
       <button onClick={onBack} className="back-btn">
@@ -131,11 +138,13 @@ export default function PackDetail({ set, onBack, onOpenPack, backLabel }: Props
               {boxInfo ? (
                 <>
                   <div className="box-info-text">
-                    <span>已抽 {boxInfo.drawn} 张</span>
+                    <span>
+                      剩余 <strong>{remainingPacks}</strong> / {totalPacks} 包
+                    </span>
                     <span>·</span>
-                    <span>剩余 {boxInfo.remaining} 张</span>
+                    <span>已抽 {boxInfo.drawn} 张</span>
                     {boxInfo.remaining === 0 && (
-                      <span className="box-empty">卡盒已抽干</span>
+                      <span className="box-empty">已抽干</span>
                     )}
                   </div>
                   <div className="box-info-actions">
@@ -145,7 +154,8 @@ export default function PackDetail({ set, onBack, onOpenPack, backLabel }: Props
                     >
                       {boxInfo.remaining === 0 ? '进入抽卡页' : '继续抽卡'}
                     </button>
-                    {boxInfo.remaining === 0 && (
+                    {/* 【关键】只有抽过才显示重置按钮 */}
+                    {hasDrawn && (
                       <button className="reset-btn" onClick={handleReset}>
                         重置卡盒
                       </button>

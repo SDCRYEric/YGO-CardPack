@@ -3,6 +3,11 @@ import { loadCardsDb } from './cardsDb';
 
 const CN_RE = /[\u4e00-\u9fa5]/;
 
+function hasChinese(v: any): boolean {
+  if (typeof v !== 'string') return true; // 对象/undefined 视为已处理
+  return CN_RE.test(v);
+}
+
 export async function syncLocalData(): Promise<{
   collectionFixed: number;
   historyFixed: number;
@@ -26,9 +31,8 @@ export async function syncLocalData(): Promise<{
         const info = db[id];
         if (!info) continue;
 
-        // 名字或描述不含中文 → 用 cards-db 覆盖
-        const nameIsEn = entry.name && !CN_RE.test(entry.name);
-        const descIsEn = entry.desc && !CN_RE.test(entry.desc);
+        const nameIsEn = entry.name && !hasChinese(entry.name);
+        const descIsEn = entry.desc && !hasChinese(entry.desc);
 
         if (nameIsEn || descIsEn) {
           entry.name = info.name;
@@ -68,8 +72,9 @@ export async function syncLocalData(): Promise<{
             const info = db[String(card.id)];
             if (!info) continue;
 
-            const nameIsEn = card.name && !CN_RE.test(card.name);
-            const descIsEn = card.desc && !CN_RE.test(card.desc);
+            // 使用 hasChinese 而不是 CN_RE.test
+            const nameIsEn = card.name && !hasChinese(card.name);
+            const descIsEn = card.desc && !hasChinese(card.desc);
 
             if (nameIsEn || descIsEn) {
               card.name = info.name;

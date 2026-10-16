@@ -23,7 +23,10 @@ export default function Collection({ onBack, onGoToDecks }: Props) {
   const [sortBy, setSortBy] = useState<'rarity' | 'count' | 'name'>('rarity');
   const { openPreview } = useCardPreview();
 
-  const totalCount = cards.reduce((sum, c) => sum + c.count, 0);
+  const totalCount = useMemo(
+    () => cards.reduce((sum, c) => sum + c.count, 0),
+    [cards]
+  );
   const uniqueCount = cards.length;
 
   const rarities = useMemo(() => {

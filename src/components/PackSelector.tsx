@@ -8,6 +8,7 @@ import { matchPackName } from '../lib/search';
 interface Props {
   onSelect: (set: Set) => void;
   availableCodes: Set<string>;
+  hiddenCodes?: Set<string>;
 }
 
 type TypeFilter = 'all' | 'booster' | 'starter' | 'structure' | 'other';
@@ -20,7 +21,7 @@ function getPackType(name: string): TypeFilter {
   return 'other';
 }
 
-export default function PackSelector({ onSelect, availableCodes }: Props) {
+export default function PackSelector({ onSelect, availableCodes, hiddenCodes }: Props) {
   const [searchTerm, setSearchTerm] = useState('');
   const [eraFilter, setEraFilter] = useState('all');
   const [typeFilter, setTypeFilter] = useState<TypeFilter>('all');
@@ -29,6 +30,9 @@ export default function PackSelector({ onSelect, availableCodes }: Props) {
   const filteredSets = useMemo(() => {
     return (setsData as Set[])
       .filter(set => {
+        // 【新增】排除被隐藏的卡包
+        if (hiddenCodes?.has(set.code)) return false;
+
         const okSearch = matchPackName(set.name, set.code, searchTerm);
         const okEra =
           eraFilter === 'all' ||
@@ -47,7 +51,7 @@ export default function PackSelector({ onSelect, availableCodes }: Props) {
         if (!b.releaseDate) return -1;
         return b.releaseDate.localeCompare(a.releaseDate);
       });
-  }, [searchTerm, eraFilter, typeFilter, dataFilter, availableCodes]);
+  }, [searchTerm, eraFilter, typeFilter, dataFilter, availableCodes, hiddenCodes]);
 
   const dataCount = filteredSets.filter(s => availableCodes.has(s.code)).length;
 
@@ -64,17 +68,25 @@ export default function PackSelector({ onSelect, availableCodes }: Props) {
         <select value={eraFilter} onChange={e => setEraFilter(e.target.value)}>
           <option value="all">所有年代</option>
           {Object.entries(categories.byEra).map(([eraName, years]) => (
-            <option key={eraName} value={years[0]}>{eraName}</option>
+            <option key={eraName} value={years[0]}>
+              {eraName}
+            </option>
           ))}
         </select>
-        <select value={typeFilter} onChange={e => setTypeFilter(e.target.value as TypeFilter)}>
+        <select
+          value={typeFilter}
+          onChange={e => setTypeFilter(e.target.value as TypeFilter)}
+        >
           <option value="all">全部类型</option>
           <option value="booster">补充包</option>
           <option value="starter">起始卡组</option>
           <option value="structure">主题卡组</option>
           <option value="other">其他</option>
         </select>
-        <select value={dataFilter} onChange={e => setDataFilter(e.target.value as any)}>
+        <select
+          value={dataFilter}
+          onChange={e => setDataFilter(e.target.value as any)}
+        >
           <option value="all">全部数据</option>
           <option value="has">仅有数据</option>
           <option value="no">暂无数据</option>
@@ -102,7 +114,9 @@ export default function PackSelector({ onSelect, availableCodes }: Props) {
                 <div className="pack-cover-placeholder">无封面</div>
               )}
               <h3>{set.name}</h3>
-              <p>{set.cardCount} 张 • {set.releaseDate || '未知日期'}</p>
+              <p>
+                {set.cardCount} 张 • {set.releaseDate || '未知日期'}
+              </p>
               {!hasData && <span className="no-data-badge">暂无数据</span>}
             </div>
           );

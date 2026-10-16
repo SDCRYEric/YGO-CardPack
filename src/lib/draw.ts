@@ -186,20 +186,23 @@ export function getRemainingInBox(box: VirtualBox, cardsPerPack: number): number
   return Math.ceil(box.cards.length / cardsPerPack);
 }
 
-// 根据持久化状态恢复虚拟盒（需要卡片库）
-// src/lib/draw.ts（替换 restoreBoxFromState 函数）
-// 替换文件末尾的 restoreBoxFromState
+// ============= 从持久化状态恢复虚拟盒（修复版）=============
+
 export function restoreBoxFromState(
   state: BoxState,
   db: Record<string, CardInfo>
-): VirtualBox {
+): VirtualBox | null {
+  // 旧存档没有 rarities → 视为无效，让调用方重建
+  if (!state.rarities || state.rarities.length !== state.cardIds.length) {
+    return null;
+  }
+
   const cards: CardData[] = [];
   for (let i = 0; i < state.cardIds.length; i++) {
     const id = state.cardIds[i];
     const info = db[String(id)];
-    if (!info) continue;
-    const rarity = state.rarities?.[i] || '—';
-    cards.push({ ...info, rarity });
+    if (!info) continue; // 卡片库没有这张卡，跳过
+    cards.push({ ...info, rarity: state.rarities[i] });
   }
 
   return {
