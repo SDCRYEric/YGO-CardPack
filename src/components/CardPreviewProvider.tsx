@@ -12,6 +12,7 @@ import CardPreview from './CardPreview';
 
 interface ContextValue {
   openPreview: (card: CardData) => void;
+  onNavigateToPack?: (setCode: string) => void;
 }
 
 const CardPreviewContext = createContext<ContextValue | null>(null);
@@ -22,13 +23,21 @@ export function useCardPreview() {
   return ctx;
 }
 
-export function CardPreviewProvider({ children }: { children: ReactNode }) {
+interface ProviderProps {
+  children: ReactNode;
+  onNavigateToPack?: (setCode: string) => void;
+}
+
+export function CardPreviewProvider({ children, onNavigateToPack }: ProviderProps) {
   const [card, setCard] = useState<CardData | null>(null);
 
   const openPreview = useCallback((c: CardData) => setCard(c), []);
   const closePreview = useCallback(() => setCard(null), []);
 
-  const value = useMemo(() => ({ openPreview }), [openPreview]);
+  const value = useMemo(
+    () => ({ openPreview, onNavigateToPack }),
+    [openPreview, onNavigateToPack]
+  );
 
   return (
     <CardPreviewContext.Provider value={value}>

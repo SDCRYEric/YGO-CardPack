@@ -3,30 +3,35 @@ import { useState, useEffect } from 'react';
 import type { Set } from '../types';
 import {
   resolvePool,
+  buildVirtualBox,
+  restoreBoxFromState,
   type CardPool,
   type CardPoolIndex,
 } from '../lib/draw';
 import { loadCardsDb } from '../lib/cardsDb';
 import { getGeneration, getMasterRule } from '../data/categories';
 import { useCardPreview } from './CardPreviewProvider';
-import { getBoxState, clearBoxState, saveBoxState } from '../lib/boxes';
-import { buildVirtualBox, restoreBoxFromState } from '../lib/draw';
+import { getBoxState, clearBoxState } from '../lib/boxes';
 import { rarityCN } from '../lib/search';
-import CardImage from './CardImage';
 
 interface Props {
   set: Set;
   onBack: () => void;
   onOpenPack: (poolIndex: CardPoolIndex) => void;
+  backLabel?: string;
 }
 
-export default function PackDetail({ set, onBack, onOpenPack }: Props) {
+export default function PackDetail({ set, onBack, onOpenPack, backLabel }: Props) {
   const [pool, setPool] = useState<CardPool | null>(null);
   const [poolIndex, setPoolIndex] = useState<CardPoolIndex | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const { openPreview } = useCardPreview();
-  const [boxInfo, setBoxInfo] = useState<{ remaining: number; drawn: number; total: number } | null>(null);
+  const [boxInfo, setBoxInfo] = useState<{
+    remaining: number;
+    drawn: number;
+    total: number;
+  } | null>(null);
 
   useEffect(() => {
     setLoading(true);
@@ -85,7 +90,9 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
 
   return (
     <div className="pack-detail">
-      <button onClick={onBack} className="back-btn">← 返回卡包列表</button>
+      <button onClick={onBack} className="back-btn">
+        ← {backLabel || '返回卡包列表'}
+      </button>
 
       <div className="pack-header">
         {set.coverImage ? (
@@ -97,9 +104,18 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
         <div className="pack-info">
           <h1>{set.name}</h1>
           <div className="pack-meta">
-            <div><span className="label">卡包代码：</span><span>{set.code}</span></div>
-            <div><span className="label">发售年份：</span><span>{set.releaseDate || '未知'}</span></div>
-            <div><span className="label">卡片数量：</span><span>{set.cardCount} 张</span></div>
+            <div>
+              <span className="label">卡包代码：</span>
+              <span>{set.code}</span>
+            </div>
+            <div>
+              <span className="label">发售年份：</span>
+              <span>{set.releaseDate || '未知'}</span>
+            </div>
+            <div>
+              <span className="label">卡片数量：</span>
+              <span>{set.cardCount} 张</span>
+            </div>
             <div>
               <span className="label">所属世代：</span>
               <span className="highlight">{getGeneration(set.releaseDate)}</span>
@@ -123,7 +139,10 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
                     )}
                   </div>
                   <div className="box-info-actions">
-                    <button className="open-pack-btn" onClick={() => onOpenPack(poolIndex)}>
+                    <button
+                      className="open-pack-btn"
+                      onClick={() => onOpenPack(poolIndex)}
+                    >
                       {boxInfo.remaining === 0 ? '进入抽卡页' : '继续抽卡'}
                     </button>
                     {boxInfo.remaining === 0 && (
@@ -134,7 +153,10 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
                   </div>
                 </>
               ) : (
-                <button className="open-pack-btn" onClick={() => onOpenPack(poolIndex)}>
+                <button
+                  className="open-pack-btn"
+                  onClick={() => onOpenPack(poolIndex)}
+                >
                   打开这包（新建卡盒）
                 </button>
               )}
@@ -161,9 +183,21 @@ export default function PackDetail({ set, onBack, onOpenPack }: Props) {
                 onClick={() => openPreview(card)}
                 title={`${card.name} - 点击放大`}
               >
-                <CardImage card={card} />
+                <img
+                  src={card.image}
+                  alt={card.name}
+                  loading="lazy"
+                  onError={e => {
+                    const img = e.currentTarget;
+                    if (img.dataset.fb) return;
+                    img.dataset.fb = '1';
+                    img.src = `https://images.ygoprodeck.com/images/cards_small/${card.id}.jpg`;
+                  }}
+                />
                 <div className="mini-card-info">
-                  <div className="mini-card-name" title={card.name}>{card.name}</div>
+                  <div className="mini-card-name" title={card.name}>
+                    {card.name}
+                  </div>
                   {card.nameEn && card.nameEn !== card.name && (
                     <div className="mini-card-name-en" title={card.nameEn}>
                       {card.nameEn}

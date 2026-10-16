@@ -28,6 +28,8 @@ import { addCardToCollection } from './lib/collection';
 import { addHistoryEntry } from './lib/history';
 import type { Set } from './types';
 import { getBoxState, saveBoxState, clearBoxState } from './lib/boxes';
+import setsData from './data/sets-list.json';
+import { CardPreviewProvider } from './components/CardPreviewProvider';
 
 const packModules = import.meta.glob('./data/packs-cn/*.json');
 const availableCodes = new Set(
@@ -54,6 +56,7 @@ export default function App() {
   const [currentPool, setCurrentPool] = useState<CardPool | null>(null);
   const [virtualBox, setVirtualBox] = useState<VirtualBox | null>(null);
   const [lastDrawCount, setLastDrawCount] = useState(1);
+  const [previousView, setPreviousView] = useState<View | null>(null);
 
   const recordDraw = (result: CardData[]) => {
     if (!currentSet) return;
@@ -82,6 +85,23 @@ export default function App() {
         };
       }),
     });
+  };
+
+  const navigateToPack = (setCode: string) => {
+    const found = (setsData as Set[]).find(s => s.code === setCode);
+    if (!found) {
+      alert(`找不到代码为「${setCode}」的卡包`);
+      return;
+    }
+
+    // 【新增】记住当前页面，方便返回
+    setPreviousView(view);
+
+    setCurrentSet(found);
+    setCurrentPool(null);
+    setVirtualBox(null);
+    setCards([]);
+    setView({ name: 'detail' });
   };
 
   const handleSelect = (set: Set) => {
@@ -164,93 +184,127 @@ export default function App() {
     setView({ name: 'select' });
   };
 
+  const backFromDetail = () => {
+    // 如果有来源页面，回到那里
+    if (previousView) {
+      setView(previousView);
+      setPreviousView(null);
+      setCurrentSet(null);
+      setCurrentPool(null);
+      setVirtualBox(null);
+      setCards([]);
+    } else {
+      // 否则回到卡包列表
+      backToList();
+    }
+  };
+
+  const backLabel = (() => {
+    if (!previousView) return '返回卡包列表';
+    switch (previousView.name) {
+      case 'collection': return '返回卡库';
+      case 'card-search': return '返回卡牌搜索';
+      case 'history': return '返回历史';
+      case 'decks': return '返回卡组';
+      case 'deck-builder': return '返回卡组编辑器';
+      default: return '返回卡包列表';
+    }
+  })();
+
   const remainingPacks =
     virtualBox ? getRemainingInBox(virtualBox, packs[0].cardsPerPack) : 0;
   const isBoxEmpty = virtualBox ? virtualBox.cards.length === 0 : false;
 
   return (
-    <div className="app">
-      <h1>游戏王开包模拟器</h1>
+    <CardPreviewProvider onNavigateToPack={navigateToPack}>
+      <div className="app">
+        <h1>游戏王开包模拟器</h1>
 
-      {view.name === 'select' && (
-        <>
-          <div className="top-nav">
-            <button className="nav-btn" onClick={() => setView({ name: 'card-search' })}>
-              🔍 卡牌搜索
-            </button>
-            <button className="nav-btn" onClick={() => setView({ name: 'collection' })}>
-              📚 我的卡库
-            </button>
-            <button className="nav-btn" onClick={() => setView({ name: 'decks' })}>
-              🎴 我的卡组
-            </button>
-            <button className="nav-btn" onClick={() => setView({ name: 'history' })}>
-              📜 开包历史
-            </button>
-          </div>
-          <PackSelector onSelect={handleSelect} availableCodes={availableCodes} />
-        </>
-      )}
-
-      {view.name === 'detail' && currentSet && (
-        <PackDetail set={currentSet} onBack={backToList} onOpenPack={handleOpenPack} />
-      )}
-
-      {view.name === 'draw' && (
-        <>
-          {virtualBox && (
-            <div className="box-status">
-              <span>剩余 {remainingPacks} 包</span>
-              <span className="box-status-dot">·</span>
-              <span>已抽 {virtualBox.drawnCount} 张</span>
-              {isBoxEmpty && <span className="box-empty">卡盒已抽干</span>}
+        {view.name === 'select' && (
+          <>
+            <div className="top-nav">
+              <button className="nav-btn" onClick={() => setView({ name: 'card-search' })}>
+                🔍 卡牌搜索
+              </button>
+              <button className="nav-btn" onClick={() => setView({ name: 'collection' })}>
+                📚 我的卡库
+              </button>
+              <button className="nav-btn" onClick={() => setView({ name: 'decks' })}>
+                🎴 我的卡组
+              </button>
+              <button className="nav-btn" onClick={() => setView({ name: 'history' })}>
+                📜 开包历史
+              </button>
             </div>
-          )}
+            <PackSelector onSelect={handleSelect} availableCodes={availableCodes} />
+          </>
+        )}
 
-          <div className={`card-grid ${lastDrawCount === 10 ? 'compact' : ''}`}>
-            {cards.map((card, index) => (
-              <Card key={`${card.id}-${index}`} card={card} index={index} />
-            ))}
-          </div>
+        {view.name === 'detail' && currentSet && (
+          <PackDetail
+            set={currentSet}
+            onBack={backFromDetail}
+            onOpenPack={handleOpenPack}
+            backLabel={backLabel}
+          />
+        )}
 
-          <div className="actions">
-            <button onClick={handleDrawAgain} disabled={isBoxEmpty}>再开一包</button>
-            <button onClick={handleDrawTen} disabled={isBoxEmpty}>十连抽</button>
-            {isBoxEmpty && (
-              <button onClick={handleResetBox} className="reset-btn">重置卡盒</button>
+        {view.name === 'draw' && (
+          <>
+            {virtualBox && (
+              <div className="box-status">
+                <span>剩余 {remainingPacks} 包</span>
+                <span className="box-status-dot">·</span>
+                <span>已抽 {virtualBox.drawnCount} 张</span>
+                {isBoxEmpty && <span className="box-empty">卡盒已抽干</span>}
+              </div>
             )}
-            {currentSet && (
-              <button onClick={() => setView({ name: 'detail' })}>返回卡包详情</button>
-            )}
-            <button onClick={() => setView({ name: 'collection' })}>前往卡库</button>
-            <button onClick={backToList}>返回卡包列表</button>
-          </div>
-        </>
-      )}
 
-      {view.name === 'history' && <History onBack={() => setView({ name: 'select' })} />}
+            <div className={`card-grid ${lastDrawCount === 10 ? 'compact' : ''}`}>
+              {cards.map((card, index) => (
+                <Card key={`${card.id}-${index}`} card={card} index={index} />
+              ))}
+            </div>
 
-      {view.name === 'collection' && (
-        <Collection
-          onBack={() => setView({ name: 'select' })}
-          onGoToDecks={() => setView({ name: 'decks' })}
-        />
-      )}
+            <div className="actions">
+              <button onClick={handleDrawAgain} disabled={isBoxEmpty}>再开一包</button>
+              <button onClick={handleDrawTen} disabled={isBoxEmpty}>十连抽</button>
+              {isBoxEmpty && (
+                <button onClick={handleResetBox} className="reset-btn">重置卡盒</button>
+              )}
+              {currentSet && (
+                <button onClick={() => setView({ name: 'detail' })}>返回卡包详情</button>
+              )}
+              <button onClick={() => setView({ name: 'collection' })}>前往卡库</button>
+              <button onClick={backToList}>返回卡包列表</button>
+            </div>
+          </>
+        )}
 
-      {view.name === 'decks' && (
-        <DeckList
-          onBack={() => setView({ name: 'select' })}
-          onEditDeck={deckId => setView({ name: 'deck-builder', deckId })}
-        />
-      )}
+        {view.name === 'history' && <History onBack={() => setView({ name: 'select' })} />}
 
-      {view.name === 'deck-builder' && (
-        <DeckBuilder deckId={view.deckId} onBack={() => setView({ name: 'decks' })} />
-      )}
+        {view.name === 'collection' && (
+          <Collection
+            onBack={() => setView({ name: 'select' })}
+            onGoToDecks={() => setView({ name: 'decks' })}
+          />
+        )}
 
-      {view.name === 'card-search' && (
-        <CardSearch onBack={() => setView({ name: 'select' })} />
-      )}
-    </div>
+        {view.name === 'decks' && (
+          <DeckList
+            onBack={() => setView({ name: 'select' })}
+            onEditDeck={deckId => setView({ name: 'deck-builder', deckId })}
+          />
+        )}
+
+        {view.name === 'deck-builder' && (
+          <DeckBuilder deckId={view.deckId} onBack={() => setView({ name: 'decks' })} />
+        )}
+
+        {view.name === 'card-search' && (
+          <CardSearch onBack={() => setView({ name: 'select' })} />
+        )}
+      </div>
+    </CardPreviewProvider>
   );
 }

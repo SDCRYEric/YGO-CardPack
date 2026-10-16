@@ -1,19 +1,15 @@
 // src/components/CardPreview.tsx
 import { useEffect, useState } from 'react';
 import type { CardData } from '../lib/draw';
-import {
-  RACE_CN,
-  ATTRIBUTE_CN,
-  getCardGroupCN,
-  rarityCN,
-} from '../lib/search';
+import { RACE_CN, ATTRIBUTE_CN, getCardGroupCN, rarityCN } from '../lib/search';
+import { getCardSets, type CardSetEntry } from '../lib/cardSets';
+import { useCardPreview } from './CardPreviewProvider';
 
 interface Props {
   card: CardData | null;
   onClose: () => void;
 }
 
-// 安全渲染：desc 可能是 string，也可能是 { pdesc, desc } 对象（灵摆卡）
 function safeText(v: any): string {
   if (v === null || v === undefined) return '';
   if (typeof v === 'string') return v;
@@ -35,7 +31,12 @@ function safeText(v: any): string {
 
 export default function CardPreview({ card, onClose }: Props) {
   const [downloading, setDownloading] = useState(false);
+  const [sets, setSets] = useState<CardSetEntry[] | null>(null);
+  const [setsLoading, setSetsLoading] = useState(false);
 
+  const { onNavigateToPack } = useCardPreview();
+
+  // Esc 关闭 + 禁止背景滚动
   useEffect(() => {
     if (!card) return;
     const handleEsc = (e: KeyboardEvent) => {
@@ -48,6 +49,19 @@ export default function CardPreview({ card, onClose }: Props) {
       document.body.style.overflow = '';
     };
   }, [card, onClose]);
+
+  // 加载"可获取卡包"
+  useEffect(() => {
+    if (!card) {
+      setSets(null);
+      return;
+    }
+    setSetsLoading(true);
+    getCardSets(card.id)
+      .then(list => setSets(list))
+      .catch(() => setSets([]))
+      .finally(() => setSetsLoading(false));
+  }, [card]);
 
   if (!card) return null;
 
@@ -129,8 +143,40 @@ export default function CardPreview({ card, onClose }: Props) {
             )}
           </div>
 
-          {card.desc && (
-            <p className="preview-desc">{safeText(card.desc)}</p>
+          {card.desc && <p className="preview-desc">{safeText(card.desc)}</p>}
+
+          {(setsLoading || (sets && sets.length > 0)) && (
+            <div className="preview-sets">
+              <div className="preview-sets-label">
+                {setsLoading
+                  ? '正在查询可获取卡包...'
+                  : `可获取的卡包（${sets?.length || 0}）`}
+              </div>
+              {sets && sets.length > 0 && (
+                <div className="preview-sets-list">
+                  {sets.map((s, i) => (
+                    <button
+                      key={`${s.code}-${s.rarity}-${i}`}
+                      className="preview-set-item"
+                      onClick={() => {
+                        onClose();
+                        onNavigateToPack?.(s.code);
+                      }}
+                      title={`跳转到「${s.name}」`}
+                    >
+                      <span className="preview-set-code">{s.code}</span>
+                      <span className="preview-set-name" title={s.name}>
+                        {s.name}
+                      </span>
+                      <span className="preview-set-rarity">
+                        {rarityCN(s.rarity)}
+                      </span>
+                      <span className="preview-set-arrow">→</span>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
           )}
 
           <div className="preview-actions">
