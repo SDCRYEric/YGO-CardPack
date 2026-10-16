@@ -24,6 +24,7 @@ import DeckList from './components/DeckList';
 import DeckBuilder from './components/DeckBuilder';
 import CardSearch from './components/CardSearch';
 import UpdateChecker from './components/UpdateChecker';
+import Announcement from './components/Announcement';
 import './index.css';
 import { addCardToCollection } from './lib/collection';
 import { addHistoryEntry } from './lib/history';
@@ -71,8 +72,13 @@ export default function App() {
       setName: currentSet.name,
       cards: result.map(c => {
         const card = c as CardData & {
-          race?: string; attribute?: string; typeEn?: string;
-          atk?: number; def?: number; level?: number; linkval?: number;
+          race?: string;
+          attribute?: string;
+          typeEn?: string;
+          atk?: number;
+          def?: number;
+          level?: number;
+          linkval?: number;
         };
         return {
           id: card.id,
@@ -227,19 +233,32 @@ export default function App() {
         {view.name === 'select' && (
           <>
             <div className="top-nav">
-              <button className="nav-btn" onClick={() => setView({ name: 'card-search' })}>
+              <button
+                className="nav-btn"
+                onClick={() => setView({ name: 'card-search' })}
+              >
                 🔍 卡牌搜索
               </button>
-              <button className="nav-btn" onClick={() => setView({ name: 'collection' })}>
+              <button
+                className="nav-btn"
+                onClick={() => setView({ name: 'collection' })}
+              >
                 📚 我的卡库
               </button>
-              <button className="nav-btn" onClick={() => setView({ name: 'decks' })}>
+              <button
+                className="nav-btn"
+                onClick={() => setView({ name: 'decks' })}
+              >
                 🎴 我的卡组
               </button>
-              <button className="nav-btn" onClick={() => setView({ name: 'history' })}>
+              <button
+                className="nav-btn"
+                onClick={() => setView({ name: 'history' })}
+              >
                 📜 开包历史
               </button>
-              {/* 【新增】更新检查按钮 */}
+              {/* 【新增】公告按钮 */}
+              <Announcement autoOpenIfNew />
               <UpdateChecker />
             </div>
             <PackSelector
@@ -270,28 +289,42 @@ export default function App() {
               </div>
             )}
 
-            <div className={`card-grid ${lastDrawCount === 10 ? 'compact' : ''}`}>
+            <div
+              className={`card-grid ${lastDrawCount === 10 ? 'compact' : ''}`}
+            >
               {cards.map((card, index) => (
                 <Card key={`${card.id}-${index}`} card={card} index={index} />
               ))}
             </div>
 
             <div className="actions">
-              <button onClick={handleDrawAgain} disabled={isBoxEmpty}>再开一包</button>
-              <button onClick={handleDrawTen} disabled={isBoxEmpty}>十连抽</button>
+              <button onClick={handleDrawAgain} disabled={isBoxEmpty}>
+                再开一包
+              </button>
+              <button onClick={handleDrawTen} disabled={isBoxEmpty}>
+                十连抽
+              </button>
               {isBoxEmpty && (
-                <button onClick={handleResetBox} className="reset-btn">重置卡盒</button>
+                <button onClick={handleResetBox} className="reset-btn">
+                  重置卡盒
+                </button>
               )}
               {currentSet && (
-                <button onClick={() => setView({ name: 'detail' })}>返回卡包详情</button>
+                <button onClick={() => setView({ name: 'detail' })}>
+                  返回卡包详情
+                </button>
               )}
-              <button onClick={() => setView({ name: 'collection' })}>前往卡库</button>
+              <button onClick={() => setView({ name: 'collection' })}>
+                前往卡库
+              </button>
               <button onClick={backToList}>返回卡包列表</button>
             </div>
           </>
         )}
 
-        {view.name === 'history' && <History onBack={() => setView({ name: 'select' })} />}
+        {view.name === 'history' && (
+          <History onBack={() => setView({ name: 'select' })} />
+        )}
 
         {view.name === 'collection' && (
           <Collection
@@ -308,7 +341,10 @@ export default function App() {
         )}
 
         {view.name === 'deck-builder' && (
-          <DeckBuilder deckId={view.deckId} onBack={() => setView({ name: 'decks' })} />
+          <DeckBuilder
+            deckId={view.deckId}
+            onBack={() => setView({ name: 'decks' })}
+          />
         )}
 
         {view.name === 'card-search' && (
